@@ -1,0 +1,19 @@
+---
+title: Product Design for Personal Grooming
+author: Kaitlynn Gray
+date: 2023-09
+image: images/ # A url to image here.
+description: This is a description # Short description of the project to be shown on overview page.
+---
+
+## Problem Statement
+
+## Project Goals and Objectives
+
+## Process and Approach
+
+## Results
+
+## Impact and Reflection
+
+## Future Improvements

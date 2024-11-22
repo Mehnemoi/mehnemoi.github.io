@@ -1,0 +1,9 @@
+/* css styles */
+body {
+    background-color:rgb(255, 217, 0);
+}
+
+.title {
+    color: black;
+    font-size: 100px;
+}

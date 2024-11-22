@@ -1,0 +1,17 @@
+---
+title: Projects
+---
+
+## E80 Robot
+
+::::: {.columns}
+::: {.column}
+E80: Experimental Engineering is a sophomore engineering class at Harvey Mudd College.
+Check out the robot I built by following the link [here](HCD-skin-care/).
+:::
+::: {.column}
+![](HCD-skin-care/images)
+:::
+:::::
+
+## Project #2
