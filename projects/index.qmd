@@ -10,7 +10,7 @@ E80: Experimental Engineering is a sophomore engineering class at Harvey Mudd Co
 Check out the robot I built by following the link [here](HCD-skin-care/).
 :::
 ::: {.column}
-![](HCD-skin-care/images)
+![](HCD-skin-care/images/HCD-skin-care-KG/HCD-DP1-10.jpg/)
 :::
 :::::
 

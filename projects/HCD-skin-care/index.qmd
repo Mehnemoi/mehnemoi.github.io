@@ -2,18 +2,58 @@
 title: Product Design for Personal Grooming
 author: Kaitlynn Gray
 date: 2023-09
-image: images/ # A url to image here.
-description: This is a description # Short description of the project to be shown on overview page.
+image: images/HCD-skin-care-KG/ # A url to image here.
+description: Redesigning the Personal Grooming Experience # Short description of the project to be shown on overview page.
 ---
 
-## Problem Statement
+## Problem Statement, Goals, Objectives
 
-## Project Goals and Objectives
+## Empathize
+so this is what i did for empathizing - super cool
 
-## Process and Approach
+::: {#empathize layout-ncol=4}
 
-## Results
+![](images/HCD-skin-care-KG/HCDDP13.jpg){.lightbox}
 
-## Impact and Reflection
+![](images/HCD-skin-care-KG/HCDDP14.jpg){.lightbox}
 
-## Future Improvements
+![](images/HCD-skin-care-KG/HCDDP15.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP16.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP18.jpg){.lightbox}
+
+<!--
+![](images/HCD-skin-care-KG/HCDDP19.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP110.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP111.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP112.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP113.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP114.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP115.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP116.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP117.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP118.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP119.jpg){.lightbox}
+-->
+:::
+
+
+
+## Define
+
+## Ideate
+
+## Prototype
+
+## Test
