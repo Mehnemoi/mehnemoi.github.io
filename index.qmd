@@ -6,7 +6,7 @@ about:
   links:  # add links to your various social profiles
     - icon: linkedin
       text: LinkedIn
-      href: www.linkedin.com/in/kaitlynn-gray
+      href: https://www.linkedin.com/in/kaitlynn-gray
     - icon: github
       text: Github
       href: https://github.com/Mehnemoi
