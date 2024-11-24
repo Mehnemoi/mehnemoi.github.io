@@ -2,16 +2,23 @@
 title: Projects
 ---
 
-## E80 Robot
+## Product Design for Personal Grooming
 
 ::::: {.columns}
+
 ::: {.column}
-E80: Experimental Engineering is a sophomore engineering class at Harvey Mudd College.
-Check out the robot I built by following the link [here](HCD-skin-care/).
+
+E180: Human Centered Design is an engineering elective at Harvey Mudd College.
+Check out my product design project [here](HCD-skin-care/).
+
 :::
+
 ::: {.column}
-![](HCD-skin-care/images/HCD-skin-care-KG/HCD-DP1-10.jpg/)
+
+![](HCD-skin-care/images/HCD-skin-care-KG/HCDDP14.jpg)
+
 :::
+
 :::::
 
 ## Project #2
