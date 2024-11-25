@@ -12,8 +12,13 @@ about:
       href: https://github.com/Mehnemoi
 ---
 
-She's literally so cool. Short biography blurb
+## Computer Scientist - Designer - Researcher - Artist
 
+I'm a senior studying Computer Science major with a concentration in Art at Harvey Mudd College. I have a passion for visual design and academic research.
+
+Let's get to know each other!
+
+<!--
 <figure>
   <blockquote class="blockquote">
     <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
@@ -23,3 +28,4 @@ She's literally so cool. Short biography blurb
     Someone famous in <cite title="Source Title">Source Title</cite>
   </figcaption>
 </figure>
+-->
