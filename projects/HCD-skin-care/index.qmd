@@ -6,7 +6,7 @@ description: Redesigning the Personal Grooming Experience # Short description of
 ---
 
 ## Problem Statement, Goals, Objectives 
-For this assignment in my Human Centered Design class, my goal was to redesign the personal grooming experience for another person. We were encouraged to consider extreme perspectives such as those with dedicated time for personal grooming or those who rarely engaged with it. We were given about a week to complete this assignment and document our process in a small acordian-styled journal. Images of some of the pages are included below.
+For this assignment in my Human Centered Design class, my goal was to redesign the personal grooming experience for another person. We were encouraged to consider extreme perspectives such as those with dedicated time for personal grooming or those who rarely engaged with it. We were given about a week to complete this assignment and document our process in a small accordion-styled journal. Images of some of the pages are included below.
 
 ## Empathize
 My project began with empathizing with potential users. My class split into small teams to conduct live on-the-ground interviews in the Claremont Village in Claremont, which has over 10 spas, barbershops, hair salons, and other personal grooming services. Afterward, I conducted 5 interviews with 5 different individuals to understand their process of getting ready in the morning. For instance, what facial products do they use, if any? In what order did they complete tasks, and what tasks did they complete first? And, how would they describe their feelings about certain parts of these experiences?
@@ -27,9 +27,8 @@ From these interviews, I documented 3 surprising and interesting quotes that I w
 
 :::
 
-
 ## Define
-In my next step of the process, I used the insights I gained from my interviews to generate 3 needs:
+In the next step of the process, I used the insights I gained from my interviews to generate 3 needs:
 
 User # 1: A need to know how a skin care product will affect the skin before making an investment
 
@@ -37,29 +36,29 @@ User # 2: A need to restore calm in the morning to destress the morning commute 
 
 User # 3: A need for a collection of quick and nice hairstyles to do under a time constraint
 
-From these three needs I generated two point-of-views (POVs) to understand who I would be designing for, their needs, and insight behind those needs to help formulate my final product. 
+From these three needs, I generated two point-of-views (POVs) to understand who I would be designing for, their needs, and insight behind those needs to help formulate my final product. 
 
 ### POV #1: College Student
 
-[User] A 20-year old young woman in college who manages and cntributes to her household finances and cares deeply about the health of her skin.
+[User] A 20-year-old young woman in college who manages and contributes to her household finances and cares deeply about the health of her skin.
 
 [Needs] To understand and feel confident about how a skin-care product will affect her skin before making the financial investment to try a new skin-care product.
 
-[Insight] Finding the right skin care product requires immense trial and arror. Unlike makeup, skin care products don't have in store samples that produce immediate results. Thus, this is a potentially expensive process thta may produce undesireable results and/or lead to wasted funds that can be otherwise allocated to things like household expenses.
+[Insight] Finding the right skin care product requires immense trial and error. Unlike makeup, skincare products don't have in-store samples that produce immediate results. Thus, this is a potentially expensive process that may produce undesirable results and/or lead to wasted funds that can be otherwise allocated to things like household expenses.
 
 ### POV 2: Working Mother
 [User] A 50-year-old working mother whose morning routine ends once she arrives at work.
 
 [Needs] A way to maintain calm she establishes earlier during the commute portion of her routine.
 
-[Insight] Her morning routine spans a few hours from getting up to finally puting on lipstick at work. While she uses the Calm App to establish calm thoughout the routine, it is not an effective during the morning commuter portion as GPS interrupts it.
+[Insight] Her morning routine spans a few hours from getting up to finally putting on lipstick at work. While she uses the Calm App to establish calm throughout the routine, it is not effective during the morning commuter portion as GPS interrupts it.
 
 ## Ideate
 To prepare for the ideation step, I generated several "How Might We" questions for both users defined in the POVs above.
 
 ### POV #1: How Might We?
 
-How might we reduce the financial cost of tyring on + new skin care products?
+How might we reduce the financial cost of trying on new skincare products?
 
 How might we allow people to learn about a skin care product's effects before making a purchase?
 
@@ -78,11 +77,11 @@ How might we increase the effectiveness of the Calm App during the morning routi
 
 How might we make the morning commute portion of the routine more calm?
 
-How migt we integrate the Calm App with GPS functionality?
+How might we integrate the Calm App with GPS functionality?
 
 How might we make her care more relaxing?
 
-How might we develop an action a part of getting ready that introduces calm?
+How might we develop an action as part of getting ready that introduces calm?
 
 How might we develop a product that can substitute for the Calm App?
 
@@ -90,31 +89,31 @@ How might we integrate lasting calm across the morning?
 
 How might make planning for the day feel less overwhelming?
 
-From these questions I generated 100 ideas: 50 ideas for each idea using my own ideas and generated ideas from Chat GPT 3.5.
+From these questions, I generated 100 ideas: 50 ideas for each idea using my own ideas and generated ideas from Chat GPT 3.5.
 
 
 ### Product Sketch
 
 ## Prototype
 
-I generated a prototype for my POV #1 user. I designed a booklet that shared the price range of a skin-care product, a positive review, a review that suggets another product in the company line that may work better, an ingredients list with impacts on skin, suggested other products, before and after photos for each user showcased, and a large picture of the product on the front so people can easily match it to the product.
+I generated a prototype for my POV #1 user. I designed a booklet that shared the price range of a skin-care product, a positive review, a review that suggests another product in the company line that may work better, an ingredients list with impacts on the skin, suggested other products, before and after photos for each user showcased, and a large picture of the product on the front so people can easily match it to the product.
 
-For the second prototype I would have liked to test the GPS navigation with the meditation voice integration. Here I would have explored the "maximize calm" portion of my solution for POV #2. If I went with this prottype I wondered: How might we clearly differentiate between the guided meditation and instructions if they are using the same voice? Furthermore, how might we esure usrs are actively listeing to the navigation the entire time?
+For the second prototype, I would have liked to test the GPS navigation with the meditation voice integration. Here I would have explored the "maximize calm" portion of my solution for POV #2. If I went with this prototype I wondered: How might we clearly differentiate between the guided meditation and instructions if they are using the same voice? Furthermore, how might we ensure users are actively listening to the navigation the entire time?
 
 
 ## Test
-I tested my POV #1 prototype with 3 people, including the user I was designing for. Each tester is asked to imaging they are looking for a skin care product to buy and have the booklet for a product they may be interested in.
+I tested my POV #1 prototype with 3 people, including the user I was designing for. Each tester is asked to imagine they are looking for a skincare product to buy and have the booklet for a product they may be interested in.
 
 My user liked how specific the user views were. Additionally, she liked how with each key ingredient there was a description of why it was in the product and what it does. She thought it was easy to read.
 
 ## Solution
-With the insights gained from the previous stages in the design process, the solution to improve the personal grooming process for those who heavily rely on skin-care products, is to aid in streamiling this process. Specifically, improving the experience of finding skin-care products to reduce the financial and physical investment into these products.
+With the insights gained from the previous stages in the design process, the solution to improve the personal grooming process for those who heavily rely on skin-care products is to aid in streamlining this process. Specifically, improving the experience of finding skin-care products to reduce the financial and physical investment into these products.
 
 ## Impact
 
-User #1 says she felt pretty confident about purchasing the product because the booklet was transparent and honest. SHe also felt that consumers are worried about their product pruchases - they may go to extreme lengths to fugure out what a product will do, even if tehy have to brave negative consequences.
+User #1 says she felt pretty confident about purchasing the product because the booklet was transparent and honest. She also felt that consumers are worried about their product purchases - they may go to extreme lengths to figure out what a product will do, even if they have to brave negative consequences.
 
-She shared a negative experience she had with this trial-and-error process. Therefore, it was impactful to simply know what a product will do to her skin before risking her skin.
+She shared a negative experience she had with this trial-and-error process. Therefore, it was impactful to simply know what a product would do to her skin before risking her skin.
 
 ## Reflection
-If I had more time I have spent less of it worrying about making the project "perfect." I would have liked to formulate a better second POV as its relevant notes after the interview felt very rushed. I learned to let go of things I thought I needed. For example, I became focused on adding images to the point that I did not continue on the main parts of the project. I would have liekd to go back to the ideate steos for POV #2 because I felt the CHat-GPT odeas were more of idea starters than ideas themselves. Each idea it presented felt like the body of a "How Might We" question.
+If I had more time, I have spent less of it worrying about making the project "perfect." I would have liked to formulate a better second POV as its relevant notes after the interview felt very rushed. I learned to let go of things I thought I needed. For example, I became focused on adding images to the point that I did not continue on the main parts of the project. I would have liked to go back to the ideate steps for POV #2 because I felt the CHat-GPT ideas were more of idea starters than ideas themselves. Each idea it presented felt like the body of a "How Might We" question.
