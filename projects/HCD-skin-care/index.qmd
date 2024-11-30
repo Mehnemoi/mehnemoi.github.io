@@ -89,7 +89,7 @@ How might we integrate lasting calm across the morning?
 
 How might make planning for the day feel less overwhelming?
 
-From these questions, I generated 100 ideas: 50 ideas for each idea using my own ideas and generated ideas from Chat GPT 3.5.
+From these questions, I generated 100 ideas: 50 ideas for each idea using my own ideas and generated ideas from Chat-GPT 3.5.
 
 
 ### Product Sketch
@@ -116,4 +116,4 @@ User #1 says she felt pretty confident about purchasing the product because the 
 She shared a negative experience she had with this trial-and-error process. Therefore, it was impactful to simply know what a product would do to her skin before risking her skin.
 
 ## Reflection
-If I had more time, I have spent less of it worrying about making the project "perfect." I would have liked to formulate a better second POV as its relevant notes after the interview felt very rushed. I learned to let go of things I thought I needed. For example, I became focused on adding images to the point that I did not continue on the main parts of the project. I would have liked to go back to the ideate steps for POV #2 because I felt the CHat-GPT ideas were more of idea starters than ideas themselves. Each idea it presented felt like the body of a "How Might We" question.
+If I had more time, I have spent less of it worrying about making the project "perfect." I would have liked to formulate a better second POV as its relevant notes after the interview felt very rushed. I learned to let go of things I thought I needed. For example, I became focused on adding images to the point that I did not continue on the main parts of the project. I would have liked to go back to the ideate steps for POV #2 because I felt the Chat-GPT ideas were more of idea starters than ideas themselves. Each idea it presented felt like the body of a "How Might We" question.
