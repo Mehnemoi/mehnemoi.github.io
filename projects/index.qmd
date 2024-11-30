@@ -20,3 +20,45 @@ Check out my product design project [here](HCD-skin-care/).
 :::
 
 :::::
+
+
+## MUSE
+
+::::: {.columns}
+
+::: {.column}
+
+E180: Human Centered Design is an engineering elective at Harvey Mudd College.
+Check out my product design project [here](MUSE/).
+
+:::
+
+:::::
+
+
+## Gradescope Calendar
+
+::::: {.columns}
+
+::: {.column}
+
+E180: Human Centered Design is an engineering elective at Harvey Mudd College.
+Check out my product design project [here](gradescope-cal/).
+
+:::
+
+:::::
+
+
+## CACTI Lab Logo Design
+
+::::: {.columns}
+
+::: {.column}
+
+E180: Human Centered Design is an engineering elective at Harvey Mudd College.
+Check out my product design project [here](CACTI-logo/).
+
+:::
+
+:::::

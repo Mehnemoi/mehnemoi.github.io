@@ -15,6 +15,8 @@ From these interviews, I documented 3 surprising and interesting quotes that I w
 
 ::: {#empathize layout-ncol=4}
 
+![](images/HCD-skin-care-KG/HCDDP1012.jpg){.lightbox}
+
 ![](images/HCD-skin-care-KG/HCDDP13.jpg){.lightbox}
 
 ![](images/HCD-skin-care-KG/HCDDP14.jpg){.lightbox}
@@ -24,6 +26,8 @@ From these interviews, I documented 3 surprising and interesting quotes that I w
 ![](images/HCD-skin-care-KG/HCDDP16.jpg){.lightbox}
 
 ![](images/HCD-skin-care-KG/HCDDP18.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP119.jpg){.lightbox}
 
 :::
 
@@ -46,12 +50,46 @@ From these three needs, I generated two point-of-views (POVs) to understand who 
 
 [Insight] Finding the right skin care product requires immense trial and error. Unlike makeup, skincare products don't have in-store samples that produce immediate results. Thus, this is a potentially expensive process that may produce undesirable results and/or lead to wasted funds that can be otherwise allocated to things like household expenses.
 
-### POV 2: Working Mother
+### POV #2: Working Mother
 [User] A 50-year-old working mother whose morning routine ends once she arrives at work.
 
 [Needs] A way to maintain calm she establishes earlier during the commute portion of her routine.
 
 [Insight] Her morning routine spans a few hours from getting up to finally putting on lipstick at work. While she uses the Calm App to establish calm throughout the routine, it is not effective during the morning commuter portion as GPS interrupts it.
+
+::: {#define layout-ncol=4}
+
+![](images/HCD-skin-care-KG/HCDDP120.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP121.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP1211.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP1212.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP122.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP123.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP124.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP125.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP126A.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP126B.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP126C.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP126.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP127.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP128.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP129.jpg){.lightbox}
+
+:::
 
 ## Ideate
 To prepare for the ideation step, I generated several "How Might We" questions for both users defined in the POVs above.
@@ -91,8 +129,45 @@ How might make planning for the day feel less overwhelming?
 
 From these questions, I generated 100 ideas: 50 ideas for each idea using my own ideas and generated ideas from Chat-GPT 3.5.
 
+::: {#ideate layout-ncol=4}
+
+![](images/HCD-skin-care-KG/HCDDP130.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP131.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP132.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP133.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP1331.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP1332.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP134.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP135.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP136.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP137.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP138.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP139.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP1391.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP1392.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP140.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP141.jpg){.lightbox}
+
+:::
+
 
 ### Product Sketch
+![](images/HCD-skin-care-KG/HCDDP14243.jpg){.lightbox}
 
 ## Prototype
 
@@ -100,11 +175,43 @@ I generated a prototype for my POV #1 user. I designed a booklet that shared the
 
 For the second prototype, I would have liked to test the GPS navigation with the meditation voice integration. Here I would have explored the "maximize calm" portion of my solution for POV #2. If I went with this prototype I wondered: How might we clearly differentiate between the guided meditation and instructions if they are using the same voice? Furthermore, how might we ensure users are actively listening to the navigation the entire time?
 
+::: {#prototype layout-ncol=4}
+
+![](images/HCD-skin-care-KG/HCDDP144.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP145.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP146.jpg){.lightbox}
+
+:::
+
 
 ## Test
 I tested my POV #1 prototype with 3 people, including the user I was designing for. Each tester is asked to imagine they are looking for a skincare product to buy and have the booklet for a product they may be interested in.
 
 My user liked how specific the user views were. Additionally, she liked how with each key ingredient there was a description of why it was in the product and what it does. She thought it was easy to read.
+
+::: {#test layout-ncol=4}
+
+![](images/HCD-skin-care-KG/HCDDP147.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP148.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP149.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP150.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP151.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP152.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP1531.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP1532.jpg){.lightbox}
+
+
+:::
+
 
 ## Solution
 With the insights gained from the previous stages in the design process, the solution to improve the personal grooming process for those who heavily rely on skin-care products is to aid in streamlining this process. Specifically, improving the experience of finding skin-care products to reduce the financial and physical investment into these products.
@@ -117,3 +224,17 @@ She shared a negative experience she had with this trial-and-error process. Ther
 
 ## Reflection
 If I had more time, I have spent less of it worrying about making the project "perfect." I would have liked to formulate a better second POV as its relevant notes after the interview felt very rushed. I learned to let go of things I thought I needed. For example, I became focused on adding images to the point that I did not continue on the main parts of the project. I would have liked to go back to the ideate steps for POV #2 because I felt the Chat-GPT ideas were more of idea starters than ideas themselves. Each idea it presented felt like the body of a "How Might We" question.
+
+::: {#reflection layout-ncol=4}
+
+![](images/HCD-skin-care-KG/HCDDP154.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP155.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP156.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP157.jpg){.lightbox}
+
+![](images/HCD-skin-care-KG/HCDDP158.jpg){.lightbox}
+
+:::
