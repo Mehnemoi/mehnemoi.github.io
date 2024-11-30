@@ -1,0 +1,17 @@
+{
+  "about.qmd": {
+    "about.html": "380f55da"
+  },
+  "index.qmd": {
+    "index.html": "0955eef5"
+  },
+  "projects/HCD-skin-care/index.qmd": {
+    "index.html": "16bb07ed"
+  },
+  "projects/index.qmd": {
+    "index.html": "712a92c9"
+  },
+  "projects/project-2/index.qmd": {
+    "index.html": "15f97ef3"
+  }
+}
