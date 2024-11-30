@@ -7,8 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Kaitlynn Gray">
-<meta name="dcterms.date" content="2023-09-01">
-<meta name="description" content="This is a description">
+<meta name="description" content="Redesigning the Personal Grooming Experience">
 
 <title>Product Design for Personal Grooming – Kaitlynn’s Portfolio Website</title>
 <style>
@@ -41,7 +40,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-274c3d255ff4b40ad85bc0e900837b3c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-523b4dc3dad50da7e5c9dee1e7f3f290.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -99,10 +101,6 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../../projects/"> 
 <span class="menu-text">Projects</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../about.html"> 
-<span class="menu-text">About</span></a>
-  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -119,12 +117,24 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#problem-statement" id="toc-problem-statement" class="nav-link active" data-scroll-target="#problem-statement">Problem Statement</a></li>
-  <li><a href="#project-goals-and-objectives" id="toc-project-goals-and-objectives" class="nav-link" data-scroll-target="#project-goals-and-objectives">Project Goals and Objectives</a></li>
-  <li><a href="#process-and-approach" id="toc-process-and-approach" class="nav-link" data-scroll-target="#process-and-approach">Process and Approach</a></li>
-  <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a></li>
-  <li><a href="#impact-and-reflection" id="toc-impact-and-reflection" class="nav-link" data-scroll-target="#impact-and-reflection">Impact and Reflection</a></li>
-  <li><a href="#future-improvements" id="toc-future-improvements" class="nav-link" data-scroll-target="#future-improvements">Future Improvements</a></li>
+  <li><a href="#problem-statement-goals-objectives" id="toc-problem-statement-goals-objectives" class="nav-link active" data-scroll-target="#problem-statement-goals-objectives">Problem Statement, Goals, Objectives</a></li>
+  <li><a href="#empathize" id="toc-empathize" class="nav-link" data-scroll-target="#empathize">Empathize</a></li>
+  <li><a href="#define" id="toc-define" class="nav-link" data-scroll-target="#define">Define</a>
+  <ul class="collapse">
+  <li><a href="#pov-1-college-student" id="toc-pov-1-college-student" class="nav-link" data-scroll-target="#pov-1-college-student">POV #1: College Student</a></li>
+  <li><a href="#pov-2-working-mother" id="toc-pov-2-working-mother" class="nav-link" data-scroll-target="#pov-2-working-mother">POV 2: Working Mother</a></li>
+  </ul></li>
+  <li><a href="#ideate" id="toc-ideate" class="nav-link" data-scroll-target="#ideate">Ideate</a>
+  <ul class="collapse">
+  <li><a href="#pov-1-how-might-we" id="toc-pov-1-how-might-we" class="nav-link" data-scroll-target="#pov-1-how-might-we">POV #1: How Might We?</a></li>
+  <li><a href="#pov-2-how-might-we" id="toc-pov-2-how-might-we" class="nav-link" data-scroll-target="#pov-2-how-might-we">POV #2: How Might We?</a></li>
+  <li><a href="#product-sketch" id="toc-product-sketch" class="nav-link" data-scroll-target="#product-sketch">Product Sketch</a></li>
+  </ul></li>
+  <li><a href="#prototype" id="toc-prototype" class="nav-link" data-scroll-target="#prototype">Prototype</a></li>
+  <li><a href="#test" id="toc-test" class="nav-link" data-scroll-target="#test">Test</a></li>
+  <li><a href="#solution" id="toc-solution" class="nav-link" data-scroll-target="#solution">Solution</a></li>
+  <li><a href="#impact" id="toc-impact" class="nav-link" data-scroll-target="#impact">Impact</a></li>
+  <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">Reflection</a></li>
   </ul>
 </nav>
     </div>
@@ -138,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    This is a description
+    Redesigning the Personal Grooming Experience
   </div>
 </div>
 
@@ -152,12 +162,6 @@ ul.task-list li input[type="checkbox"] {
           </div>
   </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">September 1, 2023</p>
-    </div>
-  </div>
   
     
   </div>
@@ -167,23 +171,109 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="problem-statement" class="level2">
-<h2 class="anchored" data-anchor-id="problem-statement">Problem Statement</h2>
+<section id="problem-statement-goals-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="problem-statement-goals-objectives">Problem Statement, Goals, Objectives</h2>
+<p>For this assignment in my Human Centered Design class, my goal was to redesign the personal grooming experience for another person. We were encouraged to consider extreme perspectives such as those with dedicated time for personal grooming or those who rarely engaged with it. We were given about a week to complete this assignment and document our process in a small accordion-styled journal. Images of some of the pages are included below.</p>
 </section>
-<section id="project-goals-and-objectives" class="level2">
-<h2 class="anchored" data-anchor-id="project-goals-and-objectives">Project Goals and Objectives</h2>
+<section id="empathize" class="level2">
+<h2 class="anchored" data-anchor-id="empathize">Empathize</h2>
+<p>My project began with empathizing with potential users. My class split into small teams to conduct live on-the-ground interviews in the Claremont Village in Claremont, which has over 10 spas, barbershops, hair salons, and other personal grooming services. Afterward, I conducted 5 interviews with 5 different individuals to understand their process of getting ready in the morning. For instance, what facial products do they use, if any? In what order did they complete tasks, and what tasks did they complete first? And, how would they describe their feelings about certain parts of these experiences?</p>
+<p>From these interviews, I documented 3 surprising and interesting quotes that I would use to help define needs for and insights from my potential users.</p>
+<div>
+
+</div>
+<div id="empathize" class="quarto-layout-panel" data-layout-ncol="4">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
+<p><a href="images/HCD-skin-care-KG/HCDDP13.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/HCD-skin-care-KG/HCDDP13.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
+<p><a href="images/HCD-skin-care-KG/HCDDP14.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="images/HCD-skin-care-KG/HCDDP14.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
+<p><a href="images/HCD-skin-care-KG/HCDDP15.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="images/HCD-skin-care-KG/HCDDP15.jpg" class="img-fluid"></a></p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
+<p><a href="images/HCD-skin-care-KG/HCDDP16.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="images/HCD-skin-care-KG/HCDDP16.jpg" class="img-fluid"></a></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 25.0%;justify-content: center;">
+<p><a href="images/HCD-skin-care-KG/HCDDP18.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="images/HCD-skin-care-KG/HCDDP18.jpg" class="img-fluid"></a></p>
+</div>
+</div>
+</div>
 </section>
-<section id="process-and-approach" class="level2">
-<h2 class="anchored" data-anchor-id="process-and-approach">Process and Approach</h2>
+<section id="define" class="level2">
+<h2 class="anchored" data-anchor-id="define">Define</h2>
+<p>In the next step of the process, I used the insights I gained from my interviews to generate 3 needs:</p>
+<p>User # 1: A need to know how a skin care product will affect the skin before making an investment</p>
+<p>User # 2: A need to restore calm in the morning to destress the morning commute and view the day at a glance</p>
+<p>User # 3: A need for a collection of quick and nice hairstyles to do under a time constraint</p>
+<p>From these three needs, I generated two point-of-views (POVs) to understand who I would be designing for, their needs, and insight behind those needs to help formulate my final product.</p>
+<section id="pov-1-college-student" class="level3">
+<h3 class="anchored" data-anchor-id="pov-1-college-student">POV #1: College Student</h3>
+<p>[User] A 20-year-old young woman in college who manages and contributes to her household finances and cares deeply about the health of her skin.</p>
+<p>[Needs] To understand and feel confident about how a skin-care product will affect her skin before making the financial investment to try a new skin-care product.</p>
+<p>[Insight] Finding the right skin care product requires immense trial and error. Unlike makeup, skincare products don’t have in-store samples that produce immediate results. Thus, this is a potentially expensive process that may produce undesirable results and/or lead to wasted funds that can be otherwise allocated to things like household expenses.</p>
 </section>
-<section id="results" class="level2">
-<h2 class="anchored" data-anchor-id="results">Results</h2>
+<section id="pov-2-working-mother" class="level3">
+<h3 class="anchored" data-anchor-id="pov-2-working-mother">POV 2: Working Mother</h3>
+<p>[User] A 50-year-old working mother whose morning routine ends once she arrives at work.</p>
+<p>[Needs] A way to maintain calm she establishes earlier during the commute portion of her routine.</p>
+<p>[Insight] Her morning routine spans a few hours from getting up to finally putting on lipstick at work. While she uses the Calm App to establish calm throughout the routine, it is not effective during the morning commuter portion as GPS interrupts it.</p>
 </section>
-<section id="impact-and-reflection" class="level2">
-<h2 class="anchored" data-anchor-id="impact-and-reflection">Impact and Reflection</h2>
 </section>
-<section id="future-improvements" class="level2">
-<h2 class="anchored" data-anchor-id="future-improvements">Future Improvements</h2>
+<section id="ideate" class="level2">
+<h2 class="anchored" data-anchor-id="ideate">Ideate</h2>
+<p>To prepare for the ideation step, I generated several “How Might We” questions for both users defined in the POVs above.</p>
+<section id="pov-1-how-might-we" class="level3">
+<h3 class="anchored" data-anchor-id="pov-1-how-might-we">POV #1: How Might We?</h3>
+<p>How might we reduce the financial cost of trying on new skincare products?</p>
+<p>How might we allow people to learn about a skin care product’s effects before making a purchase?</p>
+<p>How might we train in-store associates to better help people in search of skin care products?</p>
+<p>How might we collect specific reviews of skin care products that are most relevant to users?</p>
+<p>How might we craft the skin care purchasing experience to produce more immediate results?</p>
+</section>
+<section id="pov-2-how-might-we" class="level3">
+<h3 class="anchored" data-anchor-id="pov-2-how-might-we">POV #2: How Might We?</h3>
+<p>How might we bring the calm established earlier in the morning to later in the day?</p>
+<p>How might we increase the effectiveness of the Calm App during the morning routine?</p>
+<p>How might we make the morning commute portion of the routine more calm?</p>
+<p>How might we integrate the Calm App with GPS functionality?</p>
+<p>How might we make her care more relaxing?</p>
+<p>How might we develop an action as part of getting ready that introduces calm?</p>
+<p>How might we develop a product that can substitute for the Calm App?</p>
+<p>How might we integrate lasting calm across the morning?</p>
+<p>How might make planning for the day feel less overwhelming?</p>
+<p>From these questions, I generated 100 ideas: 50 ideas for each idea using my own ideas and generated ideas from Chat-GPT 3.5.</p>
+</section>
+<section id="product-sketch" class="level3">
+<h3 class="anchored" data-anchor-id="product-sketch">Product Sketch</h3>
+</section>
+</section>
+<section id="prototype" class="level2">
+<h2 class="anchored" data-anchor-id="prototype">Prototype</h2>
+<p>I generated a prototype for my POV #1 user. I designed a booklet that shared the price range of a skin-care product, a positive review, a review that suggests another product in the company line that may work better, an ingredients list with impacts on the skin, suggested other products, before and after photos for each user showcased, and a large picture of the product on the front so people can easily match it to the product.</p>
+<p>For the second prototype, I would have liked to test the GPS navigation with the meditation voice integration. Here I would have explored the “maximize calm” portion of my solution for POV #2. If I went with this prototype I wondered: How might we clearly differentiate between the guided meditation and instructions if they are using the same voice? Furthermore, how might we ensure users are actively listening to the navigation the entire time?</p>
+</section>
+<section id="test" class="level2">
+<h2 class="anchored" data-anchor-id="test">Test</h2>
+<p>I tested my POV #1 prototype with 3 people, including the user I was designing for. Each tester is asked to imagine they are looking for a skincare product to buy and have the booklet for a product they may be interested in.</p>
+<p>My user liked how specific the user views were. Additionally, she liked how with each key ingredient there was a description of why it was in the product and what it does. She thought it was easy to read.</p>
+</section>
+<section id="solution" class="level2">
+<h2 class="anchored" data-anchor-id="solution">Solution</h2>
+<p>With the insights gained from the previous stages in the design process, the solution to improve the personal grooming process for those who heavily rely on skin-care products is to aid in streamlining this process. Specifically, improving the experience of finding skin-care products to reduce the financial and physical investment into these products.</p>
+</section>
+<section id="impact" class="level2">
+<h2 class="anchored" data-anchor-id="impact">Impact</h2>
+<p>User #1 says she felt pretty confident about purchasing the product because the booklet was transparent and honest. She also felt that consumers are worried about their product purchases - they may go to extreme lengths to figure out what a product will do, even if they have to brave negative consequences.</p>
+<p>She shared a negative experience she had with this trial-and-error process. Therefore, it was impactful to simply know what a product would do to her skin before risking her skin.</p>
+</section>
+<section id="reflection" class="level2">
+<h2 class="anchored" data-anchor-id="reflection">Reflection</h2>
+<p>If I had more time, I have spent less of it worrying about making the project “perfect.” I would have liked to formulate a better second POV as its relevant notes after the interview felt very rushed. I learned to let go of things I thought I needed. For example, I became focused on adding images to the point that I did not continue on the main parts of the project. I would have liked to go back to the ideate steps for POV #2 because I felt the Chat-GPT ideas were more of idea starters than ideas themselves. Each idea it presented felt like the body of a “How Might We” question.</p>
 
 
 </section>
@@ -607,6 +697,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
