@@ -37,3 +37,8 @@ body {
 .column {
     padding:5px;
 }
+
+.bigtext {
+    font-size: larger;
+    color:#F7982D;
+}
