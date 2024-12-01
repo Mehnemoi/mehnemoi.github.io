@@ -33,3 +33,7 @@ body {
 .navbar {
     background-color:var(--yellow-orange);
 }
+
+.column {
+    padding:5px;
+}
