@@ -42,3 +42,14 @@ body {
     font-size: larger;
     color:#F7982D;
 }
+
+.blockquote {
+    border-color: #F7982D;
+    background-color: #f7992d20;
+}
+
+.overview {
+    background-color: #F7982D;
+    padding: 20px;
+    border-radius: 7px;
+}

@@ -5,11 +5,35 @@ image: images/HCD-skin-care-KG/ # A url to image here.
 description: Redesigning the Personal Grooming Experience # Short description of the project to be shown on overview page.
 ---
 
+## Overview 
+::: {.bigtext}
+
+**Want to understand what I did in a nutshell?** 
+
+:::
+
+::: {.overview}
+
+**In this project I:**
+
+* Conducted **5 interviews**
+* Identified **3 needs** from 3 different users
+* Generated **2 Point-of-Views (POVs)** for two of these needs
+* Generated **100 ideas** for a potential product to address the two POVs (in collaboration with Chat-GPT 3.5)
+* **Sketched 3-5 products** to prototype
+* **Prototyped** one product with **3 different participants**, including the user I designed for
+* **Reflected** on this process, noting what I would like to change and improve.
+
+See the sections below to learn more about this process.
+
+
+:::
+
 ## Problem Statement, Goals, Objectives
 
 ::: {.bigtext} 
 
-For this assignment in my **Human Centered Design class**, my goal was to **redesign the personal grooming experience for another person.** *I designed a product for the user in POV #1 below.*
+For this assignment in my **Human Centered Design class**, my goal was to **redesign the personal grooming experience for another person.** I designed a product for the user in POV #1 below.
 
 :::
 
