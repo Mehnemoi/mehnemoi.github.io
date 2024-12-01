@@ -1,0 +1,20 @@
+---
+title: Gradescope Calendar
+author: Kaitlynn Gray
+image: images/ # A url to image here.
+description: Improving the assignment planning experience for students at the Claremont Colleges. # Short description of the project to be shown on overview page.
+---
+
+![](images/GCalCalendarDarkUI.png){.lightbox}
+
+![](images/GCalCalendarRegUI.png){.lightbox}
+
+![](images/GCalHomeUI.png){.lightbox}
+
+![](images/GCalInitial.png){.lightbox}
+
+![](images/GCalLoginUI.png){.lightbox}
+
+![](images/GCalWeeklyV1.png){.lightbox}
+
+![](images/GCalWeeklyV2.png){.lightbox}
