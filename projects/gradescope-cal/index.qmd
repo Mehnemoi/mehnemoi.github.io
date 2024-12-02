@@ -5,16 +5,73 @@ image: images/ # A url to image here.
 description: Improving the assignment planning experience for students at the Claremont Colleges. # Short description of the project to be shown on overview page.
 ---
 
-![](images/GCalCalendarDarkUI.png){.lightbox}
+## Overview 
+::: {.overview}
+**In this project I:**
 
-![](images/GCalCalendarRegUI.png){.lightbox}
+* **Designed the UI** for four pages
+    + Login page
+    + Monthly Overview page
+    + Weekly Assignments page
+    + Welcome page
+* **Programmed the Weekly Assignments page** using React, HTML, CSS, and Bootstrap
+* Gained experience working in a team where I had a **dedicated programmer + designer role**
+* Learned how to keep a **detailed documentation** of my work
+* **Demonstrated perseverance and tenacity** by pushing through the website development learning curve
 
-![](images/GCalHomeUI.png){.lightbox}
+See the sections below to learn more about this process.
 
-![](images/GCalInitial.png){.lightbox}
+:::
+
+## UI Design
+In this section you can see the UI designs I made for Gradescope Calendar. If you are familiar with Gradescope, you will notice the iconic Gradescope green used as a primary color throughout. I intentionally chose this color scheme to **create a strong visual tie to the Gradescope platform** for users. This visual tie would help communicate that Gradescope Calendar was to be used alongside Gradescope, rather than be separate from.
+
+
+### Login Page
 
 ![](images/GCalLoginUI.png){.lightbox}
 
+### Monthly Overview Page
+
+![](images/GCalCalendarRegUI.png){.lightbox}
+
+::::: {.columns}
+
+::: {.column}
+
+![](images/GCalCalendarDarkUI.png){.lightbox}
+
+:::
+
+::: {.column}
+
+![](images/GCalInitial.png){.lightbox}
+
+:::
+:::::
+
+### Weekly Assignments Page
+
+::::: {.columns}
+
+::: {.column}
+Here I showcase two iterations of the Weekly Assignments page. *The image below showcases the final version.*
+
+ Because of how frequently I edit and update my designs, I have started a **habit of keeping track of previous states**. This helps me to understand how far the design has come and also have an accessible record of past assets I can use in later iterations. Most importantly, this frees me from being afraid of making major changes to the design - **leading to more daring design decisions**.
+:::
+
+::: {.column}
 ![](images/GCalWeeklyV1.png){.lightbox}
+:::
+
+:::::
 
 ![](images/GCalWeeklyV2.png){.lightbox}
+
+### Welcome Page
+![](images/GCalHomeUI.png){.lightbox}
+
+
+
+
+

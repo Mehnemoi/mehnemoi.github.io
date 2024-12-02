@@ -71,7 +71,7 @@ From these interviews, I **documented 3 surprising and interesting quotes** that
 :::
 
 ## Define
-In the next step of the process, I used the insights I gained from my interviews to generate 3 needs from 3 different users:
+In the next step of the process, I used the insights I gained from my interviews to **generate 3 needs** from 3 different users:
 
 * **Need # 1:** A need to know how a skin care product will affect the skin before making an investment
 

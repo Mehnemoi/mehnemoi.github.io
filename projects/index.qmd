@@ -8,7 +8,8 @@ Below are projects I have completed that **showcase key skills in programming an
 
 
 
-## [Product Design for Personal Grooming](HCD-skin-care/)
+
+## Product Design for Personal Grooming
 
 ::::: {.columns}
 
@@ -18,11 +19,11 @@ Here I used the **human-centered design process** to redesign the personal groom
 
 **In this project I showcase** the process of:
 
-* empathizing
-* defining 
-* ideating
-* prototyping
-* testing
+* Empathizing
+* Defining 
+* Ideating
+* Prototyping
+* Testing
 
 :::
 
@@ -35,7 +36,7 @@ Here I used the **human-centered design process** to redesign the personal groom
 :::::
 
 
-## [MUSE](MUSE/)
+## MUSE
 
 ::::: {.columns}
 
@@ -47,8 +48,8 @@ In a team of 3 students, I **prototyped, tested, and designed a web application*
 
 * Wireframing in Figma
 * Understanding user flows
-* UI Design
-* Website Development using HTML, JavaScript, and CSS
+* UI design
+* Website development using HTML, JavaScript, and CSS
 
 :::
 
@@ -61,7 +62,7 @@ In a team of 3 students, I **prototyped, tested, and designed a web application*
 :::::
 
 
-## [Gradescope Calendar](gradescope-cal/)
+## Gradescope Calendar
 
 ::::: {.columns}
 
@@ -72,8 +73,8 @@ Here I collaborated with 2 computer science students to create a web application
 **In this project I showcase:**
 
 * Experience in website development
-* UI Design in Canva
-* Collaboration Skills 
+* UI design in Canva
+* Collaboration skills 
 
 :::
 
