@@ -39,6 +39,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-523b4dc3dad50da7e5c9dee1e7f3f290.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -113,6 +116,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#product-design-for-personal-grooming" id="toc-product-design-for-personal-grooming" class="nav-link active" data-scroll-target="#product-design-for-personal-grooming">Product Design for Personal Grooming</a></li>
+  <li><a href="#gradescope-calendar" id="toc-gradescope-calendar" class="nav-link" data-scroll-target="#gradescope-calendar">Gradescope Calendar</a></li>
   </ul>
 </nav>
     </div>
@@ -138,13 +142,63 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>Below are projects I have completed that <strong>showcase key skills in programming and design</strong>.</p>
+<p><em>Image next to each project description too small? Click on it to see an enlarged version!</em></p>
 <section id="product-design-for-personal-grooming" class="level2">
 <h2 class="anchored" data-anchor-id="product-design-for-personal-grooming">Product Design for Personal Grooming</h2>
 <div class="columns">
 <div class="column">
-<p>E180: Human Centered Design is an engineering elective at Harvey Mudd College. Check out my product design project <a href="HCD-skin-care/">here</a>.</p>
+<p>Here I used the <strong>human-centered design process</strong> to redesign the personal grooming process for a specific user. Click <a href="HCD-skin-care/">here</a> to learn about each stage of the process.</p>
+<p><strong>In this project I showcase</strong> the process of:</p>
+<ul>
+<li>Empathizing</li>
+<li>Defining</li>
+<li>Ideating</li>
+<li>Prototyping</li>
+<li>Testing</li>
+</ul>
 </div><div class="column">
-<p><img src="HCD-skin-care/images/HCD-skin-care-KG/HCDDP14.jpg" class="img-fluid"></p>
+<p><a href="HCD-skin-care/images/HCD-skin-care-KG/HCDDP14243.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="HCD-skin-care/images/HCD-skin-care-KG/HCDDP14243.jpg" class="img-fluid"></a></p>
+</div>
+</div>
+<!-- ## MUSE
+
+::::: {.columns}
+
+::: {.column}
+
+In a team of 3 students, I **prototyped, tested, and designed a web application** to help users understand sound through shifting and mixing colors. Learn more [here](MUSE/). 
+
+**In this project I showcase:**
+
+* Wireframing in Figma
+* Understanding user flows
+* UI design
+* Website development using HTML, JavaScript, and CSS
+
+:::
+
+::: {.column}
+
+![](MUSE/images/MUSEMainUI.png){.lightbox}
+
+:::
+
+::::: -->
+</section>
+<section id="gradescope-calendar" class="level2">
+<h2 class="anchored" data-anchor-id="gradescope-calendar">Gradescope Calendar</h2>
+<div class="columns">
+<div class="column">
+<p>Here, I collaborated with 2 computer science students to create a web application to help students plan for assignments. I <strong>designed the UI</strong> for the site and <strong>programmed the “Weekly Assignments” page.</strong> Learn more <a href="gradescope-cal/">here</a>.</p>
+<p><strong>In this project I showcase:</strong></p>
+<ul>
+<li>Experience in website development</li>
+<li>UI design in Canva</li>
+<li>Collaboration skills</li>
+</ul>
+</div><div class="column">
+<p><a href="gradescope-cal/images/GCalWeeklyV2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="gradescope-cal/images/GCalWeeklyV2.png" class="img-fluid"></a></p>
 </div>
 </div>
 
@@ -570,6 +624,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
