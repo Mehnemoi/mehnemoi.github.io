@@ -1,0 +1,87 @@
+---
+title: Projects
+---
+
+Below are projects I have completed that **showcase key skills in programming and design**. 
+
+*Image next to each project description too small? Click on it to see an enlarged version!*
+
+
+
+
+## Product Design for Personal Grooming
+
+::::: {.columns}
+
+::: {.column}
+
+Here I used the **human-centered design process** to redesign the personal grooming process for a specific user. Click [here](HCD-skin-care/) to learn about each stage of the process.
+
+**In this project I showcase** the process of:
+
+* Empathizing
+* Defining 
+* Ideating
+* Prototyping
+* Testing
+
+:::
+
+::: {.column}
+
+![](HCD-skin-care/images/HCD-skin-care-KG/HCDDP14243.jpg){.lightbox}
+
+:::
+
+:::::
+
+<!-- ## MUSE
+
+::::: {.columns}
+
+::: {.column}
+
+In a team of 3 students, I **prototyped, tested, and designed a web application** to help users understand sound through shifting and mixing colors. Learn more [here](MUSE/). 
+
+**In this project I showcase:**
+
+* Wireframing in Figma
+* Understanding user flows
+* UI design
+* Website development using HTML, JavaScript, and CSS
+
+:::
+
+::: {.column}
+
+![](MUSE/images/MUSEMainUI.png){.lightbox}
+
+:::
+
+::::: -->
+
+
+## Gradescope Calendar
+
+::::: {.columns}
+
+::: {.column}
+
+Here, I collaborated with 2 computer science students to create a web application to help students plan for assignments. I **designed the UI** for the site and **programmed the "Weekly Assignments" page.** Learn more [here](gradescope-cal/). 
+
+**In this project I showcase:**
+
+* Experience in website development
+* UI design in Canva
+* Collaboration skills 
+
+:::
+
+::: {.column}
+
+![](gradescope-cal/images/GCalWeeklyV2.png){.lightbox}
+
+:::
+
+:::::
+

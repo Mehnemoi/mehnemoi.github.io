@@ -1,0 +1,34 @@
+---
+title: Product Design for Personal Grooming
+author: Kaitlynn Gray
+image: images/ # A url to image here.
+description: Redesigning the Personal Grooming Experience # Short description of the project to be shown on overview page.
+---
+
+## Problem Statement, Goals, Objectives 
+https://www.canva.com/learn/questions-to-ask-when-designing-a-logo/
+
+## Questions
+What is your company name?
+What industry sector is it in?
+How would you describe your company and the products and services you offer?
+In five words or less, can you summarize(opens in a new tab or window) the feel of your company?
+What are the unique selling points, features and/or benefits of your products/service?
+Is there a story behind how your brand came about? Do tell…
+
+Answers:
+CACTI Lab
+Human Computer Interaction Research + Climate change and disability
+ Offering an exploration into how climate change impacts disabled people globally
+Fresh, Analytical, Creative, Curious,
+ We are looking at how and why climate change effects those with disability which is currently a new field
+ What is the story behind the name CACTI lab?
+
+
+ # preliminary research
+ Fresh, Analytical, Creative, Curious...
+
+ Book worm but cactus and research
+
+ So actually cacti mostly hosts birds and insects are the things that put the cacti at risk..... hmmmmm
+ 
