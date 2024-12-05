@@ -24,7 +24,7 @@ See the sections below to learn more about this process.
 :::
 
 ## Background
-Welcome! This is a project I collaborated on in Summer 2022. My team of 3 created a product called Gradescope Calendar to help with Gradescope assignment organization at the Claremont Colleges in California. Gradescope is a platform where teachers can assign homework, quizzes, and tests to students. Students can submit these through Gradescope and recieve detailed feedback. While Gradescope makes it easy to see when assigned items are due, these items are separated by classes. Thus, students must look at one class at a time in Gradescope and track assigned items using their own methods. Gradescope Calendar streamlines this process by presenting all assigned items for all classes on one screen. All though a similar project, Gradescope Scheduler, exists, our product promoted ease of use by not requiring users to use backend processes to access the information.
+Welcome! This is a summer research project I collaborated on in Summer 2022. My team of 3 created a product called Gradescope Calendar to help with Gradescope assignment organization at the Claremont Colleges in California. Gradescope is a platform where teachers can assign homework, quizzes, and tests to students. Students can submit these through Gradescope and recieve detailed feedback. While Gradescope makes it easy to see when assigned items are due, these items are separated by classes. Thus, students must look at one class at a time in Gradescope and track assigned items using their own methods. Gradescope Calendar streamlines this process by presenting all assigned items for all classes on one screen. All though a similar project, Gradescope Scheduler, exists, our product promoted ease of use by not requiring users to use backend processes to access the information.
 
 ![See the research poster I designed for the team to learn more about the project!](images/GCalResearchPoster.png){.lightbox}
 
@@ -44,7 +44,7 @@ I designed the UI for the site, but my main objective was to implement the Weekl
 ::::: {.columns}
 
 ::: {.column}
-In this section you can see the UI designs I made for Gradescope Calendar. If you are familiar with Gradescope, you will notice the iconic Gradescope green used as a primary color throughout. I intentionally chose this color scheme to **create a strong visual tie to the Gradescope platform** for users. This visual tie would help communicate that Gradescope Calendar was to be used alongside Gradescope, rather than be separate from.
+In this section you can see the UI designs I made for Gradescope Calendar using Canva. If you are familiar with Gradescope, you will notice the iconic Gradescope green used as a primary color throughout. I intentionally chose this color scheme to **create a strong visual tie to the Gradescope platform** for users. This visual tie would help communicate that Gradescope Calendar was to be used alongside Gradescope, rather than be separate from.
 :::
 
 ::: {.column}
@@ -111,7 +111,7 @@ This page did not end up being used, but would have served as the "face" of Grad
 ### Documentation
 Throughout the process I kept a detailed documentation of my work and journey as an emerging web developer. In this document I included screenshots of previous states, areas of challenge and triumph, and resources I used for help. 
 
-::: {#empathize layout-ncol=3}
+::: {#documentation layout-ncol=3}
 
 ![Example of detailed written documentation](images/GCalDocsDocumentation.png){.lightbox}
 
@@ -122,13 +122,82 @@ Throughout the process I kept a detailed documentation of my work and journey as
 :::
 
 ### The Learning Process
+
+#### Web Development Crash Course
 At the beginning of this summer research project, I had minimal web development experience. I knew how to make basic HTML elements like divs and buttons, and how to navigate to different pages. Beyond that, not much.
 
 Luckily, my research advisor set us up for success. My first assignment was to create a web app using Flask.
 
-My Flask app began as a single page with a table holding information about characters from Sailor Moon, my favorite series. (picture). It then evolved to have multiple pages of content. I learned how to make API calls to add a blah blah blah
+My Flask app began as a single page with a table holding information about characters from Sailor Moon, my favorite series. (picture). It then evolved to have multiple pages of content where users could. Throughout this process I learned how to:
 
-### Programming Gradescope Calendar
+* create a button that changed another element
+* use scripting to
+    + change the title of a page
+    + control the CSS properties using a button
+    + reverse an inputed string and output the result on the screen
+* call actions based on what is typed into a field
+* call APIs using fetch
+* create a dynamically resizing page
+
+<!-- All within 9 days! Learning how to call APIs took the longest amount of time. -->
+
+The images and captions below demonstrate this process:
+
+::: {#webdev layout-ncol=3}
+
+![The beginning state of my wesbite. Just a table with characters from Sailor Moon and their superhero name.](images/WebDevLearning1.png){.lightbox}
+
+![First major CSS update of my wesbite! Added more content to my table.](images/WebDevLearning2.png){.lightbox}
+
+![Expanded the site to have multiple pages.](images/WebDevLearning3.png){.lightbox}
+
+![Added more pages to my site](images/WebDevLearning4.png){.lightbox}
+
+![Added even more pages to my site and added a stary background.](images/WebDevLearning5.png){.lightbox}
+
+![Created widget where users can input image size dimensions and recieve a link to a cat picture with those dimensions from a cat image API.](images/WebDevLinkEdit.png){.lightbox}
+
+![Created another widget where users can input a color and have the background change to match.](images/WebDevColors1.png){.lightbox}
+
+![Learning how to add and create function checkboxes and radio buttons.](images/WebDevCheckBox.png){.lightbox}
+
+![Major CSS update to the site, leaning into the space and science theme. Creating a dynamicaly responsive homepage](images/WebDevLearning6.png){.lightbox}
+
+:::
+![Successfully implemented Anime Quotes API!](images/WebDevLearning7.png){.lightbox}
+
+
+
+#### Putting it all together
+To test my newly learned skils, I wanted to create a page that can:
+
+* take in information
+* use text boxes 
+* display something recieved from an API
+
+See the images and captions below:
+
+::::: {.columns}
+
+::: {.column}
+
+![First I created an initial form to take in formation. Implemented a check box.](images/WebDevLearning9.png){.lightbox}
+
+:::
+
+::: {.column}
+
+![Changed what information I would request from the user. Updated the UI to bring back the space element.](images/WebDevLearning10.png){.lightbox}
+
+![Implemented dynamic resizing.](images/WebDevLearning11.png){.lightbox}
+
+:::
+:::::
+
+![Final version of the Welcome page with a successful implementation of a random quotes API!](images/WebDevLearning8.png){.lightbox}
+
+These skills were instrumental in my developlement of the Weekly Assignments page.
+
 
 
 

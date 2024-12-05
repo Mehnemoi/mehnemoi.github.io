@@ -35,8 +35,7 @@ Here I used the **human-centered design process** to redesign the personal groom
 
 :::::
 
-
-## MUSE
+<!-- ## MUSE
 
 ::::: {.columns}
 
@@ -59,7 +58,7 @@ In a team of 3 students, I **prototyped, tested, and designed a web application*
 
 :::
 
-:::::
+::::: -->
 
 
 ## Gradescope Calendar
@@ -68,7 +67,7 @@ In a team of 3 students, I **prototyped, tested, and designed a web application*
 
 ::: {.column}
 
-Here I collaborated with 2 computer science students to create a web application to help students plan for assignments. I **designed the UI** for the site and **programmed the "Weekly Assignments" page.** Learn more [here](gradescope-cal/). 
+Here, I collaborated with 2 computer science students to create a web application to help students plan for assignments. I **designed the UI** for the site and **programmed the "Weekly Assignments" page.** Learn more [here](gradescope-cal/). 
 
 **In this project I showcase:**
 
