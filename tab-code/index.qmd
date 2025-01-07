@@ -1,0 +1,131 @@
+::: {.tab-body}
+
+::::: {.columns}
+
+:::{.column .left-col}
+
+::: {.big-text}
+
+Code
+
+:::
+
+::: {.descriptor-text}
+I'm a **Computer Science** major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).
+:::
+
+:::
+
+:::{.column  .right-col}
+
+::: {proj-right}
+
+<!-- start of project container -->
+
+::: {.project-container}
+
+::: {.proj-image .code}
+
+hey
+
+:::
+
+::: {.proj-title}
+
+research
+
+:::
+
+::: {.proj-description}
+
+Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container}
+
+::: {.proj-image .code}
+
+hey
+
+:::
+
+::: {.proj-title}
+
+research
+
+:::
+
+::: {.proj-description}
+
+Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container}
+
+::: {.proj-image .code}
+
+hey
+
+:::
+
+::: {.proj-title}
+
+research
+
+:::
+
+::: {.proj-description}
+
+Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container}
+
+::: {.proj-image .code}
+
+hey
+
+:::
+
+::: {.proj-title}
+
+research
+
+:::
+
+::: {.proj-description}
+
+Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+
+:::
+
+:::
+<!-- end of project container -->
+
+:::
+
+:::
+
+
+
+:::::
+
+:::

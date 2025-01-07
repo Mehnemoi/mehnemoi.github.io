@@ -2,15 +2,32 @@
 
 // Import font
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
-$white:  #ffffff !default;
-$black:  #000000 !default;
 
-$link-color: $black;
+// colors
+$white:  #ffffff !default;
+$gray: rgb(128, 128, 128);
+$black:  #000000 !default;
+$yellow: rgb(255, 187, 0);
+$code-blue: #38B6FF;
+$design-green: #7ED957;
+$research-red: #FF914D;
+
+//colors translucent
+$white-t:  rgba(255, 255, 255, 0.45);
+$black-t:  rgba(0, 0, 0, 0.45);
+$yellow-t: rgba(255, 187, 0, 0.45);
+$code-blue-t: rgba(56, 182, 255, 0.45);
+$design-green-t: rgba(126, 217, 87, 0.45);
+$research-red-t: rgba(255, 145, 77, 0.45);
+
+//active link
+$link-color: $white;
+
 $body-color: $black;
 
 $sidebar-bg: $white;
 
-$border-color: #000000;
+$border-color: $black;
 
 /* width */
 ::-webkit-scrollbar {
@@ -25,16 +42,16 @@ $border-color: #000000;
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: black; 
+    background: $black; 
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: gray; 
+    background: $gray; 
   }
 
 .home {
-    margin-top: -40px;
+    //margin-top: -40px;
     height: 450px;
 }
 
@@ -50,16 +67,39 @@ a {
     background-color: $black;
 }
 
+.sidebar-item-container {
+    padding: 3px;
+    width:  100%;
+    margin-bottom: 15px;
+
+    .menu-text{
+        color:$black;
+    }
+
+}
+
+.sidebar-item-container:hover {
+    background-color: $black;
+
+    .menu-text{
+        color:$white;
+    }
+    
+
+}
+
+
 img {
     border-radius: 50%;
-    width: 20vw;
+    width: 15vw;
 }
 
 .left-col-home {
     padding-top: 20px;
+    padding-right: 20px;
     height: 100%;
     overflow-y:scroll;
-    width: 40%;
+    max-width: 40%;
     border-right-style: solid;
     border-color: black;
     border-right-width: 1px;
@@ -67,6 +107,7 @@ img {
 
 
 .right-col-home {
+    min-width: 60%;
     border-style: solid;
     border-color: black;
     border-left-width: 0px;
@@ -101,7 +142,7 @@ img {
     }
 
     a:hover {
-        background-color: gray;
+        background-color: $gray;
     }
 }
 
@@ -123,17 +164,28 @@ img {
     flex-direction: row;
     overflow-x: scroll;
     height: 100%;
-    padding-top: 72.5px;
+    padding-top: 50px;
 }
 
 .page-container {
     min-width: 185px;
     margin-right: 15px;
     float:left;
+    padding: 20px 0px;
 }
 
-.page-container:hover{
-    background-color: rgb(255, 187, 0);
+.p-c-code:hover{
+    background-color: $code-blue;
+    width: 300px;
+}
+
+.p-c-design:hover{
+    background-color: $design-green;
+    width: 300px;
+}
+
+.p-c-research:hover{
+    background-color: $research-red;
     width: 300px;
 }
 
@@ -145,7 +197,7 @@ img {
 }
 .page-image {
     background-color: rgba(252, 234, 40, 0.461);
-    height: 250px;
+    height: 299px;
 }
 
 .page-description {
@@ -154,4 +206,78 @@ img {
     padding-top: 5px;
     width: 67%;
     line-height: 1;
+}
+
+.code {
+    background-color: $code-blue-t;
+}
+
+.design {
+    background-color: $design-green-t;
+}
+
+.research {
+    background-color: $research-red-t;
+}
+
+// main project pages
+
+.tab-body {
+    
+}
+
+.descriptor-text {
+    margin-top: 4px;
+    font-size: 12px;
+    width: 100%;
+}
+
+.left-col {
+    max-width: 27%;
+}
+
+.right-col {
+    height: 450px;
+    min-width: 69%;
+    margin-left: 4%;
+    border-right-width:1px;
+    border-right-style:solid;
+    border-right-color:$black;
+    overflow-y: scroll;
+}
+
+.proj-right{
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    height: 100%;
+    padding-top: 50px;
+    overflow-y: scroll;
+}
+
+.project-container {
+    padding-bottom: 25px;
+    width: 170px;
+    float:left;
+    margin-right:15px;
+    margin-bottom: 15px;
+
+}
+
+.project-container:hover {
+    background-color: $code-blue;
+}
+
+.proj-image {
+    height: 200px;
+}
+
+.proj-title {
+    font-size: 12.6px;
+    margin-top: 12px;
+    margin-bottom: -15px;
+}
+
+.proj-description {
+    font-size: 7.8px;
 }

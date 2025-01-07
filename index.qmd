@@ -62,54 +62,7 @@ and this
 
 ::: {.home-right-content}
 
-::: {.page-container}
-
-
-::: {.page-title}
-
-research
-
-:::
-
-::: {.page-image}
-
-image
-
-:::
-
-::: {.page-description}
-
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
-
-:::
-
-:::
-
-::: {.page-container}
-
-
-::: {.page-title}
-
-design
-
-:::
-
-::: {.page-image}
-
-image
-
-:::
-
-::: {.page-description}
-
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
-
-:::
-
-:::
-
-
-::: {.page-container}
+::: {.page-container .p-c-code}
 
 
 ::: {.page-title}
@@ -118,7 +71,54 @@ code
 
 :::
 
-::: {.page-image}
+::: {.page-image .code}
+
+image
+
+:::
+
+::: {.page-description}
+
+Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+
+:::
+
+:::
+
+::: {.page-container .p-c-design}
+
+
+::: {.page-title}
+
+design
+
+:::
+
+::: {.page-image .design}
+
+image
+
+:::
+
+::: {.page-description}
+
+Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+
+:::
+
+:::
+
+
+::: {.page-container .p-c-research}
+
+
+::: {.page-title}
+
+research
+
+:::
+
+::: {.page-image .research}
 
 image
 
