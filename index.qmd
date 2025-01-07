@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Kaitlynn Gray"
 image: images/headshot-zoomed.JPEG # replace with the link to your headshot
 about:
@@ -10,22 +10,60 @@ about:
     - icon: github
       text: Github
       href: https://github.com/Mehnemoi
----
+--- -->
 
-## Computer Scientist - Designer - Researcher - Artist
+::: {.home}
 
-I'm a senior studying Computer Science major with a concentration in Art at Harvey Mudd College. I have a passion for visual design and academic research.
+::::: {.columns}
 
-Let's get to know each other!
+::: {.column .left-col-home}
 
-<!--
-<figure>
-  <blockquote class="blockquote">
-    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-  
-  </blockquote>
-  <figcaption class="blockquote-footer">
-    Someone famous in <cite title="Source Title">Source Title</cite>
-  </figcaption>
-</figure>
--->
+::: {.circle-image}
+![](images/headshot-zoomed.JPEG)
+:::
+
+::: {.medium-text}
+Hi! I'm
+:::
+
+::: {.big-text}
+Kaitlynn Gray
+:::
+
+::: {.links}
+
+[GitHub](https://github.com/Mehnemoi) 
+[LinkedIn](https://www.linkedin.com/in/kaitlynn-gray) 
+[Email](HCD-skin-care/) 
+
+:::
+
+::: {.about-me}
+I'm a **Computer Science** major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).
+:::
+
+::: {.asides}
+Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+:::
+
+::: {.about-me}
+basically, i'm super cool and do a bunch of super cool stuff
+
+like this
+
+and this
+
+and this
+:::
+
+:::
+
+::: {.column .right-col-home}
+
+totally yes
+
+:::
+
+:::::
+
+:::

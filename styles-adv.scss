@@ -1,0 +1,100 @@
+/*-- scss:defaults --*/
+
+// Import font
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+$white:  #ffffff !default;
+$black:  #000000 !default;
+
+$link-color: $black;
+$body-color: $black;
+
+$sidebar-bg: $white;
+
+$border-color: #000000;
+
+.home {
+    margin-top: -40px;
+    background-color: red;
+    height: 500px;
+}
+
+// changing font color of footer
+footer {
+    p {
+        color: $black;
+    }
+} 
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+  }
+
+
+a {
+    background-color: $black;
+}
+
+img {
+    border-radius: 50%;
+    width: 20vw;
+}
+
+.left-col-home {
+    padding-top: 20px;
+    height: 100%;
+    background-color: purple;
+    overflow-y:scroll;
+}
+
+
+.right-col-home {
+    border-left-style: solid;
+    border-left-color: black;
+    border-left-width: 1px;
+}
+
+.medium-text {
+    font-size: 17px;
+    margin-bottom: -15px;
+}
+.big-text {
+    font-size: 52px;
+    line-height: 0.85;
+    padding-bottom: 10px;
+    margin-left: -3.7px;
+    max-width: 300px;
+}
+
+.links {
+    display: inline;
+
+    a {
+        background-color: black;
+        color: white;
+        text-decoration: none;
+        font-size: 12.8px;
+        padding: 10px 5%;
+        margin-right: -3px;
+    }
+
+    a:hover {
+        background-color: gray;
+    }
+}
+
+.about-me {
+    margin-top: 40px;
+    font-size: 12px;
+    width: 60%;
+}
+
+.asides {
+    float:right;
+    text-align: right;
+    font-size: 7.8px;
+    width: 30%;
+}
