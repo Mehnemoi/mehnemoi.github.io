@@ -60,7 +60,81 @@ and this
 
 ::: {.column .right-col-home}
 
-totally yes
+::: {.home-right-content}
+
+::: {.page-container}
+
+
+::: {.page-title}
+
+research
+
+:::
+
+::: {.page-image}
+
+image
+
+:::
+
+::: {.page-description}
+
+Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+
+:::
+
+:::
+
+::: {.page-container}
+
+
+::: {.page-title}
+
+design
+
+:::
+
+::: {.page-image}
+
+image
+
+:::
+
+::: {.page-description}
+
+Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+
+:::
+
+:::
+
+
+::: {.page-container}
+
+
+::: {.page-title}
+
+code
+
+:::
+
+::: {.page-image}
+
+image
+
+:::
+
+::: {.page-description}
+
+Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+
+:::
+
+:::
+
+
+
+:::
 
 :::
 

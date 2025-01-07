@@ -1048,25 +1048,43 @@ $black:  #000000 !default;
 $link-color: $black;
 $body-color: $black;
 
-
 $sidebar-bg: $white;
 
 $border-color: #000000;
 
-// chnaging font color of footer
+/* width */
+::-webkit-scrollbar {
+    width: 15px;
+    height: 15px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+  
+   \\
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: black; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: gray; 
+  }
+
+.home {
+    margin-top: -40px;
+    height: 450px;
+}
+
+// changing font color of footer
 footer {
     p {
         color: $black;
     }
 } 
-
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    color: white;
-  }
 
 
 a {
@@ -1079,10 +1097,11 @@ img {
 }
 
 .left-col-home {
-    background-color: purple;
-    overf
+    padding-top: 20px;
+    height: 100%;
+    overflow-y:scroll;
+    width: 40%;
 }
-
 
 
 .right-col-home {
@@ -1133,6 +1152,38 @@ img {
     width: 30%;
 }
 
+.home-right-content {
+    display: flex;
+    flex-direction: row;
+    overflow-x: scroll;
+    height: 100%;
+    padding-top: 72.5px;
+}
+
+.page-container {
+    min-width: 185px;
+    margin-right: 20px;
+    float:left;
+}
+
+.page-title {
+    font-size: 12.6px;
+    padding-left:10px;
+    margin-bottom: -11px;
+
+}
+.page-image {
+    background-color: rgba(252, 234, 40, 0.461);
+    height: 200px;
+}
+
+.page-description {
+    font-size: 7.8px;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 67%;
+    line-height: 1;
+}
 
 // Heading font size customization
 $h1-font-size: 2rem !default;
