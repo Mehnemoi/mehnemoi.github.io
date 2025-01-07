@@ -176,17 +176,15 @@ img {
 
 .p-c-code:hover{
     background-color: $code-blue;
-    width: 300px;
 }
 
 .p-c-design:hover{
     background-color: $design-green;
-    width: 300px;
 }
 
 .p-c-research:hover{
     background-color: $research-red;
-    width: 300px;
+    //width: 300px;
 }
 
 .page-title {
@@ -222,9 +220,9 @@ img {
 
 // main project pages
 
-.tab-body {
+// .tab-body {
     
-}
+// }
 
 .descriptor-text {
     margin-top: 4px;
@@ -265,7 +263,7 @@ img {
 }
 
 .project-container:hover {
-    background-color: $code-blue;
+    //background-color: $code-blue;
 }
 
 .proj-image {

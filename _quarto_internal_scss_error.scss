@@ -1131,7 +1131,8 @@ a {
 
 img {
     border-radius: 50%;
-    width: 15vw;
+    width: 185px;//15vw;
+    rotat
 }
 
 .left-col-home {
@@ -1139,7 +1140,7 @@ img {
     padding-right: 20px;
     height: 100%;
     overflow-y:scroll;
-    width: 40%;
+    max-width: 40%;
     border-right-style: solid;
     border-color: black;
     border-right-width: 1px;
@@ -1147,6 +1148,7 @@ img {
 
 
 .right-col-home {
+    min-width: 60%;
     border-style: solid;
     border-color: black;
     border-left-width: 0px;
@@ -1261,9 +1263,9 @@ img {
 
 // main project pages
 
-.tab-body {
+// .tab-body {
     
-}
+// }
 
 .descriptor-text {
     margin-top: 4px;
@@ -1295,11 +1297,11 @@ img {
 }
 
 .project-container {
-    padding-bottom: 50px;
+    padding-bottom: 25px;
     width: 170px;
     float:left;
     margin-right:15px;
-    marg
+    margin-bottom: 15px;
 
 }
 

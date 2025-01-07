@@ -22,7 +22,7 @@ I'm a **Computer Science** major + Art concentration at Harvey Mudd College in C
 
 <!-- start of project container -->
 
-::: {.project-container}
+::: {.project-container .p-c-code}
 
 ::: {.proj-image .code}
 
@@ -47,7 +47,7 @@ Harvey Mudd? Think of a small, liberal arts STEM school known for student collab
 
 <!-- start of project container -->
 
-::: {.project-container}
+::: {.project-container  .p-c-code}
 
 ::: {.proj-image .code}
 
@@ -72,7 +72,7 @@ Harvey Mudd? Think of a small, liberal arts STEM school known for student collab
 
 <!-- start of project container -->
 
-::: {.project-container}
+::: {.project-container .p-c-code}
 
 ::: {.proj-image .code}
 
@@ -97,7 +97,7 @@ Harvey Mudd? Think of a small, liberal arts STEM school known for student collab
 
 <!-- start of project container -->
 
-::: {.project-container}
+::: {.project-container .p-c-code}
 
 ::: {.proj-image .code}
 
