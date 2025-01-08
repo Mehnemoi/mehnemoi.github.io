@@ -25,7 +25,16 @@ $link-color: $white;
 
 $body-color: $black;
 
+//sidebar
 $sidebar-bg: $white;
+
+
+.sidebar-title:after{
+    content:"programmer * designer * researcher * artist *";
+    font-size:12px;
+    
+}
+
 
 $border-color: $black;
 

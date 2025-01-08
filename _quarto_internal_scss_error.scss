@@ -1065,7 +1065,20 @@ $link-color: $white;
 
 $body-color: $black;
 
+//sidebar
 $sidebar-bg: $white;
+
+content{
+    color:red;
+}
+
+.sidebar-title:after{
+    content:"programmer, designer, researcher, and artist";
+    font-size:12px;
+    
+    c
+}
+
 
 $border-color: $black;
 
@@ -1363,12 +1376,12 @@ img {
 
 .left-col {
     max-width: 27%;
+    margin-right: 4%;
 }
 
 .right-col {
     height: 450px;
     min-width: 69%;
-    margin-left: 4%;
     border-right-width:1px;
     border-right-style:solid;
     border-right-color:$black;
@@ -1393,9 +1406,9 @@ img {
 
 }
 
-.project-container:hover {
-    //background-color: $code-blue;
-}
+// .project-container:hover {
+//     //background-color: $code-blue;
+// }
 
 .proj-image {
     height: 200px;
@@ -1413,11 +1426,17 @@ img {
 
 // responsive design
 @media only screen and (max-width: 650px) {
-    .left
-}
-@media only screen and (max-width: 650px) {
+    .left-col{
+        min-width: 100%;
+    }
+
+    .right-col{
+        min-width: 100%;
+        max-height: 350px;
+    }
+
     .project-container {
-        width: 95%;
+        width: 45%;
   }
 }
 
