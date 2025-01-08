@@ -23,7 +23,9 @@ website:
       #- about.qmd
 
   page-footer:
-    right: kaitlynn is cool
+    right: 
+      - href: mailto:kaitlynngray314@gmail.com
+        text: kaitlynngray314@gmail.com
 
 format:
   html:
