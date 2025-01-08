@@ -108,6 +108,7 @@ img {
 
 .right-col-home {
     min-width: 60%;
+    height: 100%;
     border-style: solid;
     border-color: black;
     border-left-width: 0px;
@@ -168,7 +169,8 @@ img {
 }
 
 .page-container {
-    min-width: 185px;
+    //min-width: 185px;
+    width:33%;
     margin-right: 15px;
     float:left;
     padding: 20px 0px;
@@ -195,7 +197,8 @@ img {
 }
 .page-image {
     background-color: rgba(252, 234, 40, 0.461);
-    height: 299px;
+    min-height:230px;
+    height: 20vw;
 }
 
 .page-description {
@@ -205,6 +208,28 @@ img {
     width: 67%;
     line-height: 1;
 }
+
+
+//responsive design
+@media only screen and (max-width: 750px) {
+    .page-container {
+        min-width: 95%;
+  }
+
+    .home-right-content {
+        display: flex;
+        flex-direction: column;
+        overflow-y: scroll;
+        height: 100%;
+        padding-top: 50px;
+    }
+}
+
+// @media only screen and (min-width: 800px) {
+//     .page-container {
+//         width: 45%;
+//   }
+// }
 
 .code {
     background-color: $code-blue-t;
@@ -279,3 +304,30 @@ img {
 .proj-description {
     font-size: 7.8px;
 }
+
+// responsive design
+@media only screen and (max-width: 650px) {
+    .project-container {
+        width: 95%;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+    .project-container {
+        width: 45%;
+  }
+}
+
+
+  
+// @media (min-width: 500px) {
+//     .project-container {
+//         width: 100px;
+//     }
+// }
+
+// @media (min-width: 700px) {
+//     .project-container {
+//         width: 200px;
+//     }
+// }

@@ -1131,8 +1131,7 @@ a {
 
 img {
     border-radius: 50%;
-    width: 185px;//15vw;
-    rotat
+    width: 15vw;
 }
 
 .left-col-home {
@@ -1217,17 +1216,15 @@ img {
 
 .p-c-code:hover{
     background-color: $code-blue;
-    width: 300px;
 }
 
 .p-c-design:hover{
     background-color: $design-green;
-    width: 300px;
 }
 
 .p-c-research:hover{
     background-color: $research-red;
-    width: 300px;
+    //width: 300px;
 }
 
 .page-title {
@@ -1306,7 +1303,7 @@ img {
 }
 
 .project-container:hover {
-    background-color: $code-blue;
+    //background-color: $code-blue;
 }
 
 .proj-image {
@@ -1322,6 +1319,31 @@ img {
 .proj-description {
     font-size: 7.8px;
 }
+
+// responsive design
+@media only screen and (max-width: 600px) {
+    .project-container {
+        padding-bottom: 25px;
+        width: 200px;
+        float:left;
+        margin-right:15px;
+        margin-bottom: 15px;
+    
+  }
+
+
+  
+// @media (min-width: 500px) {
+//     .project-container {
+//         width: 100px;
+//     }
+// }
+
+// @media (min-width: 700px) {
+//     .project-container {
+//         width: 200px;
+//     }
+// }
 
 // Heading font size customization
 $h1-font-size: 2rem !default;
