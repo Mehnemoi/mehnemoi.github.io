@@ -34,7 +34,7 @@ Kaitlynn Gray
 
 [GitHub](https://github.com/Mehnemoi) 
 [LinkedIn](https://www.linkedin.com/in/kaitlynn-gray) 
-[Email](HCD-skin-care/) 
+[Email](mailto:kagray@g.hmc.edu) 
 
 :::
 
@@ -47,13 +47,42 @@ Harvey Mudd? Think of a small, liberal arts STEM school known for student collab
 :::
 
 ::: {.about-me}
-basically, i'm super cool and do a bunch of super cool stuff
+My favorite projects have a strong technical and artistically creative component. Design projects are this golden mix of this. 
 
-like this
+But, I also love research.
 
-and this
+:::
 
-and this
+
+::: {.asides}
+
+It's why I’ve spent the last three summers doing research.
+
+:::
+
+::: {.about-me}
+
+I am drawn to projects with a human-centered focus - I am deeply curious about how products and systems impact the people interacting with them.
+
+:::
+
+::: {.asides}
+
+That’s broad, yes! But it allows me to apply it to a multitude of projects. Whatever project I am on, I am going to care about the humans involved.
+
+:::
+
+::: {.about-me}
+I thrive in team-based projects where I am in charge of the visuals of a project - specifically making sure information is communicated clearly and aesthetically. 
+
+I love taking the knowledge I gained and turning it into a visual document so that others can appreciate these findings.
+
+For me, design isn’t just about making things pretty, it is about creating a product that most effectively reflects the person/people/community I am designing for. I do this by valuing the feedback of my clients.
+
+**I am creative, intelligent, driven, and curious.** 
+
+If that sounds like the qualities of someone you’d like on your team, I’d love to connect. 
+
 :::
 
 :::

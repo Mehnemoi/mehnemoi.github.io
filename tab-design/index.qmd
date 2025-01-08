@@ -32,13 +32,13 @@ hey
 
 ::: {.proj-title}
 
-research
+Personal Care Project 
 
 :::
 
 ::: {.proj-description}
 
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+Created a product to improve the process of getting ready in the morning by helping to  make choosing skincare products easier.
 
 :::
 
@@ -57,13 +57,13 @@ hey
 
 ::: {.proj-title}
 
-research
+CACTI Lab Logo
 
 :::
 
 ::: {.proj-description}
 
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+A logo I designed for my summer research group. A logo I designed for my summer research group. A logo I designed for my summer research group.
 
 :::
 

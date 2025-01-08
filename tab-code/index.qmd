@@ -32,13 +32,13 @@ hey
 
 ::: {.proj-title}
 
-research
+MUSE
 
 :::
 
 ::: {.proj-description}
 
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+A digital DJ board where users can play colors as music.
 
 :::
 
@@ -57,7 +57,32 @@ hey
 
 ::: {.proj-title}
 
-research
+Cloth Simulator
+
+:::
+
+::: {.proj-description}
+
+An interactive digital cloth with varying colors, shapes, and effects. A remix of a pygame cloth simulator.
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-code}
+
+::: {.proj-image .code}
+
+hey
+
+:::
+
+::: {.proj-title}
+
+Python Sky Game
 
 :::
 
@@ -82,32 +107,7 @@ hey
 
 ::: {.proj-title}
 
-research
-
-:::
-
-::: {.proj-description}
-
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
-
-:::
-
-:::
-<!-- end of project container -->
-
-<!-- start of project container -->
-
-::: {.project-container .p-c-code}
-
-::: {.proj-image .code}
-
-hey
-
-:::
-
-::: {.proj-title}
-
-research
+Raytracing
 
 :::
 
