@@ -23,8 +23,7 @@ website:
       #- about.qmd
 
   page-footer:
-    left: kaitlynn is cool
-    right: like really
+    right: kaitlynn is cool
 
 format:
   html:
