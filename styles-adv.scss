@@ -20,20 +20,69 @@ $code-blue-t: rgba(56, 182, 255, 0.45);
 $design-green-t: rgba(126, 217, 87, 0.45);
 $research-red-t: rgba(255, 145, 77, 0.45);
 
+.code {
+    background-color: $code-blue-t;
+}
+
+.design {
+    background-color: $design-green-t;
+}
+
+.research {
+    background-color: $research-red-t;
+}
+
 //active link
 $link-color: $white;
 
 $body-color: $black;
 
 //sidebar
+
+
 $sidebar-bg: $white;
 
+.sidebar-title {
+    margin-bottom: 20px;
+}
 
 .sidebar-title:after{
     content:"programmer * designer * researcher * artist *";
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    width: 80%;
     font-size:12px;
+    margin-bottom: 100px;
     
 }
+
+.sidebar-menu-container {
+    margin-top: 45px;
+
+}
+
+.sidebar-item-container {
+    padding: 3px;
+    width:  100%;
+    margin-bottom: 15px;
+
+    .menu-text{
+        color:$black;
+    }
+
+}
+
+.sidebar-item-container:hover {
+    background-color: $black;
+
+    .menu-text{
+        color:$white;
+    }
+    
+
+}
+
 
 $border-color: $black;
 
@@ -101,26 +150,6 @@ a {
     background-color: $black;
 }
 
-.sidebar-item-container {
-    padding: 3px;
-    width:  100%;
-    margin-bottom: 15px;
-
-    .menu-text{
-        color:$black;
-    }
-
-}
-
-.sidebar-item-container:hover {
-    background-color: $black;
-
-    .menu-text{
-        color:$white;
-    }
-    
-
-}
 
 
 
@@ -162,9 +191,6 @@ a {
    
     p {
         padding: 5px 0px;
-        background-color: rgb(255, 255, 255);
-        backdrop-filter: blur(6px);
-        -webkit-backdrop-filter: blur(12px);
     }
 
     // /* From https://css.glass */
@@ -214,19 +240,20 @@ a {
     display: flex;
     flex-direction: row;
     overflow-x: scroll;
-    height: 100%;
-    padding-top: 50px;
+    overflow-y: hidden;
+    height: 402px;
+    padding-top: 0px;
+
 }
 
 .page-container {
     //min-width: 185px;
     width:33%;
-    margin-right: 0px;
+    margin-right: 15px;
     float:left;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-right: 7px;
-    padding-left: 7px;
+    position: relative;
 }
 
 .p-c-code:hover{
@@ -242,15 +269,55 @@ a {
     //width: 300px;
 }
 
+.title {
+    font-size: 20px;
+    height: 32px;
+    margin-top: 30px;
+    padding-left: 10px;
+}
+
+.page-link {
+    position: relative;
+    height: 0px;
+    top: -21px;
+    margin:0px;
+    padding: 0px;
+    z-index: 1;
+
+    a {
+        display: block;
+        background-color: transparent;
+        width: 100%;
+        padding: 0px;
+        margin: 0px;
+        padding-bottom: 401px;
+        
+    }
+}
+
 .page-title {
+    position: relative;
     font-size: 12.6px;
     padding-left:10px;
     margin-bottom: -11px;
+    z-index: 0;
 
 }
 .page-image {
-    background-color: rgba(252, 234, 40, 0.461);
+    position: relative;
     height: 20vw;
+    // https://www.w3schools.com/css/css_align.asp
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 0;
+
+
+    .fa-solid {
+        color: $black;
+        font-size: 5vw;
+        
+    }
 
     img {
         top:0px;
@@ -261,11 +328,13 @@ a {
 }
 
 .page-description {
+    position: relative;
     font-size: 7.8px;
     padding-left: 10px;
     padding-top: 5px;
     width: 80%;
     line-height: 1;
+    z-index: 0;
 }
 
 
@@ -273,11 +342,80 @@ a {
 @media only screen and (max-width: 900px) {
     .page-container {
         width:90%;
-        padding-bottom: 0px;
+        padding-bottom: 10px;
+        margin-bottom: 0px;
   }
+
+    .page-title {
+        float: left;
+    }
+
+    .page-container:hover {
+        .page-description {
+            background-color: transparent;
+        }
+    }
+
+    .page-link {
+        position: relative;
+        height: 0px;
+        top: -21px;
+        margin:0px;
+        padding: 0px;
+        z-index: 1;
+    
+        a {
+            display: block;
+            background-color: transparent;
+            width: 100%;
+            padding: 0px;
+            margin: 0px;
+            padding-bottom: 110px; // needs to cover all of area
+            
+        }
+    }
 
     .page-image {
         height: 30px;
+        padding-top: 4px;
+        padding-left: 7px;
+        align-items: left;
+        justify-content: left;
+
+        .fa-solid {
+            font-size: 14px;
+        }
+    
+    }
+
+    .page-description {
+        background-color: $white;
+        width: 100%;
+        height: 100%;
+    }
+
+    .p-c-code {
+        background-color: $code-blue-t;
+    }
+
+    .code {
+        background-color: transparent;
+    }
+
+    .p-c-design {
+        background-color: $design-green-t;
+    }
+
+    .design {
+        background-color: transparent;
+    }
+    
+    .p-c-research {
+        background-color: $research-red-t;
+    }
+
+    .research {
+        background-color: transparent;
     }
 
     .home-right-content {
@@ -356,17 +494,7 @@ a {
 //   }
 // }
 
-.code {
-    background-color: $code-blue-t;
-}
 
-.design {
-    background-color: $design-green-t;
-}
-
-.research {
-    background-color: $research-red-t;
-}
 
 // main project pages
 

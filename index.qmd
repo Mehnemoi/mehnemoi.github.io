@@ -91,12 +91,24 @@ If that sounds like the qualities of someone you’d like on your team, I’d lo
 
 :::
 
+
 ::: {.column .right-col-home}
+
+:::{.title}
+
+projects:
+
+:::
 
 ::: {.home-right-content}
 
+
+
 ::: {.page-container .p-c-code}
 
+::: {.page-link}
+[](tab-code/index.qmd)
+:::
 
 ::: {.page-title}
 
@@ -106,7 +118,8 @@ code
 
 ::: {.page-image .code}
 
-![](images/GCalFinalWeeklyUI.png)
+<!-- ![](images/GCalFinalWeeklyUI.png) -->
+{{< fa laptop-code title="A laptop with <> on the screen" >}}
 
 :::
 
@@ -120,6 +133,9 @@ As a computer science major, I’ve gotten to work on a variety of programming p
 
 ::: {.page-container .p-c-design}
 
+::: {.page-link}
+[](tab-design/index.qmd)
+:::
 
 ::: {.page-title}
 
@@ -129,7 +145,8 @@ design
 
 ::: {.page-image .design}
 
-![](images/CACTILogo.png)
+<!-- ![](images/CACTILogo.png) -->
+{{< fa pen-nib title="A pen nib" >}}
 
 :::
 
@@ -144,6 +161,9 @@ I’ve been a graphic designer for the past five years. Creating graphics feels 
 
 ::: {.page-container .p-c-research}
 
+::: {.page-link}
+[](tab-research/index.qmd)
+:::
 
 ::: {.page-title}
 
@@ -153,7 +173,7 @@ research
 
 ::: {.page-image .research}
 
-image
+{{< fa magnifying-glass title="A magnifying glass" >}}
 
 :::
 

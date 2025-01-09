@@ -11,7 +11,7 @@ Design
 :::
 
 ::: {.descriptor-text}
-I'm a **Computer Science** major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).
+A collection of **product design** and **graphic design** projects.
 :::
 
 :::
