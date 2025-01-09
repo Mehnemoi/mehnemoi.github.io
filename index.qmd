@@ -38,6 +38,8 @@ Kaitlynn Gray
 
 :::
 
+::::: {.about-me-text}
+
 ::: {.about-me}
 I'm a **Computer Science** major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).
 :::
@@ -85,6 +87,8 @@ If that sounds like the qualities of someone you’d like on your team, I’d lo
 
 :::
 
+:::::
+
 :::
 
 ::: {.column .right-col-home}
@@ -102,13 +106,13 @@ code
 
 ::: {.page-image .code}
 
-image
+![](images/GCalFinalWeeklyUI.png)
 
 :::
 
 ::: {.page-description}
 
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+As a computer science major, I’ve gotten to work on a variety of programming projects. I like to build websites and games.
 
 :::
 
@@ -125,13 +129,13 @@ design
 
 ::: {.page-image .design}
 
-image
+![](images/CACTILogo.png)
 
 :::
 
 ::: {.page-description}
 
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+I’ve been a graphic designer for the past five years. Creating graphics feels like a puzzle - it is very satisfying to learn new ways I can communicate information visually.
 
 :::
 
@@ -155,7 +159,7 @@ image
 
 ::: {.page-description}
 
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+I enjoy spending long amounts of time understanding how people are impacted by things made by people or systems people live under. There is a publication or two in there...
 
 :::
 

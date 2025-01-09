@@ -1068,20 +1068,39 @@ $body-color: $black;
 //sidebar
 $sidebar-bg: $white;
 
-content{
-    color:red;
-}
 
 .sidebar-title:after{
-    content:"programmer, designer, researcher, and artist";
+    content:"programmer * designer * researcher * artist *";
     font-size:12px;
     
-    c
 }
-
 
 $border-color: $black;
 
+// image things
+$circle-radius: 220px;
+
+.circle-image {
+    height: 100px;
+    width:100%;
+    position: relative;
+    right:0px;
+    z-index: -1;
+    display: flex;
+    justify-content: right;
+
+    img {
+        height: $circle-radius;
+        width: $circle-radius;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+    
+}
+
+
+
+//Scroll bar
 /* width */
 ::-webkit-scrollbar {
     width: 15px;
@@ -1143,13 +1162,9 @@ a {
 }
 
 
-img {
-    border-radius: 50%;
-    width: 15vw;
-}
+
 
 .left-col-home {
-    padding-top: 20px;
     padding-right: 20px;
     height: 100%;
     overflow-y:scroll;
@@ -1179,13 +1194,29 @@ img {
 .big-text {
     font-size: 52px;
     line-height: 0.85;
-    padding-bottom: 10px;
+    width: 260px;
     margin-left: -3.7px;
+    margin-bottom: 20px;
     max-width: 300px;
+   
+    p {
+        padding: 5px 0px;
+        background-color: rgb(255, 255, 255);
+        backdrop-filter: blur(6px);
+        -webkit-backdrop-filter: blur(12px);
+    }
+
+    // /* From https://css.glass */
+    // background: rgba(255, 255, 255, 0.098);
+    // border-radius: 16px;
+    // box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    // backdrop-filter: blur(6px);
+    // -webkit-backdrop-filter: blur(6px);
 }
 
 .links {
     display: inline;
+   
 
     a {
         background-color: black;
@@ -1225,9 +1256,11 @@ img {
 .page-container {
     //min-width: 185px;
     width:33%;
-    margin-right: 15px;
+    margin-right: 0px;
     float:left;
-    padding: 20px 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padd
 }
 
 .p-c-code:hover{
@@ -1252,13 +1285,20 @@ img {
 .page-image {
     background-color: rgba(252, 234, 40, 0.461);
     height: 20vw;
+
+    img {
+        top:0px;
+        left:0px;
+        object-fit: cover;
+        height: 20vw;
+    }
 }
 
 .page-description {
     font-size: 7.8px;
     padding-left: 10px;
     padding-top: 5px;
-    width: 67%;
+    width: 80%;
     line-height: 1;
 }
 
