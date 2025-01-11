@@ -26,7 +26,7 @@ Research
 
 ::: {.proj-image .research}
 
-hey
+![](/images/GCalFinalWeeklyUI.png)
 
 :::
 
@@ -39,8 +39,18 @@ Gradescope Calendar
 
 ::: {.proj-description}
 
+*Caleb Wheeler, Arisa Cowe,* ***Kaitlynn Gray***
+
+:::
+
+::: {.proj-description}
+
 A website where students can see the assignments due for all of their courses on an online assignment tracking tool. Part of an entrepreneurship summer research project.
 
+:::
+
+:::{.project-links}
+[Project Slides](resources/gradescope.pdf) 
 :::
 
 :::
@@ -52,7 +62,7 @@ A website where students can see the assignments due for all of their courses on
 
 ::: {.proj-image .research}
 
-hey
+![](/images/acmlogo_black.png)
 
 :::
 
@@ -64,8 +74,19 @@ Diversity-Hire Narrative: Impacts and Mitigation Strategies
 
 ::: {.proj-description}
 
-A project researching the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and ways to prevent harmful effects from hearing this narrative. 
+*Christopher Perdriau, Vidushi Ojha,* ***Kaitlynn T. Gray,*** *Brent Lagesse, Colleen M Lewis*
 
+:::
+
+::: {.proj-description}
+
+A project researching the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and ways to prevent harmful effects from hearing this narrative. Published in ICER '23.
+
+:::
+
+:::{.project-links}
+[Publication](https://dl.acm.org/doi/10.1145/3568812.3603479) 
+[Summer Research Poster](resources/DiversityHireNarrative.pdf) 
 :::
 
 :::
@@ -77,7 +98,7 @@ A project researching the diversity-hire narrative - the belief that someone rec
 
 ::: {.proj-image .research}
 
-hey
+![](/images/CACTILogo.png)
 
 :::
 
@@ -89,8 +110,54 @@ CACTI Lab
 
 ::: {.proj-description}
 
+*Lily Anfang, Maya Flynn,* ***Kaitlynn Gray,*** *Ethan Sandoval*
+
+:::
+
+::: {.proj-description}
+
 A project exploring how disability and climate change overlap, such as how climate disasters impact disabled people.
 
+:::
+
+:::{.project-links}
+[Website](https://cacti-lab.github.io/) 
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-research}
+
+::: {.proj-image .research}
+
+![](/images/iXLogoPNG.png)
+
+:::
+
+::: {.proj-title}
+
+Being a First Year Undergrad in Human-Centered Research
+
+:::
+
+::: {.proj-description}
+
+*Lily Anfang, Maya Flynn,* ***Kaitlynn Gray,*** *Ethan Sandoval*
+
+:::
+
+::: {.proj-description}
+
+A blog post discussing our experience with overcoming imposter syndrome during our summer research project. Published in ACM's IX Interactions.
+
+:::
+
+:::{.project-links}
+[Blog Post](https://interactions.acm.org/archive/view/january-february-2025/being-a-first-year-undergrad-in-human-centered-research) 
+[ACM Publication](https://dl.acm.org/doi/10.1145/3706625) 
 :::
 
 :::

@@ -1078,16 +1078,18 @@ $link-color: $white;
 $body-color: $black;
 
 //sidebar
+
+
 $sidebar-bg: $white;
 
 .sidebar-title {
-    ma
+    margin-bottom: 20px;
 }
 
 .sidebar-title:after{
     content:"programmer * designer * researcher * artist *";
     position: absolute;
-    top: 50px;
+    top: 60px;
     left: 20px;
     width: 80%;
     font-size:12px;
@@ -1096,7 +1098,7 @@ $sidebar-bg: $white;
 }
 
 .sidebar-menu-container {
-    margin-top: 40px;
+    margin-top: 45px;
 
 }
 
@@ -1229,9 +1231,6 @@ a {
    
     p {
         padding: 5px 0px;
-        background-color: rgb(255, 255, 255);
-        backdrop-filter: blur(6px);
-        -webkit-backdrop-filter: blur(12px);
     }
 
     // /* From https://css.glass */
@@ -1381,90 +1380,90 @@ a {
 
 //responsive design
 @media only screen and (max-width: 900px) {
-    .page-container {
-        width:90%;
-        padding-bottom: 10px;
-        margin-bottom: 0px;
-  }
-
-    .page-title {
-        float: left;
-    }
-
-    .page-container:hover {
-        .page-description {
-            background-color: transparent;
-        }
-    }
-
-    .page-link {
-        position: relative;
-        height: 0px;
-        top: -21px;
-        margin:0px;
-        padding: 0px;
-        z-index: 1;
-    
-        a {
-            display: block;
-            background-color: transparent;
-            width: 100%;
-            padding: 0px;
-            margin: 0px;
-            padding-bottom: 110px; // needs to cover all of area
-            
-        }
-    }
-
-    .page-image {
-        height: 30px;
-        padding-top: 4px;
-        padding-left: 7px;
-        align-items: left;
-        justify-content: left;
-
-        .fa-solid {
-            font-size: 14px;
-        }
-    
-    }
-
-    .page-description {
-        background-color: $white;
-        width: 100%;
-        height: 100%;
-    }
-
-    .p-c-code {
-        background-color: $code-blue-t;
-    }
-
-    .code {
-        background-color: transparent;
-    }
-
-    .p-c-design {
-        background-color: $design-green-t;
-    }
-
-    .design {
-        background-color: transparent;
-    }
-    
-    .p-c-research {
-        background-color: $research-red-t;
-    }
-
-    .research {
-        background-color: transparent;
-    }
-
     .home-right-content {
         display: flex;
         flex-direction: column;
         overflow-y: scroll;
         height: 100%;
         padding-top: 0px;
+
+        .page-container {
+            width:90%;
+            padding-bottom: 10px;
+            margin-bottom: 0px;
+    }
+
+        .page-title {
+            float: left;
+        }
+
+        .page-container:hover {
+            .page-description {
+                background-color: transparent;
+            }
+        }
+
+        .page-link {
+            position: relative;
+            height: 0px;
+            top: -21px;
+            margin:0px;
+            padding: 0px;
+            z-index: 1;
+        
+            a {
+                display: block;
+                background-color: transparent;
+                width: 100%;
+                padding: 0px;
+                margin: 0px;
+                padding-bottom: 110px; // needs to cover all of area
+                
+            }
+        }
+
+        .page-image {
+            height: 30px;
+            padding-top: 4px;
+            padding-left: 7px;
+            align-items: left;
+            justify-content: left;
+
+            .fa-solid {
+                font-size: 14px;
+            }
+        
+        }
+
+        .page-description {
+            background-color: $white;
+            width: 100%;
+            height: 100%;
+        }
+
+        .p-c-code {
+            background-color: $code-blue-t;
+        }
+
+        .code {
+            background-color: transparent;
+        }
+
+        .p-c-design {
+            background-color: $design-green-t;
+        }
+
+        .design {
+            background-color: transparent;
+        }
+        
+        .p-c-research {
+            background-color: $research-red-t;
+        }
+
+        .research {
+            background-color: transparent;
+        }
     }
 
     .left-col-home {
@@ -1499,41 +1498,8 @@ a {
         display: none;
         visibility: hidden;
     }
-    // .page-container {
-    //     min-width: 27%;
-    //     max-height: 40px;
-    // }
-
-    // .home-right-content {
-    //     display: flex;
-    //     flex-direction: row;
-    //     overflow-y: scroll;
-    //     height: 100%;
-    //     min-width: 100%;
-    // }
-
-    // .right-col-home {
-    //     min-width: 100%;
-    //     max-height: 100px;
-    //     padding-bottom: 0px;
-    //     border-style: solid;
-    //     border-color: black;
-    //     border-left-width: 0px;
-    //     border-bottom-width: 0px;
-    //     border-right-width:0px;
-    //     border-top-width:1px;
-    // }
-
-    // .page-description{
-    //     font-size: 0px;
-    // }
+    
 }
-
-// @media only screen and (min-width: 800px) {
-//     .page-container {
-//         width: 45%;
-//   }
-// }
 
 
 
@@ -1574,16 +1540,12 @@ a {
 
 .project-container {
     padding-bottom: 25px;
-    width: 170px;
+    width: 45%;
     float:left;
     margin-right:15px;
     margin-bottom: 15px;
 
 }
-
-// .project-container:hover {
-//     //background-color: $code-blue;
-// }
 
 .proj-image {
     height: 200px;
@@ -1599,6 +1561,24 @@ a {
     font-size: 7.8px;
 }
 
+.project-links {
+    display: inline;
+   
+
+    a {
+        background-color: black;
+        color: white;
+        text-decoration: none;
+        font-size: 7.2px;
+        padding: 10px 5%;
+        margin-right: -3px;
+    }
+
+    a:hover {
+        background-color: $gray;
+    }
+}
+
 // responsive design
 @media only screen and (max-width: 650px) {
     .left-col{
@@ -1610,30 +1590,16 @@ a {
         max-height: 350px;
     }
 
-    .project-container {
-        width: 45%;
-  }
 }
 
-@media only screen and (min-width: 800px) {
-    .project-container {
-        width: 45%;
-  }
+@media only screen and (max-width: 400px) {
+    .pr
+   
 }
 
 
   
-// @media (min-width: 500px) {
-//     .project-container {
-//         width: 100px;
-//     }
-// }
 
-// @media (min-width: 700px) {
-//     .project-container {
-//         width: 200px;
-//     }
-// }
 
 // Heading font size customization
 $h1-font-size: 2rem !default;
