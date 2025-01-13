@@ -42,6 +42,12 @@ A digital DJ board where users can play colors as music.
 
 :::
 
+:::{.project-links}
+
+[Project Page](MUSE.qmd) 
+
+:::
+
 :::
 <!-- end of project container -->
 
@@ -88,7 +94,7 @@ Python Sky Game
 
 ::: {.proj-description}
 
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+A game I created in my Introduction to Computer Science class. Inspired by the game Sky: Children of the Light.
 
 :::
 

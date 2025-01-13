@@ -575,5 +575,86 @@ a {
    
 }
 
+// Individual project pages
 
+.code-proj-body{
+}
+
+.code-proj-top{
+    height: 400px;
+    display: flex;
+    flex-direction: left;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.code-proj-info{
+    width: 40%;
+}
+
+.code-proj-links {
+    text-align: left;
+    
+
+    a {
+        background-color: $black;
+        color: white;
+        text-decoration: none;
+        font-size: 13px;
+        padding: 10px 15px;
+        width: 30%;
+    }
+
+    a:hover {
+        background-color: $code-blue;
+    }
+}
+
+.code-proj-image{
+    width: 60%;
+    background-color: $code-blue-t;
+}
+.code-proj-title {
+    font-size: 52px;
+    margin-bottom: 0px;
+}
+
+.code-proj-names {
+    font-size: 15px;
+    width: 75%;
+}
+
+.code-proj-class {
+    font-size: 12px;
+    width: 100%;
+    line-height: 0.60;
+    margin-bottom: 30px;
+}
+
+.code-proj-bottom{
+    padding: 20px;
+
+   
+
+}
+
+.code-proj-desc{
+    margin-top: 20px;
+    font-size: 12px;
+    width: 66%;
+}
+
+.screenshots-container{
+    //background-color: red;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+
+}
+
+.screenshot{
+    background-color: teal;
+    padding: 10px;
+}
   
