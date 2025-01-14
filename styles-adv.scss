@@ -513,7 +513,6 @@ a {
 }
 
 .proj-image {
-    height: 200px;
 
     img {
         object-fit: cover;
@@ -521,7 +520,8 @@ a {
         top: 0px;
         left: 0px;
         margin:auto;
-        height: 200px;
+        width: 100%;
+        max-height: 100%;
     }
 
 }
@@ -611,12 +611,20 @@ a {
 }
 
 .code-proj-image{
+    //background-color: red;
     box-sizing: border-box;
     resize: horizontal;
     overflow: visible;
     width: 60%;
     max-height: 100%;
+
 }
+
+.video {
+    display: inline-block;
+    width: 100%;
+}
+
 .code-proj-title {
     font-size: 52px;
     margin-bottom: 0px;
@@ -676,9 +684,17 @@ a {
 .screenshot-image {
     background-color: $code-blue-t;
     // height: 200px;
-    width: 100%;
-    padding-bottom: 75%;
-    max-height: 100%;
+    
+
+    img {
+        object-fit: cover;
+        display: block;
+        top: 0px;
+        left: 0px;
+        margin:auto;
+        width: 100%;
+        max-height: 100%;
+    }
     
 }
 

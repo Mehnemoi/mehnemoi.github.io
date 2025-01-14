@@ -1,0 +1,136 @@
+:::::::::{.code-proj-body}
+
+:::::::{.code-proj-top}
+
+:::::{.code-proj-image}
+
+:::{.screenshot-image}
+
+:::
+
+:::::
+
+
+:::::{.code-proj-info}
+
+:::{.code-proj-title}
+Cloth Simulator
+:::
+
+:::{.code-proj-names}
+Kaitlynn Gray, Ryan Nguyen, Kishore Rajesh
+
+:::
+
+:::{.code-proj-class}
+**Course:** Computer Graphics
+
+**Tools:** Python, pygame
+
+:::
+
+:::{.code-proj-links}
+[Code Flow](assets/ClothSimCodeFlow.pdf)
+
+[Presentation](assets/ClothSimSlides.pdf)
+
+[GitHub Repository](https://github.com/nguyenry/cs155-cloth-simulator)
+:::
+
+
+
+:::::
+
+
+
+
+
+:::::::
+
+:::::::{.code-proj-bottom}
+
+
+
+:::::{.code-proj-desc}
+
+### Description
+We built off of a cloth simulator created using pygame, a Python library to create games. Our project focused on styling the cloth by adding colors, a double sided feature, background effects, and silly particle effects.
+
+I worked on calculating how to create a double-sided effect on the cloth, designed the final patterns for the cloth, and programmed the background color to change based on which side of the cloth was showing.
+
+In my own time I implemented 2D “spheres” that replace the cloth patches with a ball that can change orientation.
+
+
+:::::
+
+
+### Screenshots
+
+:::::{.screenshots-container}
+
+:::{.screenshot}
+#### Original Cloth
+
+:::{.screenshot-image}
+
+![](assets/MUSEWelcome.png){.lightbox}
+
+:::
+
+:::{.screenshot-caption}
+Our welcome screen with the logo designed by Eshanya.
+:::
+
+:::
+
+:::{.screenshot}
+#### Double-Sided Effect
+
+:::{.screenshot-image}
+![](assets/MUSEMainUI.png){.lightbox}
+:::
+
+:::{.screenshot-caption}
+Users select one of the colors in the middle of the screen to play on each of the larger disks. 
+
+The colors on the disks mix and show up as the smaller disk between the large ones.
+:::
+
+:::
+
+:::{.screenshot}
+#### Particle Effect #1
+
+:::{.screenshot-image}
+
+![](assets/MUSESavedCols.png){.lightbox}
+
+:::
+
+:::{.screenshot-caption}
+Here users can see all of the color mixtures they have saved.
+:::
+
+:::
+
+:::{.screenshot}
+#### Particle Effect #2
+
+:::{.screenshot-image}
+![](assets/MUSEHelpPage.png){.lightbox}
+
+:::
+
+:::{.screenshot-caption}
+Teaches users how to use MUSE.
+:::
+
+:::
+
+
+:::::
+
+
+:::::::
+
+:::::::::

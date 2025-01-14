@@ -1,17 +1,18 @@
 :::::::::{.code-proj-body}
 
-:::::::{.code-proj-top}
+:::::::{.code-proj-top .video}
 
-:::::{.code-proj-image}
+:::::{.code-proj-image .video}
 
-:::{.screenshot-image}
+<!-- :::{.screenshot-image} -->
+{{< video assets/MUSEVideo.mov  >}}
 
-:::
+<!-- ::: -->
 
 :::::
 
 
-:::::{.code-proj-info}
+:::::{.code-proj-info .video}
 
 :::{.code-proj-title}
 MUSE
@@ -30,11 +31,11 @@ Eshanya Agrawal, Deniz Bajin, Zariah Folkes, Kaitlynn Gray
 :::
 
 :::{.code-proj-links}
-[Paper](https://github.com/)
+[Paper](assets/MUSEPaper.pdf)
 
-[Design Documentation](https://github.com/)
+[Design Documentation](assets/MUSEDesignDoc.pdf)
 
-[GitHub Repository](https://github.com/)
+[GitHub Repository](https://github.com/DenizBajin/MUSE)
 :::
 
 
@@ -72,6 +73,8 @@ Users can play two colors at once to create a sound mixture and save them.
 
 :::{.screenshot-image}
 
+![](assets/MUSEWelcome.png){.lightbox}
+
 :::
 
 :::{.screenshot-caption}
@@ -84,7 +87,7 @@ Our welcome screen with the logo designed by Eshanya.
 #### Main Page
 
 :::{.screenshot-image}
-
+![](assets/MUSEMainUI.png){.lightbox}
 :::
 
 :::{.screenshot-caption}
@@ -100,6 +103,8 @@ The colors on the disks mix and show up as the smaller disk between the large on
 
 :::{.screenshot-image}
 
+![](assets/MUSESavedCols.png){.lightbox}
+
 :::
 
 :::{.screenshot-caption}
@@ -112,6 +117,7 @@ Here users can see all of the color mixtures they have saved.
 #### Help Page
 
 :::{.screenshot-image}
+![](assets/MUSEHelpPage.png){.lightbox}
 
 :::
 

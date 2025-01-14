@@ -26,7 +26,7 @@ A collection of **programming projects**.
 
 ::: {.proj-image .code}
 
-hey
+![](assets/MUSEMainUI.png)
 
 :::
 
@@ -70,6 +70,12 @@ Cloth Simulator
 ::: {.proj-description}
 
 An interactive digital cloth with varying colors, shapes, and effects. A remix of a pygame cloth simulator.
+
+:::
+
+:::{.project-links}
+
+[Project Page](ClothSim.qmd) 
 
 :::
 
