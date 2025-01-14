@@ -57,7 +57,7 @@ A digital DJ board where users can play colors as music.
 
 ::: {.proj-image .code}
 
-hey
+![](assets/ClothSimImage.png)
 
 :::
 
