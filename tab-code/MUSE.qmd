@@ -2,6 +2,15 @@
 
 :::::::{.code-proj-top}
 
+:::::{.code-proj-image}
+
+:::{.screenshot-image}
+
+:::
+
+:::::
+
+
 :::::{.code-proj-info}
 
 :::{.code-proj-title}
@@ -32,9 +41,7 @@ Eshanya Agrawal, Deniz Bajin, Zariah Folkes, Kaitlynn Gray
 
 :::::
 
-:::::{.code-proj-image}
-heyy
-:::::
+
 
 
 
@@ -63,25 +70,55 @@ Users can play two colors at once to create a sound mixture and save them.
 :::{.screenshot}
 #### Welcome Page
 
-this is the welcome page
+:::{.screenshot-image}
+
+:::
+
+:::{.screenshot-caption}
+Our welcome screen with the logo designed by Eshanya.
+:::
+
 :::
 
 :::{.screenshot}
 #### Main Page
 
-this is the main page
+:::{.screenshot-image}
+
+:::
+
+:::{.screenshot-caption}
+Users select one of the colors in the middle of the screen to play on each of the larger disks. 
+
+The colors on the disks mix and show up as the smaller disk between the large ones.
+:::
+
 :::
 
 :::{.screenshot}
 #### Saved Colors Page
 
-this is the saved colors page
+:::{.screenshot-image}
+
+:::
+
+:::{.screenshot-caption}
+Here users can see all of the color mixtures they have saved.
+:::
+
 :::
 
 :::{.screenshot}
 #### Help Page
 
-this is the help page
+:::{.screenshot-image}
+
+:::
+
+:::{.screenshot-caption}
+Teaches users how to use MUSE.
+:::
+
 :::
 
 

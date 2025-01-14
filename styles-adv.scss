@@ -581,7 +581,6 @@ a {
 }
 
 .code-proj-top{
-    height: 400px;
     display: flex;
     flex-direction: left;
     padding: 20px;
@@ -591,11 +590,11 @@ a {
 
 .code-proj-info{
     width: 40%;
+    padding-left: 16px;
 }
 
 .code-proj-links {
     text-align: left;
-    
 
     a {
         background-color: $black;
@@ -612,8 +611,11 @@ a {
 }
 
 .code-proj-image{
+    box-sizing: border-box;
+    resize: horizontal;
+    overflow: visible;
     width: 60%;
-    background-color: $code-blue-t;
+    max-height: 100%;
 }
 .code-proj-title {
     font-size: 52px;
@@ -628,8 +630,11 @@ a {
 .code-proj-class {
     font-size: 12px;
     width: 100%;
-    line-height: 0.60;
     margin-bottom: 30px;
+
+    p {
+        margin-bottom: 0px;
+    }
 }
 
 .code-proj-bottom{
@@ -649,12 +654,63 @@ a {
     //background-color: red;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 10px;
+    grid-template-rows: auto auto;
+    gap: 16px;
 
 }
 
 .screenshot{
-    background-color: teal;
-    padding: 10px;
+    // background-color: teal;
+    // padding: 10px;
+    // overflow:visible;
+
+    // from: 
+    //padding: 10px;
+    box-sizing: border-box;
+    //resize: horizontal;
+    //border: 1px solid;
+    overflow: auto;
+    max-width: 100%;
+}
+
+.screenshot-image {
+    background-color: $code-blue-t;
+    // height: 200px;
+    width: 100%;
+    padding-bottom: 75%;
+    max-height: 100%;
+    
+}
+
+.screenshot-caption {
+    margin-top: 8px;
+    font-size:10px;
+    width: 80%;
+}
+
+@media only screen and (max-width: 700px) {
+    .code-proj-top {
+        display: inline-block;
+        //background-color: red;
+    }
+
+    .code-proj-info {
+        min-width: 100%;
+        padding:0px;
+    }
+
+    .code-proj-image {
+        width: 100%;
+    }
+
+    .code-proj-links {
+        text-align: center;
+    
+        a {
+            display: inline-block;
+            width: 100%;
+            margin:0px;
+        }
+    }
 }
   
