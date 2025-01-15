@@ -1073,7 +1073,7 @@ $research-red-t: rgba(255, 145, 77, 0.45);
 }
 
 //active link
-$link-color: $white;
+$link-color: $black;
 
 $body-color: $black;
 
@@ -1125,6 +1125,11 @@ $sidebar-bg: $white;
 
 
 $border-color: $black;
+
+.box-shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 
 // image things
 $circle-radius: 150px;
@@ -1188,6 +1193,7 @@ footer {
 
 a {
     background-color: $black;
+    color:black;
 }
 
 
@@ -1518,6 +1524,21 @@ a {
 .left-col {
     max-width: 27%;
     margin-right: 4%;
+
+    .project-links {
+        a {
+            display: block;
+            font-size:12px;
+            margin-bottom: 8px;
+            width: 100%;
+            max-width: 300px;
+        }
+
+        a:hover {
+            background-color: $design-green;
+            color;
+        }
+    }
 }
 
 .right-col {
@@ -1553,7 +1574,6 @@ a {
 }
 
 .proj-image {
-    height: 200px;
 
     img {
         object-fit: cover;
@@ -1561,7 +1581,8 @@ a {
         top: 0px;
         left: 0px;
         margin:auto;
-        height: 200px;
+        width: 100%;
+        max-height: 100%;
     }
 
 }
@@ -1630,7 +1651,7 @@ a {
 
 .code-proj-info{
     width: 40%;
-    padding-right: 10px;
+    padding-left: 16px;
 }
 
 .code-proj-links {
@@ -1651,14 +1672,23 @@ a {
 }
 
 .code-proj-image{
+    //background-color: red;
     box-sizing: border-box;
     resize: horizontal;
     overflow: visible;
     width: 60%;
     max-height: 100%;
+
 }
+
+.video {
+    display: inline-block;
+    width: 100%;
+}
+
 .code-proj-title {
     font-size: 52px;
+    line-height: 0.85;
     margin-bottom: 0px;
 }
 
@@ -1716,9 +1746,17 @@ a {
 .screenshot-image {
     background-color: $code-blue-t;
     // height: 200px;
-    width: 100%;
-    padding-bottom: 75%;
-    max-height: 100%;
+    
+
+    img {
+        object-fit: cover;
+        display: block;
+        top: 0px;
+        left: 0px;
+        margin:auto;
+        width: 100%;
+        max-height: 100%;
+    }
     
 }
 
@@ -1736,7 +1774,7 @@ a {
 
     .code-proj-info {
         min-width: 100%;
-        background-color: teal;
+        padding:0px;
     }
 
     .code-proj-image {
@@ -1744,12 +1782,12 @@ a {
     }
 
     .code-proj-links {
-        text-align: left;
+        text-align: center;
     
         a {
-            display: block;
+            display: inline-block;
             width: 100%;
-            margin;
+            margin:0px;
         }
     }
 }

@@ -86,6 +86,11 @@ $sidebar-bg: $white;
 
 $border-color: $black;
 
+.box-shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
 // image things
 $circle-radius: 150px;
 
@@ -479,6 +484,21 @@ a {
 .left-col {
     max-width: 27%;
     margin-right: 4%;
+
+    .project-links {
+        a {
+            display: block;
+            font-size:12px;
+            margin-bottom: 8px;
+            width: 100%;
+            max-width: 300px;
+        }
+
+        a:hover {
+            background-color: $design-green;
+            color:$black;
+        }
+    }
 }
 
 .right-col {
@@ -628,6 +648,7 @@ a {
 
 .code-proj-title {
     font-size: 52px;
+    line-height: 0.85;
     margin-bottom: 0px;
 }
 

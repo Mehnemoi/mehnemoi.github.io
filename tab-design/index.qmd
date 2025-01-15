@@ -14,9 +14,18 @@ Design
 A collection of **product design** and **graphic design** projects.
 :::
 
+:::{.project-links}
+
+[Product Design](#product-design) 
+[Graphic Design](#graphic-design) 
+
+:::
+
 :::
 
 :::{.column  .right-col}
+
+## Product Design
 
 ::: {proj-right}
 
@@ -26,7 +35,7 @@ A collection of **product design** and **graphic design** projects.
 
 ::: {.proj-image .design}
 
-hey
+![](/projects/HCD-skin-care/images/HCD-skin-care-KG/HCDDP14243.jpg)
 
 :::
 
@@ -42,6 +51,12 @@ Created a product to improve the process of getting ready in the morning by help
 
 :::
 
+:::{.project-links}
+
+[Project Page](SkyGame.qmd) 
+
+:::
+
 :::
 <!-- end of project container -->
 
@@ -51,7 +66,7 @@ Created a product to improve the process of getting ready in the morning by help
 
 ::: {.proj-image .design}
 
-hey
+![](/images/CACTILogo.png)
 
 :::
 
@@ -63,64 +78,36 @@ CACTI Lab Logo
 
 ::: {.proj-description}
 
-A logo I designed for my summer research group. A logo I designed for my summer research group. A logo I designed for my summer research group.
+A logo I designed for my summer research group. 
+
+:::
+
+:::{.project-links}
+
+[Project Page](SkyGame.qmd) 
 
 :::
 
 :::
 <!-- end of project container -->
 
-<!-- start of project container -->
 
-::: {.project-container .p-c-design}
-
-::: {.proj-image .design}
-
-hey
 
 :::
 
-::: {.proj-title}
 
-research
+## Graphic Design
 
-:::
+::::::: {.design-proj-grid}
 
-::: {.proj-description}
 
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
 
-:::
+:::::::
 
-:::
-<!-- end of project container -->
 
-<!-- start of project container -->
 
-::: {.project-container .p-c-design}
 
-::: {.proj-image .design}
 
-hey
-
-:::
-
-::: {.proj-title}
-
-research
-
-:::
-
-::: {.proj-description}
-
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
-
-:::
-
-:::
-<!-- end of project container -->
-
-:::
 
 :::
 
