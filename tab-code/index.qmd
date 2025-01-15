@@ -88,7 +88,7 @@ An interactive digital cloth with varying colors, shapes, and effects. A remix o
 
 ::: {.proj-image .code}
 
-hey
+![](assets/SkyGameStart.png)
 
 :::
 
@@ -101,6 +101,12 @@ Python Sky Game
 ::: {.proj-description}
 
 A game I created in my Introduction to Computer Science class. Inspired by the game Sky: Children of the Light.
+
+:::
+
+:::{.project-links}
+
+[Project Page](SkyGame.qmd) 
 
 :::
 
