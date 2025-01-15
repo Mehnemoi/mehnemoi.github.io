@@ -119,7 +119,38 @@ A game I created in my Introduction to Computer Science class. Inspired by the g
 
 ::: {.proj-image .code}
 
-hey
+![](assets/NoiseArt.png)
+
+:::
+
+::: {.proj-title}
+
+Noise Generator + Art
+
+:::
+
+::: {.proj-description}
+
+Programmed different types of static noise.
+
+:::
+
+:::{.project-links}
+
+[Project Page](Noise.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-code}
+
+::: {.proj-image .code}
+
+![](assets/Raytracing.png)
 
 :::
 
@@ -131,7 +162,9 @@ Raytracing
 
 ::: {.proj-description}
 
-Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+*Kaitlynn Gray (with much help from Ryan Nguyen, Marwan Bit and Professor Carter Slocum)*
+
+ Programmed a raytracer in C++ to display colors, shapes, and overlapping/intersecting objects. [Course: Computer Graphics]
 
 :::
 

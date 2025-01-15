@@ -51,7 +51,6 @@ A website where students can see the assignments due for all of their courses on
 
 :::{.project-links}
 [Project Slides](resources/gradescope.pdf)
-[yeah](mango.qmd) 
 :::
 
 :::

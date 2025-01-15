@@ -1,0 +1,107 @@
+:::::::::{.code-proj-body}
+
+:::::::{.code-proj-top}
+
+:::::{.code-proj-image}
+
+:::{.screenshot-image}
+
+![](assets/NoiseArt.png)
+
+:::
+
+:::::
+
+
+:::::{.code-proj-info}
+
+:::{.code-proj-title}
+Noise Generator + Art
+:::
+
+:::{.code-proj-names}
+Kaitlynn Gray
+
+:::
+
+:::{.code-proj-class}
+**Course:** Computer Graphics
+
+**Tools:** Python
+
+:::
+
+
+
+:::::
+
+
+
+
+
+:::::::
+
+:::::::{.code-proj-bottom}
+
+
+
+:::::{.code-proj-desc}
+
+### Description
+Started by programming random noise (think TV static). We built on this to create other types of noise. These types of noise are used in computer graphics to create textures like clouds, glows, and randomly generated terrain.
+
+:::::
+
+
+### Screenshots
+
+:::::{.screenshots-container}
+
+:::{.screenshot}
+#### White Noise
+
+:::{.screenshot-image}
+
+![](assets/NoiseWhite.png){.lightbox}
+
+:::
+
+:::{.screenshot-caption}
+Programmed random noise.
+:::
+
+:::
+
+:::{.screenshot}
+#### Value Noise
+
+:::{.screenshot-image}
+![](assets/NoiseValue.png){.lightbox}
+:::
+
+:::{.screenshot-caption}
+Programmed value noise.
+:::
+
+:::
+
+:::{.screenshot}
+#### Art Noise
+
+:::{.screenshot-image}
+![](assets/NoiseArt.png){.lightbox}
+:::
+
+:::{.screenshot-caption}
+Used the different types of noise to make art.
+:::
+
+:::
+
+
+:::::
+
+
+:::::::
+
+:::::::::

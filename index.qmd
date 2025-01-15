@@ -96,7 +96,7 @@ If that sounds like the qualities of someone you’d like on your team, I’d lo
 
 :::{.title}
 
-projects:
+I am a:
 
 :::
 
@@ -112,7 +112,7 @@ projects:
 
 ::: {.page-title}
 
-code
+programmer
 
 :::
 
@@ -139,7 +139,7 @@ As a computer science major, I’ve gotten to work on a variety of programming p
 
 ::: {.page-title}
 
-design
+designer
 
 :::
 
@@ -167,7 +167,7 @@ I’ve been a graphic designer for the past five years. Creating graphics feels 
 
 ::: {.page-title}
 
-research
+researcher
 
 :::
 
