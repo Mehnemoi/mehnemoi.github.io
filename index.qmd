@@ -18,6 +18,10 @@ about:
 
 ::: {.column .left-col-home}
 
+::::: {.about-me-top}
+
+::::{.about-me-top-left}
+
 ::: {.circle-image}
 ![](images/headshot-zoomed.JPEG)
 :::
@@ -37,6 +41,28 @@ Kaitlynn Gray
 [Email](mailto:kagray@g.hmc.edu) 
 
 :::
+
+::::
+
+::::{.about-me-top-right}
+:::{.about-me-icons .code}
+{{< fa laptop-code title="A laptop with <> on the screen" >}}
+programmer
+:::
+
+:::{.about-me-icons .design}
+{{< fa pen-nib title="A pen nib" >}}
+designer
+:::
+
+:::{.about-me-icons .research}
+{{< fa magnifying-glass title="A magnifying glass" >}}
+researcher
+:::
+
+::::
+
+:::::
 
 ::::: {.about-me-text}
 

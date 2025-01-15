@@ -91,19 +91,84 @@ A logo I designed for my summer research group.
 :::
 <!-- end of project container -->
 
+<!-- start of project container -->
 
+::: {.project-container  .p-c-design}
+
+::: {.proj-image .design}
+
+![](assets-visual/SilentSky.png)
+
+:::
+
+::: {.proj-title}
+
+Silent Sky Theatre Program
+
+:::
+
+::: {.proj-description}
+
+A theatre program I designed for a student production of the play Silent Sky.
+
+:::
+
+:::{.project-links}
+
+[Program](SkyGame.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
 
 :::
 
 
 ## Graphic Design
 
-::::::: {.design-proj-grid}
+:::::::{.graphic-design-container}
+
+::::: {.columns}
+
+::: {.column}
+![](assets-visual/5CIVdirectionsPoster.png)
+
+![](assets-visual/5CIVwelcomePoster.png)
+
+![](assets-visual/CribRaces.png)
+
+![](assets-visual/2027.png)
+
+![](assets-visual/YouWillFindRest.png)
+
+![](assets-visual/Faves.png)
+
+![](assets-visual/HMC20251Back.png)
+
+:::
+
+::: {.column}
+
+![](assets-visual/HMC20251Front.png)
+
+![](assets-visual/HMC20252Back.png)
+
+![](assets-visual/HMC20252Front.png)
+
+![](assets-visual/HopeAndDream.png)
+
+![](assets-visual/Papercrafting.png)
+
+![](assets-visual/Renewal.png)
+
+![](assets-visual/Trends.png)
+:::
 
 
+:::::
 
 :::::::
-
 
 
 

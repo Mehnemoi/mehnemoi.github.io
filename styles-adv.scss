@@ -229,6 +229,38 @@ a {
     margin-top:-20px;
 }
 
+.about-me-top {
+    display: flex;
+    flex-direction: left;
+}
+
+.about-me-top-left {
+    width:100%;
+    margin-right: 20px;
+}
+
+.about-me-top-right {
+    display: none;
+    visibility: hidden;
+    height: auto;
+    font-size: 12px;
+
+    
+}
+
+.about-me-icons {
+    padding: 16px;
+    margin-bottom: 8px;
+    text-align: center;
+
+    .fa-solid {
+        font-size: 2em;
+        text-align: center;
+        }
+}
+
+
+
 .about-me {
     margin-top: 40px;
     font-size: 12px;
@@ -454,7 +486,11 @@ a {
 }
 
 @media only screen and (max-width: 670px) {
-
+    .about-me-top-right {
+        display: block;
+        visibility: visible;
+    }
+    
     .left-col-home {
         min-width: 100%;
         height: 450px;
@@ -752,3 +788,11 @@ a {
     }
 }
   
+// Design page
+
+.graphic-design-container {
+    .column {
+        margin-right: 8px;
+        width: 45%;
+    }
+}

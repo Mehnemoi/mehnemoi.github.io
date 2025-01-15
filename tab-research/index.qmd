@@ -11,7 +11,7 @@ Research
 :::
 
 ::: {.descriptor-text}
- A collection of **research projects** and **publications**
+ A collection of **research projects** and **publications**.
 :::
 
 :::

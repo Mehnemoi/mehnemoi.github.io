@@ -1269,6 +1269,37 @@ a {
     margin-top:-20px;
 }
 
+.about-me-top {
+    display: flex;
+    flex-direction: left;
+}
+
+.about-me-top-left {
+    width:100%;
+    margin-right: 20px;
+}
+
+.about-me-top-right {
+    // border: 1px solid;
+    // border-color: $black;
+    background-color: $code-blue-t;
+    height: auto;
+    font-size: 12px;
+
+    .fa-solid {
+        text-align: center;
+        font-size: 2em;
+        }
+}
+
+.about-me-icons {
+    background-color: yellow;
+    padding: 20px;
+    mar
+}
+
+
+
 .about-me {
     margin-top: 40px;
     font-size: 12px;
@@ -1536,7 +1567,7 @@ a {
 
         a:hover {
             background-color: $design-green;
-            color;
+            color:$black;
         }
     }
 }
@@ -1792,7 +1823,14 @@ a {
     }
 }
   
+// Design page
 
+.graphic-design-container {
+    .column {
+        margin-right: 8px;
+        width: 45%;
+    }
+}
 
 // Heading font size customization
 $h1-font-size: 2rem !default;
