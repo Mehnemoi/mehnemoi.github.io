@@ -1,0 +1,120 @@
+:::::::::{.code-proj-body}
+
+:::::::{.code-proj-top}
+
+:::::{.code-proj-image}
+
+:::{.screenshot-image}
+
+![](/projects/HCD-skin-care/images/HCD-skin-care-KG/HCDDP14243.jpg)
+
+:::
+
+:::::
+
+
+:::::{.code-proj-info}
+
+:::{.code-proj-title}
+Personal Care Project
+:::
+
+:::{.code-proj-names}
+Kaitlynn Gray
+
+:::
+
+:::{.code-proj-class}
+**Course:** Human Centered Design
+
+**Tools:** Empathizing, Defining, Ideating, Prototyping, Testing
+
+:::
+
+
+
+:::::
+
+
+
+
+
+:::::::
+
+:::::::{.code-proj-bottom}
+
+
+
+:::::{.code-proj-desc}
+
+### Description
+This project focused on designing a product to improve a person’s morning routine. I designed a product for Dez, a person who found their skin-care routine an important part of their morning routine. Dez shared how they were frustrated with the process of choosing skin care products for this routine because these products were expensive and may not actually help their skin. In response, I designed an information booklet that could be attached to skin care products that shared information about its impacts on people’s skin. See Product Features for more details.
+
+At the end of the project I shared my designed booklet with Dez and tested how the booklet influenced her feelings towards buying a hypothetical skin care product. They shared that my designed booklet made them feel pretty confident about purchasing the product because it was transparent and honest.
+
+#### Product Features
+* A price scale to show how the price compares to other products
+* A product description to share what the product does
+* Key ingredients and a description of what they do
+* Two user reviews with
+    * Their picture, name, and age
+    * Information about the user’s skin
+    * A quote sharing how long they used the product and how it affected their skin
+    * Before and after pictures
+* ^ One positive review and one review suggesting another product in the same skin care line
+* A page for other suggested products based on a person’s skin type
+
+
+
+<!-- ### Product Features
+
+:::::{.screenshots-container}
+
+:::{.screenshot}
+#### Krill Attack
+
+:::{.screenshot-image}
+
+![](assets/SkyGameKrill.png){.lightbox}
+
+:::
+
+:::{.screenshot-caption}
+Player entered the Krill's circle.
+:::
+
+:::
+
+:::{.screenshot}
+#### Game Play
+
+:::{.screenshot-image}
+![](assets/SkyGameLose.png){.lightbox}
+:::
+
+:::{.screenshot-caption}
+Player lost their light and lost the game.
+:::
+
+:::
+
+
+::::: -->
+
+### Design Process
+This project started as a choose-your-own adventure within the scope of designing for a person’s morning routine. To help get a sense of what self-care routines looked like in general, I participated in doing live interviews in the Claremont Village with my Human Centered Design class. We chose the Claremont Village since it had many health and beauty businesses within a small area. I then conducted five interviews on my own with friends and family to better understand what a morning routine looked like, and places it could be improved.
+
+I then used these interviews to identify two types of people I wanted to create a product for. I highlighted who they were, what they needed, and an insight from their interview that could help address this need. Next, I came up with questions on how I would address their needs and insight. I used these questions to come up with ideas for potential products (and using Chat-GPT 3.5 for assistance). I chose to prototype a booklet with key features about a skin care product.
+
+[want to share why I put what I put]
+
+Finally, I tested my product with Dez, one of the people I wanted to create a product for. We did the product test over FaceTime. During the test, I had Dez imagine they were buying a skin care product in a health and beauty store. I then introduced the booklet and had them share how the booklet impacted their feelings about buying the skin care product.
+
+[want to share some conclusion]
+
+:::::
+
+
+:::::::
+
+:::::::::

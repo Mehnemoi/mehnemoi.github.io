@@ -1,0 +1,222 @@
+<!-- ---
+title: "Kaitlynn Gray"
+image: images/headshot-zoomed.JPEG # replace with the link to your headshot
+about:
+  template: jolla # see additional templates here https://quarto.org/docs/websites/website-about.html
+  links:  # add links to your various social profiles
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/kaitlynn-gray
+    - icon: github
+      text: Github
+      href: https://github.com/Mehnemoi
+--- -->
+
+::: {.home}
+
+::::: {.columns}
+
+::: {.column .left-col-home}
+
+::::: {.about-me-top}
+
+::::{.about-me-top-left}
+
+::: {.circle-image}
+![](images/headshot-zoomed.JPEG)
+:::
+
+::: {.medium-text}
+Hi! I'm
+:::
+
+::: {.big-text}
+Kaitlynn Gray
+:::
+
+::: {.links}
+
+[GitHub](https://github.com/Mehnemoi) 
+[LinkedIn](https://www.linkedin.com/in/kaitlynn-gray) 
+[Email](mailto:kagray@g.hmc.edu) 
+
+:::
+
+::::
+
+::::{.about-me-top-right}
+:::{.about-me-icons .code}
+{{< fa laptop-code title="A laptop with <> on the screen" >}}
+programmer
+:::
+
+:::{.about-me-icons .design}
+{{< fa pen-nib title="A pen nib" >}}
+designer
+:::
+
+:::{.about-me-icons .research}
+{{< fa magnifying-glass title="A magnifying glass" >}}
+researcher
+:::
+
+::::
+
+:::::
+
+::::: {.about-me-text}
+
+::: {.about-me}
+I'm a **Computer Science** major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).
+:::
+
+::: {.asides}
+Harvey Mudd? Think of a small, liberal arts STEM school known for student collaboration
+:::
+
+::: {.about-me}
+My favorite projects have a strong technical and artistically creative component. Design projects are this golden mix of this. 
+
+But, I also love research.
+
+:::
+
+
+::: {.asides}
+
+It's why I’ve spent the last three summers doing research.
+
+:::
+
+::: {.about-me}
+
+I am drawn to projects with a human-centered focus - I am deeply curious about how products and systems impact the people interacting with them.
+
+:::
+
+::: {.asides}
+
+That’s broad, yes! But it allows me to apply it to a multitude of projects. Whatever project I am on, I am going to care about the humans involved.
+
+:::
+
+::: {.about-me}
+I thrive in team-based projects where I am in charge of the visuals of a project - specifically making sure information is communicated clearly and aesthetically. 
+
+I love taking the knowledge I gained and turning it into a visual document so that others can appreciate these findings.
+
+For me, design isn’t just about making things pretty, it is about creating a product that most effectively reflects the person/people/community I am designing for. I do this by valuing the feedback of my clients.
+
+**I am creative, intelligent, driven, and curious.** 
+
+If that sounds like the qualities of someone you’d like on your team, I’d love to connect. 
+
+:::
+
+:::::
+
+:::
+
+
+::: {.column .right-col-home}
+
+:::{.title}
+
+I am a:
+
+:::
+
+::: {.home-right-content}
+
+
+
+::: {.page-container .p-c-code}
+
+::: {.page-link}
+[](tab-code/index.qmd)
+:::
+
+::: {.page-title}
+
+programmer
+
+:::
+
+::: {.page-image .code}
+
+<!-- ![](images/GCalFinalWeeklyUI.png) -->
+{{< fa laptop-code title="A laptop with <> on the screen" >}}
+
+:::
+
+::: {.page-description}
+
+As a computer science major, I’ve gotten to work on a variety of programming projects. I like to build websites and games.
+
+:::
+
+:::
+
+::: {.page-container .p-c-design}
+
+::: {.page-link}
+[](tab-design/index.qmd)
+:::
+
+::: {.page-title}
+
+designer
+
+:::
+
+::: {.page-image .design}
+
+<!-- ![](images/CACTILogo.png) -->
+{{< fa pen-nib title="A pen nib" >}}
+
+:::
+
+::: {.page-description}
+
+I’ve been a graphic designer for the past five years. Creating graphics feels like a puzzle - it is very satisfying to learn new ways I can communicate information visually.
+
+:::
+
+:::
+
+
+::: {.page-container .p-c-research}
+
+::: {.page-link}
+[](tab-research/index.qmd)
+:::
+
+::: {.page-title}
+
+researcher
+
+:::
+
+::: {.page-image .research}
+
+{{< fa magnifying-glass title="A magnifying glass" >}}
+
+:::
+
+::: {.page-description}
+
+I enjoy spending long amounts of time understanding how people are impacted by things made by people or systems people live under. There is a publication or two in there...
+
+:::
+
+:::
+
+
+
+:::
+
+:::
+
+:::::
+
+:::
