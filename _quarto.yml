@@ -22,10 +22,10 @@ website:
       #  text: Projects
       #- about.qmd
 
-  page-footer:
-    right: 
-      - href: mailto:kagray@g.hmc.edu
-        text: kagray@g.hmc.edu
+  # page-footer:
+  #   right: 
+  #     - href: mailto:kagray@g.hmc.edu
+  #       text: kagray@g.hmc.edu
 
 format:
   html:

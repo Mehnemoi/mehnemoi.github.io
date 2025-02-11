@@ -1,8 +1,7 @@
 ::: {.tab-body}
 
-::::: {.columns}
 
-:::{.column .left-col}
+:::{.tab-desc}
 
 ::: {.big-text}
 
@@ -12,13 +11,11 @@ Research
 
 ::: {.descriptor-text}
  A collection of **research projects** and **publications**.
+
+ I enjoy spending long amounts of time understanding how people are impacted by things made by people or systems people live under. There is a publication or two in there...
 :::
 
 :::
-
-:::{.column  .right-col}
-
-::: {proj-right}
 
 <!-- start of project container -->
 
@@ -50,7 +47,7 @@ A website where students can see the assignments due for all of their courses on
 :::
 
 :::{.project-links}
-[Project Slides](resources/gradescope.pdf)
+[Project Slides PDF](resources/gradescope.pdf)
 :::
 
 :::
@@ -86,7 +83,7 @@ A project researching the diversity-hire narrative - the belief that someone rec
 
 :::{.project-links}
 [Publication](https://dl.acm.org/doi/10.1145/3568812.3603479) 
-[Summer Research Poster](resources/DiversityHireNarrative.pdf) 
+[Summer Research Poster PDF](resources/DiversityHireNarrative.pdf) 
 :::
 
 :::
@@ -166,10 +163,3 @@ A blog post discussing our experience with overcoming imposter syndrome during o
 
 :::
 
-:::
-
-
-
-:::::
-
-:::

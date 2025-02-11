@@ -46,22 +46,6 @@ $sidebar-bg: $white;
     margin-bottom: 20px;
 }
 
-.sidebar-title:after{
-    content:"programmer * designer * researcher * artist *";
-    position: absolute;
-    top: 60px;
-    left: 20px;
-    width: 80%;
-    font-size:12px;
-    margin-bottom: 100px;
-    
-}
-
-.sidebar-menu-container {
-    margin-top: 45px;
-
-}
-
 .sidebar-item-container {
     padding: 3px;
     width:  100%;
@@ -139,7 +123,7 @@ $circle-radius: 150px;
 
 .home {
     //margin-top: -40px;
-    height: 450px;
+    height: 80vh;
 }
 
 // changing font color of footer
@@ -376,141 +360,20 @@ a {
 }
 
 
-//responsive design
-@media only screen and (max-width: 900px) {
-    .home-right-content {
-        display: flex;
-        flex-direction: column;
-        overflow-y: scroll;
-        height: 100%;
-        padding-top: 0px;
-
-        .page-container {
-            width:90%;
-            padding-bottom: 10px;
-            margin-bottom: 0px;
-    }
-
-        .page-title {
-            float: left;
-        }
-
-        .page-container:hover {
-            .page-description {
-                background-color: transparent;
-            }
-        }
-
-        .page-link {
-            position: relative;
-            height: 0px;
-            top: -21px;
-            margin:0px;
-            padding: 0px;
-            z-index: 1;
-        
-            a {
-                display: block;
-                background-color: transparent;
-                width: 100%;
-                padding: 0px;
-                margin: 0px;
-                padding-bottom: 110px; // needs to cover all of area
-                
-            }
-        }
-
-        .page-image {
-            height: 30px;
-            padding-top: 4px;
-            padding-left: 7px;
-            align-items: left;
-            justify-content: left;
-
-            .fa-solid {
-                font-size: 14px;
-            }
-        
-        }
-
-        .page-description {
-            background-color: $white;
-            width: 100%;
-            height: 100%;
-        }
-
-        .p-c-code {
-            background-color: $code-blue-t;
-        }
-
-        .code {
-            background-color: transparent;
-        }
-
-        .p-c-design {
-            background-color: $design-green-t;
-        }
-
-        .design {
-            background-color: transparent;
-        }
-        
-        .p-c-research {
-            background-color: $research-red-t;
-        }
-
-        .research {
-            background-color: transparent;
-        }
-    }
-
-    .left-col-home {
-        min-width:66%;
-    }
-
-    .right-col-home {
-        max-width: 30%;
-        padding-top: 0px;
-    }
-
-}
-
-@media only screen and (max-width: 750px) {
-
-    .home-right-content {
-        display: flex;
-        flex-direction: column;
-        overflow-y: scroll;
-        height: 100%;
-    }
-}
-
-@media only screen and (max-width: 670px) {
-    .about-me-top-right {
-        display: block;
-        visibility: visible;
-    }
-    
-    .left-col-home {
-        min-width: 100%;
-        height: 450px;
-    }
-
-    .right-col-home{
-        display: none;
-        visibility: hidden;
-    }
-    
-}
-
-
-
 // main project pages
 
-// .tab-body {
-    
-// }
+.tab-body {
+    height: 90vh;
+    width:100%;
+    display:grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-rows: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+}
 
+.tab-desc {
+    padding-right: 8px;
+}
 .descriptor-text {
     margin-top: 4px;
     font-size: 12px;
@@ -538,7 +401,6 @@ a {
 }
 
 .right-col {
-    height: 450px;
     min-width: 69%;
     border-right-width:1px;
     border-right-style:solid;
@@ -560,7 +422,9 @@ a {
 .project-container {
     padding-bottom: 25px;
     padding: 10px 10px;
-    width: 90%;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
     //float:left;
     margin-right:15px;
     margin-bottom: 15px;
@@ -570,15 +434,16 @@ a {
 }
 
 .proj-image {
+    height: 100%;
+    overflow: hidden;
 
     img {
         object-fit: cover;
-        display: block;
         top: 0px;
         left: 0px;
-        margin:auto;
+        height:200px;
         width: 100%;
-        max-height: 100%;
+        margin-bottom:0px;
     }
 
 }
@@ -587,14 +452,17 @@ a {
     font-size: 12.6px;
     margin-top: 12px;
     margin-bottom: -15px;
+    width: 100%;
 }
 
 .proj-description {
     font-size: 7.8px;
+    width: 100%;
 }
 
 .project-links {
     display: inline;
+    width: 100%;
    
 
     a {
@@ -791,8 +659,8 @@ a {
 // Design page
 
 .graphic-design-container {
-    .column {
-        margin-right: 8px;
-        width: 45%;
-    }
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-rows: repeat(auto-fill, minmax(200px, 1fr));
+    grid-gap: 10px;
 }

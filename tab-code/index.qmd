@@ -1,8 +1,6 @@
 ::: {.tab-body}
 
-::::: {.columns}
-
-:::{.column .left-col}
+:::{.tab-desc}
 
 ::: {.big-text}
 
@@ -12,13 +10,11 @@ Code
 
 ::: {.descriptor-text}
 A collection of **programming projects**.
+
+As a computer science major, I’ve gotten to work on a variety of programming projects. I like to build websites and games.
 :::
 
 :::
-
-:::{.column  .right-col}
-
-::: {proj-right}
 
 <!-- start of project container -->
 
@@ -171,12 +167,5 @@ Raytracing
 :::
 <!-- end of project container -->
 
-:::
-
-:::
-
-
-
-:::::
 
 :::
