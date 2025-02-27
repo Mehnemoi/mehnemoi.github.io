@@ -20,6 +20,11 @@ $code-blue-t: rgba(56, 182, 255, 0.45);
 $design-green-t: rgba(126, 217, 87, 0.45);
 $research-red-t: rgba(255, 145, 77, 0.45);
 
+//margins and border radius
+$margin: 6px;
+$border-radius: 4px;
+$box-shadow-yellow: none; //0 4px 8px 0 $yellow, 0 6px 20px 0 $research-red-t;
+
 .code {
     background-color: $code-blue-t;
 }
@@ -32,6 +37,9 @@ $research-red-t: rgba(255, 145, 77, 0.45);
     background-color: $research-red-t;
 }
 
+$body-bg:$white;
+
+
 //active link
 $link-color: $black;
 
@@ -40,7 +48,7 @@ $body-color: $black;
 //sidebar
 
 
-$sidebar-bg: $white;
+$sidebar-bg: $white-t;
 
 .sidebar-title {
     margin-bottom: 20px;
@@ -68,7 +76,7 @@ $sidebar-bg: $white;
 }
 
 
-$border-color: $black;
+$border-color: transparent;
 
 .box-shadow {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -209,44 +217,84 @@ a {
     }
 }
 
+.about-me-image {
+    img{
+        height:48vh;
+        object-fit: cover;
+    }
+}
 .about-me-text{
-    margin-top:-20px;
+    display: grid;
+    grid-template-rows: auto;
+
+}
+
+.main-text {
+    background-color: $yellow-t;
+    box-shadow: $box-shadow-yellow;
+    margin:$margin;
+    border-radius: $border-radius;
+    padding: 24px;
+    overflow-y: scroll;
+}
+
+.tldr {
+    display: flex;
+    flex-direction: row;
+    border-radius: 8px;
+}
+
+.tldr-text{
+    background-color: $research-red;
+    box-shadow: $box-shadow-yellow;
+    margin:$margin;
+    border-radius: $border-radius;
+    font-size: 14px;
+    padding: 24px;
+}
+
+.fun-corner{
+    background-image: linear-gradient($yellow, $yellow-t);
+    box-shadow: $box-shadow-yellow;
+    margin:$margin;
+    border-radius: $border-radius;
+    width:40%;
+
+    
 }
 
 .about-me-top {
     display: flex;
     flex-direction: left;
+    min-width:73vw;
+    max-height:85vh;
+    
 }
 
 .about-me-top-left {
     width:100%;
-    margin-right: 20px;
+    padding: 24px;
+    box-shadow: $box-shadow-yellow;
+    margin:$margin;
+    border-radius: $border-radius;
+    background-image: linear-gradient($yellow-t, $yellow);
 }
 
-.about-me-top-right {
-    display: none;
-    visibility: hidden;
-    height: auto;
-    font-size: 12px;
 
-    
-}
-
-.about-me-icons {
-    padding: 16px;
-    margin-bottom: 8px;
-    text-align: center;
+.about-me-header {
+    text-align: left;
 
     .fa-solid {
         font-size: 2em;
         text-align: center;
+        color:$research-red;
         }
 }
 
 
 
 .about-me {
-    margin-top: 40px;
+    margin-bottom: 40px;
     font-size: 12px;
     width: 60%;
 }
@@ -256,6 +304,7 @@ a {
     text-align: right;
     font-size: 7.8px;
     width: 30%;
+    margin-top: -32px;
 }
 
 .home-right-content {
@@ -420,6 +469,7 @@ a {
 }
 
 .project-container {
+    border-radius: 4px;
     padding-bottom: 25px;
     padding: 10px 10px;
     width: 100%;
@@ -431,6 +481,11 @@ a {
     // from: https://www.w3schools.com/css/css3_images.asp
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
+}
+
+.project-container:hover {
+    // box-shadow: 0px 0px 0 16px $white-t;
+    background-color: $white-t;
 }
 
 .proj-image {

@@ -1,10 +1,11 @@
 ::: {.home}
 
-::::: {.about-me-top}
+::::::: {.about-me-top}
 
-::::{.about-me-top-left}
+:::::{.about-me-top-left}
 
-::: {.circle-image}
+::: {.about-me-image}
+
 ![](images/headshot-zoomed.JPEG)
 :::
 
@@ -24,11 +25,16 @@ Kaitlynn Gray
 
 :::
 
-::::
-
 :::::
 
+
+
 ::::: {.about-me-text}
+::::{.main-text}
+
+:::{.about-me-header}
+{{< fa star title="A five-pointed star" >}} **About Me**
+:::
 
 ::: {.about-me}
 I'm a **Computer Science** major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).
@@ -71,15 +77,23 @@ I love taking the knowledge I gained and turning it into a visual document so th
 
 For me, design isn’t just about making things pretty, it is about creating a product that most effectively reflects the person/people/community I am designing for. I do this by valuing the feedback of my clients.
 
+:::
+
+::::
+
+
+::::{.tldr}
+:::{.tldr-text}
 **I am creative, intelligent, driven, and curious.** 
 
 If that sounds like the qualities of someone you’d like on your team, I’d love to connect. 
+:::
+
+:::{.fun-corner}
+
 
 :::
 
+::::
 
-
-:::
-
-:::
-
+:::::::
