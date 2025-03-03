@@ -1,0 +1,171 @@
+
+::: {.tab-body}
+
+
+:::{.tab-desc}
+
+::: {.big-text}
+
+Research
+
+:::
+
+::: {.descriptor-text}
+ A collection of **research projects** and **publications**.
+
+ I enjoy spending long amounts of time understanding how people are impacted by things made by people or systems people live under. There is a publication or two in there...
+:::
+
+:::
+
+<!-- start of project container -->
+
+::: {.project-container  .p-c-research}
+
+::: {.proj-image .research}
+
+![](/images/acmlogo_black.png)
+
+:::
+
+::: {.proj-title}
+
+Diversity-Hire Narrative: Impacts and Mitigation Strategies
+
+:::
+
+::: {.proj-description}
+
+*Christopher Perdriau, Vidushi Ojha,* ***Kaitlynn T. Gray,*** *Brent Lagesse, Colleen M Lewis*
+
+:::
+
+::: {.proj-description}
+
+Published in ICER '23. Researched the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and ways to prevent harmful effects from hearing this narrative. 
+
+:::
+
+:::{.project-links}
+[Publication](https://dl.acm.org/doi/10.1145/3568812.3603479) 
+[Poster PDF](resources/DiversityHireNarrative.pdf) 
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-research}
+
+::: {.proj-image .research}
+
+![](/images/iXLogoPNG.png)
+
+:::
+
+::: {.proj-title}
+
+Being a First Year Undergrad in Human-Centered Research
+
+:::
+
+::: {.proj-description}
+
+*Lily Anfang, Maya Flynn,* ***Kaitlynn Gray,*** *Ethan Sandoval*
+
+:::
+
+::: {.proj-description}
+
+Published in ACM's IX Interactions. A blog post discussing our experience with overcoming imposter syndrome during our summer research project. 
+
+:::
+
+:::{.project-links}
+[Blog Post](https://interactions.acm.org/archive/view/january-february-2025/being-a-first-year-undergrad-in-human-centered-research) 
+[ACM Publication](https://dl.acm.org/doi/10.1145/3706625) 
+:::
+
+:::
+<!-- end of project container -->
+
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-research}
+
+::: {.proj-image .research}
+
+![](/images/GCalFinalWeeklyUI.png)
+
+:::
+
+::: {.proj-title}
+
+Gradescope Calendar
+
+
+:::
+
+::: {.proj-description}
+
+*Caleb Wheeler, Arisa Cowe,* ***Kaitlynn Gray***
+
+:::
+
+::: {.proj-description}
+
+A website where students can see the assignments due for all of their courses on an online assignment tracking tool. Part of an entrepreneurship summer research project.
+
+:::
+
+:::{.project-links}
+[Project Slides PDF](resources/gradescope.pdf)
+:::
+
+:::
+<!-- end of project container -->
+
+
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-research}
+
+::: {.proj-image .research}
+
+![](/images/CACTILogo.png)
+
+:::
+
+::: {.proj-title}
+
+CACTI Lab
+
+:::
+
+::: {.proj-description}
+
+*Lily Anfang, Maya Flynn,* ***Kaitlynn Gray,*** *Ethan Sandoval*
+
+:::
+
+::: {.proj-description}
+
+A project exploring how disability and climate change overlap, such as how climate disasters impact disabled people.
+
+:::
+
+:::{.project-links}
+[Website](https://cacti-lab.github.io/) 
+:::
+
+:::
+<!-- end of project container -->
+
+
+
+
+:::
+

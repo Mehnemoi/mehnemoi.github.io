@@ -1,0 +1,171 @@
+::: {.tab-body}
+
+:::{.tab-desc}
+
+::: {.big-text}
+
+Code
+
+:::
+
+::: {.descriptor-text}
+A collection of **programming projects**.
+
+As a computer science major, I’ve gotten to work on a variety of programming projects. I like to build websites and games.
+:::
+
+:::
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-code}
+
+::: {.proj-image .code}
+
+![](assets/MUSEMainUI.png)
+
+:::
+
+::: {.proj-title}
+
+MUSE
+
+:::
+
+::: {.proj-description}
+
+A digital DJ board where users can play colors as music.
+
+:::
+
+:::{.project-links}
+
+[Project Page](MUSE.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container  .p-c-code}
+
+::: {.proj-image .code}
+
+![](assets/ClothSimImage.png)
+
+:::
+
+::: {.proj-title}
+
+Cloth Simulator
+
+:::
+
+::: {.proj-description}
+
+An interactive digital cloth with varying colors, shapes, and effects. A remix of a pygame cloth simulator.
+
+:::
+
+:::{.project-links}
+
+[Project Page](ClothSim.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-code}
+
+::: {.proj-image .code}
+
+![](assets/SkyGameStart.png)
+
+:::
+
+::: {.proj-title}
+
+Sky Game
+
+:::
+
+::: {.proj-description}
+
+A game I created in my Introduction to Computer Science class. Inspired by the game Sky: Children of the Light.
+
+:::
+
+:::{.project-links}
+
+[Project Page](SkyGame.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-code}
+
+::: {.proj-image .code}
+
+![](assets/NoiseArt.png)
+
+:::
+
+::: {.proj-title}
+
+Noise Generator + Art
+
+:::
+
+::: {.proj-description}
+
+Programmed different types of static noise.
+
+:::
+
+:::{.project-links}
+
+[Project Page](Noise.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-code}
+
+::: {.proj-image .code}
+
+![](assets/Raytracing.png)
+
+:::
+
+::: {.proj-title}
+
+Raytracing
+
+:::
+
+::: {.proj-description}
+
+*Kaitlynn Gray (with much help from Ryan Nguyen, Marwan Bit and Professor Carter Slocum)*
+
+ Programmed a raytracer in C++ to display colors, shapes, and overlapping/intersecting objects. [Course: Computer Graphics]
+
+:::
+
+:::
+<!-- end of project container -->
+
+
+:::

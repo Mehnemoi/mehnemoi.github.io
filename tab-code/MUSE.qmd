@@ -1,0 +1,136 @@
+:::::::::{.code-proj-body}
+
+:::::::{.code-proj-top .video}
+
+:::::{.code-proj-image .video}
+
+<!-- :::{.screenshot-image} -->
+{{< video assets/MUSEVideo.mov  >}}
+
+<!-- ::: -->
+
+:::::
+
+
+:::::{.code-proj-info .video}
+
+:::{.code-proj-title}
+MUSE
+:::
+
+:::{.code-proj-names}
+Eshanya Agrawal, Deniz Bajin, Zariah Folkes, Kaitlynn Gray
+
+:::
+
+:::{.code-proj-class}
+**Course:** Computational Design Tools
+
+**Tools:** HTML, CSS, JavaScript
+
+:::
+
+:::{.code-proj-links}
+[Paper](assets/MUSEPaper.pdf)
+
+[Design Documentation](assets/MUSEDesignDoc.pdf)
+
+[GitHub Repository](https://github.com/DenizBajin/MUSE)
+:::
+
+
+
+:::::
+
+
+
+
+
+:::::::
+
+:::::::{.code-proj-bottom}
+
+
+
+:::::{.code-proj-desc}
+
+### Description
+MUSE is a digital DJ board website. MUSE is a tool for people to better understand how different parts of sound relate to each other. This is to provide a foundation for those interested in producing music. We help visualize these different parts by associating sound with color.
+
+So, instead of playing music tracks, users can play colors as sounds. Users can change the tint and saturation of the colors using sliders. These sliders also impact the sound of the color - changing tint changes the speed, and changing saturation changes the volume. This allows users to see the visual impacts of changing parts of sound. We hope that by connecting a visual change with altering sound, users can better understand how the speed and volume change a music track.
+
+Users can play two colors at once to create a sound mixture and save them.
+
+:::::
+
+
+### Screenshots
+
+:::::{.screenshots-container}
+
+:::{.screenshot}
+#### Welcome Page
+
+:::{.screenshot-image}
+
+![](assets/MUSEWelcome.png){.lightbox}
+
+:::
+
+:::{.screenshot-caption}
+Our welcome screen with the logo designed by Eshanya.
+:::
+
+:::
+
+:::{.screenshot}
+#### Main Page
+
+:::{.screenshot-image}
+![](assets/MUSEMainUI.png){.lightbox}
+:::
+
+:::{.screenshot-caption}
+Users select one of the colors in the middle of the screen to play on each of the larger disks. 
+
+The colors on the disks mix and show up as the smaller disk between the large ones.
+:::
+
+:::
+
+:::{.screenshot}
+#### Saved Colors Page
+
+:::{.screenshot-image}
+
+![](assets/MUSESavedCols.png){.lightbox}
+
+:::
+
+:::{.screenshot-caption}
+Here users can see all of the color mixtures they have saved.
+:::
+
+:::
+
+:::{.screenshot}
+#### Help Page
+
+:::{.screenshot-image}
+![](assets/MUSEHelpPage.png){.lightbox}
+
+:::
+
+:::{.screenshot-caption}
+Teaches users how to use MUSE.
+:::
+
+:::
+
+
+:::::
+
+
+:::::::
+
+:::::::::

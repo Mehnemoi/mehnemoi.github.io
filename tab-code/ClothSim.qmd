@@ -1,0 +1,174 @@
+:::::::::{.code-proj-body}
+
+:::::::{.code-proj-top .video}
+
+:::::{.code-proj-image .video}
+
+:::{.screenshot-image}
+
+{{< video assets/ClothSimVideo.mp4 >}}
+
+:::
+
+:::::
+
+
+:::::{.code-proj-info .video}
+
+:::{.code-proj-title}
+Cloth Simulator
+:::
+
+:::{.code-proj-names}
+Kaitlynn Gray, Ryan Nguyen, Kishore Rajesh
+
+:::
+
+:::{.code-proj-class}
+**Course:** Computer Graphics
+
+**Tools:** Python, PyGame
+
+:::
+
+:::{.code-proj-links}
+[Code Flow](assets/ClothSimCodeFlow.pdf)
+
+[Presentation](assets/ClothSimSlides.pdf)
+
+[GitHub Repository](https://github.com/nguyenry/cs155-cloth-simulator)
+:::
+
+
+
+:::::
+
+
+
+
+
+:::::::
+
+:::::::{.code-proj-bottom}
+
+
+
+:::::{.code-proj-desc}
+
+### Description
+We built off of a [cloth simulator](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py) created using PyGame, a Python library to create games. Our project focused on styling the cloth by adding colors, a double sided feature, background effects, and silly particle effects.
+
+I worked on calculating how to create a double-sided effect on the cloth, designed the final patterns for the cloth, and programmed the background color to change based on which side of the cloth was showing.
+
+In my own time I implemented 2D “spheres” that replace the cloth patches with a ball that can change orientation.
+
+
+:::::
+
+
+### Screenshots
+
+:::::{.screenshots-container}
+
+:::{.screenshot}
+#### Original Cloth
+
+:::{.screenshot-image}
+
+![](assets/ClothSimOriginal.png){.lightbox}
+
+:::
+
+:::{.screenshot-caption}
+The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). 
+
+*Image from our Slide Presentation.*
+:::
+
+:::
+
+:::{.screenshot}
+#### 2D Sphere Effect
+
+:::{.video}
+
+{{< video assets/ClothSimSphere.mp4 >}}
+
+:::
+
+:::{.screenshot-caption}
+My 2D sphere effect that makes the cloth look puffy.
+:::
+
+:::
+
+:::{.screenshot}
+#### Pink Pep Effect
+
+:::{.video}
+
+{{< video assets/ClothSimPinkPep.mp4 >}}
+
+:::
+
+:::{.screenshot-caption}
+A pink puffy jacket effect to the cloth.
+:::
+
+:::
+
+:::{.screenshot}
+#### Purple Pep Effect
+
+:::{.video}
+
+{{< video assets/ClothSimPurplePep.mp4 >}}
+
+:::
+
+:::{.screenshot-caption}
+A purple puffy jacket effect to the cloth.
+:::
+
+:::
+
+
+:::{.screenshot}
+#### Sherbert Effect
+
+:::{.video}
+
+{{< video assets/ClothSimSherbert.mp4 >}}
+
+:::
+
+:::{.screenshot-caption}
+A puffy overlay to the cloth with puffs shifting from pink to yellow.
+:::
+
+:::
+
+
+:::{.screenshot}
+#### Sparkle Effect
+
+:::{.video}
+
+{{< video assets/ClothSimSparkle.mp4 >}}
+
+:::
+
+:::{.screenshot-caption}
+Adding sparkles to the cloth.
+:::
+
+:::
+
+
+
+:::::
+
+
+:::::::
+
+:::::::::
