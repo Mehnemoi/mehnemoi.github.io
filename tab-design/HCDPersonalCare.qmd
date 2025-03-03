@@ -53,16 +53,16 @@ This project focused on designing a product to improve a person’s morning rout
 At the end of the project I shared my designed booklet with Dez and tested how the booklet influenced her feelings towards buying a hypothetical skin care product. They shared that my designed booklet made them feel pretty confident about purchasing the product because it was transparent and honest.
 
 #### Product Features
-* A price scale to show how the price compares to other products
-* A product description to share what the product does
-* Key ingredients and a description of what they do
-* Two user reviews with
+* A **price scale** to show how the price compares to other products
+* A **product description** to share what the product does
+* Key **ingredients** and a description of what they do
+* Two **user reviews** with
     * Their picture, name, and age
     * Information about the user’s skin
     * A quote sharing how long they used the product and how it affected their skin
     * Before and after pictures
-* ^ One positive review and one review suggesting another product in the same skin care line
-* A page for other suggested products based on a person’s skin type
+* ^ One **positive review** and one **review suggesting another product** in the same skin care line
+* A page for other **suggested products** based on a person’s skin type
 
 
 
@@ -102,15 +102,24 @@ Player lost their light and lost the game.
 ::::: -->
 
 ### Design Process
-This project started as a choose-your-own adventure within the scope of designing for a person’s morning routine. To help get a sense of what self-care routines looked like in general, I participated in doing live interviews in the Claremont Village with my Human Centered Design class. We chose the Claremont Village since it had many health and beauty businesses within a small area. I then conducted five interviews on my own with friends and family to better understand what a morning routine looked like, and places it could be improved.
+##### Background and Empathizing
+This project started as a choose-your-own-adventure within the scope of designing for a person’s morning routine. To help get a sense of what self-care routines looked like in general, I participated in doing live interviews in the Claremont Village with my Human-Centered Design class. We chose the Claremont Village since it had many health and beauty businesses within a small area. I then conducted five interviews on my own with friends and family to better understand what a morning routine looked like, and places it could be improved.
 
-I then used these interviews to identify two types of people I wanted to create a product for. I highlighted who they were, what they needed, and an insight from their interview that could help address this need. Next, I came up with questions on how I would address their needs and insight. I used these questions to come up with ideas for potential products (and using Chat-GPT 3.5 for assistance). I chose to prototype a booklet with key features about a skin care product.
+##### Needfinding and Ideating
+I then used these interviews to identify two types of people (users) I wanted to create a product for. I highlighted who they were, what they needed, and an insight from their interview that could help address this need. Next, I came up with questions on how I would address their needs and insight. I used these questions to come up with ideas for potential products (and using Chat-GPT 3.5 for assistance). I chose to prototype a booklet with key features about a skin care product.
 
-[want to share why I put what I put]
+<!-- [want to share why I put what I put] -->
+##### Prototyping
+I chose each of these features to help users have a better understanding of how the product may affect their skin type. Each feature is meant to make it easier for users to understand if a product works for them. If the product doesn't seem to match their needs, there are suggested products they can look at next.
 
-Finally, I tested my product with Dez, one of the people I wanted to create a product for. We did the product test over FaceTime. During the test, I had Dez imagine they were buying a skin care product in a health and beauty store. I then introduced the booklet and had them share how the booklet impacted their feelings about buying the skin care product.
+##### Testing
+Finally, I tested my product with my user, one of the people I wanted to create a product for. We did the product test over FaceTime. During the test, I had the user imagine they were buying a skin care product in a health and beauty store. I then introduced the booklet and had them share how the booklet impacted their feelings about buying the skin care product.
 
-[want to share some conclusion]
+<!-- [want to share some conclusion] -->
+##### Reflection
+Overall, my user said they felt pretty confident about purchasing the product because the booklet was transparent and honest. She also felt that buyers are worried about what products they buy. Buyers may go to extreme lengths to figure out what a product will do, even if they have to brave negative skin effects.
+
+Therefore, it was impactful to simply know what a product would do to her skin before risking her skin health.
 
 :::::
 

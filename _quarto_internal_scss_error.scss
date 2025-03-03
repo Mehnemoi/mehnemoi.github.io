@@ -1077,8 +1077,10 @@ $box-shadow-yellow: none; //0 4px 8px 0 $yellow, 0 6px 20px 0 $research-red-t;
     background-color: $research-red-t;
 }
 
-$body-bg:$white;
-
+.quarto-container {
+    // background-image: linear-gradient(to bottom right, $white, $yellow-t);
+    background-color: $white;
+}
 
 //active link
 $link-color: $black;
@@ -1087,22 +1089,36 @@ $body-color: $black;
 
 //sidebar
 
-
-$sidebar-bg: $white-t;
+$sidebar-bg: $white;
 
 .sidebar-title {
     margin-bottom: 20px;
 }
 
+.sidebar-menu-container::after {
+    content: "Email: kagray@g.hmc.edu";
+    font-size: 14px;
+    position: absolute;
+    top: 88vh;
+    padding: 8px;
+}
+
 .sidebar-item-container {
-    padding: 3px;
+    padding: 8px;
     width:  100%;
     margin-bottom: 15px;
+    background-color: $research-red;
+    border-radius: 4px;
+    color:$black;
 
     .menu-text{
         color:$black;
     }
 
+}
+
+.sidebar-item-container:active{
+    color:$black;
 }
 
 .sidebar-item-container:hover {
@@ -1162,6 +1178,7 @@ $circle-radius: 150px;
   /* Handle */
   ::-webkit-scrollbar-thumb {
     background: $black; 
+    borde
   }
   
   /* Handle on hover */
@@ -1185,7 +1202,7 @@ footer {
 
 a {
     background-color: $black;
-    color:black;
+    color:$black;
 }
 
 
@@ -1198,7 +1215,7 @@ a {
     overflow-y:scroll;
     max-width: 50%;
     border-right-style: solid;
-    border-color: black;
+    border-color: $black;
     border-right-width: 1px;
 }
 
@@ -1207,7 +1224,7 @@ a {
     width: 60%;
     height: 100%;
     border-style: solid;
-    border-color: black;
+    border-color: $black;
     border-left-width: 0px;
     border-bottom-width: 1px;
     border-right-width:0px;
@@ -1220,7 +1237,7 @@ a {
     margin-bottom: -15px;
 }
 .big-text {
-    font-size: 52px;
+    font-size: 4.3vw;
     line-height: 0.85;
     width: 260px;
     margin-left: -3.7px;
@@ -1244,8 +1261,9 @@ a {
    
 
     a {
-        background-color: black;
-        color: white;
+        background-color: $black;
+        border-radius: 4px;
+        color: $white;
         text-decoration: none;
         font-size: 12.8px;
         padding: 10px 5%;
@@ -1299,8 +1317,17 @@ a {
     margin:$margin;
     border-radius: $border-radius;
     width:40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    font-size: 12px;
+    padding: 8px;
+    color: $yellow;
+}
 
-    
+.fun-corner:hover{
+    background-image: none;
+    background-color:$black;
 }
 
 .about-me-top {
@@ -1323,9 +1350,13 @@ a {
 
 .about-me-header {
     text-align: left;
+    p {
+        font-size: 1.5em;
+        font-weight: 500;
+    }
 
     .fa-solid {
-        font-size: 2em;
+        font-size: 1em;
         text-align: center;
         color:$research-red;
         }
@@ -1342,7 +1373,7 @@ a {
 .asides {
     float:right;
     text-align: right;
-    font-size: 7.8px;
+    font-size: 9px;
     width: 30%;
     margin-top: -32px;
 }
@@ -1453,11 +1484,32 @@ a {
 
 .tab-body {
     height: 90vh;
+    min-width: 700px;
     width:100%;
     display:grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     grid-template-rows: repeat(2, minmax(0, 1fr));
     gap: 8px;
+}
+
+@media only screen and (max-width: 768px) {
+    .tab-body {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-rows: repeat(4, 1fr);
+        min-width: 100%;
+    }
+
+    .project-container {
+        min-width: 100%;
+    }
+
+    .proj-image {
+        max-height: 200px;
+
+        img {
+            height: 35vh;
+        }
+    }
 }
 
 .tab-desc {
@@ -1512,6 +1564,7 @@ a {
     border-radius: 4px;
     padding-bottom: 25px;
     padding: 10px 10px;
+    min-width:200px;
     width: 100%;
     display:flex;
     flex-direction: column;
@@ -1561,18 +1614,19 @@ a {
    
 
     a {
-        background-color: black;
-        color: white;
+        background-color: $yellow;
+        color: $black;
         text-decoration: none;
         font-size: 10px;
         padding: 8px 10px;
         margin-right: -3px;
         margin-bottom: 0px;
-        border
+        border-radius: 4px;
     }
 
     a:hover {
-        background-color: $gray;
+        background-color: $black;
+        color:$white;
     }
 }
 
@@ -1619,16 +1673,18 @@ a {
     text-align: left;
 
     a {
-        background-color: $black;
-        color: white;
+        background-color: $yellow;
+        color: $black;
         text-decoration: none;
         font-size: 13px;
         padding: 10px 15px;
         width: 30%;
+        border-radius: 4px;
     }
 
     a:hover {
-        background-color: $code-blue;
+        background-color: $black;
+        color: $white;
     }
 }
 

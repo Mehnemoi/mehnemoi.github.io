@@ -33,7 +33,7 @@ Kaitlynn Gray
 ::::{.main-text}
 
 :::{.about-me-header}
-{{< fa star title="A five-pointed star" >}} **About Me**
+{{< fa star title="A five-pointed star" >}} Who am I?
 :::
 
 ::: {.about-me}
@@ -90,7 +90,7 @@ If that sounds like the qualities of someone you’d like on your team, I’d lo
 :::
 
 :::{.fun-corner}
-
+I'm happy that you are here!
 
 :::
 
