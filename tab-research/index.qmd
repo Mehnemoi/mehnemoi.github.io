@@ -84,7 +84,7 @@ A project researching the diversity-hire narrative - the belief that someone rec
 
 :::{.project-links}
 [Publication](https://dl.acm.org/doi/10.1145/3568812.3603479) 
-[Summer Research Poster PDF](resources/DiversityHireNarrative.pdf) 
+[Poster PDF](resources/DiversityHireNarrative.pdf) 
 :::
 
 :::

@@ -55,30 +55,31 @@ Created a product to improve the process of getting ready in the morning by help
 
 ::: {.proj-image .design}
 
-![](/images/CACTILogo.png)
+![](assets-visual/HMC20251Back.png)
 
 :::
 
 ::: {.proj-title}
 
-CACTI Lab Logo
+Graphic Design
 
 :::
 
 ::: {.proj-description}
 
-A logo I designed for my summer research group. 
+A collection of graphic design projects I've worked on.
 
 :::
 
 :::{.project-links}
 
-[Project Page](SkyGame.qmd) 
+[See All](GraphicDesign.qmd) 
 
 :::
 
 :::
 <!-- end of project container -->
+
 
 <!-- start of project container -->
 
@@ -104,7 +105,7 @@ A theatre program I designed for a student production of the play Silent Sky.
 
 :::{.project-links}
 
-[Program PDF](SkyGame.qmd) 
+[Program PDF](/tab-design/assets-projects/SilentSkyProgram.pdf) 
 
 :::
 
@@ -115,32 +116,34 @@ A theatre program I designed for a student production of the play Silent Sky.
 
 ::: {.project-container  .p-c-design}
 
-::: {.proj-image .design}
+::: {.proj-image}
 
-![](assets-visual/HMC20251Back.png)
+![](/images/CACTILogo.png)
 
 :::
 
 ::: {.proj-title}
 
-Graphic Design
+CACTI Lab Logo
 
 :::
 
 ::: {.proj-description}
 
-A collection of graphic design projects I've worked on.
+A logo I designed for my summer research group. 
 
 :::
 
 :::{.project-links}
 
-[See All](GraphicDesign.qmd) 
+
 
 :::
 
 :::
 <!-- end of project container -->
+
+
 
 
 
