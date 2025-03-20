@@ -1,5 +1,5 @@
 
-::: {.tab-body}
+
 
 
 :::{.tab-desc}
@@ -18,6 +18,7 @@ Research
 
 :::
 
+::: {.tab-body-research}
 <!-- start of project container -->
 
 ::: {.project-container  .p-c-research}
@@ -28,11 +29,14 @@ Research
 
 :::
 
-::: {.proj-title}
+<!-- ::: {.proj-title}
 
 Diversity-Hire Narrative: Impacts and Mitigation Strategies
 
-:::
+::: -->
+
+::: {.callout-warning collapse="false" icon="false"}
+## Diversity-Hire Narrative: Impacts and Mitigation Strategies [Published - ICER '23] 
 
 ::: {.proj-description}
 
@@ -44,11 +48,15 @@ Diversity-Hire Narrative: Impacts and Mitigation Strategies
 
 Published in ICER '23. Researched the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and ways to prevent harmful effects from hearing this narrative. 
 
+**What I did:** Qualitatively analyzed 23 interviews for themes and main ideas using SaturateApp. Proofread and edited our published paper. Presented our findings at my school's summer research symposium. Designed the layout for the research poster under "Poster PDF".
+
 :::
 
 :::{.project-links}
 [Publication](https://dl.acm.org/doi/10.1145/3568812.3603479) 
 [Poster PDF](resources/DiversityHireNarrative.pdf) 
+:::
+
 :::
 
 :::
@@ -64,11 +72,14 @@ Published in ICER '23. Researched the diversity-hire narrative - the belief that
 
 :::
 
-::: {.proj-title}
+<!-- ::: {.proj-title}
 
 Being a First Year Undergrad in Human-Centered Research
 
-:::
+::: -->
+
+::: {.callout-warning collapse="true" icon="false"}
+## Being a First Year Undergrad in Human-Centered Research [Published - ACM iX Interactions 2025] 
 
 ::: {.proj-description}
 
@@ -80,11 +91,15 @@ Being a First Year Undergrad in Human-Centered Research
 
 Published in ACM's IX Interactions. A blog post discussing our experience with overcoming imposter syndrome during our summer research project. 
 
+**What I did:** I helped write a portion of the blog!
+
 :::
 
 :::{.project-links}
 [Blog Post](https://interactions.acm.org/archive/view/january-february-2025/being-a-first-year-undergrad-in-human-centered-research) 
 [ACM Publication](https://dl.acm.org/doi/10.1145/3706625) 
+:::
+
 :::
 
 :::
@@ -101,12 +116,17 @@ Published in ACM's IX Interactions. A blog post discussing our experience with o
 
 :::
 
-::: {.proj-title}
+<!-- ::: {.proj-title}
 
 Gradescope Calendar
 
 
-:::
+::: -->
+
+::: {.callout-warning collapse="true" icon="false"}
+## Gradescope Calendar
+
+
 
 ::: {.proj-description}
 
@@ -118,10 +138,14 @@ Gradescope Calendar
 
 A website where students can see the assignments due for all of their courses on an online assignment tracking tool. Part of an entrepreneurship summer research project.
 
+**What I did:** Designed the UI for all of the pages in Canva, programmed the UI for the weekly assignments page using React, HTML, JavaScript, and CSS. Designed our research poster and presented our project to staff, faculty, and community members. Learn more *here [link to Gradescope UI on Design page]*.
+
 :::
 
 :::{.project-links}
 [Project Slides PDF](resources/gradescope.pdf)
+:::
+
 :::
 
 :::
@@ -138,12 +162,16 @@ A website where students can see the assignments due for all of their courses on
 ![](/images/CACTILogo.png)
 
 :::
-
+<!-- 
 ::: {.proj-title}
 
 CACTI Lab
 
-:::
+::: -->
+
+::: {.callout-warning collapse="true" icon="false"}
+## CACTI Lab Research Group
+
 
 ::: {.proj-description}
 
@@ -155,6 +183,8 @@ CACTI Lab
 
 A project exploring how disability and climate change overlap, such as how climate disasters impact disabled people.
 
+**What I did:** Read/listened to A LOT of academic articles, research papers, online blogs, and podcasts about climate change and disability (about 70). Summarized their findings and methods. Grouped readings by theme and identified trends. Also designed the cute logo you see!
+
 :::
 
 :::{.project-links}
@@ -162,9 +192,9 @@ A project exploring how disability and climate change overlap, such as how clima
 :::
 
 :::
+
+:::
 <!-- end of project container -->
-
-
 
 
 :::

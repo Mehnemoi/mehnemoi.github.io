@@ -18,6 +18,8 @@ website:
         text: Design
       - href: tab-research/index.qmd
         text: Research
+      - href: tab-about-me/index.qmd
+        text: About Me
       #- href: projects/
       #  text: Projects
       #- about.qmd
