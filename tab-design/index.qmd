@@ -24,6 +24,37 @@ I’ve been a graphic designer for the past five years. Creating graphics feels 
 
 ::: {.proj-image .design}
 
+![](/projects/gradescope-cal/images/GCalFinalFinalUI.png)
+
+:::
+
+::: {.proj-title}
+
+Gradescope Calendar UI
+
+:::
+
+::: {.proj-description}
+
+I designed the UI for a website where students can see the assignments due for all of their courses on an online assignment tracking tool. 
+
+:::
+
+:::{.project-links}
+
+[Project Page](GradescopeCalendar.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-design}
+
+::: {.proj-image .design}
+
 ![](/projects/HCD-skin-care/images/HCD-skin-care-KG/HCDDP14243.jpg)
 
 :::
@@ -99,7 +130,7 @@ Silent Sky Theatre Program
 
 ::: {.proj-description}
 
-A theatre program I designed for a student production of the play Silent Sky.
+A theatre program I designed in Canva for a student production of the play Silent Sky.
 
 :::
 
@@ -130,7 +161,7 @@ CACTI Lab Logo
 
 ::: {.proj-description}
 
-A logo I designed for my summer research group. 
+A logo I designed in Canva for my summer research group. 
 
 :::
 

@@ -767,6 +767,18 @@ $callout-color-warning: $white;
     width: 66%;
 }
 
+.left-border {
+    border-style: solid;
+    border-width: 0px 0px 0px 4px;
+    border-color: $yellow;
+    padding-left: 8px;
+}
+
+
+.wide {
+    width: 100%;
+}
+
 .screenshots-container{
     //background-color: red;
     display: grid;
