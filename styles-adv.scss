@@ -253,8 +253,8 @@ a {
     }
 }
 .about-me-text{
-    display: grid;
-    grid-template-rows: auto;
+    // display: grid;
+    // grid-template-rows: auto;
 
 }
 
@@ -271,6 +271,7 @@ a {
     display: flex;
     flex-direction: row;
     border-radius: 8px;
+    margin-bottom: 8px;
 }
 
 .tldr-text{
@@ -312,7 +313,7 @@ a {
 
 .about-me-top-left {
     
-    width:100%;
+    width:33%;
     padding: 24px;
     box-shadow: $box-shadow-yellow;
     margin:$margin;
@@ -342,6 +343,21 @@ a {
     font-size: 12px;
     width: 60%;
 }
+
+.home-proj-area {
+    height: 428px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    column-gap: 12px;
+    margin: 0px 6px;
+}
+
+.home-proj {
+    background-color: blue;
+    border-radius: $border-radius;
+    height: 100%;
+}
+
 
 .asides {
     float:right;

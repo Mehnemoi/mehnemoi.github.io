@@ -1293,8 +1293,8 @@ a {
     }
 }
 .about-me-text{
-    display: grid;
-    grid-template-rows: auto;
+    // display: grid;
+    // grid-template-rows: auto;
 
 }
 
@@ -1352,7 +1352,7 @@ a {
 
 .about-me-top-left {
     
-    width:100%;
+    width:33%;
     padding: 24px;
     box-shadow: $box-shadow-yellow;
     margin:$margin;
@@ -1382,6 +1382,22 @@ a {
     font-size: 12px;
     width: 60%;
 }
+
+.home-proj-area {
+    height: 428px;
+    background-color: red;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin: 0px 6px;
+}
+
+.home-proj {
+    background-color: blue;
+    border-radius: $border-radius;
+    height: 100%;
+    wi
+}
+
 
 .asides {
     float:right;
@@ -1811,7 +1827,7 @@ $callout-color-warning: $white;
     border-style: solid;
     border-width: 0px 0px 0px 4px;
     border-color: $yellow;
-    padding
+    padding-left: 8px;
 }
 
 
