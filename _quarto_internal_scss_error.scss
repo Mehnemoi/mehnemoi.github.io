@@ -1247,12 +1247,11 @@ a {
     margin-bottom: -15px;
 }
 .big-text {
-    font-size: 4.3vw;
+    font-size: 48px;
+   
     line-height: 0.85;
-    width: 260px;
     margin-left: -3.7px;
     margin-bottom: 20px;
-    max-width: 300px;
    
     p {
         padding: 5px 0px;
@@ -1311,15 +1310,31 @@ a {
     display: flex;
     flex-direction: row;
     border-radius: 8px;
+    margin-bottom: 8px;
 }
 
 .tldr-text{
-    background-color: $research-red;
     box-shadow: $box-shadow-yellow;
     margin:$margin;
     border-radius: $border-radius;
-    font-size: 14px;
-    padding: 24px;
+    font-size: 16px;
+    padding: 9px;
+    width: 70%;
+    line-height: 24px;
+}
+
+.home-img {
+    background-color: red;
+    width: 30%;
+    max-height: 100%;
+    margin:$margin;
+    border-radius: $border-radius;
+
+    img {
+        object-fit: cover;
+        min-height: 200px;
+        border-radius: $border-radius;
+    }
 }
 
 .fun-corner{
@@ -1384,18 +1399,34 @@ a {
 }
 
 .home-proj-area {
-    height: 428px;
-    background-color: red;
+    height: 368px;
     display: grid;
     grid-template-columns: repeat(2,1fr);
+    column-gap: 12px;
     margin: 0px 6px;
 }
 
 .home-proj {
-    background-color: blue;
     border-radius: $border-radius;
-    height: 100%;
-    wi
+    height: 368px;
+    border-radius: 4px;
+    padding-bottom: 25px;
+    padding: 10px 10px;
+    min-width:200px;
+    width: 100%;
+    margin-right:15px;
+    margin-bottom: 15px;
+    // from: https://www.w3schools.com/css/css3_images.asp
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    img {
+        width: min(400px, 60vw);
+    }
+}
+
+.home-proj-content {
+    background-color: red;
+    padding
 }
 
 
@@ -1716,6 +1747,12 @@ $callout-color-warning: $white;
 
 .proj-description {
     font-size: 10px;
+    width: 100%;
+}
+
+.proj-description-big {
+    margin-top: -20px;
+    font-size: 24px;
     width: 100%;
 }
 

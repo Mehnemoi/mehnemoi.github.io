@@ -2,7 +2,7 @@
 
 ::::::: {.about-me-top}
 
-:::::{.about-me-top-left}
+<!-- :::::{.about-me-top-left}
 
 ::: {.about-me-image}
 
@@ -25,7 +25,7 @@ Kaitlynn Gray
 
 :::
 
-:::::
+::::: -->
 
 
 
@@ -33,10 +33,28 @@ Kaitlynn Gray
 
 ::::{.tldr}
 :::{.tldr-text}
-**I am creative, intelligent, driven, and curious.** 
 
-If that sounds like the qualities of someone you’d like on your team, I’d love to connect. 
+:::{.big-text}
+I'm Kaitlynn Gray
 :::
+
+Nice to meet you! **I am creative, intelligent, driven, and curious.**  If that sounds like the qualities of someone you’d like on your team, I’d love to connect. 
+
+::: {.links}
+
+[GitHub](https://github.com/Mehnemoi) 
+[LinkedIn](https://www.linkedin.com/in/kaitlynn-gray) 
+[Email](mailto:kagray@g.hmc.edu) 
+
+:::
+
+:::
+
+:::{.home-img}
+![](images/headshot-zoomed.JPEG)
+:::
+
+
 
 <!-- :::{.fun-corner}
 I'm happy that you are here!
@@ -49,11 +67,55 @@ I'm happy that you are here!
 ::::{.home-proj-area}
 
 :::{.home-proj}
-hi
+
+
+
+
+
+::: {.proj-title}
+
+UI Design + Frontend Development
+
+:::
+::: {.proj-description-big}
+Gradescope Calendar
+
+:::
+
+::: {.proj-description}
+**Skills:** Canva, HTML, CSS, React, JavaScript
+
+:::
+
+[![](/projects/gradescope-cal/images/GCalFinalFinalUI.png)](GradescopeCalendar.qmd)
+
+<!-- next project -->
 :::
 
 :::{.home-proj}
-hey
+
+
+
+
+
+::: {.proj-title}
+
+Product Design + Human Centered Design
+
+:::
+::: {.proj-description-big}
+Skin Care Key
+
+:::
+
+::: {.proj-description}
+**Skills:** Human Centered Design, User Research, Product Design
+
+:::
+
+[![](/projects/HCD-skin-care/images/HCD-skin-care-KG/HCDDP14243.jpg)](HCDPersonalCare.qmd)
+
+
 :::
 
 ::::
