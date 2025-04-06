@@ -32,7 +32,7 @@ website:
 format:
   html:
     theme: styles-adv.scss
-    mainfont: IBM Plex Mono
+    mainfont: Lexend #IBM Plex Mono
     #css: styles.css
     toc: false
 
