@@ -87,7 +87,7 @@ Gradescope Calendar
 
 :::
 
-[![](/projects/gradescope-cal/images/GCalFinalFinalUI.png)](GradescopeCalendar.qmd)
+[![](/projects/gradescope-cal/images/GCalFinalFinalUI.png)](tab-design/GradescopeCalendar.qmd)
 
 <!-- next project -->
 :::
@@ -113,7 +113,7 @@ Skin Care Key
 
 :::
 
-[![](/projects/HCD-skin-care/images/HCD-skin-care-KG/HCDDP14243.jpg)](HCDPersonalCare.qmd)
+[![](/projects/HCD-skin-care/images/HCD-skin-care-KG/HCDDP14243.jpg)](tab-design/HCDPersonalCare.qmd)
 
 
 :::

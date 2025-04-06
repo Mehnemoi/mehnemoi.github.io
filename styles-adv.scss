@@ -904,6 +904,16 @@ $callout-color-warning: $white;
   
 // Design page
 
+.triple-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+
+.UI-grid {
+    // background-color: red;
+}
+
 .graphic-design-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
