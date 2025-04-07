@@ -32,6 +32,10 @@ Kaitlynn Gray
 ::::: {.about-me-text}
 
 ::::{.tldr}
+:::{.home-img}
+![](images/headshot-zoomed.JPEG)
+:::
+
 :::{.tldr-text}
 
 :::{.big-text}
@@ -50,9 +54,7 @@ Nice to meet you! **I am creative, intelligent, driven, and curious.**  If that 
 
 :::
 
-:::{.home-img}
-![](images/headshot-zoomed.JPEG)
-:::
+
 
 
 

@@ -1041,7 +1041,9 @@ $theme-name: null !default;
 
 
 // Import font
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+//CODE FONT: @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
 
 // colors
 $white:  #ffffff !default;
@@ -1199,6 +1201,7 @@ $circle-radius: 150px;
 .home {
     //margin-top: -40px;
     height: 80vh;
+    bac
 }
 
 // changing font color of footer
@@ -1359,10 +1362,9 @@ a {
 .about-me-top {
     display: flex;
     flex-direction: left;
-    min-width:73vw;
     height:85vh;
     min-height: 550px;
-    
+    background-color: red;
 }
 
 .about-me-top-left {
@@ -1408,25 +1410,24 @@ a {
 
 .home-proj {
     border-radius: $border-radius;
-    height: 368px;
+    height: 400px;
     border-radius: 4px;
     padding-bottom: 25px;
     padding: 10px 10px;
     min-width:200px;
-    width: 100%;
-    margin-right:15px;
+    width: fit-content;
     margin-bottom: 15px;
     // from: https://www.w3schools.com/css/css3_images.asp
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
     img {
         width: min(400px, 60vw);
+        height: 240px;
     }
-}
 
-.home-proj-content {
-    background-color: red;
-    padding
+    img:hover{
+        filter: brightness(80%);
+    }
 }
 
 
@@ -1946,12 +1947,23 @@ $callout-color-warning: $white;
   
 // Design page
 
+.triple-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 16px;
+}
+
+.UI-grid {
+    // background-color: red;
+}
+
 .graphic-design-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     grid-template-rows: repeat(auto-fill, minmax(200px, 1fr));
     grid-gap: 10px;
 }
+
 
 // Heading font size customization
 $h1-font-size: 2rem !default;
@@ -4125,7 +4137,7 @@ $nested-kbd-font-weight:            null !default; // Deprecated in v5.2.0, remo
 $pre-bg:                            $code-bg  !default;
 $pre-color:                         $body-emphasis-color !default;
 $pre-line-height:                   $line-height-base !default;
-$font-family-base: "IBM Plex Mono";
+$font-family-base: Lexend;
 
 
 
