@@ -1,0 +1,65 @@
+{
+  "about.qmd": {
+    "about.html": "5f1a4ba8"
+  },
+  "index-v0.qmd": {
+    "index-v0.html": "6fd542d1"
+  },
+  "index.qmd": {
+    "index.html": "f40545e7"
+  },
+  "projects/CACTI-logo/index.qmd": {
+    "index.html": "cc3cae95"
+  },
+  "projects/gradescope-cal/index.qmd": {
+    "index.html": "76af4183"
+  },
+  "projects/HCD-skin-care/index.qmd": {
+    "index.html": "17a0ee0e"
+  },
+  "projects/index.qmd": {
+    "index.html": "7ebac233"
+  },
+  "projects/MUSE/index.qmd": {
+    "index.html": "2566043c"
+  },
+  "tab-code/ClothSim.qmd": {
+    "ClothSim.html": "22c2365a"
+  },
+  "tab-code/index.qmd": {
+    "index.html": "dbcac35b"
+  },
+  "tab-code/MUSE.qmd": {
+    "MUSE.html": "cc9f81b0"
+  },
+  "tab-code/Noise.qmd": {
+    "Noise.html": "a6b49dc9"
+  },
+  "tab-code/SkyGame.qmd": {
+    "SkyGame.html": "4b7e0b75"
+  },
+  "tab-design/GraphicDesign.qmd": {
+    "GraphicDesign.html": "7e71433a"
+  },
+  "tab-design/HCDPersonalCare.qmd": {
+    "HCDPersonalCare.html": "4658c611"
+  },
+  "tab-design/index.qmd": {
+    "index.html": "fb6fe42f"
+  },
+  "tab-research/index.qmd": {
+    "index.html": "e20cb831"
+  },
+  "tab-research/mango.qmd": {
+    "mango.html": "48a907e7"
+  },
+  "tab-template/index.qmd": {
+    "index.html": "542a4c48"
+  },
+  "tab-about-me/index.qmd": {
+    "index.html": "d3ae486e"
+  },
+  "tab-design/GradescopeCalendar.qmd": {
+    "GradescopeCalendar.html": "198f1317"
+  }
+}
