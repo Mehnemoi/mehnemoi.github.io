@@ -1,0 +1,144 @@
+::: {.home}
+
+::::::: {.about-me-top}
+
+<!-- :::::{.about-me-top-left}
+
+::: {.about-me-image}
+
+![](images/headshot-zoomed.JPEG)
+:::
+
+::: {.medium-text}
+Hi! I'm
+:::
+
+::: {.big-text}
+Kaitlynn Gray
+:::
+
+::: {.links}
+
+[GitHub](https://github.com/Mehnemoi) 
+[LinkedIn](https://www.linkedin.com/in/kaitlynn-gray) 
+[Email](mailto:kagray@g.hmc.edu) 
+
+:::
+
+::::: -->
+
+
+
+::::: {.about-me-text}
+
+::::{.tldr}
+:::{.home-img}
+![](images/headshot-zoomed.JPEG)
+:::
+
+:::{.tldr-text}
+
+:::{.big-text}
+I'm Kaitlynn Gray
+:::
+
+Nice to meet you! I am a **designer, researcher, and programmer** with [strong creative skills](tab-design/). If I sound like someone you’d like on your team, I’d love to connect. 
+
+::: {.links}
+
+[GitHub](https://github.com/Mehnemoi) 
+[LinkedIn](https://www.linkedin.com/in/kaitlynn-gray) 
+[Email](mailto:kagray@g.hmc.edu) 
+
+:::
+
+:::
+
+
+
+
+
+<!-- :::{.fun-corner}
+I'm happy that you are here!
+
+::: -->
+
+::::
+
+
+::::{.home-proj-area}
+
+:::{.home-proj}
+
+::: {.proj-title}
+
+UI Design + Frontend Development
+
+:::
+::: {.proj-description-big}
+Gradescope Calendar
+
+:::
+
+::: {.skills}
+**Skills:** Canva, HTML, CSS, React, JavaScript
+
+:::
+
+[![](/projects/gradescope-cal/images/GCalFinalFinalUI.png)](tab-design/GradescopeCalendar.qmd)
+
+<!-- next project -->
+:::
+
+:::{.home-proj}
+
+
+::: {.proj-title}
+
+Human Centered Design + Frontend Design and Development
+
+:::
+::: {.proj-description-big}
+MUSE
+
+:::
+
+::: {.skills}
+**Skills:** Human Centered Design, JavaScript, HTML, CSS, Figma
+
+:::
+
+[![](tab-code/assets/MUSEMainUI.png)](tab-code/MUSE.qmd)
+
+
+:::
+
+::::
+
+
+
+<!-- ::: {.proj-title}
+
+Product Design + Human Centered Design
+
+:::
+::: {.proj-description-big}
+Skin Care Key
+
+:::
+
+::: {.skills}
+**Skills:** Human Centered Design, User Research, Product Design
+
+:::
+
+[![](/projects/HCD-skin-care/images/HCD-skin-care-KG/HCDDP14243.jpg)](tab-design/HCDPersonalCare.qmd)
+
+
+:::
+
+:::: -->
+
+
+
+:::::::
