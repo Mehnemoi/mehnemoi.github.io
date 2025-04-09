@@ -42,7 +42,7 @@ Kaitlynn Gray
 I'm Kaitlynn Gray
 :::
 
-Nice to meet you! **I am creative, intelligent, driven, and curious.**  If that sounds like the qualities of someone you’d like on your team, I’d love to connect. 
+Nice to meet you! I am a **designer, researcher, and programmer** with [strong creative skills](tab-design/). If I sound like someone you’d like on your team, I’d love to connect. 
 
 ::: {.links}
 
@@ -70,10 +70,6 @@ I'm happy that you are here!
 
 :::{.home-proj}
 
-
-
-
-
 ::: {.proj-title}
 
 UI Design + Frontend Development
@@ -84,7 +80,7 @@ Gradescope Calendar
 
 :::
 
-::: {.proj-description}
+::: {.skills}
 **Skills:** Canva, HTML, CSS, React, JavaScript
 
 :::
@@ -97,10 +93,31 @@ Gradescope Calendar
 :::{.home-proj}
 
 
-
-
-
 ::: {.proj-title}
+
+Human Centered Design + Frontend Design and Development
+
+:::
+::: {.proj-description-big}
+MUSE
+
+:::
+
+::: {.skills}
+**Skills:** Human Centered Design, JavaScript, HTML, CSS, Figma
+
+:::
+
+[![](tab-code/assets/MUSEMainUI.png)](tab-code/MUSE.qmd)
+
+
+:::
+
+::::
+
+
+
+<!-- ::: {.proj-title}
 
 Product Design + Human Centered Design
 
@@ -110,7 +127,7 @@ Skin Care Key
 
 :::
 
-::: {.proj-description}
+::: {.skills}
 **Skills:** Human Centered Design, User Research, Product Design
 
 :::
@@ -120,7 +137,7 @@ Skin Care Key
 
 :::
 
-::::
+:::: -->
 
 
 

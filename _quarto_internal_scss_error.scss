@@ -1089,10 +1089,16 @@ $box-shadow-yellow: none; //0 4px 8px 0 $yellow, 0 6px 20px 0 $research-red-t;
     background-color: $research-red-t;
 }
 
+//background color
 .quarto-container {
-    // background-image: linear-gradient(to bottom right, $white, $yellow-t);
-    background-color: $white;
+    //background-image: linear-gradient(135deg, $white 75%, $research-red);
+    //background-color: red;
 }
+
+
+
+
+
 
 //active link
 $link-color: $black;
@@ -1178,19 +1184,24 @@ $circle-radius: 150px;
 //Scroll bar
 /* width */
 ::-webkit-scrollbar {
-    width: 15px;
+    width: 16px;
     height: 15px;
+    
   }
   
-  /* Track 
+  /* Track */
   ::-webkit-scrollbar-track {
-  
-  }*/
+    // background-color: red;
+ 
+  }
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
     background: $black; 
     border-radius: 8px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: white;
   }
   
   /* Handle on hover */
@@ -1201,7 +1212,6 @@ $circle-radius: 150px;
 .home {
     //margin-top: -40px;
     height: 80vh;
-    bac
 }
 
 // changing font color of footer
@@ -1279,7 +1289,7 @@ a {
         text-decoration: none;
         font-size: 12.8px;
         padding: 10px 5%;
-        margin-right: -3px;
+        margin-right: 4px;
     }
 
     a:hover {
@@ -1287,11 +1297,17 @@ a {
     }
 }
 
+// .about-me-container {
+//     display: flex;
+//     flex-direction: row;
+// }
+
 .about-me-image {
+    margin:$margin;
     img{
-        min-height: 200px;
         height:48vh;
         object-fit: cover;
+        border-radius: $border-radius;
     }
 }
 .about-me-text{
@@ -1307,6 +1323,7 @@ a {
     border-radius: $border-radius;
     padding: 24px;
     overflow-y: scroll;
+    width: 75%;
 }
 
 .tldr {
@@ -1322,21 +1339,19 @@ a {
     border-radius: $border-radius;
     font-size: 16px;
     padding: 9px;
-    width: 70%;
+    width: 60%;
     line-height: 24px;
 }
 
 .home-img {
-    background-color: red;
-    width: 30%;
-    max-height: 100%;
+    width: 200px;
+    max-height: 100px;
     margin:$margin;
-    border-radius: $border-radius;
 
     img {
         object-fit: cover;
         min-height: 200px;
-        border-radius: $border-radius;
+        border-radius: 100px;
     }
 }
 
@@ -1363,8 +1378,8 @@ a {
     display: flex;
     flex-direction: left;
     height:85vh;
+    min-width: 70vw;
     min-height: 550px;
-    background-color: red;
 }
 
 .about-me-top-left {
@@ -1402,15 +1417,16 @@ a {
 
 .home-proj-area {
     height: 368px;
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
+    display: flex;
+    flex-direction: row;
+    //grid-template-columns: repeat(2,1fr);
     column-gap: 12px;
     margin: 0px 6px;
 }
 
 .home-proj {
     border-radius: $border-radius;
-    height: 400px;
+    height:fit-content; //400px;
     border-radius: 4px;
     padding-bottom: 25px;
     padding: 10px 10px;
@@ -1422,14 +1438,17 @@ a {
 
     img {
         width: min(400px, 60vw);
-        height: 240px;
     }
 
     img:hover{
-        filter: brightness(80%);
+        //filter: brightness(80%);
+        opacity: 80%;
     }
 }
 
+.skills {
+    font-size: 12px;
+}
 
 .asides {
     float:right;
@@ -1600,6 +1619,32 @@ a {
         grid-template-rows: repeat(6, 1fr);
         min-width: 100%;
     }
+
+    .home-proj-area {
+        flex-direction: column;
+    }
+    .home-proj{
+        width: 100%;
+
+        img{
+            width: 100%;
+        }
+    }
+
+    .big-text{
+        ma
+    }
+    .tldr-text{
+        width: 100%;
+    }
+    .main-text {
+        width: 100%;
+    }
+
+    .tldr{
+        flex-direction: column;
+    }
+
 }
 
 .tab-desc {
@@ -1620,6 +1665,7 @@ a {
             display: block;
             font-size:12px;
             margin-bottom: 8px;
+            margin-right: 4px;
             width: 100%;
             max-width: 300px;
         }
@@ -1767,7 +1813,7 @@ $callout-color-warning: $white;
         text-decoration: none;
         font-size: 10px;
         padding: 8px 10px;
-        margin-right: -3px;
+        margin-right: 4px;
         margin-bottom: 0px;
         border-radius: 4px;
     }
@@ -1857,7 +1903,7 @@ $callout-color-warning: $white;
 
 .code-proj-desc{
     margin-top: 20px;
-    font-size: 12px;
+    font-size: 14px;
     width: 66%;
 }
 
@@ -1954,7 +2000,9 @@ $callout-color-warning: $white;
 }
 
 .UI-grid {
-    // background-color: red;
+    img {
+        // height: 200px;
+    }
 }
 
 .graphic-design-container {

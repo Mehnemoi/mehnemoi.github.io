@@ -46,7 +46,7 @@ Diversity-Hire Narrative: Impacts and Mitigation Strategies
 
 ::: {.proj-description}
 
-Published in ICER '23. Researched the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and ways to prevent harmful effects from hearing this narrative. 
+Published in ICER '23. Researched the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and ways to prevent harmful effects from hearing this narrative. [Image source](https://icon-icons.com/icon/acm-logo/145528)
 
 **What I did:** Qualitatively analyzed 23 interviews for themes and main ideas using SaturateApp. Proofread and edited our published paper. Presented our findings at my school's summer research symposium. Designed the layout for the research poster under "Poster PDF".
 
@@ -89,7 +89,7 @@ Being a First Year Undergrad in Human-Centered Research
 
 ::: {.proj-description}
 
-Published in ACM's IX Interactions. A blog post discussing our experience with overcoming imposter syndrome during our summer research project. 
+Published in ACM's IX Interactions. A blog post discussing our experience with overcoming imposter syndrome during our summer research project. [Image Source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fpages%2Finteractions-magazine%2F22329129970&psig=AOvVaw1ku9VajBs7_bDvW78ujJB6&ust=1744280821343000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJDg7MjeyowDFQAAAAAdAAAAABAE)
 
 **What I did:** I helped write a portion of the blog!
 
@@ -138,12 +138,13 @@ Gradescope Calendar
 
 A website where students can see the assignments due for all of their courses on an online assignment tracking tool. Part of an entrepreneurship summer research project.
 
-**What I did:** Designed the UI for all of the pages in Canva, programmed the UI for the weekly assignments page using React, HTML, JavaScript, and CSS. Designed our research poster and presented our project to staff, faculty, and community members. Learn more *here [link to Gradescope UI on Design page]*.
+**What I did:** Designed the UI for all of the pages in Canva, programmed the UI for the weekly assignments page using React, HTML, JavaScript, and CSS. Designed our research poster and presented our project to staff, faculty, and community members.
 
 :::
 
 :::{.project-links}
 [Project Slides PDF](resources/gradescope.pdf)
+[Project Page](../tab-design/GradescopeCalendar.qmd)
 :::
 
 :::

@@ -51,7 +51,7 @@ $box-shadow-yellow: none; //0 4px 8px 0 $yellow, 0 6px 20px 0 $research-red-t;
 
 //background color
 .quarto-container {
-    background-image: linear-gradient(135deg, $white 75%, $research-red);
+    //background-image: linear-gradient(135deg, $white 75%, $research-red);
     //background-color: red;
 }
 
@@ -144,19 +144,24 @@ $circle-radius: 150px;
 //Scroll bar
 /* width */
 ::-webkit-scrollbar {
-    width: 15px;
+    width: 16px;
     height: 15px;
+    
   }
   
-  /* Track 
+  /* Track */
   ::-webkit-scrollbar-track {
-  
-  }*/
+    // background-color: red;
+ 
+  }
    
   /* Handle */
   ::-webkit-scrollbar-thumb {
     background: $black; 
     border-radius: 8px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: white;
   }
   
   /* Handle on hover */
@@ -244,7 +249,7 @@ a {
         text-decoration: none;
         font-size: 12.8px;
         padding: 10px 5%;
-        margin-right: -3px;
+        margin-right: 4px;
     }
 
     a:hover {
@@ -252,11 +257,17 @@ a {
     }
 }
 
+// .about-me-container {
+//     display: flex;
+//     flex-direction: row;
+// }
+
 .about-me-image {
+    margin:$margin;
     img{
-        min-height: 200px;
         height:48vh;
         object-fit: cover;
+        border-radius: $border-radius;
     }
 }
 .about-me-text{
@@ -272,6 +283,7 @@ a {
     border-radius: $border-radius;
     padding: 24px;
     overflow-y: scroll;
+    width: 75%;
 }
 
 .tldr {
@@ -374,7 +386,7 @@ a {
 
 .home-proj {
     border-radius: $border-radius;
-    height: 400px;
+    height:fit-content; //400px;
     border-radius: 4px;
     padding-bottom: 25px;
     padding: 10px 10px;
@@ -386,14 +398,17 @@ a {
 
     img {
         width: min(400px, 60vw);
-        height: 240px;
     }
 
     img:hover{
-        filter: brightness(80%);
+        //filter: brightness(80%);
+        opacity: 80%;
     }
 }
 
+.skills {
+    font-size: 12px;
+}
 
 .asides {
     float:right;
@@ -564,6 +579,32 @@ a {
         grid-template-rows: repeat(6, 1fr);
         min-width: 100%;
     }
+
+    .home-proj-area {
+        flex-direction: column;
+    }
+    .home-proj{
+        width: 100%;
+
+        img{
+            width: 100%;
+        }
+    }
+
+    .big-text{
+        margin-top: 90px;
+    }
+    .tldr-text{
+        width: 100%;
+    }
+    .main-text {
+        width: 100%;
+    }
+
+    .tldr{
+        flex-direction: column;
+    }
+
 }
 
 .tab-desc {
@@ -584,6 +625,7 @@ a {
             display: block;
             font-size:12px;
             margin-bottom: 8px;
+            margin-right: 4px;
             width: 100%;
             max-width: 300px;
         }
@@ -731,7 +773,7 @@ $callout-color-warning: $white;
         text-decoration: none;
         font-size: 10px;
         padding: 8px 10px;
-        margin-right: -3px;
+        margin-right: 4px;
         margin-bottom: 0px;
         border-radius: 4px;
     }
@@ -821,7 +863,7 @@ $callout-color-warning: $white;
 
 .code-proj-desc{
     margin-top: 20px;
-    font-size: 12px;
+    font-size: 14px;
     width: 66%;
 }
 
@@ -918,7 +960,9 @@ $callout-color-warning: $white;
 }
 
 .UI-grid {
-    // background-color: red;
+    img {
+        // height: 200px;
+    }
 }
 
 .graphic-design-container {
