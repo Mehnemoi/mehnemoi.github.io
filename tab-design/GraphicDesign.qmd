@@ -2,26 +2,23 @@
 Graphic Design
 :::
 
-:::::::{}
 
-::::: {layout-ncol=3}
+::::: {.graphic-design-container}
 
-:::{.column}
+:::{.gd-column}
 ![](assets-visual/5CIVdirectionsPoster.png){.lightbox}
 
 ![](assets-visual/5CIVwelcomePoster.png){.lightbox}
 
 ![](assets-visual/CribRaces.png){.lightbox}
 
-![](assets-visual/2027.png){.lightbox}
-
 ![](assets-visual/YouWillFindRest.png){.lightbox}
 
-![](assets-visual/Faves.png){.lightbox}
+
 
 :::
 
-:::{.column}
+:::{.gd-column}
 ![](assets-visual/HMC20251Back.png){.lightbox}
 
 ![](assets-visual/HMC20251Front.png){.lightbox}
@@ -31,14 +28,17 @@ Graphic Design
 ![](assets-visual/HMC20252Front.png){.lightbox}
 :::
 
-:::{.column}
+:::{..gd-column}
 ![](assets-visual/HopeAndDream.png){.lightbox}
+
+![](assets-visual/2027.png){.lightbox}
 
 ![](assets-visual/Papercrafting.png){.lightbox}
 
-![](assets-visual/Renewal.png){.lightbox}
-
 ![](assets-visual/Trends.png){.lightbox}
+
+![](assets-visual/Faves.png){.lightbox}
+
+![](assets-visual/Renewal.png){.lightbox}
 :::
 :::::
-:::::::

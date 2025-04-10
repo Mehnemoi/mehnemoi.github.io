@@ -1585,67 +1585,6 @@ a {
 }
 
 
-@media only screen and (max-width: 768px) {
-    .tab-body {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-        grid-template-rows: repeat(4, 1fr);
-        min-width: 100%;
-    }
-
-    .tab-body-research {
-        grid-template-columns: repeat(1, minmax(0, 1fr));
-        grid-template-rows: repeat(6, 1fr);
-        min-width: 100%;
-    }
-
-    .project-container {
-        min-width: 100%;
-    }
-
-    .proj-image {
-        max-height: 200px;
-
-        img {
-            height: 35vh;
-        }
-    }
-
-}
-
-
-@media only screen and (max-width: 600px) {
-    .tab-body {
-        grid-template-columns: repeat(1, minmax(0, 1fr));
-        grid-template-rows: repeat(6, 1fr);
-        min-width: 100%;
-    }
-
-    .home-proj-area {
-        flex-direction: column;
-    }
-    .home-proj{
-        width: 100%;
-
-        img{
-            width: 100%;
-        }
-    }
-
-    .big-text{
-        ma
-    }
-    .tldr-text{
-        width: 100%;
-    }
-    .main-text {
-        width: 100%;
-    }
-
-    .tldr{
-        flex-direction: column;
-    }
-
-}
 
 .tab-desc {
     padding-right: 8px;
@@ -1904,7 +1843,7 @@ $callout-color-warning: $white;
 .code-proj-desc{
     margin-top: 20px;
     font-size: 14px;
-    width: 66%;
+    width: 100%;
 }
 
 .left-border {
@@ -2007,9 +1946,81 @@ $callout-color-warning: $white;
 
 .graphic-design-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    grid-template-rows: repeat(auto-fill, minmax(200px, 1fr));
-    grid-gap: 10px;
+    grid-template-columns: repeat(3, 1fr); //minmax(200px, 1fr)
+    grid-gap: 8px;
+}
+
+.gd-column{
+    display: flex;
+    flex-direction: column;
+}
+
+@media only screen and (max-width: 768px) {
+    .tab-body {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-rows: repeat(4, 1fr);
+        min-width: 100%;
+    }
+
+    .tab-body-research {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        grid-template-rows: repeat(6, 1fr);
+        min-width: 100%;
+    }
+
+    .project-container {
+        min-width: 100%;
+    }
+
+    .proj-image {
+        max-height: 200px;
+
+        img {
+            height: 35vh;
+        }
+    }
+
+}
+
+
+@media only screen and (max-width: 600px) {
+    .tab-body {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        grid-template-rows: repeat(6, 1fr);
+        min-width: 100%;
+    }
+
+    .home-proj-area {
+        flex-direction: column;
+    }
+    .home-proj{
+        width: 100%;
+
+        img{
+            width: 100%;
+        }
+    }
+
+    .big-text{
+        margin-top: 90px;
+    }
+    .tldr-text{
+        width: 100%;
+    }
+    .main-text {
+        width: 100%;
+    }
+
+    .tldr{
+        flex-direction: column;
+    }
+
+    .graphic-design-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .gd-column
+
 }
 
 
