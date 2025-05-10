@@ -1,0 +1,304 @@
+[
+  {
+    "objectID": "tab-template/index.html",
+    "href": "tab-template/index.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Template\n\n\nI’m a Computer Science major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).\n\n\n\n\nhey\n\n\nresearch\n\n\nHarvey Mudd? Think of a small, liberal arts STEM school known for student collaboration"
+  },
+  {
+    "objectID": "tab-research/index.html",
+    "href": "tab-research/index.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Research\n\n\nA collection of research projects and publications.\nI enjoy spending long amounts of time understanding how people are impacted by things made by people or systems people live under. There is a publication or two in there…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDiversity-Hire Narrative: Impacts and Mitigation Strategies [Published - ICER ’23]\n\n\n\n\n\n\nChristopher Perdriau, Vidushi Ojha, Kaitlynn T. Gray, Brent Lagesse, Colleen M Lewis\n\n\nPublished in ICER ’23. Researched the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and ways to prevent harmful effects from hearing this narrative. Image source\nWhat I did: Qualitatively analyzed 23 interviews for themes and main ideas using SaturateApp. Proofread and edited our published paper. Presented our findings at my school’s summer research symposium. Designed the layout for the research poster under “Poster PDF”.\n\n\nPublication Poster PDF\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nBeing a First Year Undergrad in Human-Centered Research [Published - ACM iX Interactions 2025]\n\n\n\n\n\n\nLily Anfang, Maya Flynn, Kaitlynn Gray, Ethan Sandoval\n\n\nPublished in ACM’s IX Interactions. A blog post discussing our experience with overcoming imposter syndrome during our summer research project. Image Source\nWhat I did: I helped write a portion of the blog!\n\n\nBlog Post ACM Publication\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGradescope Calendar\n\n\n\n\n\n\nCaleb Wheeler, Arisa Cowe, Kaitlynn Gray\n\n\nA website where students can see the assignments due for all of their courses on an online assignment tracking tool. Part of an entrepreneurship summer research project.\nWhat I did: Designed the UI for all of the pages in Canva, programmed the UI for the weekly assignments page using React, HTML, JavaScript, and CSS. Designed our research poster and presented our project to staff, faculty, and community members.\n\n\nProject Slides PDF Project Page\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCACTI Lab Research Group\n\n\n\n\n\n\nLily Anfang, Maya Flynn, Kaitlynn Gray, Ethan Sandoval\n\n\nA project exploring how disability and climate change overlap, such as how climate disasters impact disabled people.\nWhat I did: Read/listened to A LOT of academic articles, research papers, online blogs, and podcasts about climate change and disability (about 70). Summarized their findings and methods. Grouped readings by theme and identified trends. Also designed the cute logo you see!\n\n\nWebsite",
+    "crumbs": [
+      "Research"
+    ]
+  },
+  {
+    "objectID": "tab-design/HCDPersonalCare.html",
+    "href": "tab-design/HCDPersonalCare.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Personal Care Project\n\n\nKaitlynn Gray\n\n\nCourse: Human Centered Design\nTools: Empathizing, Defining, Ideating, Prototyping, Testing\n\n\n\n\n\n\nDescription\nThis project focused on designing a product to improve a person’s morning routine. I designed a product for Dez, a person who found their skin-care routine an important part of their morning routine. Dez shared how they were frustrated with the process of choosing skin care products for this routine because these products were expensive and may not actually help their skin. In response, I designed an information booklet that could be attached to skin care products that shared information about its impacts on people’s skin. See Product Features for more details.\nAt the end of the project I shared my designed booklet with Dez and tested how the booklet influenced her feelings towards buying a hypothetical skin care product. They shared that my designed booklet made them feel pretty confident about purchasing the product because it was transparent and honest.\n\nProduct Features\n\nA price scale to show how the price compares to other products\nA product description to share what the product does\nKey ingredients and a description of what they do\nTwo user reviews with\n\nTheir picture, name, and age\nInformation about the user’s skin\nA quote sharing how long they used the product and how it affected their skin\nBefore and after pictures\n\n^ One positive review and one review suggesting another product in the same skin care line\nA page for other suggested products based on a person’s skin type\n\n\n\n\n\nDesign Process\n\nBackground and Empathizing\nThis project started as a choose-your-own-adventure within the scope of designing for a person’s morning routine. To help get a sense of what self-care routines looked like in general, I participated in doing live interviews in the Claremont Village with my Human-Centered Design class. We chose the Claremont Village since it had many health and beauty businesses within a small area. I then conducted five interviews on my own with friends and family to better understand what a morning routine looked like, and places it could be improved.\n\n\nNeedfinding and Ideating\nI then used these interviews to identify two types of people (users) I wanted to create a product for. I highlighted who they were, what they needed, and an insight from their interview that could help address this need. Next, I came up with questions on how I would address their needs and insight. I used these questions to come up with ideas for potential products (and using Chat-GPT 3.5 for assistance). I chose to prototype a booklet with key features about a skin care product.\n\n\n\nPrototyping\nI chose each of these features to help users have a better understanding of how the product may affect their skin type. Each feature is meant to make it easier for users to understand if a product works for them. If the product doesn’t seem to match their needs, there are suggested products they can look at next.\n\n\nTesting\nFinally, I tested my product with my user, one of the people I wanted to create a product for. We did the product test over FaceTime. During the test, I had the user imagine they were buying a skin care product in a health and beauty store. I then introduced the booklet and had them share how the booklet impacted their feelings about buying the skin care product.\n\n\n\nReflection\nOverall, my user said they felt pretty confident about purchasing the product because the booklet was transparent and honest. She also felt that buyers are worried about what products they buy. Buyers may go to extreme lengths to figure out what a product will do, even if they have to brave negative skin effects.\nTherefore, it was impactful to simply know what a product would do to her skin before risking her skin health."
+  },
+  {
+    "objectID": "tab-design/GradescopeCalendar.html",
+    "href": "tab-design/GradescopeCalendar.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Gradescope Calendar UI Design\n\n\nKaitlynn Gray, Caleb Wheeler, Arisa Cowe\n\n\nProject: Harvey Mudd College Summer Start-Up\nTools: React, Bootstrap, HTML, CSS, JavaScript\n\n\n\n\n\n\nContext\nGradescope Calendar is a website my team and I created that organizes due dates from Gradescope, an online tool where instructors can assign assignments and exams. We created, programmed, practiced pitching, and presented this project under the Summer Start-Up program during our Summer 2022 research project at Harvey Mudd College.\n\n\nProblem\nProposed by my teammate Caleb Wheeler, our team shared frustrations with interacting with Gradescope for our college assignments. Many of our college courses used Gradescope to communicate assignment due dates. However, we needed to manually go into each course page to see each due date to plan for our assignments. This became tedious over the semester, as it required us to consistently check each page to ensure we didn’t miss assignments.\nOur team created Gradescope Calendar so students can see all of their upcoming Gradescope assignments in one place at one time.\nWhile others have created similar projects, such as one titled “Gradescope Scheduler,” ours was unique as it relied on providing users with a visual representation of their assignments that they could interact with. Gradescope Scheduler required users to use the terminal to obtain their Gradescope data, which reduced the accessibility of their product. Our project desired to promote ease of use by only requiring users to log in using their Gradescope credentials.\n\n\nDesign Process\n\n\nUI Overview\nI designed the first iteration of the monthly calendar and weekly overview in Canva. These designs included the base-level information our website should display, including buttons to download the calendar to Google or Apple Calendar and sign out.\n\nColor\n\n\n\n\nColor palette generated in Coolors.co. Source\n\n\n\n\n\nGradescope’s 2022 Logo. Image source\n\n\n\nI wanted to create a visual tie between our website and Gradescope through using the color and font from the Gradescope logo. I used my favorite color palette generator website, coolors.co to create a palette based off of the key green color used in the Gradescope logo and website. I then researched fonts that looked similar to the font used in the Gradescope logo to use in our website. I opted to douse the background in the key Gradescope green to emphasize the connection between our website and Gradescope.\nI needed to make sure that the colors I chose would be distinguishable if our users had some level of color blindness. I used the color blindness tool in coolors to see how the colors may appear to those with different color perceptions to ensure the palette would be accessible to these users.\n\n\nStructure\nMy designs consistently include elements with round borders which may make it feel more inviting to interact with our website. Since this background was vibrant, I wanted to make sure users could still focus on our presented content. Thus, each grouping of content was placed in white containers with a box shadow to make it seem it was floating off the screen. This would allow the user to focus on the content and still experience the Gradescope green background.\n\n\n\nMonthly Calendar\n\nInitial Design\n\nWhen designing the monthly calendar, I opted for a standard calendar layout where each date displayed thin cards representing assignments due that day. This way, users could immediately see which days had assignments due, and better prepare for assignment heavy days. Users would be able to click tabs below the calendar to highlight assignments from specific classes. This way, users could still have the option of focusing on assignment deadlines for one class.\nI then included a side panel with information about the assignments due that week organized by day. This included the course of the assignment and its due time.\nMy teammate Arisa Cowe programmed the Monthly Overview UI into our app:\n\n\n\nIteration!\n\n\n\n\nFirst iteration of the Monthly Calendar\n\n\n\n\n\nSecond iteration of the Monthly Calendar\n\n\n\nI liked how this implementation made use of the entire screen. However, I noticed how users would have to scroll through each date in the calendar to view all assignments. I also noticed that the date and assignment list looked very similar in the side panel.\nIn my next iteration of the monthly overview, I wanted to use more space, like in the above implementation, make it clearer to see all the assignments within each calendar square, and make a clearer distinction between the date and list of assignments in the side panel\nOn the calendar side, I expanded the space for the calendar, included the day of the week at the top of the calendar, and introduced cards that would squish to fill the space in each square. This way, users would know what day the assignment was due and see all the assignments without scrolling.\nThe side panel saw the most change. I alternated the background colors for each list item to more clearly see each assignment. I then included the full course name shown on Gradescope so users can accurately match the information presented here and on Gradescope itself. Finally, I separated the due time for each assignment and aligned them to the right so users could view the due times (the most important information) in one glance.\n\n\n\nWeekly Overview\n\nInitial Design\n\nI designed the weekly overview to display more information about the assignments shown in the side panel and allow for more interactivity with the assignments.\nI wanted to use a table to align the class name, assignment, and time due while keeping this information spaced out for clear viewing. This way, users could move their eyes to their section of choice (ex: time due), and glance up or down to see more information under this category. Each day would be highlighted in the light teal bar on that date, so users could be visually directed to the assignments due that day.\nThe key motivation behind Gradescope Calendar was to get key information about assignments and their due dates to users faster. Therefore, I highlighted the time due column in teal so users could quickly find this information. I also included a next assignment widget to the right so users could immediately see the next assignment that needs their attention.\n\n\nIteration! Part One\n\n\n\n\nFirst iteration of the Weekly Overview\n\n\n\n\n\nSecond iteration of the Weekly Overview\n\n\n\nIn this next iteration I wanted to allow for users to interact with the list items. I included a design for a crossing out and highlighting function. For instance, if a user finished an assignment, I wanted them to be able to cross out that line and gray-out the text to reduce visual attention to that line. Or, if a student wanted to prioritize a selection of assignments, I wanted them to be able to select and highlight that line so they were visually drawn to that line. I designed a second widget on the right displaying the selected assignments and the time remaining until its due date.\nI also wanted to distinguish quizzes and exams from general homework to highlight when these significant tasks were approaching. To do this, I highlighted rows with quizzes and exams in orange. Orange contrasts with the teal, causing users to be drawn to this line and become aware of this important information.\n\n\nIteration! Part Two\n\n\n\n\nSecond iteration of the Weekly Overview\n\n\n\n\n\nThird iteration of the Weekly Overview\n\n\n\nI incorporated alternating list highlighting in the same light teal shown on the monthly overview page. So, I updated the color of selected assignments to the light green as it helped distinguish alternating lines from selected lines and was not associated with a course.\nI included an “all courses” widget with a button for each of the user’s courses. Each included large rectangular backgrounds to convey to the user that they were clickable buttons. The background colors matched the colors each course was associated with on the monthly overview page. When clicked, the button would become the concentrated color displayed on their left border to communicate to the user that assignments from these courses would be highlighted (see the “Introduction to Biology” button under the “all courses” widget). The respective courses in the weekly overview list would also be highlighted in this concentrated color to create a visual tie between the action (clicking the button) and result (highlighting the respective courses).\nWith these additions, Gradescope Calendar could be more than a calendar - it could be a tool to track completed assignments and help draw attention to specific assignments to focus on.\n\n\n\n\nEnd Product\n\n\nMy final design is the most effective as it leans more into placing key information towards the top of the page: the current day/week/month and upcoming assignments. The visual design is clean - the bright white boxes focus the user on the main content, while the large margins between content help to split up all the information presented to the user. This allows them to feel less overwhelmed with the amount of information. Furthermore, interactions with the list items can be clearly distinguished.\nI included more information about the current time period, buttons to navigate to past and future weeks. I included the month and year at the top with the specific week range so users would know the exact week they were looking at when navigating to past and future weeks. To complement this functionality, I placed a “today’s date” widget at the top right. Thus, users could keep track of the current date as they flipped between weeks. Since Gradescope Calendar has a foundation as a calendar, I wanted to ensure information about the displayed date of assignments was clearly shown.\nOverall, this design achieved Gradescope Calendar’s goal of delivering Gradescope assignment deadlines to users faster as it displayed the assignments for all courses at once. The vibrant visuals, separation of information, and design choices to prevent assignments from blending together ensured users could visually conceptualize their Gradescope assignments and thus better prepare for their academic work schedules.\n\n\nWhat I Learned\nThis project was the first time I seriously learned how to do UI design. I only had about 2 years of design experience at this point, and many of my designs focused on being aesthetically pleasing. This project taught me to ask “why” when including elements in my designs. I needed to be intentional about the colors I used, the information I showed versus hid, and how I could guide the user through the interface. As such, I needed to do a lot of iteration. Nevertheless, I am proud of how I was able to produce a clean UI that balanced both aesthetics and effectively communicating information."
+  },
+  {
+    "objectID": "tab-code/Noise.html",
+    "href": "tab-code/Noise.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Noise Generator + Art\n\n\nKaitlynn Gray\n\n\nCourse: Computer Graphics\nTools: Python\n\n\n\n\n\nDescription\nStarted by programming random noise (think TV static). We built on this to create other types of noise. These types of noise are used in computer graphics to create textures like clouds, glows, and randomly generated terrain.\n\n\nScreenshots\n\n\nWhite Noise\n\n\n\n\nProgrammed random noise.\n\n\n\nValue Noise\n\n\n\n\nProgrammed value noise.\n\n\n\nArt Noise\n\n\n\n\nUsed the different types of noise to make art."
+  },
+  {
+    "objectID": "tab-code/index.html",
+    "href": "tab-code/index.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Code\n\n\nA collection of programming projects.\nAs a computer science major, I’ve gotten to work on a variety of programming projects. I like to build websites and games.\n\n\n\n\n\n\n\n\nMUSE\n\n\nA digital DJ board where users can play colors as music.\n\n\nProject Page\n\n\n\n\n\n\n\n\n\nCloth Simulator\n\n\nAn interactive digital cloth with varying colors, shapes, and effects. A remix of a pygame cloth simulator.\n\n\nProject Page\n\n\n\n\n\n\n\n\n\nSky Game\n\n\nA game I created in my Introduction to Computer Science class. Inspired by the game Sky: Children of the Light.\n\n\nProject Page\n\n\n\n\n\n\n\n\n\nNoise Generator + Art\n\n\nProgrammed different types of static noise.\n\n\nProject Page\n\n\n\n\n\n\n\n\n\nRaytracing\n\n\nKaitlynn Gray (with much help from Ryan Nguyen, Marwan Bit and Professor Carter Slocum)\nProgrammed a raytracer in C++ to display colors, shapes, and overlapping/intersecting objects. [Course: Computer Graphics]",
+    "crumbs": [
+      "Code"
+    ]
+  },
+  {
+    "objectID": "tab-about-me/index.html",
+    "href": "tab-about-me/index.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Who am I?\n\n\nI’m a Computer Science major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).\n\n\nHarvey Mudd? Think of a small, liberal arts STEM school known for student collaboration\n\n\nMy favorite projects have a strong technical and artistically creative component. Design projects are this golden mix of this.\nBut, I also love research.\n\n\nIt’s why I’ve spent the last three summers doing research.\n\n\nI am drawn to projects with a human-centered focus - I am deeply curious about how products and systems impact the people interacting with them.\n\n\nThat’s broad, yes! But it allows me to apply it to a multitude of projects. Whatever project I am on, I am going to care about the humans involved.\n\n\nI thrive in team-based projects where I am in charge of the visuals of a project - specifically making sure information is communicated clearly and aesthetically.\nI love taking the knowledge I gained and turning it into a visual document so that others can appreciate these findings.\nFor me, design isn’t just about making things pretty, it is about creating a product that most effectively reflects the person/people/community I am designing for. I do this by valuing the feedback of my clients.",
+    "crumbs": [
+      "About Me"
+    ]
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are projects I have completed that showcase key skills in programming and design.\nImage next to each project description too small? Click on it to see an enlarged version!"
+  },
+  {
+    "objectID": "projects/index.html#product-design-for-personal-grooming",
+    "href": "projects/index.html#product-design-for-personal-grooming",
+    "title": "Projects",
+    "section": "Product Design for Personal Grooming",
+    "text": "Product Design for Personal Grooming\n\n\nHere I used the human-centered design process to redesign the personal grooming process for a specific user. Click here to learn about each stage of the process.\nIn this project I showcase the process of:\n\nEmpathizing\nDefining\nIdeating\nPrototyping\nTesting"
+  },
+  {
+    "objectID": "projects/index.html#gradescope-calendar",
+    "href": "projects/index.html#gradescope-calendar",
+    "title": "Projects",
+    "section": "Gradescope Calendar",
+    "text": "Gradescope Calendar\n\n\nHere, I collaborated with 2 computer science students to create a web application to help students plan for assignments. I designed the UI for the site and programmed the “Weekly Assignments” page. Learn more here.\nIn this project I showcase:\n\nExperience in website development\nUI design in Canva\nCollaboration skills"
+  },
+  {
+    "objectID": "projects/gradescope-cal/index.html",
+    "href": "projects/gradescope-cal/index.html",
+    "title": "Gradescope Calendar",
+    "section": "",
+    "text": "In this project I:\n\nDesigned the UI for four pages\n\nLogin page\nMonthly Overview page\nWeekly Assignments page\nWelcome page\n\nProgrammed the Weekly Assignments page using React, HTML, CSS, and Bootstrap\nGained experience working in a team where I had a dedicated programmer + designer role\nLearned how to keep a detailed documentation of my work\nDemonstrated perseverance and tenacity by pushing through the website development learning curve\n\nSee the sections below to learn more about this process."
+  },
+  {
+    "objectID": "projects/gradescope-cal/index.html#overview",
+    "href": "projects/gradescope-cal/index.html#overview",
+    "title": "Gradescope Calendar",
+    "section": "",
+    "text": "In this project I:\n\nDesigned the UI for four pages\n\nLogin page\nMonthly Overview page\nWeekly Assignments page\nWelcome page\n\nProgrammed the Weekly Assignments page using React, HTML, CSS, and Bootstrap\nGained experience working in a team where I had a dedicated programmer + designer role\nLearned how to keep a detailed documentation of my work\nDemonstrated perseverance and tenacity by pushing through the website development learning curve\n\nSee the sections below to learn more about this process."
+  },
+  {
+    "objectID": "projects/gradescope-cal/index.html#background",
+    "href": "projects/gradescope-cal/index.html#background",
+    "title": "Gradescope Calendar",
+    "section": "Background",
+    "text": "Background\nWelcome! This is a summer research project I collaborated on in Summer 2022. My team of 3 created a product called Gradescope Calendar to help with Gradescope assignment organization at the Claremont Colleges in California. Gradescope is a platform where teachers can assign homework, quizzes, and tests to students. Students can submit these through Gradescope and recieve detailed feedback. While Gradescope makes it easy to see when assigned items are due, these items are separated by classes. Thus, students must look at one class at a time in Gradescope and track assigned items using their own methods. Gradescope Calendar streamlines this process by presenting all assigned items for all classes on one screen. All though a similar project, Gradescope Scheduler, exists, our product promoted ease of use by not requiring users to use backend processes to access the information.\n\n\n\nSee the research poster I designed for the team to learn more about the project!\n\n\nI designed the UI for the site, but my main objective was to implement the Weekly Assignments page. This page displayed all the assign items due for a specific week, separated by the day. Users could:\n\nview past and future weeks of due dates for assigned items\nclearly see when the next assignment is due\n\nand the time remaining to submit it\n\ncheck off assigned items to highlight them\ncross out assigned items to strike them out and\nhighlight assigned items by course."
+  },
+  {
+    "objectID": "projects/gradescope-cal/index.html#ui-design",
+    "href": "projects/gradescope-cal/index.html#ui-design",
+    "title": "Gradescope Calendar",
+    "section": "UI Design",
+    "text": "UI Design\n\n\nIn this section you can see the UI designs I made for Gradescope Calendar using Canva. If you are familiar with Gradescope, you will notice the iconic Gradescope green used as a primary color throughout. I intentionally chose this color scheme to create a strong visual tie to the Gradescope platform for users. This visual tie would help communicate that Gradescope Calendar was to be used alongside Gradescope, rather than be separate from.\n\n\n\n\nColor palatte (Generated on coolors.co)\n\n\n\n\n\nLogin Page\nThis image includes the current UI of the login screen, as well as one of its previous iterations for comparision.\n\n\n\nLogin page\n\n\n\n\nMonthly Overview Page\nBelow are three versions of the Monthly Overview page: the regular mode, dark mode, and the first iteration of the design. On this page users can visualize all of the assignments due for the month, including a separate window for assignments due that week. Users can use the “view by class” buttons to view assigned items for a specific class only. They could then download the calendar data to import into the digital calendar of their choice. Or, they could navigate the weekly assignents page!\n\n\n\nRegular UI\n\n\n\n\n\n\n\nDark mode\n\n\n\n\n\n\nInitial design\n\n\n\n\n\n\nWeekly Assignments Page\n\n\nHere, I showcase three iterations of the Weekly Assignments page. The image below showcases the final version.\nBecause of how frequently I edit and update my designs, I have started a habit of keeping track of previous states. This helps me to understand how far the design has come and also have an accessible record of past assets I can use in later iterations. Most importantly, this frees me from being afraid of making major changes to the design - leading to more daring design decisions.\n\n\n\n\nVersion 1\n\n\n\n\n\nVersion 2\n\n\n\n\n\n\n\nFinal Version: This page displays items assigned to me earlier in the school year during the week of Feburary 6th, 2022. Here, I have highlighted all assignments from my “Introduction to Biology” class. I demonstrate the crossing-out option and checking-off functionalities.\n\n\n\n\nWelcome Page\nThis page did not end up being used, but would have served as the “face” of Gradescope Calendar. Users would see this page when navigating to the site.\n\n\n\nWelcome page"
+  },
+  {
+    "objectID": "projects/gradescope-cal/index.html#programming-development",
+    "href": "projects/gradescope-cal/index.html#programming-development",
+    "title": "Gradescope Calendar",
+    "section": "Programming Development:",
+    "text": "Programming Development:\n\nDocumentation\nThroughout the process I kept a detailed documentation of my work and journey as an emerging web developer. In this document I included screenshots of previous states, areas of challenge and triumph, and resources I used for help.\n\n\n\n\n\n\n\n\n\nExample of detailed written documentation\n\n\n\n\n\n\n\nExample of documenting links\n\n\n\n\n\n\n\nExample of documenting screenshots\n\n\n\n\n\n\n\nThe Learning Process\n\nWeb Development Crash Course\nAt the beginning of this summer research project, I had minimal web development experience. I knew how to make basic HTML elements like divs and buttons, and how to navigate to different pages. Beyond that, not much.\nLuckily, my research advisor set us up for success. My first assignment was to create a web app using Flask.\nMy Flask app began as a single page with a table holding information about characters from Sailor Moon, my favorite series. (picture). It then evolved to have multiple pages of content where users could. Throughout this process I learned how to:\n\ncreate a button that changed another element\nuse scripting to\n\nchange the title of a page\ncontrol the CSS properties using a button\nreverse an inputed string and output the result on the screen\n\ncall actions based on what is typed into a field\ncall APIs using fetch\ncreate a dynamically resizing page\n\n\nThe images and captions below demonstrate this process:\n\n\n\n\n\n\n\n\n\nThe beginning state of my wesbite. Just a table with characters from Sailor Moon and their superhero name.\n\n\n\n\n\n\n\nFirst major CSS update of my wesbite! Added more content to my table.\n\n\n\n\n\n\n\nExpanded the site to have multiple pages.\n\n\n\n\n\n\n\n\n\nAdded more pages to my site\n\n\n\n\n\n\n\nAdded even more pages to my site and added a stary background.\n\n\n\n\n\n\n\nCreated widget where users can input image size dimensions and recieve a link to a cat picture with those dimensions from a cat image API.\n\n\n\n\n\n\n\n\n\nCreated another widget where users can input a color and have the background change to match.\n\n\n\n\n\n\n\nLearning how to add and create function checkboxes and radio buttons.\n\n\n\n\n\n\n\nMajor CSS update to the site, leaning into the space and science theme. Creating a dynamicaly responsive homepage\n\n\n\n\n\n\n\n\nSuccessfully implemented Anime Quotes API!\n\n\n\n\nPutting it all together\nTo test my newly learned skils, I wanted to create a page that can:\n\ntake in information\nuse text boxes\ndisplay something recieved from an API\n\nSee the images and captions below:\n\n\n\n\n\nFirst I created an initial form to take in formation. Implemented a check box.\n\n\n\n\n\n\nChanged what information I would request from the user. Updated the UI to bring back the space element.\n\n\n\n\n\nImplemented dynamic resizing.\n\n\n\n\n\n\n\nFinal version of the Welcome page with a successful implementation of a random quotes API!\n\n\nThese skills were instrumental in my developlement of the Weekly Assignments page."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "I’m Kaitlynn Gray\n\nNice to meet you! I am a designer, researcher, and programmer with strong creative skills. If I sound like someone you’d like on your team, I’d love to connect.\n\nGitHub LinkedIn Email\n\n\n\n\n\n\n\nUI Design + Frontend Development\n\n\nGradescope Calendar\n\n\nSkills: Canva, HTML, CSS, React, JavaScript\n\n\n\n\n\n\nHuman Centered Design + Frontend Design and Development\n\n\nMUSE\n\n\nSkills: Human Centered Design, JavaScript, HTML, CSS, Figma",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index-v0.html",
+    "href": "index-v0.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Hi! I’m\n\n\nKaitlynn Gray\n\n\nGitHub LinkedIn Email\n\n\n\n\n\nprogrammer\n\n\n\ndesigner\n\n\n\nresearcher\n\n\n\n\n\nI’m a Computer Science major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).\n\n\nHarvey Mudd? Think of a small, liberal arts STEM school known for student collaboration\n\n\nMy favorite projects have a strong technical and artistically creative component. Design projects are this golden mix of this.\nBut, I also love research.\n\n\nIt’s why I’ve spent the last three summers doing research.\n\n\nI am drawn to projects with a human-centered focus - I am deeply curious about how products and systems impact the people interacting with them.\n\n\nThat’s broad, yes! But it allows me to apply it to a multitude of projects. Whatever project I am on, I am going to care about the humans involved.\n\n\nI thrive in team-based projects where I am in charge of the visuals of a project - specifically making sure information is communicated clearly and aesthetically.\nI love taking the knowledge I gained and turning it into a visual document so that others can appreciate these findings.\nFor me, design isn’t just about making things pretty, it is about creating a product that most effectively reflects the person/people/community I am designing for. I do this by valuing the feedback of my clients.\nI am creative, intelligent, driven, and curious.\nIf that sounds like the qualities of someone you’d like on your team, I’d love to connect.\n\n\n\n\nI am a:\n\n\n\n\n\n\n\nprogrammer\n\n\n\n\n\n\nAs a computer science major, I’ve gotten to work on a variety of programming projects. I like to build websites and games.\n\n\n\n\n\n\n\ndesigner\n\n\n\n\n\n\nI’ve been a graphic designer for the past five years. Creating graphics feels like a puzzle - it is very satisfying to learn new ways I can communicate information visually.\n\n\n\n\n\n\n\nresearcher\n\n\n\n\n\nI enjoy spending long amounts of time understanding how people are impacted by things made by people or systems people live under. There is a publication or two in there…"
+  },
+  {
+    "objectID": "projects/CACTI-logo/index.html",
+    "href": "projects/CACTI-logo/index.html",
+    "title": "Product Design for Personal Grooming",
+    "section": "",
+    "text": "https://www.canva.com/learn/questions-to-ask-when-designing-a-logo/"
+  },
+  {
+    "objectID": "projects/CACTI-logo/index.html#problem-statement-goals-objectives",
+    "href": "projects/CACTI-logo/index.html#problem-statement-goals-objectives",
+    "title": "Product Design for Personal Grooming",
+    "section": "",
+    "text": "https://www.canva.com/learn/questions-to-ask-when-designing-a-logo/"
+  },
+  {
+    "objectID": "projects/CACTI-logo/index.html#questions",
+    "href": "projects/CACTI-logo/index.html#questions",
+    "title": "Product Design for Personal Grooming",
+    "section": "Questions",
+    "text": "Questions\nWhat is your company name? What industry sector is it in? How would you describe your company and the products and services you offer? In five words or less, can you summarize(opens in a new tab or window) the feel of your company? What are the unique selling points, features and/or benefits of your products/service? Is there a story behind how your brand came about? Do tell…\nAnswers: CACTI Lab Human Computer Interaction Research + Climate change and disability Offering an exploration into how climate change impacts disabled people globally Fresh, Analytical, Creative, Curious, We are looking at how and why climate change effects those with disability which is currently a new field What is the story behind the name CACTI lab?\n# preliminary research Fresh, Analytical, Creative, Curious…\nBook worm but cactus and research\nSo actually cacti mostly hosts birds and insects are the things that put the cacti at risk….. hmmmmm"
+  },
+  {
+    "objectID": "projects/HCD-skin-care/index.html",
+    "href": "projects/HCD-skin-care/index.html",
+    "title": "Product Design for Personal Grooming",
+    "section": "",
+    "text": "Want to understand what I did in a nutshell?\n\n\nIn this project I:\n\nConducted 5 interviews\nIdentified 3 needs from 3 different users\nGenerated 2 Point-of-Views (POVs) for two of these needs\nGenerated 100 ideas for a potential product to address the two POVs (in collaboration with Chat-GPT 3.5)\nSketched 3-5 products to prototype\nPrototyped one product with 3 different participants, including the user I designed for\nReflected on this process, noting what I would like to change and improve.\n\nSee the sections below to learn more about this process."
+  },
+  {
+    "objectID": "projects/HCD-skin-care/index.html#overview",
+    "href": "projects/HCD-skin-care/index.html#overview",
+    "title": "Product Design for Personal Grooming",
+    "section": "",
+    "text": "Want to understand what I did in a nutshell?\n\n\nIn this project I:\n\nConducted 5 interviews\nIdentified 3 needs from 3 different users\nGenerated 2 Point-of-Views (POVs) for two of these needs\nGenerated 100 ideas for a potential product to address the two POVs (in collaboration with Chat-GPT 3.5)\nSketched 3-5 products to prototype\nPrototyped one product with 3 different participants, including the user I designed for\nReflected on this process, noting what I would like to change and improve.\n\nSee the sections below to learn more about this process."
+  },
+  {
+    "objectID": "projects/HCD-skin-care/index.html#problem-statement-goals-objectives",
+    "href": "projects/HCD-skin-care/index.html#problem-statement-goals-objectives",
+    "title": "Product Design for Personal Grooming",
+    "section": "Problem Statement, Goals, Objectives",
+    "text": "Problem Statement, Goals, Objectives\n\nFor this assignment in my Human Centered Design class, my goal was to redesign the personal grooming experience for another person. I designed a product for the user in POV #1 below.\n\nI was encouraged to consider extreme perspectives such as those with dedicated time for personal grooming or those who rarely engaged with it.\nI was given about a week to complete this assignment and document my process in a small accordion-styled journal. Images of some of the pages are included below."
+  },
+  {
+    "objectID": "projects/HCD-skin-care/index.html#empathize",
+    "href": "projects/HCD-skin-care/index.html#empathize",
+    "title": "Product Design for Personal Grooming",
+    "section": "Empathize",
+    "text": "Empathize\nMy project began with empathizing with potential users. My class split into small teams to conduct live on-the-ground interviews in the Claremont Village in Claremont, which has over 10 spas, barbershops, hair salons, and other personal grooming services.\nAfterward, I conducted 5 interviews with 5 different individuals to understand their process of getting ready in the morning. These interviews have been redacted for privacy reasons.\n\nFor instance, what facial products do they use, if any?\nIn what order did they complete tasks, and what tasks did they complete first?\nAnd, how would they describe their feelings about certain parts of these experiences?\n\nFrom these interviews, I documented 3 surprising and interesting quotes that I would use to help define needs for and insights from my potential users."
+  },
+  {
+    "objectID": "projects/HCD-skin-care/index.html#define",
+    "href": "projects/HCD-skin-care/index.html#define",
+    "title": "Product Design for Personal Grooming",
+    "section": "Define",
+    "text": "Define\nIn the next step of the process, I used the insights I gained from my interviews to generate 3 needs from 3 different users:\n\nNeed # 1: A need to know how a skin care product will affect the skin before making an investment\nNeed # 2: A need to restore calm in the morning to destress the morning commute and view the day at a glance\nNeed # 3: A need for a collection of quick and nice hairstyles to do under a time constraint\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrom these three needs, I generated two point-of-views (POVs) to understand who I would be designing for, their needs, and insight behind those needs to help formulate my final product.\n\nPOV #1: College Student\n[User] A 20-year-old young woman in college who manages and contributes to her household finances and cares deeply about the health of her skin.\n[Needs] To understand and feel confident about how a skin-care product will affect her skin before making the financial investment to try a new skin-care product.\n[Insight] Finding the right skin care product requires immense trial and error. Unlike makeup, skincare products don’t have in-store samples that produce immediate results. Thus, this is a potentially expensive process that may produce undesirable results and/or lead to wasted funds that can be otherwise allocated to things like household expenses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPOV #2: Working Mother\n[User] A 50-year-old working mother whose morning routine ends once she arrives at work.\n[Needs] A way to maintain calm she establishes earlier during the commute portion of her routine.\n[Insight] Her morning routine spans a few hours from getting up to finally putting on lipstick at work. While she uses the Calm App to establish calm throughout the routine, it is not effective during the morning commuter portion as GPS interrupts it."
+  },
+  {
+    "objectID": "projects/HCD-skin-care/index.html#ideate",
+    "href": "projects/HCD-skin-care/index.html#ideate",
+    "title": "Product Design for Personal Grooming",
+    "section": "Ideate",
+    "text": "Ideate\nTo prepare for the ideation step, I generated several “How Might We” questions for both users defined in the POVs above.\n\nPOV #1: How Might We?\n\n\n\nHow might we reduce the financial cost of trying on new skincare products?\n\n\nHow might we allow people to learn about a skin care product’s effects before making a purchase?\n\n\nHow might we train in-store associates to better help people in search of skin care products?\n\n\n\nHow might we collect specific reviews of skin care products that are most relevant to users?\n\n\nHow might we craft the skin care purchasing experience to produce more immediate results?\n\n\n\n\n\nPOV #2: How Might We?\n\n\n\nHow might we bring the calm established earlier in the morning to later in the day?\n\n\nHow might we increase the effectiveness of the Calm App during the morning routine?\n\n\nHow might we make the morning commute portion of the routine more calm?\n\n\nHow might we integrate the Calm App with GPS functionality?\n\n\nHow might we make her care more relaxing?\n\n\n\nHow might we develop an action as part of getting ready that introduces calm?\n\n\nHow might we develop a product that can substitute for the Calm App?\n\n\nHow might we integrate lasting calm across the morning?\n\n\nHow might make planning for the day feel less overwhelming?\n\n\n\nFrom these questions, I generated 100 ideas: 50 ideas for each idea using my own ideas and generated ideas from Chat-GPT 3.5.\n\n\nPOV #1 Ideas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPOV #2 Ideas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProduct Sketch\nFrom these ideas I sketched a few products I would like to prototype."
+  },
+  {
+    "objectID": "projects/HCD-skin-care/index.html#prototype",
+    "href": "projects/HCD-skin-care/index.html#prototype",
+    "title": "Product Design for Personal Grooming",
+    "section": "Prototype",
+    "text": "Prototype\nI generated a prototype for my POV #1 user. I designed a booklet that shared:\n\nthe price range of a skin-care product,\na positive review,\na review that suggests another product in the company line that may work better,\nan ingredients list with impacts on the skin,\nsuggested other products, before and after photos for each user showcased, and\na large picture of the product on the front so people can easily match it to the product.\n\nFor the POV #2 prototyped product, I would have liked to test the GPS navigation with the meditation voice integration. Here I would have explored the “maximize calm” portion of my solution for POV #2.\nIf I went with this prototype I wondered:\n\nHow might we clearly differentiate between the guided meditation and instructions if they are using the same voice?\nFurthermore, how might we ensure users are actively listening to the navigation the entire time?"
+  },
+  {
+    "objectID": "projects/HCD-skin-care/index.html#test",
+    "href": "projects/HCD-skin-care/index.html#test",
+    "title": "Product Design for Personal Grooming",
+    "section": "Test",
+    "text": "Test\nI tested my POV #1 prototype with 3 people, including the user I was designing for.\nEach tester is asked to imagine they are looking for a skincare product to buy and have the booklet for a product they may be interested in.\nBut how did the user I was designing for feel about it? My user liked how specific the user views were. Additionally, she liked how with each key ingredient there was a description of why it was in the product and what it does. She thought it was easy to read."
+  },
+  {
+    "objectID": "projects/HCD-skin-care/index.html#solution",
+    "href": "projects/HCD-skin-care/index.html#solution",
+    "title": "Product Design for Personal Grooming",
+    "section": "Solution",
+    "text": "Solution\nWith the insights gained from the previous stages in the design process, the solution to improve the personal grooming process for those who heavily rely on skin-care products is to aid in streamlining this process.\n\nSpecifically, improving the experience of finding skin-care products to reduce the financial and physical investment into these products."
+  },
+  {
+    "objectID": "projects/HCD-skin-care/index.html#impact",
+    "href": "projects/HCD-skin-care/index.html#impact",
+    "title": "Product Design for Personal Grooming",
+    "section": "Impact",
+    "text": "Impact\nMy user says she felt pretty confident about purchasing the product because the booklet was transparent and honest. She also felt that consumers are worried about their product purchases - they may go to extreme lengths to figure out what a product will do, even if they have to brave negative consequences.\nShe shared a negative experience she had with this trial-and-error process.\n\nTherefore, it was impactful to simply know what a product would do to her skin before risking her skin."
+  },
+  {
+    "objectID": "projects/HCD-skin-care/index.html#reflection",
+    "href": "projects/HCD-skin-care/index.html#reflection",
+    "title": "Product Design for Personal Grooming",
+    "section": "Reflection",
+    "text": "Reflection\nIf I had more time, I have spent less of it worrying about making the project “perfect.” I would have liked to formulate a better POV #2 as its relevant notes after the interview felt very rushed.\nI learned to let go of things I thought I needed. For example, I became focused on adding images to the point that I did not continue on the main parts of the project. I would have liked to go back to the ideate steps for POV #2 because I felt the Chat-GPT ideas were more of idea starters than ideas themselves. Each idea it presented felt like the body of a “How Might We” question."
+  },
+  {
+    "objectID": "projects/MUSE/index.html#wireframing",
+    "href": "projects/MUSE/index.html#wireframing",
+    "title": "MUSE",
+    "section": "Wireframing",
+    "text": "Wireframing"
+  },
+  {
+    "objectID": "projects/MUSE/index.html#testing",
+    "href": "projects/MUSE/index.html#testing",
+    "title": "MUSE",
+    "section": "Testing",
+    "text": "Testing"
+  },
+  {
+    "objectID": "projects/MUSE/index.html#results",
+    "href": "projects/MUSE/index.html#results",
+    "title": "MUSE",
+    "section": "Results",
+    "text": "Results"
+  },
+  {
+    "objectID": "tab-code/ClothSim.html",
+    "href": "tab-code/ClothSim.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Cloth Simulator\n\n\nKaitlynn Gray, Ryan Nguyen, Kishore Rajesh\n\n\nCourse: Computer Graphics\nTools: Python, PyGame\n\n\nCode Flow\nPresentation\nGitHub Repository\n\n\n\n\n\nDescription\nWe built off of a cloth simulator created using PyGame, a Python library to create games. Our project focused on styling the cloth by adding colors, a double sided feature, background effects, and silly particle effects.\nI worked on calculating how to create a double-sided effect on the cloth, designed the final patterns for the cloth, and programmed the background color to change based on which side of the cloth was showing.\nIn my own time I implemented 2D “spheres” that replace the cloth patches with a ball that can change orientation.\n\n\nScreenshots\n\n\nOriginal Cloth\n\n\n\n\nThe original cloth simulator before we added our edits. See the original creator here.\nImage from our Slide Presentation.\n\n\n\n2D Sphere Effect\n\n\n\n\nMy 2D sphere effect that makes the cloth look puffy.\n\n\n\nPink Pep Effect\n\n\n\n\nA pink puffy jacket effect to the cloth.\n\n\n\nPurple Pep Effect\n\n\n\n\nA purple puffy jacket effect to the cloth.\n\n\n\nSherbert Effect\n\n\n\n\nA puffy overlay to the cloth with puffs shifting from pink to yellow.\n\n\n\nSparkle Effect\n\n\n\n\nAdding sparkles to the cloth."
+  },
+  {
+    "objectID": "tab-code/MUSE.html",
+    "href": "tab-code/MUSE.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "MUSE\n\n\nEshanya Agrawal, Deniz Bajin, Zariah Folkes, Kaitlynn Gray\n\n\nCourse: Computational Design Tools\nTools: HTML, CSS, JavaScript\n\n\nPaper\nDesign Documentation\nGitHub Repository\n\n\n\n\n\nDescription\nMUSE is a digital DJ board website. MUSE is a tool for people to better understand how different parts of sound relate to each other. This is to provide a foundation for those interested in producing music. We help visualize these different parts by associating sound with color.\nSo, instead of playing music tracks, users can play colors as sounds. Users can change the tint and saturation of the colors using sliders. These sliders also impact the sound of the color - changing tint changes the speed, and changing saturation changes the volume. This allows users to see the visual impacts of changing parts of sound. We hope that by connecting a visual change with altering sound, users can better understand how the speed and volume change a music track.\nUsers can play two colors at once to create a sound mixture and save them.\n\n\nScreenshots\n\n\nWelcome Page\n\n\n\n\nOur welcome screen with the logo designed by Eshanya.\n\n\n\nMain Page\n\n\n\n\nUsers select one of the colors in the middle of the screen to play on each of the larger disks.\nThe colors on the disks mix and show up as the smaller disk between the large ones.\n\n\n\nSaved Colors Page\n\n\n\n\nHere users can see all of the color mixtures they have saved.\n\n\n\nHelp Page\n\n\n\n\nTeaches users how to use MUSE."
+  },
+  {
+    "objectID": "tab-code/SkyGame.html",
+    "href": "tab-code/SkyGame.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Sky Game\n\n\nKaitlynn Gray\n\n\nCourse: Introduction to Computer Science\nTools: VPython\n\n\nPlay Game\n\n\n\n\n\nDescription\nAn interactive game I built based off of thatgamecompany’s Sky: Children of the Light. In my game, players are a ball of light. Using the WASD or IJKL arrow keys, they must try to get to the yellow ball in the distance. However, they must beware of the enemies that stand in their way: a sneaky krill and mischievous crabs who want to steal their light.\nMy favorite parts were programming the glow effect under the player, building the characters, and creating the space theme in the game.\nTo win: Reach the yellow light in the distance before a crab touches it To lose: Crab reaches the light first or player gets thrown of the map by a krill\n\nObstacles\nCrab nest: If the crab enters the crab cave, it will call for back up. A horde of crabs will surround the player. If the player touches then, they will be teleported to a random spot on the map. Be careful not to get trapped in the nest!\nKrill: An enemy that will follow the player if they enter its blue circle. If the player is hit, they will be thrown off the map.\n\n\nControls\nWASD / IJKL: movement up, left, down, right\nM / m: set speed to zero\nN / n: float upwards\nE / e: float downwards\nSpace: teleport to center of map\n\n\n\nScreenshots\n\n\nKrill Attack\n\n\n\n\nPlayer entered the Krill’s circle.\n\n\n\nGame Play\n\n\n\n\nPlayer lost their light and lost the game."
+  },
+  {
+    "objectID": "tab-design/GraphicDesign.html",
+    "href": "tab-design/GraphicDesign.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Graphic Design"
+  },
+  {
+    "objectID": "tab-design/index.html",
+    "href": "tab-design/index.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Design\n\n\nA collection of product design and graphic design projects.\nI’ve been a graphic designer for the past five years. Creating graphics feels like a puzzle - it is very satisfying to learn new ways I can communicate information visually.\n\n\n\n\n\n\n\n\nGradescope Calendar UI\n\n\nI designed the UI for a website where students can see the assignments due for all of their courses on an online assignment tracking tool.\n\n\nProject Page\n\n\n\n\n\n\n\n\n\nPersonal Care Project\n\n\nCreated a product to improve the process of getting ready in the morning by helping to make choosing skincare products easier.\n\n\nProject Page\n\n\n\n\n\n\n\n\n\nGraphic Design\n\n\nA collection of graphic design projects I’ve worked on.\n\n\nSee All\n\n\n\n\n\n\n\n\n\nSilent Sky Theatre Program\n\n\nA theatre program I designed in Canva for a student production of the play Silent Sky.\n\n\nProgram PDF\n\n\n\n\n\n\n\n\n\nCACTI Lab Logo\n\n\nA logo I designed in Canva for my summer research group.",
+    "crumbs": [
+      "Design"
+    ]
+  },
+  {
+    "objectID": "tab-research/mango.html",
+    "href": "tab-research/mango.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "mango"
+  }
+]
