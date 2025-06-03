@@ -102,7 +102,7 @@ A collection of graphic design projects I've worked on.
 
 :::
 
-:::{.project-links}
+:::{.project-links .wide}
 
 [See All](GraphicDesign.qmd) 
 
