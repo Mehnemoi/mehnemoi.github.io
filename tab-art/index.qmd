@@ -1,0 +1,82 @@
+::: {.tab-body}
+
+:::{.tab-desc}
+
+::: {.big-text}
+
+Art
+
+:::
+
+::: {.descriptor-text}
+A collection of **artworks and art projects**.
+
+I love drawing and pushing myself to engage in new mediums in ther various art courses I have taken.
+:::
+
+:::
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-code}
+
+::: {.proj-image .code}
+
+![](assets/ART0_1.jpg)
+
+:::
+
+::: {.proj-title}
+
+Shifting Perspectives
+
+:::
+
+::: {.proj-description}
+
+A simple tower that is more than it seems.
+
+:::
+
+:::{.project-links}
+
+[Project Page](Perspectives.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-code}
+
+::: {.proj-image .code}
+
+![](assets/PM2Images/animatedXDFlapJPG.jpg)
+
+:::
+
+::: {.proj-title}
+
+Sensory Cardboard
+
+:::
+
+::: {.proj-description}
+
+Created three objects that represented the concept of light, animated, and squishy using only cardboard, paper, foam core, and glue!
+
+:::
+
+:::{.project-links}
+
+[Project Page](SensoryCardboard.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+
+:::

@@ -1,0 +1,75 @@
+:::::::::{.code-proj-body}
+
+:::::::{.code-proj-top}
+
+:::::{.code-proj-image}
+
+:::{.screenshot-image}
+
+![](assets/ART0_3.jpg)
+
+:::
+
+:::::
+
+
+:::::{.code-proj-info}
+
+:::{.code-proj-title}
+Shifting Perspectives
+:::
+
+:::{.code-proj-names}
+Kaitlynn Gray
+
+:::
+
+:::{.code-proj-class}
+**Course:** Digitial Fabrication in Fine Art
+
+**Mediums Used:** Laser cut wood, laser cut acyrlic, laser cut mirrors, paint, paper, hot glue
+
+:::
+
+
+
+:::::
+
+
+
+
+
+:::::::
+
+:::::::{.code-proj-bottom}
+
+
+
+:::::{.code-proj-desc}
+
+### Description
+ I realized after recent political events that I was afraid to consider a perspective opposite from my views and beliefs. In this project, I researched the impacts of shifting perspectives and used optical illusions to forcibly change not only my own, but guide the audience to do so as well. 
+
+:::::
+
+
+### Pictures
+
+:::::{.screenshots-container}
+
+![](assets/ART0_5.jpg)
+
+![](assets/ART0_1.jpg)
+
+![](assets/ART0_2.jpg)
+
+![](assets/ART0_3.jpg)
+
+![](assets/ART0_4.jpg)
+
+:::::
+
+
+:::::::
+
+:::::::::
