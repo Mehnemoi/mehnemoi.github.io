@@ -377,9 +377,10 @@ a {
 
 .home-proj-area {
     height: 368px;
-    display: flex;
-    flex-direction: row;
-    //grid-template-columns: repeat(2,1fr);
+    //display: flex;
+    display: grid;
+    //flex-direction: row;
+    grid-template-columns: repeat(2,1fr);
     column-gap: 12px;
     margin: 0px 6px;
 }
@@ -956,6 +957,8 @@ $callout-color-warning: $white;
 
     .home-proj-area {
         flex-direction: column;
+        
+        
     }
     .home-proj{
         width: 100%;

@@ -1947,12 +1947,16 @@ $callout-color-warning: $white;
 .graphic-design-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr); //minmax(200px, 1fr)
-    grid-gap: 8px;
+    grid-gap: 12px;
 }
 
 .gd-column{
     display: flex;
     flex-direction: column;
+
+    img {
+        margin-bottom: 0px;
+    }
 }
 
 @media only screen and (max-width: 768px) {
@@ -1992,6 +1996,8 @@ $callout-color-warning: $white;
 
     .home-proj-area {
         flex-direction: column;
+        colu
+        
     }
     .home-proj{
         width: 100%;
@@ -2018,8 +2024,6 @@ $callout-color-warning: $white;
     .graphic-design-container {
         grid-template-columns: repeat(1, 1fr);
     }
-
-    .gd-column
 
 }
 

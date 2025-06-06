@@ -1,0 +1,110 @@
+:::::::::{.code-proj-body}
+
+:::::::{.code-proj-top}
+
+:::::{.code-proj-image}
+
+:::{.screenshot-image}
+
+![](assets-projects/Webflow/APIPWebflowExtFilled.png)
+
+:::
+
+:::::
+
+
+:::::{.code-proj-info}
+
+:::{.code-proj-title}
+APIP
+:::
+
+:::{.code-proj-names}
+**Kaitlynn Gray**, Rachel Lee, Erin Li, Jessica Lin, Joshua Martinez, Yuki Yang
+
+:::
+
+:::{.code-proj-class}
+**Course:** Computer Science Clinic (partnered with Webflow)
+
+**Tools:** Webflow, React, TypeScript, HTML, CSS, Figma
+
+:::
+
+
+
+:::::
+
+
+
+
+
+:::::::
+
+:::::::{.code-proj-bottom}
+
+
+
+:::::{.code-proj-desc}
+
+### Description
+Started by programming random noise (think TV static). We built on this to create other types of noise. These types of noise are used in computer graphics to create textures like clouds, glows, and randomly generated terrain.
+
+:::::
+
+
+### Screenshots
+
+:::::{.screenshots-container}
+
+:::{.screenshot}
+#### White Noise
+
+:::{.screenshot-image}
+
+
+
+:::
+
+:::{.screenshot-caption}
+Programmed random noise.
+:::
+
+:::
+
+:::{.screenshot}
+#### Value Noise
+
+:::{.screenshot-image}
+
+
+:::
+
+:::{.screenshot-caption}
+Programmed value noise.
+:::
+
+:::
+
+:::{.screenshot}
+#### Art Noise
+
+:::{.screenshot-image}
+
+
+
+:::
+
+:::{.screenshot-caption}
+Used the different types of noise to make art.
+:::
+
+:::
+
+
+:::::
+
+
+:::::::
+
+:::::::::

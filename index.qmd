@@ -68,6 +68,37 @@ I'm happy that you are here!
 
 ::::{.home-proj-area}
 
+<!-- project start -->
+
+:::{.home-proj}
+
+
+::: {.proj-title}
+
+UI Design + Product Design + Webflow
+
+:::
+::: {.proj-description-big}
+AI-Powered Inspiration Palette Tool (APIP)
+
+:::
+
+::: {.skills}
+**Skills:** Figma, CSS, React, TypeScript, Webflow
+
+:::
+
+<!-- [![](tab-design/assets-projects/Webflow/APIPWebflowExtFilled.png)](tab-design/APIP.qmd) -->
+[![](tab-design/assets-projects/Webflow/APIPWebflowExtFilled.png)](tab-design/GraphicDesign.qmd)
+
+
+:::
+
+<!-- project end -->
+
+
+<!-- project start -->
+
 :::{.home-proj}
 
 ::: {.proj-title}
@@ -79,7 +110,7 @@ UI Design + Frontend Development
 Gradescope Calendar
 
 :::
-
+ 
 ::: {.skills}
 **Skills:** Canva, HTML, CSS, React, JavaScript
 
@@ -87,8 +118,12 @@ Gradescope Calendar
 
 [![](/projects/gradescope-cal/images/GCalFinalFinalUI.png)](tab-design/GradescopeCalendar.qmd)
 
-<!-- next project -->
+
 :::
+
+<!-- project end -->
+
+<!-- project start -->
 
 :::{.home-proj}
 
@@ -112,6 +147,39 @@ MUSE
 
 
 :::
+
+<!-- project end -->
+
+
+
+
+<!-- project start -->
+
+:::{.home-proj}
+
+
+::: {.proj-title}
+
+Visual Design
+
+:::
+::: {.proj-description-big}
+Graphic Design
+
+:::
+
+::: {.skills}
+**Skills:** Canva, Adobe InDesign 
+
+:::
+
+[![](tab-design/assets-visual/HMC20251Back.png)](tab-design/GraphicDesign.qmd)
+
+
+:::
+
+<!-- project end -->
+
 
 ::::
 

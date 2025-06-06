@@ -78,5 +78,30 @@ Created three objects that represented the concept of light, animated, and squis
 :::
 <!-- end of project container -->
 
+<!-- start of project container -->
+
+::: {.project-container .p-c-code}
+
+::: {.proj-image .code}
+
+![](assets/GradCap.jpeg){.lightbox}
+
+:::
+
+::: {.proj-title} 
+
+Graduation Cap
+
+:::
+
+::: {.proj-description}
+
+I decorated my graduation cap with my past graduations selves walking hand-in-hand surrounded by flowers in my favorite color.
+
+:::
+
+:::
+<!-- end of project container -->
+
 
 :::
