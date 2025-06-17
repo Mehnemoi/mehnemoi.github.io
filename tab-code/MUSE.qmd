@@ -31,11 +31,11 @@ Eshanya Agrawal, Deniz Bajin, Zariah Folkes, Kaitlynn Gray
 :::
 
 :::{.code-proj-links}
-[Paper](assets/MUSEPaper.pdf)
-
 [Design Documentation](assets/MUSEDesignDoc.pdf)
 
 [GitHub Repository](https://github.com/DenizBajin/MUSE)
+
+<!-- [Paper](assets/MUSEPaper.pdf) -->
 :::
 
 
