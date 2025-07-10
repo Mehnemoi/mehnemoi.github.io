@@ -68,6 +68,8 @@ I'm happy that you are here!
 
 ::::{.home-proj-area}
 
+:::{.gd-column}
+
 <!-- project start -->
 
 :::{.home-proj}
@@ -79,7 +81,7 @@ UI Design + Product Design + Webflow
 
 :::
 ::: {.proj-description-big}
-AI-Powered Inspiration Palette Tool (APIP)
+AI-Powered Inspiration Palette Tool 
 
 :::
 
@@ -96,7 +98,36 @@ AI-Powered Inspiration Palette Tool (APIP)
 
 <!-- project end -->
 
+<!-- project start -->
 
+:::{.home-proj}
+
+
+::: {.proj-title}
+
+Python + Pygame + Computer Graphics
+
+:::
+::: {.proj-description-big}
+Cloth Simulator
+
+:::
+
+::: {.skills}
+**Skills:** Python, Pygame
+
+:::
+
+<!-- [![](tab-design/assets-projects/Webflow/APIPWebflowExtFilled.png)](tab-design/APIP.qmd) -->
+[![](tab-code/assets/ClothSimImage.png)](tab-code/ClothSim.qmd)
+
+
+:::
+
+<!-- project end -->
+:::
+
+:::{.gd-column}
 <!-- project start -->
 
 :::{.home-proj}
@@ -122,6 +153,7 @@ Gradescope Calendar
 :::
 
 <!-- project end -->
+
 
 <!-- project start -->
 
@@ -150,7 +182,7 @@ MUSE
 
 <!-- project end -->
 
-
+:::
 
 
 <!-- project start -->

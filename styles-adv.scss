@@ -299,7 +299,7 @@ a {
     border-radius: $border-radius;
     font-size: 16px;
     padding: 9px;
-    width: 60%;
+    width: 40vw;
     line-height: 24px;
 }
 
@@ -377,12 +377,12 @@ a {
 
 .home-proj-area {
     height: 368px;
-    //display: flex;
-    display: grid;
-    //flex-direction: row;
-    grid-template-columns: repeat(2,1fr);
+    display: flex;
+    flex-direction: row;
+    grid-template-columns: repeat(2, 0.5fr);
     column-gap: 12px;
     margin: 0px 6px;
+    width: 100%;
 }
 
 .home-proj {
