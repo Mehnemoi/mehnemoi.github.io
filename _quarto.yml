@@ -27,7 +27,7 @@ website:
       #- about.qmd
 
   # page-footer:
-  #   right: 
+  #   left: 
   #     - href: mailto:kagray@g.hmc.edu
   #       text: kagray@g.hmc.edu
 

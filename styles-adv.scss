@@ -74,32 +74,31 @@ $sidebar-bg: $white;
 }
 
 .sidebar-menu-container::after {
-    content: "Email: kagray@g.hmc.edu";
+    content: "Email: kaitlynngray314@gmail.com";
     font-size: 14px;
     position: absolute;
     top: 88vh;
     padding: 8px;
 }
 
-.sidebar-item-container {
+.sidebar-link {
     padding: 8px;
     width:  100%;
-    margin-bottom: 15px;
+    margin-bottom: 8px;
     background-color: $research-red;
     border-radius: 4px;
     color:$black;
 
     .menu-text{
-        color:$black;
+        color: black;
     }
-
 }
 
-.sidebar-item-container:active{
+.sidebar-link:active{
     color:$black;
 }
 
-.sidebar-item-container:hover {
+.sidebar-link:hover {
     background-color: $black;
 
     .menu-text{

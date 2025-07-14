@@ -27,7 +27,7 @@ APIP
 :::{.code-proj-class}
 **Course:** Computer Science Clinic (partnered with Webflow)
 
-**Tools:** Webflow, React, TypeScript, HTML, CSS, Figma
+**Tools:** Webflow, React, TypeScript, CSS, Figma
 
 :::
 

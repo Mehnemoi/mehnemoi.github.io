@@ -1114,32 +1114,29 @@ $sidebar-bg: $white;
 }
 
 .sidebar-menu-container::after {
-    content: "Email: kagray@g.hmc.edu";
+    content: "Email: kaitlynngray314@gmail.com";
     font-size: 14px;
     position: absolute;
     top: 88vh;
     padding: 8px;
 }
 
-.sidebar-item-container {
+.sidebar-link {
     padding: 8px;
     width:  100%;
-    margin-bottom: 15px;
-    background-color: $research-red;
+    margin-bottom: 4px;
+    background-color: pink;
     border-radius: 4px;
     color:$black;
 
-    .menu-text{
-        color:$black;
-    }
-
+    .menu-text
 }
 
-.sidebar-item-container:active{
+.sidebar-link:active{
     color:$black;
 }
 
-.sidebar-item-container:hover {
+.sidebar-link:hover {
     background-color: $black;
 
     .menu-text{
@@ -1339,7 +1336,7 @@ a {
     border-radius: $border-radius;
     font-size: 16px;
     padding: 9px;
-    width: 60%;
+    width: 40vw;
     line-height: 24px;
 }
 
@@ -1419,9 +1416,10 @@ a {
     height: 368px;
     display: flex;
     flex-direction: row;
-    //grid-template-columns: repeat(2,1fr);
+    grid-template-columns: repeat(2, 0.5fr);
     column-gap: 12px;
     margin: 0px 6px;
+    width: 100%;
 }
 
 .home-proj {
@@ -1996,7 +1994,7 @@ $callout-color-warning: $white;
 
     .home-proj-area {
         flex-direction: column;
-        colu
+        
         
     }
     .home-proj{
