@@ -1,0 +1,19 @@
+::: {.big-text}
+Sketches
+:::
+
+
+::::: {.graphic-design-container}
+
+:::{.gd-column}
+
+:::
+
+:::{.gd-column}
+
+:::
+
+:::{..gd-column}
+
+:::
+:::::
