@@ -48,7 +48,7 @@ Kaitlynn Gray
 :::::{.code-proj-desc}
 
 ### Description
- I realized after recent political events that I was afraid to consider a perspective opposite from my views and beliefs. In this project, I researched the impacts of shifting perspectives and used optical illusions to forcibly change not only my own, but guide the audience to do so as well. 
+I created this piece to encourage myself to consider perspectives that were the opposite of my own. I researched the impacts of shifting perspectives and created a kaleidoscope, periscope, and red reveal to create optical illusions. With these, I could literally view the world in interesting new ways, and guide the audience to do so as well. 
 
 :::::
 
@@ -57,15 +57,70 @@ Kaitlynn Gray
 
 :::::{.screenshots-container}
 
+::::{.screenshot}
+
+#### Through the Red Reveal
+
 ![](assets/ART0_5.jpg)
+
+:::{.screenshot-caption}
+The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). 
+
+:::
+
+::::
+
+::::{.screenshot}
+
+#### The (not so simple) Tower
 
 ![](assets/ART0_1.jpg)
 
+:::{.screenshot-caption}
+The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). 
+
+:::
+
+::::
+
+::::{.screenshot}
+
+#### Transforming Interactions
+
 ![](assets/ART0_2.jpg)
+
+:::{.screenshot-caption}
+The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). 
+
+:::
+
+::::
+
+::::{.screenshot}
+
+#### Through the Kaleidoscope
 
 ![](assets/ART0_3.jpg)
 
+:::{.screenshot-caption}
+The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). 
+
+:::
+
+::::
+
+::::{.screenshot}
+
+#### Through the Periscope
+
 ![](assets/ART0_4.jpg)
+
+:::{.screenshot-caption}
+The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). 
+
+:::
+
+::::
 
 :::::
 

@@ -74,7 +74,7 @@ $sidebar-bg: $white;
 }
 
 .sidebar-menu-container::after {
-    content: "Email: kaitlynngray314@gmail.com";
+    content: "Email: kagray@g.hmc.edu";
     font-size: 14px;
     position: absolute;
     top: 88vh;
@@ -919,6 +919,19 @@ $callout-color-warning: $white;
     }
 }
 
+.desmosCol {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(auto,1fr);
+    column-gap:8px;
+    height: fit-content;
+
+    iframe {
+        width: 100%;
+        height: 364px;
+    }
+}
+
 @media only screen and (max-width: 768px) {
     .tab-body {
         grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -942,6 +955,14 @@ $callout-color-warning: $white;
         img {
             height: 35vh;
         }
+    }
+
+    .desmosCol {
+        grid-template-columns: 1fr;
+    }
+
+    .screenshots-container {
+        grid-template-columns: 1fr;
     }
 
 }

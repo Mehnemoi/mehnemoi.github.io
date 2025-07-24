@@ -11,7 +11,7 @@ Art
 ::: {.descriptor-text}
 A collection of **artworks and art projects**.
 
-I love drawing and pushing myself to engage in new mediums in ther various art courses I have taken.
+I love drawing and pushing myself to engage with new mediums.
 :::
 
 :::
@@ -22,7 +22,70 @@ I love drawing and pushing myself to engage in new mediums in ther various art c
 
 ::: {.proj-image .code}
 
-![](assets/ART0_1.jpg)
+![](assets/Sketches/IMG_2965.jpg)
+
+:::
+
+::: {.proj-title}
+
+Drawings and Paintings and Things
+
+:::
+
+::: {.proj-description}
+
+A collection of artworks I created.
+
+:::
+
+:::{.project-links}
+
+[See All](Sketches.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-code}
+
+::: {.proj-image .code}
+
+![](assets/DesmosDress1.png){.lightbox}
+
+:::
+
+::: {.proj-title} 
+
+Desmos Art
+
+:::
+
+::: {.proj-description}
+
+A few things I created when messing around in the Desmos Graphing Calculator!
+
+:::
+
+:::{.project-links}
+
+[See All](DesmosArt.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-code}
+
+::: {.proj-image .code}
+
+![](assets/ART0_1_cropped.png)
 
 :::
 
@@ -78,30 +141,7 @@ Created three objects that represented the concept of light, animated, and squis
 :::
 <!-- end of project container -->
 
-<!-- start of project container -->
 
-::: {.project-container .p-c-code}
-
-::: {.proj-image .code}
-
-![](assets/GradCap.jpeg){.lightbox}
-
-:::
-
-::: {.proj-title} 
-
-Graduation Cap
-
-:::
-
-::: {.proj-description}
-
-I decorated my graduation cap with my past graduations selves walking hand-in-hand surrounded by flowers in my favorite color.
-
-:::
-
-:::
-<!-- end of project container -->
 
 
 :::

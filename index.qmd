@@ -71,7 +71,7 @@ I'm happy that you are here!
 :::{.gd-column}
 
 <!-- project start -->
-
+<!--
 :::{.home-proj}
 
 
@@ -90,16 +90,16 @@ AI-Powered Inspiration Palette Tool
 
 :::
 
-<!-- [![](tab-design/assets-projects/Webflow/APIPWebflowExtFilled.png)](tab-design/APIP.qmd) -->
-[![](tab-design/assets-projects/Webflow/APIPWebflowExtFilled.png)](tab-design/GraphicDesign.qmd)
+
+[![](/projects/gradescope-cal/images/GCalFinalFinalUI.png)](tab-design/GradescopeCalendar.qmd)
 
 
 :::
-
+-->
 <!-- project end -->
 
 <!-- project start -->
-
+<!--
 :::{.home-proj}
 
 
@@ -118,12 +118,12 @@ Cloth Simulator
 
 :::
 
-<!-- [![](tab-design/assets-projects/Webflow/APIPWebflowExtFilled.png)](tab-design/APIP.qmd) -->
+
 [![](tab-code/assets/ClothSimImage.png)](tab-code/ClothSim.qmd)
 
 
 :::
-
+-->
 <!-- project end -->
 :::
 
