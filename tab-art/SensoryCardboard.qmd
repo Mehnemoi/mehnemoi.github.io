@@ -48,7 +48,7 @@ Kaitlynn Gray
 :::::{.code-proj-desc}
 
 ### Description
-What comes to mind when you think about something light or animated or squishy? How would you represent that in physical form? In this project I was tasked to create physical representations of the concept of light, animated, and squishy. The catch: I could only use cardboard, foamcore, paper, and glue!
+What comes to mind when you think about something light or animated or squishy? How would you represent that in physical form? In this project, I was tasked to create physical representations of the concept of light, animated, and squishy. The catch: I could only use cardboard, foamcore, paper, and glue!
 
 
 #### Animated
@@ -88,7 +88,7 @@ combined with a phone flashlight leads to some cool reflections!).
 :::::
 
 #### Squishy
-For this piece I wanted to create something that could be physically
+For this piece, I wanted to create something that could be physically
 squeezed. My final design is a pillow that can be squeezed or fluffed
 due to the form of the foam core inside the “pillow case.”
 

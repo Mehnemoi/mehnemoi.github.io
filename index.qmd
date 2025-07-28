@@ -9,15 +9,18 @@
 :::{.tldr-text}
 
 :::{.big-text}
-I'm Kaitlynn Gray
+Kaitlynn Gray
 :::
 
-Nice to meet you! I am a **designer, researcher, and programmer** with [strong creative skills](tab-art/). If I sound like someone you’d like on your team, I’d love to connect. 
+Nice to meet you! Kaitlynn is a **designer, researcher, and programmer** with [strong creative skills](tab-art/). If she sounds like someone you’d like on your team, she’d love to connect. 
 
 ::: {.links}
+[Resume PDF](../documents/Kaitlynn%20Gray%20Resume%202025.pdf) 
+
+[LinkedIn](https://www.linkedin.com/in/kaitlynn-gray) 
 
 [GitHub](https://github.com/Mehnemoi) 
-[LinkedIn](https://www.linkedin.com/in/kaitlynn-gray) 
+
 [Email](mailto:kagray@g.hmc.edu) 
 
 :::
@@ -62,34 +65,6 @@ AI-Powered Inspiration Palette Tool
 
 
 [![](/projects/gradescope-cal/images/GCalFinalFinalUI.png)](tab-design/GradescopeCalendar.qmd)
-
-
-:::
--->
-<!-- project end -->
-
-<!-- project start -->
-<!--
-:::{.home-proj}
-
-
-::: {.proj-title}
-
-Python + Pygame + Computer Graphics
-
-:::
-::: {.proj-description-big}
-Cloth Simulator
-
-:::
-
-::: {.skills}
-**Skills:** Python, Pygame
-
-:::
-
-
-[![](tab-code/assets/ClothSimImage.png)](tab-code/ClothSim.qmd)
 
 
 :::
@@ -269,4 +244,6 @@ Skin Care Key
 
 
 :::::
+
+
 

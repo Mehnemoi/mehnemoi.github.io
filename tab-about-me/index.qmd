@@ -14,9 +14,12 @@ Kaitlynn Gray
 
 :::{.links}
 
-[Resume PDF](https://www.linkedin.com/in/kaitlynn-gray) 
+[Resume PDF](../documents/Kaitlynn%20Gray%20Resume%202025.pdf)
+
 [LinkedIn](https://www.linkedin.com/in/kaitlynn-gray) 
+
 [GitHub](https://github.com/Mehnemoi) 
+
 [Email](mailto:kagray@g.hmc.edu) 
 
 :::
@@ -38,7 +41,7 @@ Harvey Mudd? Think of a small, liberal arts STEM school known for student collab
 ::: {.about-me}
 My favorite projects have a strong technical and artistically creative component. Design projects are this golden mix of this. 
 
-But, I also love research.
+But I also love research.
 :::
 
 
@@ -59,7 +62,7 @@ I thrive in team-based projects where I am in charge of the visuals of a project
 
 I love taking the knowledge I gained and turning it into a visual document so that others can appreciate these findings.
 
-For me, design isn’t just about making things pretty, it is about creating a product that most effectively reflects the person/people/community I am designing for. I do this by valuing the feedback of my clients.
+For me, design isn’t just about making things pretty; it is about creating a product that most effectively reflects the person/people/community I am designing for. I do this by valuing the feedback of my clients.
 :::
 
 

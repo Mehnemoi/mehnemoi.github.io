@@ -156,6 +156,7 @@ footer {
 a {
     background-color: $black;
     color:$black;
+    margin: 0px;
 }
 
 
@@ -209,22 +210,25 @@ a {
 }
 
 .links {
-    display: inline;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 8px;
+    row-gap: 0px;
     height: fit-content;
 
    
 
     a {
-        display: inline-block;
+        display: block;
+        text-align: center;
         background-color: $black;
-        width: fit-content;
+        width: 100%;
         border-radius: 4px;
         color: $white;
         text-decoration: none;
         font-size: 12.8px;
         padding: 10px 5%;
-        margin-right: 4px;
-        margin-bottom: 4px;
+        margin-bottom: -8px; //TODO: find why margin here
     }
 
     a:hover {
@@ -862,12 +866,17 @@ $callout-color-warning: $white;
 }
 
 .screenshot-caption {
-    margin-top: 8px;
+    margin-bottom: 16px;
     font-size:10px;
     width: 80%;
 }
 
 @media only screen and (max-width: 700px) {
+    .links {
+         grid-template-columns: repeat(2, 1fr);
+         grid-template-rows: repeat(2, 1fr);
+    }
+
     .code-proj-top {
         display: inline-block;
         //background-color: red;
@@ -982,6 +991,7 @@ $callout-color-warning: $white;
 
 
 @media only screen and (max-width: 600px) {
+    
     .tab-body {
         grid-template-columns: repeat(1, minmax(0, 1fr));
         grid-template-rows: repeat(6, 1fr);

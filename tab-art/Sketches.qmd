@@ -10,22 +10,17 @@ A collection of my artworks done in various mediums! Some sketches have been edi
 ::::: {.graphic-design-container}
 
 :::{.gd-column}
-
-
-
 ![](assets/Sketches/KGrayArt1.JPG){.lightbox}
 
 :::{.screenshot-caption}
 A sketch of Sailor Mars from my physical sketchbook. (Done in pencil, scanned to be in black and white)
-
 :::
 
 
 ![](assets/Sketches/KGrayArt2.JPG){.lightbox}
 
 :::{.screenshot-caption}
-A scene I painted! The colors and falling yellow flowers and dark branches reminds me of the outfit ["World in Dream"](https://lovenikki.fandom.com/wiki/World_in_Dream) from the game Love Nikki: Dress Up Queen, which I was playing at the time.
-
+A scene I painted! The colors and falling yellow flowers and dark branches remind me of the outfit ["World in Dream"](https://lovenikki.fandom.com/wiki/World_in_Dream) from the game Love Nikki: Dress Up Queen, which I was playing at the time.
 :::
 
 ![](assets/Sketches/KGrayArt5.JPG){.lightbox}
@@ -51,14 +46,13 @@ A scene I painted! The colors and falling yellow flowers and dark branches remin
 ![](assets/Sketches/KGrayArt15.JPG){.lightbox}
 
 :::{.screenshot-caption}
-A self portrait created using cut pieces of painted cardstock paper glued together.
+A self-portrait created using cut pieces of painted cardstock paper glued together.
 :::
 
 ![](assets/Sketches/KGrayArt7.JPG){.lightbox}
 
 :::{.screenshot-caption}
-The above and below are fun marker fashion sketches! I feel like I took inspiration from the artist Joshua David McKinney, owner of the Pidgin Doll brand. He frequently creates sketches like these on his various social media accounts.
-
+The above and below are fun marker fashion sketches! I feel like I took inspiration from the artist Joshua David McKenney, owner of the Pidgin Doll brand. He frequently creates sketches like these on his various social media accounts.
 :::
 
 ![](assets/Sketches/KGrayArt8.JPG){.lightbox}
