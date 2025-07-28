@@ -295,11 +295,14 @@ a {
 .home-img {
     width: 200px;
     height: 195px;
+    margin-top: 24px;
+    margin-right: 12px;
+    margin-left: 16px;
 
     img {
         object-fit: cover;
         min-height: 200px;
-        border-radius: 100px;
+        border-radius: 32px;
     }
 }
 
