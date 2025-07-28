@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "tab-template/index.html",
-    "href": "tab-template/index.html",
-    "title": "Kaitlynn Gray",
-    "section": "",
-    "text": "Template\n\n\nI’m a Computer Science major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).\n\n\n\n\nhey\n\n\nresearch\n\n\nHarvey Mudd? Think of a small, liberal arts STEM school known for student collaboration"
-  },
-  {
     "objectID": "tab-research/index.html",
     "href": "tab-research/index.html",
     "title": "Kaitlynn Gray",
@@ -48,115 +41,46 @@
     ]
   },
   {
-    "objectID": "tab-about-me/index.html",
-    "href": "tab-about-me/index.html",
+    "objectID": "tab-art/Sketches.html",
+    "href": "tab-art/Sketches.html",
     "title": "Kaitlynn Gray",
     "section": "",
-    "text": "Who am I?\n\n\nI’m a Computer Science major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).\n\n\nHarvey Mudd? Think of a small, liberal arts STEM school known for student collaboration\n\n\nMy favorite projects have a strong technical and artistically creative component. Design projects are this golden mix of this.\nBut, I also love research.\n\n\nIt’s why I’ve spent the last three summers doing research.\n\n\nI am drawn to projects with a human-centered focus - I am deeply curious about how products and systems impact the people interacting with them.\n\n\nThat’s broad, yes! But it allows me to apply it to a multitude of projects. Whatever project I am on, I am going to care about the humans involved.\n\n\nI thrive in team-based projects where I am in charge of the visuals of a project - specifically making sure information is communicated clearly and aesthetically.\nI love taking the knowledge I gained and turning it into a visual document so that others can appreciate these findings.\nFor me, design isn’t just about making things pretty, it is about creating a product that most effectively reflects the person/people/community I am designing for. I do this by valuing the feedback of my clients.",
-    "crumbs": [
-      "About Me"
-    ]
+    "text": "Sketches and Things\n\n\nA collection of my artworks done in various mediums! Some sketches have been edited to improve the contrast when viewed on screens.\n\n\n\n\n\nA sketch of Sailor Mars from my physical sketchbook. (Done in pencil, scanned to be in black and white)\n\n\n\nA scene I painted! The colors and falling yellow flowers and dark branches remind me of the outfit “World in Dream” from the game Love Nikki: Dress Up Queen, which I was playing at the time.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA self-portrait created using cut pieces of painted cardstock paper glued together.\n\n\n\nThe above and below are fun marker fashion sketches! I feel like I took inspiration from the artist Joshua David McKenney, owner of the Pidgin Doll brand. He frequently creates sketches like these on his various social media accounts."
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Below are projects I have completed that showcase key skills in programming and design.\nImage next to each project description too small? Click on it to see an enlarged version!"
-  },
-  {
-    "objectID": "projects/index.html#product-design-for-personal-grooming",
-    "href": "projects/index.html#product-design-for-personal-grooming",
-    "title": "Projects",
-    "section": "Product Design for Personal Grooming",
-    "text": "Product Design for Personal Grooming\n\n\nHere I used the human-centered design process to redesign the personal grooming process for a specific user. Click here to learn about each stage of the process.\nIn this project I showcase the process of:\n\nEmpathizing\nDefining\nIdeating\nPrototyping\nTesting"
-  },
-  {
-    "objectID": "projects/index.html#gradescope-calendar",
-    "href": "projects/index.html#gradescope-calendar",
-    "title": "Projects",
-    "section": "Gradescope Calendar",
-    "text": "Gradescope Calendar\n\n\nHere, I collaborated with 2 computer science students to create a web application to help students plan for assignments. I designed the UI for the site and programmed the “Weekly Assignments” page. Learn more here.\nIn this project I showcase:\n\nExperience in website development\nUI design in Canva\nCollaboration skills"
-  },
-  {
-    "objectID": "projects/gradescope-cal/index.html",
-    "href": "projects/gradescope-cal/index.html",
-    "title": "Gradescope Calendar",
-    "section": "",
-    "text": "In this project I:\n\nDesigned the UI for four pages\n\nLogin page\nMonthly Overview page\nWeekly Assignments page\nWelcome page\n\nProgrammed the Weekly Assignments page using React, HTML, CSS, and Bootstrap\nGained experience working in a team where I had a dedicated programmer + designer role\nLearned how to keep a detailed documentation of my work\nDemonstrated perseverance and tenacity by pushing through the website development learning curve\n\nSee the sections below to learn more about this process."
-  },
-  {
-    "objectID": "projects/gradescope-cal/index.html#overview",
-    "href": "projects/gradescope-cal/index.html#overview",
-    "title": "Gradescope Calendar",
-    "section": "",
-    "text": "In this project I:\n\nDesigned the UI for four pages\n\nLogin page\nMonthly Overview page\nWeekly Assignments page\nWelcome page\n\nProgrammed the Weekly Assignments page using React, HTML, CSS, and Bootstrap\nGained experience working in a team where I had a dedicated programmer + designer role\nLearned how to keep a detailed documentation of my work\nDemonstrated perseverance and tenacity by pushing through the website development learning curve\n\nSee the sections below to learn more about this process."
-  },
-  {
-    "objectID": "projects/gradescope-cal/index.html#background",
-    "href": "projects/gradescope-cal/index.html#background",
-    "title": "Gradescope Calendar",
-    "section": "Background",
-    "text": "Background\nWelcome! This is a summer research project I collaborated on in Summer 2022. My team of 3 created a product called Gradescope Calendar to help with Gradescope assignment organization at the Claremont Colleges in California. Gradescope is a platform where teachers can assign homework, quizzes, and tests to students. Students can submit these through Gradescope and recieve detailed feedback. While Gradescope makes it easy to see when assigned items are due, these items are separated by classes. Thus, students must look at one class at a time in Gradescope and track assigned items using their own methods. Gradescope Calendar streamlines this process by presenting all assigned items for all classes on one screen. All though a similar project, Gradescope Scheduler, exists, our product promoted ease of use by not requiring users to use backend processes to access the information.\n\n\n\nSee the research poster I designed for the team to learn more about the project!\n\n\nI designed the UI for the site, but my main objective was to implement the Weekly Assignments page. This page displayed all the assign items due for a specific week, separated by the day. Users could:\n\nview past and future weeks of due dates for assigned items\nclearly see when the next assignment is due\n\nand the time remaining to submit it\n\ncheck off assigned items to highlight them\ncross out assigned items to strike them out and\nhighlight assigned items by course."
-  },
-  {
-    "objectID": "projects/gradescope-cal/index.html#ui-design",
-    "href": "projects/gradescope-cal/index.html#ui-design",
-    "title": "Gradescope Calendar",
-    "section": "UI Design",
-    "text": "UI Design\n\n\nIn this section you can see the UI designs I made for Gradescope Calendar using Canva. If you are familiar with Gradescope, you will notice the iconic Gradescope green used as a primary color throughout. I intentionally chose this color scheme to create a strong visual tie to the Gradescope platform for users. This visual tie would help communicate that Gradescope Calendar was to be used alongside Gradescope, rather than be separate from.\n\n\n\n\nColor palatte (Generated on coolors.co)\n\n\n\n\n\nLogin Page\nThis image includes the current UI of the login screen, as well as one of its previous iterations for comparision.\n\n\n\nLogin page\n\n\n\n\nMonthly Overview Page\nBelow are three versions of the Monthly Overview page: the regular mode, dark mode, and the first iteration of the design. On this page users can visualize all of the assignments due for the month, including a separate window for assignments due that week. Users can use the “view by class” buttons to view assigned items for a specific class only. They could then download the calendar data to import into the digital calendar of their choice. Or, they could navigate the weekly assignents page!\n\n\n\nRegular UI\n\n\n\n\n\n\n\nDark mode\n\n\n\n\n\n\nInitial design\n\n\n\n\n\n\nWeekly Assignments Page\n\n\nHere, I showcase three iterations of the Weekly Assignments page. The image below showcases the final version.\nBecause of how frequently I edit and update my designs, I have started a habit of keeping track of previous states. This helps me to understand how far the design has come and also have an accessible record of past assets I can use in later iterations. Most importantly, this frees me from being afraid of making major changes to the design - leading to more daring design decisions.\n\n\n\n\nVersion 1\n\n\n\n\n\nVersion 2\n\n\n\n\n\n\n\nFinal Version: This page displays items assigned to me earlier in the school year during the week of Feburary 6th, 2022. Here, I have highlighted all assignments from my “Introduction to Biology” class. I demonstrate the crossing-out option and checking-off functionalities.\n\n\n\n\nWelcome Page\nThis page did not end up being used, but would have served as the “face” of Gradescope Calendar. Users would see this page when navigating to the site.\n\n\n\nWelcome page"
-  },
-  {
-    "objectID": "projects/gradescope-cal/index.html#programming-development",
-    "href": "projects/gradescope-cal/index.html#programming-development",
-    "title": "Gradescope Calendar",
-    "section": "Programming Development:",
-    "text": "Programming Development:\n\nDocumentation\nThroughout the process I kept a detailed documentation of my work and journey as an emerging web developer. In this document I included screenshots of previous states, areas of challenge and triumph, and resources I used for help.\n\n\n\n\n\n\n\n\n\nExample of detailed written documentation\n\n\n\n\n\n\n\nExample of documenting links\n\n\n\n\n\n\n\nExample of documenting screenshots\n\n\n\n\n\n\n\nThe Learning Process\n\nWeb Development Crash Course\nAt the beginning of this summer research project, I had minimal web development experience. I knew how to make basic HTML elements like divs and buttons, and how to navigate to different pages. Beyond that, not much.\nLuckily, my research advisor set us up for success. My first assignment was to create a web app using Flask.\nMy Flask app began as a single page with a table holding information about characters from Sailor Moon, my favorite series. (picture). It then evolved to have multiple pages of content where users could. Throughout this process I learned how to:\n\ncreate a button that changed another element\nuse scripting to\n\nchange the title of a page\ncontrol the CSS properties using a button\nreverse an inputed string and output the result on the screen\n\ncall actions based on what is typed into a field\ncall APIs using fetch\ncreate a dynamically resizing page\n\n\nThe images and captions below demonstrate this process:\n\n\n\n\n\n\n\n\n\nThe beginning state of my wesbite. Just a table with characters from Sailor Moon and their superhero name.\n\n\n\n\n\n\n\nFirst major CSS update of my wesbite! Added more content to my table.\n\n\n\n\n\n\n\nExpanded the site to have multiple pages.\n\n\n\n\n\n\n\n\n\nAdded more pages to my site\n\n\n\n\n\n\n\nAdded even more pages to my site and added a stary background.\n\n\n\n\n\n\n\nCreated widget where users can input image size dimensions and recieve a link to a cat picture with those dimensions from a cat image API.\n\n\n\n\n\n\n\n\n\nCreated another widget where users can input a color and have the background change to match.\n\n\n\n\n\n\n\nLearning how to add and create function checkboxes and radio buttons.\n\n\n\n\n\n\n\nMajor CSS update to the site, leaning into the space and science theme. Creating a dynamicaly responsive homepage\n\n\n\n\n\n\n\n\nSuccessfully implemented Anime Quotes API!\n\n\n\n\nPutting it all together\nTo test my newly learned skils, I wanted to create a page that can:\n\ntake in information\nuse text boxes\ndisplay something recieved from an API\n\nSee the images and captions below:\n\n\n\n\n\nFirst I created an initial form to take in formation. Implemented a check box.\n\n\n\n\n\n\nChanged what information I would request from the user. Updated the UI to bring back the space element.\n\n\n\n\n\nImplemented dynamic resizing.\n\n\n\n\n\n\n\nFinal version of the Welcome page with a successful implementation of a random quotes API!\n\n\nThese skills were instrumental in my developlement of the Weekly Assignments page."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "tab-art/Perspectives.html",
+    "href": "tab-art/Perspectives.html",
     "title": "Kaitlynn Gray",
     "section": "",
-    "text": "I’m Kaitlynn Gray\n\nNice to meet you! I am a designer, researcher, and programmer with strong creative skills. If I sound like someone you’d like on your team, I’d love to connect.\n\nGitHub LinkedIn Email\n\n\n\n\n\n\n\nUI Design + Frontend Development\n\n\nGradescope Calendar\n\n\nSkills: Canva, HTML, CSS, React, JavaScript\n\n\n\n\n\n\nHuman Centered Design + Frontend Design and Development\n\n\nMUSE\n\n\nSkills: Human Centered Design, JavaScript, HTML, CSS, Figma",
-    "crumbs": [
-      "Home"
-    ]
+    "text": "Shifting Perspectives\n\n\nKaitlynn Gray\n\n\nCourse: Digital Fabrication in Fine Art\nMediums Used: Laser cut wood, laser-cut acrylic, laser cut mirrors, paint, paper, hot glue\n\n\n\n\n\nDescription\nI created this piece to encourage myself to consider perspectives that were different from my own. I researched the impacts of shifting perspectives and created a kaleidoscope, periscope, and red reveal to create optical illusions. With these, I could literally view the world in interesting new ways, and guide the audience to do so as well.\n\n\nPictures\n\n\nThe (not so simple) Tower\n\n\nThe piece begins with black spires constructed from laser-cut wood painted black. In the background are two patterns framed in black, making the piece feel like a standard exhibit in an art museum.\nHowever, the towers are more than they seem – one tower hides a kaleidoscope, another a red reveal, and another a deconstructed periscope!\n\n\n\nTransforming Interactions\n\n\nThe black spires can be pressed together to create new shapes. Audiences are encouraged to manipulate the tower pieces and look through them to see their world transformed.\nThe pieces are designed to allow audiences to combine the red reveal, kaleidoscope, and periscope in various ways to layer their effects!\n\n\n\nThrough the Red Reveal\n\n\nA look through the red reveal at one of the pattern pieces on the wall. This reveals a message about how human visual systems evolved to connect to the themes of optical illusions and perspective shifting.\nThe text reads, “Why did your visual system evolve to be better at detecting light when it is surrounded by darkness? This makes edges stand out so that you can quickly identify objects in your surroundings – an important survival skill”\n\n\n\nThrough the Kaleidoscope\n\n\nLooking through the kaleidoscope at another of the patterned pieces shatters its initial look and allows the audience to spin and break the pattern in new ways.\n\n\n\nThrough the Periscope\n\n\nA look through the periscope! We can see the patterned piece above through the viewing port. Since the pieces are like building blocks, audiences can rotate one or both of the pieces with the mirror inside (the L-shaped pieces) to see in different directions, even to see behind themselves!"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index-v0.html",
-    "href": "index-v0.html",
+    "objectID": "tab-art/DesmosArt.html",
+    "href": "tab-art/DesmosArt.html",
     "title": "Kaitlynn Gray",
     "section": "",
-    "text": "Hi! I’m\n\n\nKaitlynn Gray\n\n\nGitHub LinkedIn Email\n\n\n\n\n\nprogrammer\n\n\n\ndesigner\n\n\n\nresearcher\n\n\n\n\n\nI’m a Computer Science major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).\n\n\nHarvey Mudd? Think of a small, liberal arts STEM school known for student collaboration\n\n\nMy favorite projects have a strong technical and artistically creative component. Design projects are this golden mix of this.\nBut, I also love research.\n\n\nIt’s why I’ve spent the last three summers doing research.\n\n\nI am drawn to projects with a human-centered focus - I am deeply curious about how products and systems impact the people interacting with them.\n\n\nThat’s broad, yes! But it allows me to apply it to a multitude of projects. Whatever project I am on, I am going to care about the humans involved.\n\n\nI thrive in team-based projects where I am in charge of the visuals of a project - specifically making sure information is communicated clearly and aesthetically.\nI love taking the knowledge I gained and turning it into a visual document so that others can appreciate these findings.\nFor me, design isn’t just about making things pretty, it is about creating a product that most effectively reflects the person/people/community I am designing for. I do this by valuing the feedback of my clients.\nI am creative, intelligent, driven, and curious.\nIf that sounds like the qualities of someone you’d like on your team, I’d love to connect.\n\n\n\n\nI am a:\n\n\n\n\n\n\n\nprogrammer\n\n\n\n\n\n\nAs a computer science major, I’ve gotten to work on a variety of programming projects. I like to build websites and games.\n\n\n\n\n\n\n\ndesigner\n\n\n\n\n\n\nI’ve been a graphic designer for the past five years. Creating graphics feels like a puzzle - it is very satisfying to learn new ways I can communicate information visually.\n\n\n\n\n\n\n\nresearcher\n\n\n\n\n\nI enjoy spending long amounts of time understanding how people are impacted by things made by people or systems people live under. There is a publication or two in there…"
+    "text": "Desmos Art!\n\n\nDesmos is an online Graphing Calculator typically used to visualize graphs and make more complex calculations. However, it can also be used to create art! Below are some of the creative ways I have used Desmos.\nTip: These look better on a larger window!"
   },
   {
-    "objectID": "projects/CACTI-logo/index.html",
-    "href": "projects/CACTI-logo/index.html",
-    "title": "Product Design for Personal Grooming",
-    "section": "",
-    "text": "https://www.canva.com/learn/questions-to-ask-when-designing-a-logo/"
+    "objectID": "projects/MUSE/index.html#wireframing",
+    "href": "projects/MUSE/index.html#wireframing",
+    "title": "MUSE",
+    "section": "Wireframing",
+    "text": "Wireframing"
   },
   {
-    "objectID": "projects/CACTI-logo/index.html#problem-statement-goals-objectives",
-    "href": "projects/CACTI-logo/index.html#problem-statement-goals-objectives",
-    "title": "Product Design for Personal Grooming",
-    "section": "",
-    "text": "https://www.canva.com/learn/questions-to-ask-when-designing-a-logo/"
+    "objectID": "projects/MUSE/index.html#testing",
+    "href": "projects/MUSE/index.html#testing",
+    "title": "MUSE",
+    "section": "Testing",
+    "text": "Testing"
   },
   {
-    "objectID": "projects/CACTI-logo/index.html#questions",
-    "href": "projects/CACTI-logo/index.html#questions",
-    "title": "Product Design for Personal Grooming",
-    "section": "Questions",
-    "text": "Questions\nWhat is your company name? What industry sector is it in? How would you describe your company and the products and services you offer? In five words or less, can you summarize(opens in a new tab or window) the feel of your company? What are the unique selling points, features and/or benefits of your products/service? Is there a story behind how your brand came about? Do tell…\nAnswers: CACTI Lab Human Computer Interaction Research + Climate change and disability Offering an exploration into how climate change impacts disabled people globally Fresh, Analytical, Creative, Curious, We are looking at how and why climate change effects those with disability which is currently a new field What is the story behind the name CACTI lab?\n# preliminary research Fresh, Analytical, Creative, Curious…\nBook worm but cactus and research\nSo actually cacti mostly hosts birds and insects are the things that put the cacti at risk….. hmmmmm"
+    "objectID": "projects/MUSE/index.html#results",
+    "href": "projects/MUSE/index.html#results",
+    "title": "MUSE",
+    "section": "Results",
+    "text": "Results"
   },
   {
     "objectID": "projects/HCD-skin-care/index.html",
@@ -236,25 +160,132 @@
     "text": "Reflection\nIf I had more time, I have spent less of it worrying about making the project “perfect.” I would have liked to formulate a better POV #2 as its relevant notes after the interview felt very rushed.\nI learned to let go of things I thought I needed. For example, I became focused on adding images to the point that I did not continue on the main parts of the project. I would have liked to go back to the ideate steps for POV #2 because I felt the Chat-GPT ideas were more of idea starters than ideas themselves. Each idea it presented felt like the body of a “How Might We” question."
   },
   {
-    "objectID": "projects/MUSE/index.html#wireframing",
-    "href": "projects/MUSE/index.html#wireframing",
-    "title": "MUSE",
-    "section": "Wireframing",
-    "text": "Wireframing"
+    "objectID": "projects/CACTI-logo/index.html",
+    "href": "projects/CACTI-logo/index.html",
+    "title": "Product Design for Personal Grooming",
+    "section": "",
+    "text": "https://www.canva.com/learn/questions-to-ask-when-designing-a-logo/"
   },
   {
-    "objectID": "projects/MUSE/index.html#testing",
-    "href": "projects/MUSE/index.html#testing",
-    "title": "MUSE",
-    "section": "Testing",
-    "text": "Testing"
+    "objectID": "projects/CACTI-logo/index.html#problem-statement-goals-objectives",
+    "href": "projects/CACTI-logo/index.html#problem-statement-goals-objectives",
+    "title": "Product Design for Personal Grooming",
+    "section": "",
+    "text": "https://www.canva.com/learn/questions-to-ask-when-designing-a-logo/"
   },
   {
-    "objectID": "projects/MUSE/index.html#results",
-    "href": "projects/MUSE/index.html#results",
-    "title": "MUSE",
-    "section": "Results",
-    "text": "Results"
+    "objectID": "projects/CACTI-logo/index.html#questions",
+    "href": "projects/CACTI-logo/index.html#questions",
+    "title": "Product Design for Personal Grooming",
+    "section": "Questions",
+    "text": "Questions\nWhat is your company name? What industry sector is it in? How would you describe your company and the products and services you offer? In five words or less, can you summarize(opens in a new tab or window) the feel of your company? What are the unique selling points, features and/or benefits of your products/service? Is there a story behind how your brand came about? Do tell…\nAnswers: CACTI Lab Human Computer Interaction Research + Climate change and disability Offering an exploration into how climate change impacts disabled people globally Fresh, Analytical, Creative, Curious, We are looking at how and why climate change effects those with disability which is currently a new field What is the story behind the name CACTI lab?\n# preliminary research Fresh, Analytical, Creative, Curious…\nBook worm but cactus and research\nSo actually cacti mostly hosts birds and insects are the things that put the cacti at risk….. hmmmmm"
+  },
+  {
+    "objectID": "index-v0.html",
+    "href": "index-v0.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Hi! I’m\n\n\nKaitlynn Gray\n\n\nGitHub LinkedIn Email\n\n\n\n\n\nprogrammer\n\n\n\ndesigner\n\n\n\nresearcher\n\n\n\n\n\nI’m a Computer Science major + Art concentration at Harvey Mudd College in Claremont, CA. (I take a lot of design classes as well).\n\n\nHarvey Mudd? Think of a small, liberal arts STEM school known for student collaboration\n\n\nMy favorite projects have a strong technical and artistically creative component. Design projects are this golden mix of this.\nBut, I also love research.\n\n\nIt’s why I’ve spent the last three summers doing research.\n\n\nI am drawn to projects with a human-centered focus - I am deeply curious about how products and systems impact the people interacting with them.\n\n\nThat’s broad, yes! But it allows me to apply it to a multitude of projects. Whatever project I am on, I am going to care about the humans involved.\n\n\nI thrive in team-based projects where I am in charge of the visuals of a project - specifically making sure information is communicated clearly and aesthetically.\nI love taking the knowledge I gained and turning it into a visual document so that others can appreciate these findings.\nFor me, design isn’t just about making things pretty, it is about creating a product that most effectively reflects the person/people/community I am designing for. I do this by valuing the feedback of my clients.\nI am creative, intelligent, driven, and curious.\nIf that sounds like the qualities of someone you’d like on your team, I’d love to connect.\n\n\n\n\nI am a:\n\n\n\n\n\n\n\nprogrammer\n\n\n\n\n\n\nAs a computer science major, I’ve gotten to work on a variety of programming projects. I like to build websites and games.\n\n\n\n\n\n\n\ndesigner\n\n\n\n\n\n\nI’ve been a graphic designer for the past five years. Creating graphics feels like a puzzle - it is very satisfying to learn new ways I can communicate information visually.\n\n\n\n\n\n\n\nresearcher\n\n\n\n\n\nI enjoy spending long amounts of time understanding how people are impacted by things made by people or systems people live under. There is a publication or two in there…"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Kaitlynn Gray\n\nNice to meet you! Kaitlynn is a designer, researcher, and programmer with strong creative skills. If she sounds like someone you’d like on your team, she’d love to connect.\n\nResume PDF\nLinkedIn\nGitHub\nEmail\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUI Design + Frontend Development\n\n\nGradescope Calendar\n\n\nSkills: Canva, HTML, CSS, React, JavaScript\n\n\n\n\n\n\n\nHuman Centered Design + Frontend Design and Development\n\n\nMUSE\n\n\nSkills: Human Centered Design, JavaScript, HTML, CSS, Figma\n\n\n\n\n\n\n\nPython + Pygame + Computer Graphics\n\n\nCloth Simulator\n\n\nSkills: Python, Pygame\n\n\n\n\n\n\n\n\n\nVisual Design\n\n\nGraphic Design\n\n\nSkills: Canva, Adobe InDesign\n\n\n\n\n\n\n\nDrawing, Painting, Papercrafting, Digital Art\n\n\nArtworks\n\n\nSkills: Sketching, Illustration",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "projects/gradescope-cal/index.html",
+    "href": "projects/gradescope-cal/index.html",
+    "title": "Gradescope Calendar",
+    "section": "",
+    "text": "In this project I:\n\nDesigned the UI for four pages\n\nLogin page\nMonthly Overview page\nWeekly Assignments page\nWelcome page\n\nProgrammed the Weekly Assignments page using React, HTML, CSS, and Bootstrap\nGained experience working in a team where I had a dedicated programmer + designer role\nLearned how to keep a detailed documentation of my work\nDemonstrated perseverance and tenacity by pushing through the website development learning curve\n\nSee the sections below to learn more about this process."
+  },
+  {
+    "objectID": "projects/gradescope-cal/index.html#overview",
+    "href": "projects/gradescope-cal/index.html#overview",
+    "title": "Gradescope Calendar",
+    "section": "",
+    "text": "In this project I:\n\nDesigned the UI for four pages\n\nLogin page\nMonthly Overview page\nWeekly Assignments page\nWelcome page\n\nProgrammed the Weekly Assignments page using React, HTML, CSS, and Bootstrap\nGained experience working in a team where I had a dedicated programmer + designer role\nLearned how to keep a detailed documentation of my work\nDemonstrated perseverance and tenacity by pushing through the website development learning curve\n\nSee the sections below to learn more about this process."
+  },
+  {
+    "objectID": "projects/gradescope-cal/index.html#background",
+    "href": "projects/gradescope-cal/index.html#background",
+    "title": "Gradescope Calendar",
+    "section": "Background",
+    "text": "Background\nWelcome! This is a summer research project I collaborated on in Summer 2022. My team of 3 created a product called Gradescope Calendar to help with Gradescope assignment organization at the Claremont Colleges in California. Gradescope is a platform where teachers can assign homework, quizzes, and tests to students. Students can submit these through Gradescope and recieve detailed feedback. While Gradescope makes it easy to see when assigned items are due, these items are separated by classes. Thus, students must look at one class at a time in Gradescope and track assigned items using their own methods. Gradescope Calendar streamlines this process by presenting all assigned items for all classes on one screen. All though a similar project, Gradescope Scheduler, exists, our product promoted ease of use by not requiring users to use backend processes to access the information.\n\n\n\nSee the research poster I designed for the team to learn more about the project!\n\n\nI designed the UI for the site, but my main objective was to implement the Weekly Assignments page. This page displayed all the assign items due for a specific week, separated by the day. Users could:\n\nview past and future weeks of due dates for assigned items\nclearly see when the next assignment is due\n\nand the time remaining to submit it\n\ncheck off assigned items to highlight them\ncross out assigned items to strike them out and\nhighlight assigned items by course."
+  },
+  {
+    "objectID": "projects/gradescope-cal/index.html#ui-design",
+    "href": "projects/gradescope-cal/index.html#ui-design",
+    "title": "Gradescope Calendar",
+    "section": "UI Design",
+    "text": "UI Design\n\n\nIn this section you can see the UI designs I made for Gradescope Calendar using Canva. If you are familiar with Gradescope, you will notice the iconic Gradescope green used as a primary color throughout. I intentionally chose this color scheme to create a strong visual tie to the Gradescope platform for users. This visual tie would help communicate that Gradescope Calendar was to be used alongside Gradescope, rather than be separate from.\n\n\n\n\nColor palatte (Generated on coolors.co)\n\n\n\n\n\nLogin Page\nThis image includes the current UI of the login screen, as well as one of its previous iterations for comparision.\n\n\n\nLogin page\n\n\n\n\nMonthly Overview Page\nBelow are three versions of the Monthly Overview page: the regular mode, dark mode, and the first iteration of the design. On this page users can visualize all of the assignments due for the month, including a separate window for assignments due that week. Users can use the “view by class” buttons to view assigned items for a specific class only. They could then download the calendar data to import into the digital calendar of their choice. Or, they could navigate the weekly assignents page!\n\n\n\nRegular UI\n\n\n\n\n\n\n\nDark mode\n\n\n\n\n\n\nInitial design\n\n\n\n\n\n\nWeekly Assignments Page\n\n\nHere, I showcase three iterations of the Weekly Assignments page. The image below showcases the final version.\nBecause of how frequently I edit and update my designs, I have started a habit of keeping track of previous states. This helps me to understand how far the design has come and also have an accessible record of past assets I can use in later iterations. Most importantly, this frees me from being afraid of making major changes to the design - leading to more daring design decisions.\n\n\n\n\nVersion 1\n\n\n\n\n\nVersion 2\n\n\n\n\n\n\n\nFinal Version: This page displays items assigned to me earlier in the school year during the week of Feburary 6th, 2022. Here, I have highlighted all assignments from my “Introduction to Biology” class. I demonstrate the crossing-out option and checking-off functionalities.\n\n\n\n\nWelcome Page\nThis page did not end up being used, but would have served as the “face” of Gradescope Calendar. Users would see this page when navigating to the site.\n\n\n\nWelcome page"
+  },
+  {
+    "objectID": "projects/gradescope-cal/index.html#programming-development",
+    "href": "projects/gradescope-cal/index.html#programming-development",
+    "title": "Gradescope Calendar",
+    "section": "Programming Development:",
+    "text": "Programming Development:\n\nDocumentation\nThroughout the process I kept a detailed documentation of my work and journey as an emerging web developer. In this document I included screenshots of previous states, areas of challenge and triumph, and resources I used for help.\n\n\n\n\n\n\n\n\n\nExample of detailed written documentation\n\n\n\n\n\n\n\nExample of documenting links\n\n\n\n\n\n\n\nExample of documenting screenshots\n\n\n\n\n\n\n\nThe Learning Process\n\nWeb Development Crash Course\nAt the beginning of this summer research project, I had minimal web development experience. I knew how to make basic HTML elements like divs and buttons, and how to navigate to different pages. Beyond that, not much.\nLuckily, my research advisor set us up for success. My first assignment was to create a web app using Flask.\nMy Flask app began as a single page with a table holding information about characters from Sailor Moon, my favorite series. (picture). It then evolved to have multiple pages of content where users could. Throughout this process I learned how to:\n\ncreate a button that changed another element\nuse scripting to\n\nchange the title of a page\ncontrol the CSS properties using a button\nreverse an inputed string and output the result on the screen\n\ncall actions based on what is typed into a field\ncall APIs using fetch\ncreate a dynamically resizing page\n\n\nThe images and captions below demonstrate this process:\n\n\n\n\n\n\n\n\n\nThe beginning state of my wesbite. Just a table with characters from Sailor Moon and their superhero name.\n\n\n\n\n\n\n\nFirst major CSS update of my wesbite! Added more content to my table.\n\n\n\n\n\n\n\nExpanded the site to have multiple pages.\n\n\n\n\n\n\n\n\n\nAdded more pages to my site\n\n\n\n\n\n\n\nAdded even more pages to my site and added a stary background.\n\n\n\n\n\n\n\nCreated widget where users can input image size dimensions and recieve a link to a cat picture with those dimensions from a cat image API.\n\n\n\n\n\n\n\n\n\nCreated another widget where users can input a color and have the background change to match.\n\n\n\n\n\n\n\nLearning how to add and create function checkboxes and radio buttons.\n\n\n\n\n\n\n\nMajor CSS update to the site, leaning into the space and science theme. Creating a dynamicaly responsive homepage\n\n\n\n\n\n\n\n\nSuccessfully implemented Anime Quotes API!\n\n\n\n\nPutting it all together\nTo test my newly learned skils, I wanted to create a page that can:\n\ntake in information\nuse text boxes\ndisplay something recieved from an API\n\nSee the images and captions below:\n\n\n\n\n\nFirst I created an initial form to take in formation. Implemented a check box.\n\n\n\n\n\n\nChanged what information I would request from the user. Updated the UI to bring back the space element.\n\n\n\n\n\nImplemented dynamic resizing.\n\n\n\n\n\n\n\nFinal version of the Welcome page with a successful implementation of a random quotes API!\n\n\nThese skills were instrumental in my developlement of the Weekly Assignments page."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are projects I have completed that showcase key skills in programming and design.\nImage next to each project description too small? Click on it to see an enlarged version!"
+  },
+  {
+    "objectID": "projects/index.html#product-design-for-personal-grooming",
+    "href": "projects/index.html#product-design-for-personal-grooming",
+    "title": "Projects",
+    "section": "Product Design for Personal Grooming",
+    "text": "Product Design for Personal Grooming\n\n\nHere I used the human-centered design process to redesign the personal grooming process for a specific user. Click here to learn about each stage of the process.\nIn this project I showcase the process of:\n\nEmpathizing\nDefining\nIdeating\nPrototyping\nTesting"
+  },
+  {
+    "objectID": "projects/index.html#gradescope-calendar",
+    "href": "projects/index.html#gradescope-calendar",
+    "title": "Projects",
+    "section": "Gradescope Calendar",
+    "text": "Gradescope Calendar\n\n\nHere, I collaborated with 2 computer science students to create a web application to help students plan for assignments. I designed the UI for the site and programmed the “Weekly Assignments” page. Learn more here.\nIn this project I showcase:\n\nExperience in website development\nUI design in Canva\nCollaboration skills"
+  },
+  {
+    "objectID": "tab-about-me/index.html",
+    "href": "tab-about-me/index.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Kaitlynn Gray\n\n\nResume PDF\nLinkedIn\nGitHub\nEmail\n\n\n\nI’m a recently graduated Computer Science major + Art concentration from Harvey Mudd College in Claremont, CA. (I took a lot of design classes as well).\n\n\nHarvey Mudd? Think of a small, liberal arts STEM school known for student collaboration\n\n\nMy favorite projects have a strong technical and artistically creative component. Design projects are this golden mix of this.\nBut I also love research.\n\n\nIt’s why I’ve spent all three summers in college doing research.\n\n\nI am drawn to projects with a human-centered focus - I am deeply curious about how products and systems impact the people interacting with them.\n\n\nThat’s broad, yes! But it allows me to apply it to a multitude of projects. Whatever project I am on, I am going to care about the humans involved.\n\n\nI thrive in team-based projects where I am in charge of the visuals of a project - specifically making sure information is communicated clearly and aesthetically.\nI love taking the knowledge I gained and turning it into a visual document so that others can appreciate these findings.\nFor me, design isn’t just about making things pretty; it is about creating a product that most effectively reflects the person/people/community I am designing for. I do this by valuing the feedback of my clients.\n\n\n\n\n\n\n\n\n\n\nFavorites and Things\n\n\nYou’ll most likely find me reading, drawing, playing Sky: Children of the Light, or watching anime (if I’m not wonderfully lost in hours of updating the SCSS on this site).\nPicture: my character in the game Sky!",
+    "crumbs": [
+      "About Me"
+    ]
+  },
+  {
+    "objectID": "tab-art/index.html",
+    "href": "tab-art/index.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Art\n\n\nA collection of artworks and art projects.\nI love drawing and pushing myself to engage with new mediums.\n\n\n\n\n\n\n\n\nSketches and Things\n\n\nA collection of artworks I created.\n\n\nSee All\n\n\n\n\n\n\n\n\n\nDesmos Art\n\n\nA few things I created when messing around in the Desmos Graphing Calculator!\n\n\nSee All\n\n\n\n\n\n\n\n\n\nShifting Perspectives\n\n\nA simple tower that is more than it seems.\n\n\nProject Page\n\n\n\n\n\n\n\n\n\nSensory Cardboard\n\n\nCreated three objects that represented the concept of light, animated, and squishy using only cardboard, paper, foam core, and glue!\n\n\nProject Page",
+    "crumbs": [
+      "Art"
+    ]
+  },
+  {
+    "objectID": "tab-art/SensoryCardboard.html",
+    "href": "tab-art/SensoryCardboard.html",
+    "title": "Kaitlynn Gray",
+    "section": "",
+    "text": "Sensory Cardboard\n\n\nKaitlynn Gray\n\n\nCourse: Computational Design Tools\nMediums Used: cardboard, foamcore, paper, hot glue\n\n\n\n\n\nDescription\nWhat comes to mind when you think about something light or animated or squishy? How would you represent that in physical form? In this project, I was tasked to create physical representations of the concept of light, animated, and squishy. The catch: I could only use cardboard, foamcore, paper, and glue!\n\nAnimated\nWhen I think of something animated, I think of movement and changing expressions. Thus, I used dowels made from rolled paper and glue to create a piece with moving wings and a scrollable face wheel to generate 4 different expressions.\n\n\n\n\n\n\n\n\nLight\nI took a more literal representation for this piece and created the Sun as it is a provider of light. I included a hole within to allow light to pass through the object, and rainbow-order metallic coated paper to represent how light is colorful and reflective (which, when combined with a phone flashlight leads to some cool reflections!).\n\n\n\n\n\n\nSquishy\nFor this piece, I wanted to create something that could be physically squeezed. My final design is a pillow that can be squeezed or fluffed due to the form of the foam core inside the “pillow case.”"
   },
   {
     "objectID": "tab-code/ClothSim.html",
@@ -268,7 +299,7 @@
     "href": "tab-code/MUSE.html",
     "title": "Kaitlynn Gray",
     "section": "",
-    "text": "MUSE\n\n\nEshanya Agrawal, Deniz Bajin, Zariah Folkes, Kaitlynn Gray\n\n\nCourse: Computational Design Tools\nTools: HTML, CSS, JavaScript\n\n\nPaper\nDesign Documentation\nGitHub Repository\n\n\n\n\n\nDescription\nMUSE is a digital DJ board website. MUSE is a tool for people to better understand how different parts of sound relate to each other. This is to provide a foundation for those interested in producing music. We help visualize these different parts by associating sound with color.\nSo, instead of playing music tracks, users can play colors as sounds. Users can change the tint and saturation of the colors using sliders. These sliders also impact the sound of the color - changing tint changes the speed, and changing saturation changes the volume. This allows users to see the visual impacts of changing parts of sound. We hope that by connecting a visual change with altering sound, users can better understand how the speed and volume change a music track.\nUsers can play two colors at once to create a sound mixture and save them.\n\n\nScreenshots\n\n\nWelcome Page\n\n\n\n\nOur welcome screen with the logo designed by Eshanya.\n\n\n\nMain Page\n\n\n\n\nUsers select one of the colors in the middle of the screen to play on each of the larger disks.\nThe colors on the disks mix and show up as the smaller disk between the large ones.\n\n\n\nSaved Colors Page\n\n\n\n\nHere users can see all of the color mixtures they have saved.\n\n\n\nHelp Page\n\n\n\n\nTeaches users how to use MUSE."
+    "text": "MUSE\n\n\nEshanya Agrawal, Deniz Bajin, Zariah Folkes, Kaitlynn Gray\n\n\nCourse: Computational Design Tools\nTools: HTML, CSS, JavaScript\n\n\nDesign Documentation\nGitHub Repository\n\n\n\n\n\n\nDescription\nMUSE is a digital DJ board website. MUSE is a tool for people to better understand how different parts of sound relate to each other. This is to provide a foundation for those interested in producing music. We help visualize these different parts by associating sound with color.\nSo, instead of playing music tracks, users can play colors as sounds. Users can change the tint and saturation of the colors using sliders. These sliders also impact the sound of the color - changing tint changes the speed, and changing saturation changes the volume. This allows users to see the visual impacts of changing parts of sound. We hope that by connecting a visual change with altering sound, users can better understand how the speed and volume change a music track.\nUsers can play two colors at once to create a sound mixture and save them.\n\n\nScreenshots\n\n\nWelcome Page\n\n\n\n\nOur welcome screen with the logo designed by Eshanya.\n\n\n\nMain Page\n\n\n\n\nUsers select one of the colors in the middle of the screen to play on each of the larger disks.\nThe colors on the disks mix and show up as the smaller disk between the large ones.\n\n\n\nSaved Colors Page\n\n\n\n\nHere users can see all of the color mixtures they have saved.\n\n\n\nHelp Page\n\n\n\n\nTeaches users how to use MUSE."
   },
   {
     "objectID": "tab-code/SkyGame.html",
@@ -289,16 +320,9 @@
     "href": "tab-design/index.html",
     "title": "Kaitlynn Gray",
     "section": "",
-    "text": "Design\n\n\nA collection of product design and graphic design projects.\nI’ve been a graphic designer for the past five years. Creating graphics feels like a puzzle - it is very satisfying to learn new ways I can communicate information visually.\n\n\n\n\n\n\n\n\nGradescope Calendar UI\n\n\nI designed the UI for a website where students can see the assignments due for all of their courses on an online assignment tracking tool.\n\n\nProject Page\n\n\n\n\n\n\n\n\n\nPersonal Care Project\n\n\nCreated a product to improve the process of getting ready in the morning by helping to make choosing skincare products easier.\n\n\nProject Page\n\n\n\n\n\n\n\n\n\nGraphic Design\n\n\nA collection of graphic design projects I’ve worked on.\n\n\nSee All\n\n\n\n\n\n\n\n\n\nSilent Sky Theatre Program\n\n\nA theatre program I designed in Canva for a student production of the play Silent Sky.\n\n\nProgram PDF\n\n\n\n\n\n\n\n\n\nCACTI Lab Logo\n\n\nA logo I designed in Canva for my summer research group.",
+    "text": "Design\n\n\nA collection of product design and graphic design projects.\nI’ve been a graphic designer for the past five years. Creating graphics feels like a puzzle - it is very satisfying to learn new ways I can communicate information visually.\n\n\n\n\n\n\n\n\nGradescope Calendar UI\n\n\nI designed the UI for a website where students can see the assignments due for all of their courses on an online assignment tracking tool.\n\n\nProject Page\n\n\n\n\n\n\n\n\n\nGraphic Design\n\n\nA collection of graphic design projects I’ve worked on.\n\n\nSee All\n\n\n\n\n\n\n\n\n\nPersonal Care Project\n\n\nCreated a product to improve the process of getting ready in the morning by helping to make choosing skincare products easier.\n\n\nProject Page\n\n\n\n\n\n\n\n\n\nSilent Sky Theatre Program\n\n\nA theatre program I designed in Canva for a student production of the play Silent Sky.\n\n\nProgram PDF\n\n\n\n\n\n\n\n\n\nCACTI Lab Logo\n\n\nA logo I designed in Canva for my summer research group.",
     "crumbs": [
       "Design"
     ]
-  },
-  {
-    "objectID": "tab-research/mango.html",
-    "href": "tab-research/mango.html",
-    "title": "Kaitlynn Gray",
-    "section": "",
-    "text": "mango"
   }
 ]
