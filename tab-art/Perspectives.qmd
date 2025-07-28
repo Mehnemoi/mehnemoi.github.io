@@ -59,25 +59,14 @@ I created this piece to encourage myself to consider perspectives that were the 
 
 ::::{.screenshot}
 
-#### Through the Red Reveal
-
-![](assets/ART0_5.jpg)
-
-:::{.screenshot-caption}
-The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). 
-
-:::
-
-::::
-
-::::{.screenshot}
-
 #### The (not so simple) Tower
 
-![](assets/ART0_1.jpg)
+![](assets/ART0_1.jpg){.lightbox}
 
 :::{.screenshot-caption}
-The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). 
+The piece begins with black spires constructed from laser cut wood painted black. In the background are two patterns framed in black, making the piece feel like a standard exhibit in an art mueseum. 
+
+However, the towers are **more than they seem** -- one tower hides a **kaleidoscope**, another a **red reveal**, and another a deconstructed **periscope**!
 
 :::
 
@@ -87,10 +76,24 @@ The original cloth simulator before we added our edits. See the original creator
 
 #### Transforming Interactions
 
-![](assets/ART0_2.jpg)
+![](assets/ART0_2.jpg){.lightbox}
 
 :::{.screenshot-caption}
-The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). 
+The black spires can be pressed together to create new shapes. Audiences are encouraged to manipulate the tower pieces and look through them to see their world transformed. 
+
+The pieces are created to allow audiences to combine the red reveal, kaleidoscope, and periscope in a variety of ways to layer their effects!
+:::
+
+::::
+
+::::{.screenshot}
+
+#### Through the Red Reveal
+
+![](assets/ART0_5.jpg){.lightbox}
+
+:::{.screenshot-caption}
+A look through the red reveal at one of the pattern pieces on the wall. This reveals a message about how optical illusions impact humans.
 
 :::
 
@@ -100,10 +103,10 @@ The original cloth simulator before we added our edits. See the original creator
 
 #### Through the Kaleidoscope
 
-![](assets/ART0_3.jpg)
+![](assets/ART0_3.jpg){.lightbox}
 
 :::{.screenshot-caption}
-The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). 
+Looking through the kaleidoscope at another of the patterned pieces shatters its initial look and allows the audience to spin and break the pattern in new ways.
 
 :::
 
@@ -113,10 +116,10 @@ The original cloth simulator before we added our edits. See the original creator
 
 #### Through the Periscope
 
-![](assets/ART0_4.jpg)
+![](assets/ART0_4.jpg){.lightbox}
 
 :::{.screenshot-caption}
-The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). 
+A look through the periscope! We can see the patterned piece above through the viewing port. Since the pieces are like building blocks, audiences can rotate one or both of the pieces holding the mirror to see in different directions, even to see behind themselves!
 
 :::
 

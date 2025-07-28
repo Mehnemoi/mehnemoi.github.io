@@ -34,7 +34,7 @@ website:
 format:
   html:
     theme: styles-adv.scss
-    mainfont: Lexend #IBM Plex Mono
+    mainfont: Lexend, Arial, sans-serif #IBM Plex Mono
     #css: styles.css
     toc: false
 

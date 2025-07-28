@@ -1,33 +1,3 @@
-::: {.home}
-
-::::::: {.about-me-top}
-
-<!-- :::::{.about-me-top-left}
-
-::: {.about-me-image}
-
-![](images/headshot-zoomed.JPEG)
-:::
-
-::: {.medium-text}
-Hi! I'm
-:::
-
-::: {.big-text}
-Kaitlynn Gray
-:::
-
-::: {.links}
-
-[GitHub](https://github.com/Mehnemoi) 
-[LinkedIn](https://www.linkedin.com/in/kaitlynn-gray) 
-[Email](mailto:kagray@g.hmc.edu) 
-
-:::
-
-::::: -->
-
-
 
 ::::: {.about-me-text}
 
@@ -42,7 +12,7 @@ Kaitlynn Gray
 I'm Kaitlynn Gray
 :::
 
-Nice to meet you! I am a **designer, researcher, and programmer** with [strong creative skills](tab-design/). If I sound like someone you’d like on your team, I’d love to connect. 
+Nice to meet you! I am a **designer, researcher, and programmer** with [strong creative skills](tab-art/). If I sound like someone you’d like on your team, I’d love to connect. 
 
 ::: {.links}
 
@@ -182,9 +152,37 @@ MUSE
 
 <!-- project end -->
 
+<!-- project start -->
+
+:::{.home-proj}
+
+
+::: {.proj-title}
+
+Python + Pygame + Computer Graphics
+
+:::
+::: {.proj-description-big}
+Cloth Simulator
+
+:::
+
+::: {.skills}
+**Skills:** Python, Pygame
+
 :::
 
 
+[![](tab-code/assets/ClothSimImage.png)](tab-code/ClothSim.qmd)
+
+
+:::
+
+<!-- project end -->
+
+:::
+
+:::{.gd-column}
 <!-- project start -->
 
 :::{.home-proj}
@@ -211,6 +209,35 @@ Graphic Design
 :::
 
 <!-- project end -->
+
+<!-- project start -->
+
+:::{.home-proj}
+
+
+::: {.proj-title}
+
+Drawing, Painting, Papercrafting, Digital Art
+
+:::
+::: {.proj-description-big}
+Artworks
+
+:::
+
+::: {.skills}
+**Skills:** Sketching, Illustration
+
+:::
+
+[![](tab-art/assets/Sketches/KGrayArt1.JPG)](tab-art/Sketches.qmd)
+
+
+:::
+
+<!-- project end -->
+
+:::
 
 
 ::::
@@ -241,4 +268,5 @@ Skin Care Key
 
 
 
-:::::::
+:::::
+

@@ -67,8 +67,6 @@ $body-color: $black;
 
 //sidebar
 
-$sidebar-bg: $white;
-
 .sidebar-title {
     margin-bottom: 20px;
 }
@@ -116,29 +114,6 @@ $border-color: transparent;
 }
 
 
-// image things
-$circle-radius: 150px;
-
-.circle-image {
-    height: $circle-radius;
-    width:100%;
-    position: relative;
-    right:0px;
-    z-index: -1;
-    display: flex;
-    justify-content: left;
-    margin-bottom: 12px;
-
-    img {
-        height: $circle-radius;
-        width: $circle-radius;
-        object-fit: cover;
-        border-radius: 50%;
-    }
-    
-}
-
-
 
 //Scroll bar
 /* width */
@@ -168,10 +143,6 @@ $circle-radius: 150px;
     background: $gray; 
   }
 
-.home {
-    //margin-top: -40px;
-    height: 80vh;
-}
 
 // changing font color of footer
 
@@ -239,16 +210,21 @@ a {
 
 .links {
     display: inline;
+    height: fit-content;
+
    
 
     a {
+        display: inline-block;
         background-color: $black;
+        width: fit-content;
         border-radius: 4px;
         color: $white;
         text-decoration: none;
         font-size: 12.8px;
         padding: 10px 5%;
         margin-right: 4px;
+        margin-bottom: 4px;
     }
 
     a:hover {
@@ -256,10 +232,17 @@ a {
     }
 }
 
-// .about-me-container {
-//     display: flex;
-//     flex-direction: row;
-// }
+.about-me-container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    column-gap: 12px;
+    row-gap: 12px;
+}
+
+.about-me-text-container {
+    padding-top: 12px;
+}
+
 
 .about-me-image {
     margin:$margin;
@@ -270,20 +253,23 @@ a {
     }
 }
 .about-me-text{
-    // display: grid;
-    // grid-template-rows: auto;
+    font-size: 12px;
+    margin-top: 12px;
 
 }
 
 .main-text {
-    background-color: $yellow-t;
-    box-shadow: $box-shadow-yellow;
-    margin:$margin;
+    //background-color: $yellow-t;
+    margin-top: 0px;
     border-radius: $border-radius;
     padding: 24px;
-    overflow-y: scroll;
-    width: 75%;
+    // from: https://www.w3schools.com/css/css3_images.asp
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+
 }
+
+
 
 .tldr {
     display: flex;
@@ -298,14 +284,13 @@ a {
     border-radius: $border-radius;
     font-size: 16px;
     padding: 9px;
-    width: 40vw;
+    width: 66%;
     line-height: 24px;
 }
 
 .home-img {
     width: 200px;
-    max-height: 100px;
-    margin:$margin;
+    height: 195px;
 
     img {
         object-fit: cover;
@@ -334,11 +319,14 @@ a {
 }
 
 .about-me-top {
-    display: flex;
-    flex-direction: left;
-    height:85vh;
-    min-width: 70vw;
-    min-height: 550px;
+    // height: 90vh;
+    // min-width: 700px;
+    // width:100%;
+    // display: flex;
+    // flex-direction: left;
+    // height:85vh;
+    // min-width: 70vw;
+    // min-height: 550px;
 }
 
 .about-me-top-left {
@@ -375,7 +363,7 @@ a {
 }
 
 .home-proj-area {
-    height: 368px;
+    // height: 368px;
     display: flex;
     flex-direction: row;
     grid-template-columns: repeat(2, 0.5fr);
@@ -559,21 +547,21 @@ a {
     max-width: 27%;
     margin-right: 4%;
 
-    .project-links {
-        a {
-            display: block;
-            font-size:12px;
-            margin-bottom: 8px;
-            margin-right: 4px;
-            width: 100%;
-            max-width: 300px;
-        }
+    // .project-links {
+    //     a {
+    //         display: block;
+    //         font-size:12px;
+    //         margin-bottom: 8px;
+    //         margin-right: 4px;
+    //         width: 100%;
+    //         max-width: 300px;
+    //     }
 
-        a:hover {
-            background-color: $design-green;
-            color:$black;
-        }
-    }
+    //     a:hover {
+    //         background-color: $design-green;
+    //         color:$black;
+    //     }
+    // }
 }
 
 .right-col {
@@ -618,6 +606,7 @@ a {
 
 .proj-image {
     height: 100%;
+    max-height: 200px;
     overflow: hidden;
 
     img {
@@ -625,8 +614,10 @@ a {
         top: 0px;
         left: 0px;
         height:30vh;
+        min-height: 200px;
         width: 100%;
         margin-bottom:0px;
+        padding-bottom: 0px;
     }
 
 }
@@ -702,24 +693,34 @@ $callout-color-warning: $white;
     width: 100%;
 }
 
+
+
 .project-links {
     width: 100%;
-   
 
     a {
+        width: fit-content;
         background-color: $yellow;
         color: $black;
         text-decoration: none;
         font-size: 10px;
         padding: 8px 10px;
         margin-right: 4px;
-        margin-bottom: 0px;
         border-radius: 4px;
+     
     }
 
     a:hover {
         background-color: $black;
         color:$white;
+    }
+}
+
+.wide {
+    a { 
+        display: block;
+        width: 100%;
+        text-align: center;
     }
 }
 
@@ -734,7 +735,7 @@ $callout-color-warning: $white;
 }
 
 .code-proj-info{
-    width: 40%;
+    width: 44%;
     padding-left: 16px;
 }
 
@@ -773,9 +774,11 @@ $callout-color-warning: $white;
 }
 
 .code-proj-title {
-    font-size: 52px;
+    font-size: max(42px, 3.8vw);
+    // font-size: 52px;
     line-height: 0.85;
     margin-bottom: 0px;
+    width: fit-content;
 }
 
 .code-proj-names {
@@ -965,6 +968,16 @@ $callout-color-warning: $white;
         grid-template-columns: 1fr;
     }
 
+    .about-me-container {
+        grid-template-columns: 1fr;
+    }
+
+    .about-me-sides {
+    display: grid;
+    grid-template-columns: 50% 1fr;
+    column-gap: 12px;
+    }
+
 }
 
 
@@ -989,8 +1002,9 @@ $callout-color-warning: $white;
     }
 
     .big-text{
-        margin-top: 90px;
+        //margin-top: 90px;
     }
+
     .tldr-text{
         width: 100%;
     }
@@ -1004,6 +1018,10 @@ $callout-color-warning: $white;
 
     .graphic-design-container {
         grid-template-columns: repeat(1, 1fr);
+    }
+    .about-me-sides {
+        display: grid;
+        grid-template-columns: 1fr;
     }
 
 }
