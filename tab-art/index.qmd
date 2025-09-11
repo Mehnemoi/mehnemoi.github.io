@@ -145,3 +145,17 @@ Created three objects that represented the concept of light, animated, and squis
 
 
 :::
+
+<!-- :::::::{.experiments}
+:::::{.exp-1-container}
+:::{.exp-1-upper}
+This is a CSS experiement based on the UI style of the iOS game Gubbies
+:::
+
+:::{.exp-1-lower}
+hey
+:::
+:::::
+
+
+::::::: -->

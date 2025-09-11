@@ -162,7 +162,7 @@ a {
 
 
 
-
+// main website styling
 .left-col-home {
     padding-right: 20px;
     height: 100%;
@@ -301,7 +301,7 @@ a {
 
     img {
         object-fit: cover;
-        min-height: 200px;
+        min-height: 196px;
         border-radius: 32px;
     }
 }
@@ -324,6 +324,35 @@ a {
     background-image: none;
     background-color:$black;
 }
+
+// .experiments {
+//     display: grid;
+//     grid-template-columns: 1fr 1fr 1fr;
+//     gap: 8px;
+// }
+
+// .exp-1-container{
+//     border-style: solid;
+//     border-color: #000000;
+//     border-width: 1px;
+//     display: grid;
+//     grid-template-rows: 4fr 1fr;
+// }
+
+// .exp-1-upper{
+//     border-style: solid;
+//     border-color: #000000;
+//     border-width: 1px;
+//     padding: 16px;
+//     font-size: 24px;
+// }
+
+// .exp-1-lower{
+//     border-style: solid;
+//     border-color: #000000;
+//     border-width: 1px;
+//     padding-left: 8px;
+// }
 
 .about-me-top {
     // height: 90vh;
@@ -518,7 +547,7 @@ a {
 // main project pages
 
 .tab-body {
-    height: 90vh;
+    //height: 90vh;
     min-width: 700px;
     width:100%;
     display:grid;
@@ -594,6 +623,7 @@ a {
     border-radius: 4px;
     padding-bottom: 25px;
     padding: 10px 10px;
+    height: 330px;
     min-width:200px;
     width: 100%;
     display:flex;
@@ -704,6 +734,7 @@ $callout-color-warning: $white;
 
 .project-links {
     width: 100%;
+    
 
     a {
         width: fit-content;
@@ -806,6 +837,9 @@ $callout-color-warning: $white;
 .code-proj-bottom{
     padding: 20px;
 
+    // p {
+    //     background-color: red;
+    // }
    
 
 }
@@ -814,6 +848,22 @@ $callout-color-warning: $white;
     margin-top: 20px;
     font-size: 14px;
     width: 100%;
+}
+
+.asym-grid {
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    gap: 8px;
+}
+
+.asym-text {
+    padding-right: 16px;
+}
+
+.asym-img {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
 }
 
 .left-border {

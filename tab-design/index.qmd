@@ -1,7 +1,3 @@
-::: {.tab-body}
-
-
-
 :::{.tab-desc}
 
 ::: {.big-text}
@@ -17,6 +13,42 @@ I’ve been a graphic designer for the past five years. Creating graphics feels 
 :::
 
 :::
+
+
+::: {.tab-body}
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-design}
+
+::: {.proj-image .design}
+
+![](assets-projects/Webflow/APIPCEFinalUI.png)
+
+:::
+
+::: {.proj-title}
+
+APIP - Webflow Clinic Project
+
+:::
+
+::: {.proj-description}
+
+I designed the UI for APIP: The AI-Powered Inspiration Palette Tool, in collaboration with my team members and feedback from Webflow liaisons.
+
+:::
+
+:::{.project-links}
+
+[Project Page](APIP.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+
 
 <!-- start of project container -->
 
