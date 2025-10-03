@@ -44,35 +44,33 @@ I'm happy that you are here!
 :::{.gd-column}
 
 <!-- project start -->
-<!--
+
 :::{.home-proj}
 
 
 ::: {.proj-title}
 
-UI Design + Product Design + Webflow
+Product Design + UI Design + Webflow
 
 :::
 ::: {.proj-description-big}
-AI-Powered Inspiration Palette Tool 
+APIP Figma UI Design
 
 :::
 
 ::: {.skills}
-**Skills:** Figma, CSS, React, TypeScript, Webflow
+**Skills:** Figma, React, TypeScript, CSS, Webflow
 
 :::
 
 
-[![](/projects/gradescope-cal/images/GCalFinalFinalUI.png)](tab-design/GradescopeCalendar.qmd)
+[![](/tab-design/assets-projects/Webflow/APIPCEFinalUI.png)](tab-design/GradescopeCalendar.qmd)
 
 
 :::
--->
+
 <!-- project end -->
-:::
 
-:::{.gd-column}
 <!-- project start -->
 
 :::{.home-proj}

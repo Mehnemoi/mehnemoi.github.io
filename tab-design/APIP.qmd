@@ -132,19 +132,19 @@ I also created a light mode for the Chrome and Webflow Extensions. While we did 
 ### Chrome Extension Iteration
 With our new design direction established, we had one job left to do: refine our UI! I created the following Figma mockups to represent how our UI evolved throughout the project. 
 
-###### 1st Iteration
+#### 1st Iteration
 All buttons were placed at the top, allowing users to find them in one place (first image). We also opted for a default styling for the checkboxes (second image) and added a copy icon on the Export JSON page (third image).
 
 ![](assets-projects/Webflow/APIPWebUI1.png){.lightbox}
 
 
-###### 2nd Iteration
+#### 2nd Iteration
 Made it easier for users to see and locate their clicked elements by adding a collapse/expand feature. With a new set of buttons, we created a tie between the buttons and their uses by aligning the buttons influencing the clicked elements area (select / remove / collapse and expand) above the area and placing the “convert variables” on a different line (first and second image).
 
 ![](assets-projects/Webflow/APIPWebUI3.png){.lightbox}
 
 
-###### 3rd and 4th Iterations
+#### 3rd and 4th Iterations
 Our liaisons advised that we move the “convert variables” button to the bottom of the page. Now, the button would be in a more intuitive area, as it was only used after a user finished choosing all elements (first image). We also changed “remove all” to “delete all” and added a trash can icon to it. This icon served as a delete button for each clicked element, so adding the icon to the new delete button created a visual tie between their uses (first and second image).
 
 ![](assets-projects/Webflow/APIPWebUI4.png){.lightbox}
@@ -153,18 +153,19 @@ Our liaisons advised that we move the “convert variables” button to the bott
 
 
 ### Webflow Extension Iteration
-###### 1st Iteration
+#### 1st Iteration
 Completed after I converted the initial wireframe to the Webflow UI style, we experimented with combining the import and create variables pages on the same screen.
 
 ![](assets-projects/Webflow/APIPWEWebflowFull.png){.lightbox}
 
-###### 2nd Iteration
+
+#### 2nd Iteration
 We decided to move forward with having both pages visible. However, we placed them side-by-side to better fit in the Webflow design window area. We brought in the style of the darker box to display the generated variables to match with the rest of our UI.
 
 ![](assets-projects/Webflow/APIPWebUI2.png){.lightbox}
 
 
-###### Final Iteration
+#### Final Iteration
 This is the final Figma iteration before our final UI design! Here, we focused on using UI elements to guide users through the steps they needed to take. We added numbers to each side to establish an order of use.
 
 I also experimented with using button colors to guide users through the order of actions they should take. Blue buttons could be pressed, while grey buttons would be locked.
