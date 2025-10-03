@@ -51,7 +51,9 @@ APIP
 
 :::::{.code-proj-desc}
 
-### I designed the UI for APIP: The AI-Powered Inspiration Palette Tool, in collaboration with my team members and feedback from Webflow liaisons.
+:::{.emphasis}
+I designed the UI for APIP: The AI-Powered Inspiration Palette Tool, in collaboration with my team members and feedback from Webflow liaisons.
+:::
 
 ### Background
 This project was a part of the Harvey Mudd Computer Science Clinic Program, a senior capstone project program with the same weight as a thesis. Students are placed in teams and given a company partner to design a product for, with support from company liaisons. 
@@ -60,9 +62,16 @@ For my Clinic project, **I teamed with 5 Computer Science majors and the company
 
 
 ### Problem
-Webflow has many tools to use to build the perfect website. However, this large array of tools, combined with a blank website canvas to work, on may lead users to feel overwhelmed and unsure where to start. Our Webflow liaisons called this the “blank slate” problem.
+Webflow has many tools to use to build the perfect website. However, this large array of tools, combined with a blank website canvas to work on, may lead users to feel overwhelmed and unsure where to start. Our Webflow liaisons called this the “blank slate” problem.
 
-Our team addressed the blank slate problem by creating a way for users to bring in colors, fonts, and padding styles from websites they are inspired by to provide support for their Webflow websites. To do so, **we created a Chrome extension and a Webflow extension to help users upload CSS variables to the Webflow website building area: the Webflow Designer.** We called our project APIP: The AI-Powered Inspiration Palette Tool (APIP).
+
+![](assets-projects/Webflow/BlankWebflowSite.png){.lightbox}
+
+:::{.screenshot-caption}
+A screenshot of a blank website page in the Webflow Designer.
+:::
+
+Our team addressed the blank slate problem by creating a way for users to bring in colors, fonts, and padding styles from websites they are inspired by to provide support for their Webflow website designs. To do so, **we created a Chrome extension and a Webflow extension to help users upload CSS variables to the Webflow website building area: the Webflow Designer.** We called our project APIP: The AI-Powered Inspiration Palette Tool (APIP).
 
 ### Motivation
 ::: {.about-me}
@@ -74,7 +83,8 @@ After viewing the Webflow Designer tutorials, I had an idea – what if we could
 :::
 
 ::: {.about-me}
-After much research, we learned that using AI in this way would lead to incorrect results. So, we iterated on our design until we settled on creating a Chrome and Webflow extension. 
+After much research, we learned that using AI in this way would lead to incorrect results. So, we iterated on our product until we settled on creating a Chrome and Webflow extension. 
+:::
 
 With these, users could:
 
@@ -82,7 +92,7 @@ With these, users could:
  2. Click on styling elements they liked, and have these stored in an AI-generated .JSON file (think of a .JSON file as a container that holds organized information) 
  3. Take this stored information, download it, and 
  4. Upload it into the APIP Webflow extension to use on their Webflow website!
-::: 
+ 
 
 ### Initial Figma UI Design
 My team member Rachel and I created a Figma wireframe that built out the team’s ideas on key features APIP would have, and how the information would be organized. In the image below, the Chrome Extension wireframe is left of the arrow, and the Webflow Extension wireframe is on the right.
@@ -91,7 +101,7 @@ My team member Rachel and I created a Figma wireframe that built out the team’
 ![](assets-projects/Webflow/APIPFullWireframe.png){.lightbox}
 
 #### Using Webflow UI Style
-I wanted to create a visual tie between APIP and the Webflow website by using design styles from Webflow. This way, Webflow users would know that APIP and Webflow are connected. So, I used these areas from the Webflow Designer as inspiration to convert our wireframe designs to match the Webflow user interface (UI). 
+I wanted to create a visual tie between APIP and the Webflow website by using design styles from Webflow. This way, Webflow users would know that APIP and Webflow are connected. So, I used these screenshots from the Webflow Designer as inspiration to convert our wireframe designs to match the Webflow user interface (UI). 
 
 **Note:** The screenshot on the left with the variables will appear once more in the first iteration of the Webflow extension [below](/tab-design/APIP.qmd#st-iteration-1). I use this to visualize how Webflow displays its variables to better align our UI with theirs.
 
@@ -138,23 +148,30 @@ I also created a light mode for the Chrome and Webflow Extensions. While we did 
 With our new design direction established, we had one job left to do: refine our UI! I created the following Figma mockups to represent how our UI evolved throughout the project. 
 
 #### 1st Iteration
-All buttons were placed at the top, allowing users to find them in one place (first image). We also opted for a default styling for the checkboxes (second image) and added a copy icon on the Export JSON page (third image).
+All buttons were placed at the top, allowing users to find them in one place (first image). We also opted for a default styling for the checkboxes (second image) and added a copy icon on the Export JSON page (third image). Each element received a "remove" button so users could remove specific elements (second image).
+
+**Highlighting Feedback:** Our liaisons advised we reduce the text we use in our UI. Here, we removed the text surrounding the "convert to JSON" button by renaming it to "Convert Variables" and removing the "ready to transfer your variables?" question above it.
+
 
 ![](assets-projects/Webflow/APIPWebUI1.png){.lightbox}
 
 
 #### 2nd Iteration
-Made it easier for users to see and locate their clicked elements by adding a collapse/expand feature. With a new set of buttons, we created a tie between the buttons and their uses by aligning the buttons influencing the clicked elements area (select / remove / collapse and expand) above the area and placing the “convert variables” on a different line (first and second image).
+We made it easier for users to see and locate their clicked elements by adding a collapse/expand feature. With a new set of buttons, we created a tie between the buttons and their uses by aligning the buttons influencing the clicked elements area (select / remove / collapse and expand) above the area and placing the “convert variables” on a different line (first and second image).
+
+Continuing our efforts to reduce text, we changed the "remove" button on each element to a trashcon icon. With icons, users could learn key information about button uses without needing to read each button. Here, I represent it with a red, rounded rectangle.
+
+**Highlighting Feedback:** Our liaisons also pointed out that Webflow uses sentence-case for their text. Thus, I changed the tab names, activate element switch, and buttons to sentence case. Ex: "Style Selection" became "Style selection" instead.
 
 ![](assets-projects/Webflow/APIPWebUI3.png){.lightbox}
 
 
 #### 3rd and 4th Iterations
-Our liaisons advised that we move the “convert variables” button to the bottom of the page. Now, the button would be in a more intuitive area, as it was only used after a user finished choosing all elements (first image). 
+**Highlighting Feedback:** Our liaisons advised that we move the “convert variables” button to the bottom of the page. Now, the button would be in a more intuitive area, as it was only used after a user finished choosing all elements. 
 
-We also changed “remove all” to “delete all” and added a trash can icon to it. This icon served as a delete button for each clicked element, so adding the icon to the new delete button created a visual tie between their uses (first and second image).
+We changed “remove all” to “delete all”. (first image and second image). Additionally, we made the collapse/expand button easier to understand by simplifying it to one carrot pointing up or down (compare the first and second image). 
 
-Additionally, we made the collapse/expand button easier to understand by simplifying it to one carrot pointing up or down (compare the first and second image). The third image displays all of the above changes.
+We also added a trash can icon to the delete button. This icon served as a delete button for each clicked element, so adding the icon to the new delete button created a visual tie between their uses (third image). 
 
 ![](assets-projects/Webflow/APIPWebUI4.png){.lightbox}
 

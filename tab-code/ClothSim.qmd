@@ -58,35 +58,27 @@ Kaitlynn Gray, Ryan Nguyen, Kishore Rajesh
 ### Description
 We built off of a [cloth simulator](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py) created using PyGame, a Python library to create games. Our project focused on styling the cloth by adding colors, a double sided feature, background effects, and silly particle effects.
 
-I worked on calculating how to create a double-sided effect on the cloth, designed the final patterns for the cloth, and programmed the background color to change based on which side of the cloth was showing.
+I worked on calculating how to create a double-sided effect on the cloth, designed the [final patterns](#cloth-patterns) for the cloth, and programmed the background color to change based on which side of the cloth was showing.
 
 In my own time I implemented 2D “spheres” that replace the cloth patches with a ball that can change orientation.
 
+### Original Cloth -> Final Look
+**Left:** The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). *Image from our Slide Presentation.*
 
-:::::
+**Right:** Our bedazzled cloth, filled with color!
 
-
-### Screenshots
-
-:::::{.screenshots-container}
-
-:::{.screenshot}
-#### Original Cloth
-
-:::{.screenshot-image}
-
+:::{.home-proj-area}
 ![](assets/ClothSimOriginal.png){.lightbox}
 
+![](assets/ClothSimImage.png){.lightbox}
 :::
 
-:::{.screenshot-caption}
-The original cloth simulator before we added our edits. See the original creator [here](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py). 
 
-*Image from our Slide Presentation.*
-:::
 
-:::
 
+
+### Videos
+:::::{.screenshots-container}
 :::{.screenshot}
 #### 2D Sphere Effect
 
@@ -168,6 +160,24 @@ Adding sparkles to the cloth.
 
 :::::
 
+### Code Flow
+This is a diagram my team created (and I designed) showcasing how our project functions. Click/tap it to view the PDF version!
+
+
+[![](assets/ClothSimCodeFlow.png)](assets/ClothSimCodeFlow.pdf)
+
+
+### Cloth Patterns
+I designed these cloth patterns in Canva to use on our cloth. The left is called "Sunset" and the right is "Space," which reminds me of the aliens found in the movie *Toy Story.*
+
+:::::{.home-proj-area}
+![](assets/ClothSimSunset.png){.lightbox}
+
+![](assets/ClothSimSpace.png){.lightbox}
+:::::
+
+
+:::::
 
 :::::::
 

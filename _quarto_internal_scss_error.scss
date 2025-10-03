@@ -1230,6 +1230,14 @@ a {
     font-size: 17px;
     margin-bottom: -15px;
 }
+
+.emphasis{
+        width: min(760px, 100%);
+        font-size: 2em;
+        color:#0065a0;
+        font
+    }
+
 .big-text {
     font-size: 48px;
    
@@ -1276,10 +1284,12 @@ a {
     }
 }
 
-.columns {
+.columns3 {
     display: grid;
-    g
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 8px;
 }
+
 .about-me-container {
     display: grid;
     grid-template-columns: 2fr 1fr;
@@ -1444,9 +1454,9 @@ a {
 
 .home-proj-area {
     // height: 368px;
-    display: flex;
+    display: grid;
     flex-direction: row;
-    grid-template-columns: repeat(2, 0.5fr);
+    grid-template-columns: repeat(2, 1fr);
     column-gap: 12px;
     margin: 0px 6px;
     width: 100%;
@@ -1459,13 +1469,13 @@ a {
     padding-bottom: 25px;
     padding: 10px 10px;
     min-width:200px;
-    width: fit-content;
+    width: 100%;
     margin-bottom: 15px;
     // from: https://www.w3schools.com/css/css3_images.asp
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
     img {
-        width: min(400px, 60vw);
+        width: 100%; //min(400px, 60vw);
     }
 
     img:hover{
@@ -1663,6 +1673,16 @@ a {
     overflow-y: scroll;
 }
 
+.faded-border {
+    border-radius: 4px;
+    //padding-bottom: 25px;
+    //padding: 10px 10px;
+    margin-right:15px;
+    margin-bottom: 15px;
+    // from: https://www.w3schools.com/css/css3_images.asp
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 .project-container {
     border-radius: 4px;
     padding-bottom: 25px;
@@ -1771,7 +1791,7 @@ $callout-color-warning: $white;
 .proj-description-big {
     margin-top: -20px;
     font-size: 24px;
-    width: 100%;
+    width: 80%;
 }
 
 

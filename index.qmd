@@ -15,7 +15,7 @@ Kaitlynn Gray
 Nice to meet you! Kaitlynn is a **designer, researcher, and programmer** with [strong creative skills](tab-art/). If she sounds like someone you’d like on your team, she’d love to connect. 
 
 ::: {.links}
-[Resume PDF](../documents/Kaitlynn%20Gray%20Resume%202025.pdf) 
+[Resume PDF](./documents/Kaitlynn%20Gray%20-%20Resume.pdf) 
 
 [LinkedIn](https://www.linkedin.com/in/kaitlynn-gray) 
 
@@ -190,7 +190,7 @@ Graphic Design
 
 ::: {.proj-title}
 
-Drawing, Painting, Papercrafting, Digital Art
+Drawing + Painting + Papercrafting + Digital Art
 
 :::
 ::: {.proj-description-big}

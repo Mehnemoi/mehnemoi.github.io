@@ -61,9 +61,6 @@ So, instead of playing music tracks, users can play colors as sounds. Users can 
 
 Users can play two colors at once to create a sound mixture and save them.
 
-:::::
-
-
 ### Screenshots
 
 :::::{.screenshots-container}
@@ -130,6 +127,42 @@ Teaches users how to use MUSE.
 
 :::::
 
+### The Process
+#### Low-Fidelity Prototype
+![](assets/MUSEDocs/MUSELowFidelityPrototype.png){.lightbox}
+
+#### Figma Wireframe
+![](assets/MUSEDocs/MUSEFigmaSavedColors.png){.lightbox}
+
+#### State Diagram
+![](assets/MUSEDocs/MUSEStateDiagram.png){.lightbox}
+
+#### User Flow
+![](assets/MUSEDocs/MUSEUserGoal.png){.lightbox}
+
+#### UI Iteration
+
+##### Main Page Redesign
+:::{.triple-grid}
+
+![](assets/MUSEDocs/MUSEInitialUI.png){.lightbox}
+
+![](assets/MUSEDocs/MUSEUI2.png){.lightbox}
+
+![](assets/MUSEDocs/MUSEUI3.png){.lightbox}
+
+:::
+
+##### Help Page Redesign
+:::{.home-proj-area}
+
+![](assets/MUSEDocs/MUSEHelpPage1.png){.lightbox}
+
+![](assets/MUSEHelpPage.png){.lightbox}
+
+:::
+
+:::::
 
 :::::::
 
