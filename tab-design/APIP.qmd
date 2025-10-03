@@ -31,6 +31,10 @@ APIP
 
 :::
 
+:::{.code-proj-links}
+[Jump to Final UI](/tab-design/APIP.qmd#final-figma-ui)
+:::
+
 
 
 :::::
@@ -56,7 +60,7 @@ For my Clinic project, **I teamed with 5 Computer Science majors and the company
 
 
 ### Problem
-Webflow has many tools to use to build the perfect website. However, this large array of tools combined with a blank website canvas to work on may lead users to feel overwhelmed and unsure where to start. Our Webflow liaisons called this the “blank slate” problem.
+Webflow has many tools to use to build the perfect website. However, this large array of tools, combined with a blank website canvas to work, on may lead users to feel overwhelmed and unsure where to start. Our Webflow liaisons called this the “blank slate” problem.
 
 Our team addressed the blank slate problem by creating a way for users to bring in colors, fonts, and padding styles from websites they are inspired by to provide support for their Webflow websites. To do so, **we created a Chrome extension and a Webflow extension to help users upload CSS variables to the Webflow website building area: the Webflow Designer.** We called our project APIP: The AI-Powered Inspiration Palette Tool (APIP).
 
@@ -66,11 +70,18 @@ After viewing the Webflow Designer tutorials, I had an idea – what if we could
 :::
 
 :::{.asides}
-*`*`A few months later I’ll end up attending a Computer Science talk and learn there is a company actually pouring time and money into that same idea – unrelated to me – right now.*
+*`*`A few months later, I’ll end up attending a Computer Science talk and learn there is a company actually pouring time and money into that same idea – unrelated to me – right now.*
 :::
 
 ::: {.about-me}
-After much research, we learned that using AI in this way would lead to incorrect results. So, we iterated on our design until we settled on creating a Chrome and Webflow extension. With these, users could open an APIP Chrome extension while on their favorite website, click on styling elements they liked, and have these stored. Users could then take this stored information, download it, and upload it into the APIP Webflow extension to use on their Webflow website!
+After much research, we learned that using AI in this way would lead to incorrect results. So, we iterated on our design until we settled on creating a Chrome and Webflow extension. 
+
+With these, users could:
+
+ 1. Open an APIP Chrome extension while on their favorite website
+ 2. Click on styling elements they liked, and have these stored in an AI-generated .JSON file (think of a .JSON file as a container that holds organized information) 
+ 3. Take this stored information, download it, and 
+ 4. Upload it into the APIP Webflow extension to use on their Webflow website!
 ::: 
 
 ### Initial Figma UI Design
@@ -82,7 +93,7 @@ My team member Rachel and I created a Figma wireframe that built out the team’
 #### Using Webflow UI Style
 I wanted to create a visual tie between APIP and the Webflow website by using design styles from Webflow. This way, Webflow users would know that APIP and Webflow are connected. So, I used these areas from the Webflow Designer as inspiration to convert our wireframe designs to match the Webflow user interface (UI). 
 
-**Note:** The screenshot on the left with the variables will appear once more in the first iteration of the Webflow extension below. I use this to visualize how Webflow displays its variables to better align our UI with their's.
+**Note:** The screenshot on the left with the variables will appear once more in the first iteration of the Webflow extension [below](/tab-design/APIP.qmd#st-iteration-1). I use this to visualize how Webflow displays its variables to better align our UI with theirs.
 
 :::{.asym-grid}
 ![](assets-projects/Webflow/APIPUIInspoDark2.png){.lightbox}
@@ -91,7 +102,7 @@ I wanted to create a visual tie between APIP and the Webflow website by using de
 :::
 
 #### UI Redesign
-Combining the above inspiration and my research into Webflow design resources, I redesigned the team Figma wireframe to closely align to the Webflow UI style.
+Combining the above inspiration and my research into Webflow design resources, I redesigned the team Figma wireframe to closely align with the Webflow UI style.
 
 ##### Chrome Extension
 ![](assets-projects/Webflow/APIPCEWebflow.png){.lightbox}
@@ -143,6 +154,8 @@ Our liaisons advised that we move the “convert variables” button to the bott
 
 We also changed “remove all” to “delete all” and added a trash can icon to it. This icon served as a delete button for each clicked element, so adding the icon to the new delete button created a visual tie between their uses (first and second image).
 
+Additionally, we made the collapse/expand button easier to understand by simplifying it to one carrot pointing up or down (compare the first and second image). The third image displays all of the above changes.
+
 ![](assets-projects/Webflow/APIPWebUI4.png){.lightbox}
 
 
@@ -152,13 +165,13 @@ We also changed “remove all” to “delete all” and added a trash can icon 
 #### 1st Iteration
 Completed after I converted the initial wireframe to the Webflow UI style, we experimented with combining the import and create variables pages on the same screen. 
 
-**Note:** The bottom half area starting with "Component 1" and ending with "+ New variable" is not my own, this is a screenshot from the Webflow Designer that I used to visualize how Webflow displays their variables! You may recognize this screenshot from the "Using Webflow Style" section above.
+**Note:** The bottom half area starting with "Component 1" and ending with "+ New variable" is not my own. Instead, it is a screenshot from the Webflow Designer that I used to visualize how Webflow displays their variables! You may recognize this screenshot from the ["Using Webflow Style"](/tab-design/APIP.qmd#using-webflow-ui-style) section above.
 
 ![](assets-projects/Webflow/APIPWEWebflowFull.png){.lightbox}
 
 
 #### 2nd Iteration
-We decided to move forward with having both pages visible. However, we placed them side-by-side to better fit in the Webflow Designer window area. We brought in the style of the darker box to display the generated variables to match with the rest of our UI.
+We decided to move forward with having both pages visible. However, we placed them side-by-side to better fit in the Webflow Designer window area. We brought in the style of the darker box to display the generated variables to match the rest of our UI.
 
 ![](assets-projects/Webflow/APIPWebUI2.png){.lightbox}
 
@@ -176,9 +189,9 @@ In the first image, the single blue button would guide users to import or upload
 
 
 ### Final Figma UI 
-After months of iteration, I created the following Figma mockups of our final UI design. 
+After months of iteration from the first Figma mockups, I created the following Figma mockups of our final UI design. 
 
-For the Chrome Extension, I made sure to replicate small details like the loading wheel in the "Generating export .JSON" mockup, though I simplified our delete icon to one that was easier to create
+For the Chrome Extension, I made sure to replicate small details like the loading wheel in the "Generating export .JSON" mockup, though I simplified our delete icon to one that was easier to create.
 
 ![](assets-projects/Webflow/APIPCEFinalUI.png){.lightbox}
 
@@ -193,7 +206,7 @@ We did not end up using the greyed-out buttons, though we continued using the nu
 ![](assets-projects/Webflow/APIPWEFinalUI.png){.lightbox}
 
 ### Screenshots of Live APIP
-Below are screenshots of the actual APIP Chrome and Webflow Extensions. I collaborated with my teammembers to program the UI using Tailwind CSS, CSS3, and TypeScript.
+Below are screenshots of the actual APIP Chrome and Webflow Extensions. I collaborated with my team members to program the UI using Tailwind CSS, CSS3, and TypeScript. Special thanks to Erin for polishing the UI code!
 
 #### Chrome Extension
 
@@ -228,8 +241,10 @@ Below are screenshots of the actual APIP Chrome and Webflow Extensions. I collab
 ![](assets-projects/Webflow/ScreenshotWESuccess.png){.lightbox}
 
 :::
-*Wondering where the gradient-style blue buttons came from? They are from Webflow! Throughout the design process of converting APIP to the Webflow style, I wanted to use the button styling found on the Webflow main site. After some digging using the inspect tool (and a little help from APIP) I was able to locate the button styling and use it here!*
 
+:::{.code-proj-class}
+*Wondering where the gradient-style blue buttons came from? They are from Webflow! Throughout the design process of converting APIP to the Webflow style, I wanted to use the button styling found on the Webflow main site. After some digging using the inspect tool (and a little help from APIP), I was able to locate the button styling and use it here!*
+:::
 
 ### Learnings
 Through this project, I learned how to create mockups, wireframes, and user interfaces in Figma. With my design work, my teammates were able to have a guide when programming the user interface. My team and I successfully translated these Figma mockups into working code.

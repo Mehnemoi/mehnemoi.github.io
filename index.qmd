@@ -54,7 +54,7 @@ Product Design + UI Design + Webflow
 
 :::
 ::: {.proj-description-big}
-APIP Figma UI Design
+AI-Powered Inspiration Palette Tool (APIP)
 
 :::
 
@@ -64,7 +64,7 @@ APIP Figma UI Design
 :::
 
 
-[![](/tab-design/assets-projects/Webflow/APIPCEFinalUI.png)](tab-design/GradescopeCalendar.qmd)
+[![](/tab-design/assets-projects/Webflow/APIPCEFinalUI.png)](tab-design/APIP.qmd)
 
 
 :::
