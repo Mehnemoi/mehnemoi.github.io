@@ -236,6 +236,12 @@ a {
     }
 }
 
+.columns3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 8px;
+}
+
 .about-me-container {
     display: grid;
     grid-template-columns: 2fr 1fr;
@@ -619,6 +625,16 @@ a {
     overflow-y: scroll;
 }
 
+.faded-border {
+    border-radius: 4px;
+    //padding-bottom: 25px;
+    //padding: 10px 10px;
+    margin-right:15px;
+    margin-bottom: 15px;
+    // from: https://www.w3schools.com/css/css3_images.asp
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 .project-container {
     border-radius: 4px;
     padding-bottom: 25px;
@@ -846,7 +862,7 @@ $callout-color-warning: $white;
 
 .asym-grid {
     display: grid;
-    grid-template-columns: 2fr 5fr;
+    grid-template-columns: 3fr 2fr;
     gap: 8px;
 }
 
