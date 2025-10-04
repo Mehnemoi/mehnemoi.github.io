@@ -64,7 +64,6 @@ For my Clinic project, **I teamed with 5 Computer Science majors and the company
 ### Problem
 Webflow has many tools to use to build the perfect website. However, this large array of tools, combined with a blank website canvas to work on, may lead users to feel overwhelmed and unsure where to start. Our Webflow liaisons called this the “blank slate” problem.
 
-
 ![](assets-projects/Webflow/BlankWebflowSite.png){.lightbox}
 
 :::{.screenshot-caption}
@@ -229,7 +228,7 @@ Below are screenshots of the actual APIP Chrome and Webflow Extensions. I collab
 
 :::{.columns3}
 ###### Opening Extension
-![](assets-projects/Webflow/ScreenshotCECollapsed.png){.lightbox}
+![](/assets-projects/Webflow/ScreenshotCECollapsed.png){.lightbox}
 
 ###### Selecting Elements
 ![](assets-projects/Webflow/ScreenshotCEFull.png){.lightbox}
