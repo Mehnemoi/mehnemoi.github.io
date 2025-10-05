@@ -3,7 +3,7 @@
 
 ::::{.tldr}
 :::{.home-img}
-![](images/headshot-zoomed.JPEG)
+![](images/WebflowHeadshot.JPG)
 :::
 
 :::{.tldr-text}
@@ -12,7 +12,7 @@
 Kaitlynn Gray
 :::
 
-Nice to meet you! Kaitlynn is a **designer, researcher, and programmer** with [strong creative skills](tab-art/). If she sounds like someone you’d like on your team, she’d love to connect. 
+Nice to meet you! I'm a **designer, researcher, and programmer** with [strong creative skills](tab-art/). If I sound like someone you’d like on your team, I’d love to connect. 
 
 ::: {.links}
 [Resume PDF](./documents/Kaitlynn%20Gray%20-%20Resume.pdf) 
