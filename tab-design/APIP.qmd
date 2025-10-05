@@ -88,7 +88,7 @@ After much research, we learned that using AI in this way would lead to incorrec
 With these, users could:
 
  1. Open an APIP Chrome extension while on their favorite website
- 2. Click on styling elements they liked, and have these stored in an AI-generated .JSON file (think of a .JSON file as a container that holds organized information) 
+ 2. Click on styling elements they liked, and have these stored in an AI-generated .JSON file
  3. Take this stored information, download it, and 
  4. Upload it into the APIP Webflow extension to use on their Webflow website!
  
@@ -228,7 +228,7 @@ Below are screenshots of the actual APIP Chrome and Webflow Extensions. I collab
 
 :::{.columns3}
 ###### Opening Extension
-![](/assets-projects/Webflow/ScreenshotCECollapsed.png){.lightbox}
+![](assets-projects/Webflow/ScreenshotCECollapsed.png){.lightbox}
 
 ###### Selecting Elements
 ![](assets-projects/Webflow/ScreenshotCEFull.png){.lightbox}

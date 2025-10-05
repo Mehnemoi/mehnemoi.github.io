@@ -874,6 +874,12 @@ $callout-color-warning: $white;
     width: 100%;
 }
 
+.asym {
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    gap: 16px;
+}
+
 .asym-grid {
     display: grid;
     grid-template-columns: 3fr 2fr;
@@ -912,17 +918,13 @@ $callout-color-warning: $white;
 }
 
 .screenshot{
-    // background-color: teal;
-    // padding: 10px;
-    // overflow:visible;
-
-    // from: 
-    //padding: 10px;
     box-sizing: border-box;
-    //resize: horizontal;
-    //border: 1px solid;
     overflow: auto;
     max-width: 100%;
+
+    img {
+        //height: 300px;
+    }
 }
 
 .screenshot-image {
