@@ -149,7 +149,7 @@ With our new design direction established, we had one job left to do: refine our
 #### 1st Iteration
 All buttons were placed at the top, allowing users to find them in one place (first image). We also opted for a default styling for the checkboxes (second image) and added a copy icon on the Export JSON page (third image). Each element received a "remove" button so users could remove specific elements (second image).
 
-**Highlighting Feedback:** Our liaisons advised we reduce the text we use in our UI. Here, we removed the text surrounding the "convert to JSON" button by renaming it to "Convert Variables" and removing the "ready to transfer your variables?" question above it.
+**Highlighting Feedback:** Our liaisons advised that we reduce the text we use in our UI. Here, we removed the text surrounding the "convert to JSON" button by renaming it to "Convert Variables" and removing the "ready to transfer your variables?" question above it.
 
 
 ![](assets-projects/Webflow/APIPWebUI1.png){.lightbox}
@@ -158,9 +158,9 @@ All buttons were placed at the top, allowing users to find them in one place (fi
 #### 2nd Iteration
 We made it easier for users to see and locate their clicked elements by adding a collapse/expand feature. With a new set of buttons, we created a tie between the buttons and their uses by aligning the buttons influencing the clicked elements area (select / remove / collapse and expand) above the area and placing the “convert variables” on a different line (first and second image).
 
-Continuing our efforts to reduce text, we changed the "remove" button on each element to a trashcon icon. With icons, users could learn key information about button uses without needing to read each button. Here, I represent it with a red, rounded rectangle.
+Continuing our efforts to reduce text, we changed the "remove" button on each element to a trashcan icon. With icons, users could learn key information about button uses without needing to read each button. Here, I represent it with a red, rounded rectangle.
 
-**Highlighting Feedback:** Our liaisons also pointed out that Webflow uses sentence-case for their text. Thus, I changed the tab names, activate element switch, and buttons to sentence case. Ex: "Style Selection" became "Style selection" instead.
+**Highlighting Feedback:** Our liaisons also pointed out that Webflow uses sentence-case for their text. Thus, I changed the tab names, "activate element grabber" switch, and buttons to sentence case. Ex: "Style Selection" became "Style selection" instead.
 
 ![](assets-projects/Webflow/APIPWebUI3.png){.lightbox}
 
@@ -168,7 +168,7 @@ Continuing our efforts to reduce text, we changed the "remove" button on each el
 #### 3rd and 4th Iterations
 **Highlighting Feedback:** Our liaisons advised that we move the “convert variables” button to the bottom of the page. Now, the button would be in a more intuitive area, as it was only used after a user finished choosing all elements. 
 
-We changed “remove all” to “delete all”. (first image and second image). Additionally, we made the collapse/expand button easier to understand by simplifying it to one carrot pointing up or down (compare the first and second image). 
+We changed “remove all” to “delete all”. (first image and second image). Additionally, we made the collapse/expand button easier to understand by simplifying it to one carrot pointing up or down (compare the first and second images). 
 
 We also added a trash can icon to the delete button. This icon served as a delete button for each clicked element, so adding the icon to the new delete button created a visual tie between their uses (third image). 
 
@@ -181,7 +181,7 @@ We also added a trash can icon to the delete button. This icon served as a delet
 #### 1st Iteration
 Completed after I converted the initial wireframe to the Webflow UI style, we experimented with combining the import and create variables pages on the same screen. 
 
-**Note:** The bottom half area starting with "Component 1" and ending with "+ New variable" is not my own. Instead, it is a screenshot from the Webflow Designer that I used to visualize how Webflow displays their variables! You may recognize this screenshot from the ["Using Webflow Style"](/tab-design/APIP.qmd#using-webflow-ui-style) section above.
+**Note:** The bottom half area, starting with "Component 1" and ending with "+ New variable," is not my own. Instead, it is a screenshot from the Webflow Designer that I used to visualize how Webflow displays their variables! You may recognize this screenshot from the ["Using Webflow Style"](/tab-design/APIP.qmd#using-webflow-ui-style) section above.
 
 ![](assets-projects/Webflow/APIPWEWebflowFull.png){.lightbox}
 

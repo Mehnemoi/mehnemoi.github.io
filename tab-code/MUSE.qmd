@@ -54,6 +54,10 @@ Eshanya Agrawal, Deniz Bajin, Zariah Folkes, Kaitlynn Gray
 
 :::::{.code-proj-desc}
 
+:::{.emphasis}
+I collaborated with 3 students to apply the human-centered design process to software development.
+:::
+
 ### Description
 MUSE is a digital DJ board website. It is a tool for people to better understand how different parts of sound relate to each other. This provides a foundation for those interested in producing music. We help visualize these different parts by associating sound with color.
 
@@ -170,7 +174,7 @@ Yellow and purple mixing successfully.
 ##### Curious about the color-mixing bug?
 This happened because we were averaging the HSL values of each color to mix them. HSL values represent colors as a group of three numbers like this: (hue, saturation, lightness). These values control the hue (color), saturation (vibrancy), and lightness (brightness) of a color. Using HSL values was helpful because MUSE focused on shifting the saturation and brightness/darkness of colors.  
 
-Hue ranges from 0 to 360, like the degrees of a circle. This circle mapped onto the color wheel, where 0 = red, 180 = cyan, and 360 went back to red ([source](https://www.w3schools.com/html/html_colors_hsl.asp)). The image below, screenshotted from the Mozilla Developers [site](https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl/), shows what this color wheel looks like:
+Hue ranges from 0 to 360, like the degrees of a circle. This circle is mapped onto the color wheel, where 0 = red, 180 = cyan, and 360 = red again ([source](https://www.w3schools.com/html/html_colors_hsl.asp)). The image below, screenshotted from the Mozilla Developers [site](https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl/), shows what this color wheel looks like:
 
 :::{.wide}
 ![](assets/MDNColorWheel.png){.lightbox}
@@ -184,7 +188,7 @@ So, pure red would have a hue value of 0, and yellow would have a hue value arou
 
 However, if we did this same process using red (hue = 0) and blue (hue = 240), we would get 120... which maps onto green! So, we needed to convert our colors to another value representation to mix them successfully. Following the [source](https://stackoverflow.com/questions/14819058/mixing-two-colors-naturally-in-javascript) I received from my professor, I converted our colors to RGB before mixing them.
 
-RGB values represent how much red, green, or blue is in a color, ranging from 0 to 255 like this: (red, green, blue). For example, pure red would be (255, 0, 0) and pure blue would be (0, 0, 255). So, mixing red and blue would result in (128, 0, 128), which represents a color with equal amounts of red and blue, AKA purple! 
+RGB values represent how much red, green, or blue is in a color, ranging from 0 to 255, like this: (red, green, blue). For example, pure red would be (255, 0, 0) and pure blue would be (0, 0, 255). So, mixing red and blue by averaging their values would result in (128, 0, 128), which represents a color with equal amounts of red and blue, AKA purple! 
 
 By changing our colors from HSL to RGB before averaging their values, colors would mix naturally.
 

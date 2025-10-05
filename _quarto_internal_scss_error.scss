@@ -1112,11 +1112,10 @@ $body-color: $black;
 }
 
 .sidebar-menu-container::after {
-    content: "Email: kagray@g.hmc.edu";
+    content: "kaitlynngray314@gmail.com";
     font-size: 14px;
     position: absolute;
     top: 88vh;
-    padding: 8px;
 }
 
 .sidebar-link {
@@ -1199,8 +1198,10 @@ a {
     margin: 0px;
 }
 
-
-
+embed {
+    width: 100%;
+    min-height: 760px;
+}
 
 // main website styling
 .left-col-home {
@@ -1234,8 +1235,8 @@ a {
 .emphasis{
         width: min(760px, 100%);
         font-size: 2em;
-        color:#0065a0;
-        font
+        color:#0171b1;
+        font-weight: 500;
     }
 
 .big-text {
@@ -1248,21 +1249,15 @@ a {
     p {
         padding: 5px 0px;
     }
-
-    // /* From https://css.glass */
-    // background: rgba(255, 255, 255, 0.098);
-    // border-radius: 16px;
-    // box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
-    // backdrop-filter: blur(6px);
-    // -webkit-backdrop-filter: blur(6px);
 }
 
 .links {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    column-gap: 8px;
+    column-gap: 10px;
     row-gap: 0px;
     height: fit-content;
+    width: 100%;
 
    
 
@@ -1330,33 +1325,38 @@ a {
 
 
 .tldr {
-    display: flex;
-    flex-direction: row;
+    min-height: 210px;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    gap: 16px;
     border-radius: 8px;
     margin-bottom: 8px;
+    height: fit-content;
+    align-items:flex-end;
 }
 
 .tldr-text{
-    box-shadow: $box-shadow-yellow;
-    margin:$margin;
-    border-radius: $border-radius;
+    display: flex;
+    flex-direction: column;  
     font-size: 16px;
-    padding: 9px;
-    width: 66%;
     line-height: 24px;
+    background-color: red;
 }
 
 .home-img {
+    overflow: hidden;
     width: 200px;
-    height: 195px;
-    margin-top: 24px;
-    margin-right: 12px;
-    margin-left: 16px;
+    max-height: 220px;
+    border-radius: 24px;
+    margin: 8px;
 
     img {
         object-fit: cover;
-        min-height: 196px;
-        border-radius: 32px;
+        top: 0px;
+        left: 0px;
+        height: 220px;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
     }
 }
 
@@ -1458,7 +1458,6 @@ a {
     flex-direction: row;
     grid-template-columns: repeat(2, 1fr);
     column-gap: 12px;
-    margin: 0px 6px;
     width: 100%;
 }
 
@@ -1473,14 +1472,18 @@ a {
     margin-bottom: 15px;
     // from: https://www.w3schools.com/css/css3_images.asp
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
 
     img {
         width: 100%; //min(400px, 60vw);
+        transition: 0.3s;
     }
 
     img:hover{
         //filter: brightness(80%);
         opacity: 80%;
+        rotate: 1.5deg;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
 }
 
@@ -1675,12 +1678,17 @@ a {
 
 .faded-border {
     border-radius: 4px;
-    //padding-bottom: 25px;
-    //padding: 10px 10px;
-    margin-right:15px;
     margin-bottom: 15px;
     // from: https://www.w3schools.com/css/css3_images.asp
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.sides-container {
+    display:flex;
+    flex-direction: column;
+    border-radius: 4px;
+    padding: 10px 10px;
+    margin-bottom: 15px;
 }
 
 .project-container {
@@ -1908,6 +1916,12 @@ $callout-color-warning: $white;
     width: 100%;
 }
 
+.asym {
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    gap: 16px;
+}
+
 .asym-grid {
     display: grid;
     grid-template-columns: 3fr 2fr;
@@ -1946,17 +1960,13 @@ $callout-color-warning: $white;
 }
 
 .screenshot{
-    // background-color: teal;
-    // padding: 10px;
-    // overflow:visible;
-
-    // from: 
-    //padding: 10px;
     box-sizing: border-box;
-    //resize: horizontal;
-    //border: 1px solid;
     overflow: auto;
     max-width: 100%;
+
+    img {
+        //height: 300px;
+    }
 }
 
 .screenshot-image {
@@ -2056,6 +2066,16 @@ $callout-color-warning: $white;
 }
 
 @media only screen and (max-width: 768px) {
+    .tldr{
+        grid-template-columns: 1fr;
+        row-gap: 4px;
+    }
+
+    .home-img {
+        width: 100%;
+        ba
+    }
+    
     .tab-body {
         grid-template-columns: repeat(2, minmax(0, 1fr));
         grid-template-rows: repeat(4, 1fr);
@@ -2110,7 +2130,7 @@ $callout-color-warning: $white;
     }
 
     .home-proj-area {
-        flex-direction: column;
+        grid-template-columns: 1fr;
         
         
     }
@@ -2133,9 +2153,7 @@ $callout-color-warning: $white;
         width: 100%;
     }
 
-    .tldr{
-        flex-direction: column;
-    }
+    
 
     .graphic-design-container {
         grid-template-columns: repeat(1, 1fr);

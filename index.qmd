@@ -12,7 +12,9 @@
 Kaitlynn Gray
 :::
 
+:::{.width=80%}
 Nice to meet you! I'm a **designer, researcher, and programmer** with [strong creative skills](tab-art/). If I sound like someone you’d like on your team, I’d love to connect. 
+:::
 
 ::: {.links}
 [Resume PDF](./documents/Kaitlynn%20Gray%20-%20Resume.pdf) 
