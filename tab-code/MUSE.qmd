@@ -174,7 +174,7 @@ Yellow and purple mixing successfully.
 ##### Curious about the color-mixing bug?
 This happened because we were averaging the HSL values of each color to mix them. HSL values represent colors as a group of three numbers like this: (hue, saturation, lightness). These values control the hue (color), saturation (vibrancy), and lightness (brightness) of a color. Using HSL values was helpful because MUSE focused on shifting the saturation and brightness/darkness of colors.  
 
-Hue ranges from 0 to 360, like the degrees of a circle. This circle is mapped onto the color wheel, where 0 = red, 180 = cyan, and 360 = red again ([source](https://www.w3schools.com/html/html_colors_hsl.asp)). The image below, screenshotted from the Mozilla Developers [site](https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl/), shows what this color wheel looks like:
+Hue ranges from 0 to 360, like the degrees of a circle. This circle is mapped onto the color wheel, where 0 = red, 180 = cyan, and 360 = red again ([source](https://www.w3schools.com/html/html_colors_hsl.asp)). The image below, screenshotted from the Mozilla Developers [MDN website](https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl/), shows what this color wheel looks like:
 
 :::{.wide}
 ![](assets/MDNColorWheel.png){.lightbox}

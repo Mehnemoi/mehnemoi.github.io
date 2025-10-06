@@ -1088,9 +1088,13 @@ $callout-color-warning: $white;
 @media only screen and (max-width: 600px) {
     
     .tab-body {
-        grid-template-columns: repeat(1, minmax(0, 1fr));
-        grid-template-rows: repeat(6, 1fr);
-        min-width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .tab-desc {
+        height: fit-content;
+        //margin-bottom: 16px;
     }
 
     .home-proj-area {
