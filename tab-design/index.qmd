@@ -1,0 +1,223 @@
+:::{.tab-desc}
+
+::: {.big-text}
+
+Design
+
+:::
+
+::: {.descriptor-text}
+A collection of **product design** and **graphic design** projects.
+
+I’ve been a graphic designer for the past five years. Creating graphics feels like a puzzle - it is very satisfying to learn new ways I can communicate information visually.
+:::
+
+:::
+
+
+::: {.tab-body}
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-design}
+
+::: {.proj-image .design}
+
+![](assets-projects/Webflow/APIPCEFinalUI.png)
+
+:::
+
+::: {.proj-title}
+
+APIP - Webflow Clinic Project
+
+:::
+
+::: {.proj-description}
+
+I designed the UI for APIP: The AI-Powered Inspiration Palette Tool, in collaboration with my team members and feedback from Webflow liaisons.
+
+:::
+
+:::{.project-links}
+
+[Project Page](APIP.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-design}
+
+::: {.proj-image .design}
+
+![](/projects/gradescope-cal/images/GCalFinalFinalUI.png)
+
+:::
+
+::: {.proj-title}
+
+Gradescope Calendar UI
+
+:::
+
+::: {.proj-description}
+
+I designed the UI for a website where students can see the assignments due for all of their courses on an online assignment tracking tool. 
+
+:::
+
+:::{.project-links}
+
+[Project Page](GradescopeCalendar.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container  .p-c-design}
+
+::: {.proj-image .design}
+
+![](assets-visual/HMC20251Back.png)
+
+:::
+
+::: {.proj-title}
+
+Graphic Design
+
+:::
+
+::: {.proj-description}
+
+A collection of graphic design projects I've worked on.
+
+:::
+
+:::{.project-links .wide}
+
+[See All](GraphicDesign.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-design}
+
+::: {.proj-image .design}
+
+![](/projects/HCD-skin-care/images/HCD-skin-care-KG/HCDDP14243.jpg)
+
+:::
+
+::: {.proj-title}
+
+Personal Care Project 
+
+:::
+
+::: {.proj-description}
+
+Created a product to improve the process of getting ready in the morning by helping to make choosing skincare products easier.
+
+:::
+
+:::{.project-links}
+
+[Project Page](HCDPersonalCare.qmd) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+
+
+
+<!-- start of project container -->
+
+::: {.project-container  .p-c-design}
+
+::: {.proj-image .design}
+
+![](assets-visual/SilentSky.png)
+
+:::
+
+::: {.proj-title}
+
+Silent Sky Theatre Program
+
+:::
+
+::: {.proj-description}
+
+A theatre program I designed in Canva for a student production of the play Silent Sky.
+
+:::
+
+:::{.project-links}
+
+[Program PDF](/tab-design/assets-projects/SilentSkyProgram.pdf) 
+
+:::
+
+:::
+<!-- end of project container -->
+
+<!-- start of project container -->
+
+::: {.project-container  .p-c-design}
+
+::: {.proj-image}
+
+![](/images/CACTILogo.png)
+
+:::
+
+::: {.proj-title}
+
+CACTI Lab Logo
+
+:::
+
+::: {.proj-description}
+
+A logo I designed in Canva for my summer research group. 
+
+:::
+
+:::{.project-links}
+
+
+
+:::
+
+:::
+<!-- end of project container -->
+
+
+
+
+
+
+
+
+
+
+
+
+:::

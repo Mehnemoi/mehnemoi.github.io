@@ -1,0 +1,249 @@
+
+::::: {.about-me-text}
+
+::::{.tldr}
+:::{.home-img}
+![](images/WebflowHeadshot.JPG)
+:::
+
+:::{.tldr-text}
+
+:::{.big-text}
+Kaitlynn Gray
+:::
+
+:::{.width=80%}
+Nice to meet you! I'm a **designer, researcher, and programmer** with [strong creative skills](tab-art/). If I sound like someone you’d like on your team, I’d love to connect. 
+:::
+
+::: {.links}
+[Resume PDF](./documents/Kaitlynn%20Gray%20-%20Resume.pdf) 
+
+[LinkedIn](https://www.linkedin.com/in/kaitlynn-gray) 
+
+[GitHub](https://github.com/Mehnemoi) 
+
+[Email](mailto:kaitlynngray314@gmail.com) 
+
+:::
+
+:::
+
+
+
+
+
+<!-- :::{.fun-corner}
+I'm happy that you are here!
+
+::: -->
+
+::::
+
+
+::::{.home-proj-area}
+
+:::{.gd-column}
+
+<!-- project start -->
+
+:::{.home-proj}
+
+
+::: {.proj-title}
+
+Product Design + UI Design + Webflow
+
+:::
+::: {.proj-description-big}
+AI-Powered Inspiration Palette Tool (APIP)
+
+:::
+
+::: {.skills}
+**Skills:** Figma, React, TypeScript, CSS, Webflow
+
+:::
+
+
+[![](/tab-design/assets-projects/Webflow/APIPCEFinalUI.png)](tab-design/APIP.qmd)
+
+
+:::
+
+<!-- project end -->
+
+<!-- project start -->
+
+:::{.home-proj}
+
+::: {.proj-title}
+
+UI Design + Frontend Development
+
+:::
+::: {.proj-description-big}
+Gradescope Calendar
+
+:::
+ 
+::: {.skills}
+**Skills:** Canva, HTML, CSS, React, JavaScript
+
+:::
+
+[![](/projects/gradescope-cal/images/GCalFinalFinalUI.png)](tab-design/GradescopeCalendar.qmd)
+
+
+:::
+
+<!-- project end -->
+
+
+<!-- project start -->
+
+:::{.home-proj}
+
+
+::: {.proj-title}
+
+Human Centered Design + Frontend Design and Development
+
+:::
+::: {.proj-description-big}
+MUSE
+
+:::
+
+::: {.skills}
+**Skills:** Human Centered Design, JavaScript, HTML, CSS, Figma
+
+:::
+
+[![](tab-code/assets/MUSEMainUI.png)](tab-code/MUSE.qmd)
+
+
+:::
+
+<!-- project end -->
+
+<!-- project start -->
+
+:::{.home-proj}
+
+
+::: {.proj-title}
+
+Python + Pygame + Computer Graphics
+
+:::
+::: {.proj-description-big}
+Cloth Simulator
+
+:::
+
+::: {.skills}
+**Skills:** Python, Pygame
+
+:::
+
+
+[![](tab-code/assets/ClothSimImage.png)](tab-code/ClothSim.qmd)
+
+
+:::
+
+<!-- project end -->
+
+:::
+
+:::{.gd-column}
+<!-- project start -->
+
+:::{.home-proj}
+
+
+::: {.proj-title}
+
+Visual Design
+
+:::
+::: {.proj-description-big}
+Graphic Design
+
+:::
+
+::: {.skills}
+**Skills:** Canva, Adobe InDesign 
+
+:::
+
+[![](tab-design/assets-visual/HMC20251Back.png)](tab-design/GraphicDesign.qmd)
+
+
+:::
+
+<!-- project end -->
+
+<!-- project start -->
+
+:::{.home-proj}
+
+
+::: {.proj-title}
+
+Drawing + Painting + Papercrafting + Digital Art
+
+:::
+::: {.proj-description-big}
+Artworks
+
+:::
+
+::: {.skills}
+**Skills:** Sketching, Illustration
+
+:::
+
+[![](tab-art/assets/Sketches/KGrayArt1.JPG)](tab-art/Sketches.qmd)
+
+
+:::
+
+<!-- project end -->
+
+:::
+
+
+::::
+
+
+
+<!-- ::: {.proj-title}
+
+Product Design + Human Centered Design
+
+:::
+::: {.proj-description-big}
+Skin Care Key
+
+:::
+
+::: {.skills}
+**Skills:** Human Centered Design, User Research, Product Design
+
+:::
+
+[![](/projects/HCD-skin-care/images/HCD-skin-care-KG/HCDDP14243.jpg)](tab-design/HCDPersonalCare.qmd)
+
+
+:::
+
+:::: -->
+
+
+
+:::::
+
+
+

@@ -1,0 +1,112 @@
+:::::::::{.code-proj-body}
+
+:::::::{.code-proj-top}
+
+:::::{.code-proj-image}
+
+:::{.screenshot-image}
+
+![](assets/PM2Images/animatedXDFlapJPG.jpg)
+
+:::
+
+:::::
+
+
+:::::{.code-proj-info}
+
+:::{.code-proj-title}
+Sensory Cardboard
+:::
+
+:::{.code-proj-names}
+Kaitlynn Gray
+
+:::
+
+:::{.code-proj-class}
+**Course:** Computational Design Tools
+
+**Mediums Used:** cardboard, foamcore, paper, hot glue
+
+:::
+
+
+
+:::::
+
+
+
+
+
+:::::::
+
+:::::::{.code-proj-bottom}
+
+
+
+:::::{.code-proj-desc}
+
+### Description
+What comes to mind when you think about something light or animated or squishy? How would you represent that in physical form? In this project, I was tasked to create physical representations of the concept of light, animated, and squishy. The catch: I could only use cardboard, foamcore, paper, and glue!
+
+
+#### Animated
+When I think of something animated, I think of movement and
+changing expressions. Thus, I used dowels made from rolled
+paper and glue to create a piece with moving wings and a
+scrollable face wheel to generate 4 different expressions.
+
+
+:::::{.screenshots-container}
+
+![](assets/PM2Images/animatedOOJPG.jpg)
+
+![](assets/PM2Images/animatedOVJPG.jpg)
+
+![](assets/PM2Images/animatedXDJPG.jpg)
+
+![](assets/PM2Images/animatedVOJPG.jpg)
+
+
+:::::
+
+#### Light
+I took a more literal representation for this piece and created the
+Sun as it is a provider of light. I included a hole within to allow light
+to pass through the object, and rainbow-order metallic coated
+paper to represent how light is colorful and reflective (which, when
+combined with a phone flashlight leads to some cool reflections!).
+
+:::::{.screenshots-container}
+
+![](assets/PM2Images/lightSide.jpg)
+
+![](assets/PM2Images/lightTop.jpg)
+
+
+:::::
+
+#### Squishy
+For this piece, I wanted to create something that could be physically
+squeezed. My final design is a pillow that can be squeezed or fluffed
+due to the form of the foam core inside the “pillow case.”
+
+:::::{.screenshots-container}
+
+![](assets/PM2Images/pillowClosed.jpg)
+
+![](assets/PM2Images/pillowOpenedSide.jpg)
+
+![](assets/PM2Images/pillowOpenedTop.jpg)
+
+![](assets/PM2Images/pillowSpread.jpg)
+
+
+:::::
+
+:::::
+
+:::::::
+
+:::::::::
