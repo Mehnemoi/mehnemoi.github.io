@@ -37,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-7b23b6d2da246e334b42201a2f92f492.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-24a49aafac3ca34c743ecda1b4cfc2fa.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/videojs/video.min.js"></script>
 <link href="../site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
@@ -176,19 +176,125 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="code-proj-bottom">
-<section id="description" class="level3 code-proj-desc">
+<div class="code-proj-desc">
+<div class="emphasis">
+<p>I collaborated with 3 students to apply the human-centered design process to software development.</p>
+</div>
+<section id="description" class="level3">
 <h3 class="anchored" data-anchor-id="description">Description</h3>
-<p>MUSE is a digital DJ board website. MUSE is a tool for people to better understand how different parts of sound relate to each other. This is to provide a foundation for those interested in producing music. We help visualize these different parts by associating sound with color.</p>
-<p>So, instead of playing music tracks, users can play colors as sounds. Users can change the tint and saturation of the colors using sliders. These sliders also impact the sound of the color - changing tint changes the speed, and changing saturation changes the volume. This allows users to see the visual impacts of changing parts of sound. We hope that by connecting a visual change with altering sound, users can better understand how the speed and volume change a music track.</p>
-<p>Users can play two colors at once to create a sound mixture and save them.</p>
+<p>MUSE is a digital DJ board website. It is a tool for people to better understand how different parts of sound relate to each other. This provides a foundation for those interested in producing music. We help visualize these different parts by associating sound with color.</p>
+<p>So, instead of playing music tracks, users can play colors as sounds. Users can change the tint and saturation of the colors using sliders. These sliders also impact the sound of the color; changing tint changes the speed, and changing saturation changes the volume. This allows users to see the visual impacts of changing parts of sound. We hope that by connecting a visual change with altering sound, users can better understand how the speed and volume change a music track.</p>
+<p>Users can play two colors at once to create a sound mixture and save it.</p>
+<p><a href="assets/MUSEDocs/MUSEUIColorTone.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="assets/MUSEDocs/MUSEUIColorTone.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>The MUSE DJ board. Two colors are playing, and both have been edited using the sliders.</p>
+</div>
 </section>
-<section id="screenshots" class="level3">
-<h3 class="anchored" data-anchor-id="screenshots">Screenshots</h3>
+<section id="the-process" class="level3">
+<h3 class="anchored" data-anchor-id="the-process">The Process</h3>
+<p>I came up with the initial idea of MUSE. At the beginning, I proposed we create a web application that connected music to color. When a color changed, the music would shift to express how it changed. With this, users would not have to rely on seeing a color itself, such as if they were colorblind, to understand one color’s relationship to another.</p>
+<section id="using-human-centered-design" class="level4">
+<h4 class="anchored" data-anchor-id="using-human-centered-design">Using Human Centered Design</h4>
+<p>My team applied the human-centered design process to create MUSE. For the empathizing stage, I worked with my team to generate questions to understand how people associated color and sound. We also asked about their desire to produce music.</p>
+<p>We interviewed one person each. We found that people had a need to understand sound instead of color. By understanding sound, people could create their own music. So, we shifted MUSE to focus on using color to understand sound.</p>
+</section>
+<section id="low-fidelity-prototype" class="level4">
+<h4 class="anchored" data-anchor-id="low-fidelity-prototype">Low-Fidelity Prototype</h4>
+<p>I worked with my team to create the low-fidelity prototype of MUSE in Canva below. One teammate selected a pre-made DJ board graphic and printed it. Then, I helped cut out colored pieces of paper to represent the color disks we would play on each side of the board. We also cut out smaller pieces to represent these colors mixing, and sliders to change the shade, tint, and saturation of the colors.</p>
+<p>We used this prototype to create a video showing the rough functionality of MUSE. After, we brought this prototype to class to test with our classmates. I aided in taking notes while two of my teammates simulated the sounds using their voices.</p>
+<p><a href="assets/MUSEDocs/MUSELowFidelityPrototype.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="assets/MUSEDocs/MUSELowFidelityPrototype.png" class="img-fluid"></a></p>
+</section>
+<section id="figma-wireframe" class="level4">
+<h4 class="anchored" data-anchor-id="figma-wireframe">Figma Wireframe</h4>
+<p>I created the Figma wireframe below of our “Saved Colors” page. Mixed and saved colors would collect here. I envisioned that users could select colors from here to bring back out to the DJ board.</p>
+<p><a href="assets/MUSEDocs/MUSEFigmaSavedColors.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="assets/MUSEDocs/MUSEFigmaSavedColors.png" class="img-fluid"></a></p>
+</section>
+<section id="state-diagram" class="level4">
+<h4 class="anchored" data-anchor-id="state-diagram">State Diagram</h4>
+<p>We created a state diagram to visualize how the user would navigate MUSE. Each square represents a state of MUSE, such as being on a certain page or selecting one of the music disks. The arrows show how users can get from one state to another.</p>
+<p>With this, we could understand the interactions we were programming into MUSE.</p>
+<p><a href="assets/MUSEDocs/MUSEStateDiagram.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="assets/MUSEDocs/MUSEStateDiagram.png" class="img-fluid"></a></p>
+</section>
+<section id="user-goal-diagram" class="level4">
+<h4 class="anchored" data-anchor-id="user-goal-diagram">User Goal Diagram</h4>
+<p>My team and I also created the below user goal diagram to see what a user would need to do, in order, to achieve their goal of using sound to understand color.</p>
+<p><a href="assets/MUSEDocs/MUSEUserGoal.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="assets/MUSEDocs/MUSEUserGoal.png" class="img-fluid"></a></p>
+</section>
+<section id="user-interface-ui-iteration" class="level4">
+<h4 class="anchored" data-anchor-id="user-interface-ui-iteration">User Interface (UI) Iteration</h4>
+<p>I polished the UI of MUSE. Deniz led the programming of the base components, allowing me to go in and make UI updates as needed. Below are the before and after of my UI updates.</p>
+<p>The “before” images have been cropped on the top and bottom to align with the after images.</p>
+<section id="main-page-redesign" class="level5">
+<h5 class="anchored" data-anchor-id="main-page-redesign">Main Page Redesign</h5>
+<div class="screenshots-container">
+<section id="before" class="level6 screenshot">
+<h6 class="anchored" data-anchor-id="before">Before</h6>
+<p><a href="assets/MUSEDocs/MUSEInitialUI.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="assets/MUSEDocs/MUSEInitialUI.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>MUSE’s initial main page UI.</p>
+</div>
+</section>
+<section id="after" class="level6 screenshot">
+<h6 class="anchored" data-anchor-id="after">After</h6>
+<p><a href="assets/MUSEDocs/MUSEUI3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-7"><img src="assets/MUSEDocs/MUSEUI3.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>I updated the UI code to make MUSE look more like a DJ board. Now the design aligns closer to the DJ board we used in our low-fidelity prototype.</p>
+</div>
+</section>
+</div>
+</section>
+<section id="help-page-redesign" class="level5">
+<h5 class="anchored" data-anchor-id="help-page-redesign">Help Page Redesign</h5>
+<div class="screenshots-container">
+<section id="before-1" class="level6 screenshot">
+<h6 class="anchored" data-anchor-id="before-1">Before</h6>
+<p><a href="assets/MUSEDocs/MUSEHelpPage1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-8"><img src="assets/MUSEDocs/MUSEHelpPage1.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>MUSE’s initial help page UI.</p>
+</div>
+</section>
+<section id="after-1" class="level6 screenshot">
+<h6 class="anchored" data-anchor-id="after-1">After</h6>
+<p><a href="assets/MUSEHelpPage.png" class="lightbox" data-gallery="quarto-lightbox-gallery-9"><img src="assets/MUSEHelpPage.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>I updated the help page to number each step and add a Q-and-A section. This helped to guide users to specific pieces of information without having to read all of the content.</p>
+</div>
+</section>
+</div>
+</section>
+</section>
+<section id="programming-color-mixing" class="level4">
+<h4 class="anchored" data-anchor-id="programming-color-mixing">Programming Color Mixing</h4>
+<p>Users should be able to choose a color disk on each side and have the color mix in the smaller disk in between them. Our initial code successfully mixed colors like yellow and blue to make green, or red and yellow to make orange. However, mixing red and blue produced… green? That wasn’t right.</p>
+<p>So, I took initiative and used a combination of internet resources, ChatGPT, and help from my professor during their office hours to successfully correct our code to mix colors naturally. It was ultimately an internet resource my professor found that solved our color troubles! You can view the resource <a href="https://stackoverflow.com/questions/14819058/mixing-two-colors-naturally-in-javascript">here</a>.</p>
+<p><a href="assets/MUSEMainUI.png" class="lightbox" data-gallery="quarto-lightbox-gallery-10"><img src="assets/MUSEMainUI.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Yellow and purple mixing successfully.</p>
+</div>
+<section id="curious-about-the-color-mixing-bug" class="level5">
+<h5 class="anchored" data-anchor-id="curious-about-the-color-mixing-bug">Curious about the color-mixing bug?</h5>
+<p>This happened because we were averaging the HSL values of each color to mix them. HSL values represent colors as a group of three numbers like this: (hue, saturation, lightness). These values control the hue (color), saturation (vibrancy), and lightness (brightness) of a color. Using HSL values was helpful because MUSE focused on shifting the saturation and brightness/darkness of colors.</p>
+<p>Hue ranges from 0 to 360, like the degrees of a circle. This circle is mapped onto the color wheel, where 0 = red, 180 = cyan, and 360 = red again (<a href="https://www.w3schools.com/html/html_colors_hsl.asp">source</a>). The image below, screenshotted from the Mozilla Developers <a href="https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl/">MDN website</a>, shows what this color wheel looks like:</p>
+<div class="wide">
+<p><a href="assets/MDNColorWheel.png" class="lightbox" data-gallery="quarto-lightbox-gallery-11"><img src="assets/MDNColorWheel.png" class="img-fluid"></a></p>
+</div>
+<div class="screenshot-caption">
+<p><a href="https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl/"><em>Image Source.</em></a></p>
+</div>
+<p>So, pure red would have a hue value of 0, and yellow would have a hue value around 60. If we wanted to mix these colors by averaging their hue values, we would get 30. This would correctly map onto orange!</p>
+<p>However, if we did this same process using red (hue = 0) and blue (hue = 240), we would get 120… which maps onto green! So, we needed to convert our colors to another value representation to mix them successfully. Following the <a href="https://stackoverflow.com/questions/14819058/mixing-two-colors-naturally-in-javascript">source</a> I received from my professor, I converted our colors to RGB before mixing them.</p>
+<p>RGB values represent how much red, green, or blue is in a color, ranging from 0 to 255, like this: (red, green, blue). For example, pure red would be (255, 0, 0) and pure blue would be (0, 0, 255). So, mixing red and blue by averaging their values would result in (128, 0, 128), which represents a color with equal amounts of red and blue, AKA purple!</p>
+<p>By changing our colors from HSL to RGB before averaging their values, colors would mix naturally.</p>
+</section>
+</section>
+</section>
+<section id="final-product" class="level3">
+<h3 class="anchored" data-anchor-id="final-product">Final Product</h3>
 <div class="screenshots-container">
 <section id="welcome-page" class="level4 screenshot">
 <h4 class="anchored" data-anchor-id="welcome-page">Welcome Page</h4>
 <div class="screenshot-image">
-<p><a href="assets/MUSEWelcome.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="assets/MUSEWelcome.png" class="img-fluid"></a></p>
+<p><a href="assets/MUSEWelcome.png" class="lightbox" data-gallery="quarto-lightbox-gallery-12"><img src="assets/MUSEWelcome.png" class="img-fluid"></a></p>
 </div>
 <div class="screenshot-caption">
 <p>Our welcome screen with the logo designed by Eshanya.</p>
@@ -197,26 +303,26 @@ ul.task-list li input[type="checkbox"] {
 <section id="main-page" class="level4 screenshot">
 <h4 class="anchored" data-anchor-id="main-page">Main Page</h4>
 <div class="screenshot-image">
-<p><a href="assets/MUSEMainUI.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="assets/MUSEMainUI.png" class="img-fluid"></a></p>
+<p><a href="assets/MUSEDocs/MUSEUIColor2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-13"><img src="assets/MUSEDocs/MUSEUIColor2.png" class="img-fluid"></a></p>
 </div>
 <div class="screenshot-caption">
-<p>Users select one of the colors in the middle of the screen to play on each of the larger disks.</p>
+<p>Users select one of the colors in the middle of the screen to play on each of the larger disks. Zariah programmed the sound editing.</p>
 <p>The colors on the disks mix and show up as the smaller disk between the large ones.</p>
 </div>
 </section>
 <section id="saved-colors-page" class="level4 screenshot">
 <h4 class="anchored" data-anchor-id="saved-colors-page">Saved Colors Page</h4>
 <div class="screenshot-image">
-<p><a href="assets/MUSESavedCols.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="assets/MUSESavedCols.png" class="img-fluid"></a></p>
+<p><a href="assets/MUSESavedCols.png" class="lightbox" data-gallery="quarto-lightbox-gallery-14"><img src="assets/MUSESavedCols.png" class="img-fluid"></a></p>
 </div>
 <div class="screenshot-caption">
-<p>Here users can see all of the color mixtures they have saved.</p>
+<p>Here, users can see all of the color mixtures they have saved.</p>
 </div>
 </section>
 <section id="help-page" class="level4 screenshot">
 <h4 class="anchored" data-anchor-id="help-page">Help Page</h4>
 <div class="screenshot-image">
-<p><a href="assets/MUSEHelpPage.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="assets/MUSEHelpPage.png" class="img-fluid"></a></p>
+<p><a href="assets/MUSEHelpPage.png" class="lightbox" data-gallery="quarto-lightbox-gallery-15"><img src="assets/MUSEHelpPage.png" class="img-fluid"></a></p>
 </div>
 <div class="screenshot-caption">
 <p>Teaches users how to use MUSE.</p>
@@ -224,6 +330,11 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </div>
 </section>
+<section id="reflection" class="level3">
+<h3 class="anchored" data-anchor-id="reflection">Reflection</h3>
+<p>I learned how to apply the human-centered design process to software development. I gained experience applying insights gained from interviews and user prototyping sessions to improve our product. It was a privilege to have a group of students enjoy an idea I thought of enough to dedicate time to refining it and building a working product that brought it to life.</p>
+</section>
+</div>
 </div>
 </div>
 
