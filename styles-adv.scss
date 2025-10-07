@@ -650,6 +650,29 @@ embed {
     margin-bottom: 15px;
 }
 
+//STICKER EFFECT
+// prototyped in w3schools
+.sticker {
+  border-radius: 8px;
+  width: 50%;
+  height: 100px;
+  border: 8px solid;
+  padding: 4px;
+  box-shadow: 
+  	0px 0px 0px 4px white,
+    2px 2px 8px 6px #F78899; //change to match BG shadow
+  transition: 0.3s;
+}
+
+.sticker:hover {
+	rotate: 1deg;
+    box-shadow: 
+  	0px 0px 0px 4px white,
+    8px 8px 12px 6px #F78899; //change to match BG shadow
+}
+
+
+
 .project-container {
     border-radius: 4px;
     padding-bottom: 25px;
