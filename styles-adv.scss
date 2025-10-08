@@ -478,18 +478,18 @@ embed {
     position: relative;
 }
 
-.p-c-code:hover{
-    background-color: $code-blue;
-}
+// .p-c-code:hover{
+//     background-color: $code-blue;
+// }
 
-.p-c-design:hover{
-    background-color: $design-green;
-}
+// .p-c-design:hover{
+//     background-color: $design-green;
+// }
 
-.p-c-research:hover{
-    background-color: $research-red;
-    //width: 300px;
-}
+// .p-c-research:hover{
+//     background-color: $research-red;
+//     //width: 300px;
+// }
 
 .title {
     font-size: 20px;
@@ -687,13 +687,17 @@ embed {
     margin-bottom: 15px;
     // from: https://www.w3schools.com/css/css3_images.asp
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
+    //transition: 0.3s;
 }
 
-.project-container:hover {
-    // box-shadow: 0px 0px 0 16px $white-t;
-    background-color: $white-t;
-}
+// .project-container:hover {
+//     // box-shadow: 0px 0px 0 16px $white-t;
+//     border: 8px solid;
+//     rotate: 1deg;
+//     box-shadow: 
+//         0px 0px 0px 4px rgb(255, 255, 255),
+//         8px 8px 12px 6px #838383; //change to match BG shadow
+// }
 
 .proj-image {
     height: 100%;
@@ -1055,7 +1059,6 @@ $callout-color-warning: $white;
 
     .home-img {
         width: 100%;
-        background-color: pink;
         margin: 0px;
 
         img {
