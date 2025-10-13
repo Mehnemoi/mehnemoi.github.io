@@ -70,7 +70,7 @@ Webflow has many tools to use to build the perfect website. However, this large 
 ![](assets-projects/Webflow/BlankWebflowSite.png){.lightbox}
 
 :::{.screenshot-caption}
-A screenshot of a blank website page in the Webflow Designer.
+Screenshot of a blank website page in the Webflow Designer.
 :::
 
 Our team addressed the blank slate problem by creating a way for users to bring in colors, fonts, and padding styles from websites they are inspired by to provide support for their Webflow website designs. To do so, **we created a Chrome extension and a Webflow extension to help users upload CSS variables to the Webflow website building area: the Webflow Designer.** We called our project APIP: The AI-Powered Inspiration Palette Tool (APIP).
@@ -117,7 +117,7 @@ I wanted to create a visual tie between APIP and the Webflow website by using de
 ![](assets-projects/Webflow/APIPUIInspoDark2.png){.lightbox}
 
 :::{.screenshot-caption}
-A screenshot inside the variables panel in the Webflow Designer
+Screenshot inside the variables panel in the Webflow Designer.
 :::
 
 :::
@@ -126,7 +126,7 @@ A screenshot inside the variables panel in the Webflow Designer
 ![](assets-projects/Webflow/APIPUIInspoDark3.png){.lightbox}
 
 :::{.screenshot-caption}
-A screenshot of the main design panel in the Webflow Designer.
+Screenshot of the main design panel in the Webflow Designer.
 :::
 
 :::
@@ -139,8 +139,16 @@ Combining the above inspiration and my research into Webflow design resources, I
 ##### Chrome Extension
 ![](assets-projects/Webflow/APIPCEWebflow.png){.lightbox}
 
+:::{.screenshot-caption}
+Figma mockup of Chrome Extension updated to align with the Webflow UI style.
+:::
+
 ##### Webflow Extension
 ![](assets-projects/Webflow/APIPWEWebflow.png){.lightbox}
+
+:::{.screenshot-caption}
+Figma mockup of Webflow Extension updated to align with the Webflow UI style.
+:::
 
 <!-- 
 ##### Light Mode
@@ -177,6 +185,9 @@ All buttons were placed at the top, allowing users to find them in one place (fi
 
 ![](assets-projects/Webflow/APIPWebUI1.png){.lightbox}
 
+:::{.screenshot-caption}
+1st iteration of Chrome Extension Figma design.
+:::
 
 #### 2nd Iteration
 We made it easier for users to see and locate their clicked elements by adding a collapse/expand feature. With a new set of buttons, we created a tie between the buttons and their uses by aligning the buttons influencing the clicked elements area (select / remove / collapse and expand) above the area and placing the “convert variables” on a different line (first and second image).
@@ -187,6 +198,9 @@ Continuing our efforts to reduce text, we changed the "remove" button on each el
 
 ![](assets-projects/Webflow/APIPWebUI3.png){.lightbox}
 
+:::{.screenshot-caption}
+2nd iteration of Chrome Extension Figma design.
+:::
 
 #### 3rd and 4th Iterations
 **Highlighting Feedback:** Our liaisons advised that we move the “convert variables” button to the bottom of the page. Now, the button would be in a more intuitive area, as it was only used after a user finished choosing all elements. 
@@ -197,6 +211,9 @@ We also added a trash can icon to the delete button. This icon served as a delet
 
 ![](assets-projects/Webflow/APIPWebUI4.png){.lightbox}
 
+:::{.screenshot-caption}
+3rd (left) and 4th (right) iterations of Chrome Extension Figma design.
+:::
 
 
 
@@ -208,14 +225,20 @@ Completed after I converted the initial wireframe to the Webflow UI style, we ex
 
 ![](assets-projects/Webflow/APIPWEWebflowFull.png){.lightbox}
 
+:::{.screenshot-caption}
+1st iteration of Webflow Extension Figma design.
+:::
 
 #### 2nd Iteration
 We decided to move forward with having both pages visible. However, we placed them side-by-side to better fit in the Webflow Designer window area. We brought in the style of the darker box to display the generated variables to match the rest of our UI.
 
 ![](assets-projects/Webflow/APIPWebUI2.png){.lightbox}
 
+:::{.screenshot-caption}
+2nd iteration of Webflow Extension Figma design.
+:::
 
-#### Final Iteration
+#### 3rd Iteration
 This is the final Figma iteration before our final UI design! Here, we focused on using UI elements to guide users through the steps they needed to take. We added numbers to each side to establish an order of use.
 
 I also experimented with using button colors to guide users through the order of actions they should take. Blue buttons could be pressed, while grey buttons would be locked.
@@ -226,6 +249,9 @@ In the first image, the single blue button would guide users to import or upload
 
 ![](assets-projects/Webflow/APIPWebUI5.png){.lightbox}
 
+:::{.screenshot-caption}
+3rd iteration of Webflow Extension Figma design.
+:::
 
 ### Final Figma UI 
 After about 4 months of iteration from the first Figma mockups, I created the following Figma mockups of our final UI design. 
@@ -267,7 +293,7 @@ Below, I have opened the APIP Chrome Extension while browsing my portfolio websi
 ![](assets-projects/Webflow/ScreenshotCEActual.png){.lightbox}
 :::
 
-:::{.code-proj-class}
+:::{.screenshot-caption}
 A screenshot of using the APIP Chrome Extension with my website.
 :::
 
