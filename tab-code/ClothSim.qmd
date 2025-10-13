@@ -54,9 +54,13 @@ Kaitlynn Gray, Ryan Nguyen, Kishore Rajesh
 
 
 :::::{.code-proj-desc}
+:::{.emphasis}
+I collaborated with 2 students to add colors and effects to an online cloth simulator in Python.
+:::
+
 
 ### Description
-We built off of a [cloth simulator](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py) created using PyGame, a Python library to create games. Our project focused on styling the cloth by adding colors, a double sided feature, background effects, and silly particle effects.
+We built off of a programmer's [cloth simulator](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py) created using PyGame, a Python library to create games. Our project focused on styling the cloth by adding colors, a double sided feature, background effects, and fun particle effects.
 
 
 ::::{.screenshots-container}
@@ -80,7 +84,7 @@ Our bedazzled cloth, filled with color!
 
 ::::
 
-
+### My Code Contributions:
 I worked on calculating how to create a double-sided effect on the cloth, designed the [final patterns](#cloth-patterns) for the cloth, and programmed the background color to change based on which side of the cloth was showing.
 
 In my own time I implemented 2D “spheres” that replace the cloth patches with a ball that can change orientation.
@@ -175,9 +179,12 @@ This is a diagram my team created (and I designed) showcasing how our project fu
 
 [![](assets/ClothSimCodeFlow.png)](assets/ClothSimCodeFlow.pdf)
 
+:::{.screenshot-caption}
+The code flow for our project.
+:::
 
 ### Cloth Patterns
-I designed these cloth patterns in Canva to use on our cloth. The left is called "Sunset" and the right is "Space," which reminds me of the aliens found in the movie *Toy Story.*
+I designed these cloth patterns in Canva to use on our cloth. The first is called "Sunset" and the second is "Space," which reminds me of the aliens found in the movie *Toy Story.*
 
 :::::{.home-proj-area}
 ![](assets/ClothSimSunset.png){.lightbox}

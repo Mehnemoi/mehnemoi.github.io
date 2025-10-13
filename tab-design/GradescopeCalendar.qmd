@@ -31,6 +31,11 @@ Kaitlynn Gray, Caleb Wheeler, Arisa Cowe
 
 :::
 
+
+:::{.code-proj-links}
+[Jump to Final UI](#end-product)
+:::
+
 :::::
 
 :::::::
@@ -39,15 +44,27 @@ Kaitlynn Gray, Caleb Wheeler, Arisa Cowe
 
 :::::{.code-proj-desc}
 
-:::{.left-border}
-### Context
-Gradescope Calendar is a website my team and I created that organizes due dates from Gradescope, an online tool where instructors can assign assignments and exams. We created, programmed, practiced pitching, and presented this project under the Summer Start-Up program during our Summer 2022 research project at Harvey Mudd College. 
+:::{.emphasis}
+I designed the UI for a Gradescope Calendar and programmed its Weekly Overview page in React as part of a 3-person team research project.
 :::
 
-### Problem
-Proposed by my teammate Caleb Wheeler, our team shared frustrations with interacting with Gradescope for our college assignments. Many of our college courses used Gradescope to communicate assignment due dates. However, we needed to manually go into each course page to see each due date to plan for our assignments. This became tedious over the semester, as it required us to consistently check each page to ensure we didn’t miss assignments. 
 
-Our team created Gradescope Calendar so students can see all of their upcoming Gradescope assignments in **one place at one time**.
+### Context
+Gradescope Calendar is a website my team and I created that organizes due dates from Gradescope, an online tool where instructors can assign assignments and exams. We created, programmed, practiced pitching, and presented this project under the Summer Start-Up program during our Summer 2022 research project at Harvey Mudd College. 
+
+
+### Problem
+Proposed by my teammate Caleb Wheeler, our team shared frustrations with interacting with Gradescope for our college assignments. Many of our college courses used Gradescope to communicate assignment due dates. However, we needed to manually go into each course page to see each due date to plan for our assignments. 
+
+:::{.faded-border}
+![](/projects/gradescope-cal/images/GradescopeScreenshot.png){.lightbox}
+:::
+
+:::{.screenshot-caption}
+Screenshot of my courses displayed within the Course Dashboard on [Gradescope](https://www.gradescope.com/) in 2025. Just like the 2022 version of Gradescope, I need to click into each course to view all released assignments.
+:::
+
+This became tedious over the semester, as it required us to consistently check each page to ensure we didn’t miss assignments. Our team created Gradescope Calendar so students can see all of their upcoming Gradescope assignments in **one place at one time**.
 
 While others have created similar projects, such as one titled “Gradescope Scheduler,” ours was unique as it relied on providing users with a visual representation of their assignments that they could interact with. Gradescope Scheduler required users to use the terminal to obtain their Gradescope data, which reduced the accessibility of their product. Our project desired to promote ease of use by only requiring users to log in using their Gradescope credentials.
 
@@ -56,6 +73,10 @@ While others have created similar projects, such as one titled “Gradescope Sch
 
 ### Design Process
 ![](/projects/gradescope-cal/images/GCalFinalFinalUI.png){.lightbox}
+
+:::{.screenshot-caption}
+Screenshot of the final version of the Weekly Overview page.
+:::
 
 #### UI Overview
 I designed the first iteration of the monthly calendar and weekly overview in Canva. These designs included the base-level information our website should display, including buttons to download the calendar to Google or Apple Calendar and sign out. 
@@ -93,6 +114,10 @@ My designs consistently include elements with round borders which may make it fe
 ##### Initial Design
 ![](/projects/gradescope-cal/images/GCalInitial.png){.lightbox}
 
+:::{.screenshot-caption}
+The initial UI design for the Monthly Overview designed in Canva.
+:::
+
 When designing the monthly calendar, I opted for a standard calendar layout where each date displayed thin cards representing assignments due that day. This way, users could immediately see which days had assignments due, and better prepare for assignment heavy days. Users would be able to click tabs below the calendar to highlight assignments from specific classes. This way, users could still have the option of focusing on assignment deadlines for one class.
 
 I then included a side panel with information about the assignments due that week organized by day. This included the course of the assignment and its due time.
@@ -101,7 +126,15 @@ I then included a side panel with information about the assignments due that wee
 
 ![](/projects/gradescope-cal/images/GCalArisa.png){.lightbox}
 
+:::{.screenshot-caption}
+Screenshot of my UI design programmed into the website by Arisa.
+:::
+
 ##### Iteration!
+
+I liked how my first implementation made use of the entire screen. However, I noticed how users would have to scroll through each date in the calendar to view all assignments. I also noticed that the date and assignment list looked very similar in the side panel. 
+
+In my next iteration of the Monthly Overview, I wanted to use more space, like in the above implementation, make it clearer to see all the assignments within each calendar square, and make a clearer distinction between the date and list of assignments in the side panel
 
 :::::{.triple-grid}
 
@@ -109,7 +142,7 @@ I then included a side panel with information about the assignments due that wee
 ![](/projects/gradescope-cal/images/GCalInitial.png){.lightbox}
 
 :::{.screenshot-caption}
-First iteration of the Monthly Calendar
+First iteration of the Monthly Calendar.
 :::
 
 :::
@@ -118,16 +151,12 @@ First iteration of the Monthly Calendar
 ![](/projects/gradescope-cal/images/GCalCalendarRegUI.png){.lightbox}
 
 :::{.screenshot-caption}
-Second iteration of the Monthly Calendar
+Second iteration of the Monthly Calendar.
 :::
 :::
 
 
 :::::
-
-I liked how this implementation made use of the entire screen. However, I noticed how users would have to scroll through each date in the calendar to view all assignments. I also noticed that the date and assignment list looked very similar in the side panel. 
-
-In my next iteration of the monthly overview, I wanted to use more space, like in the above implementation, make it clearer to see all the assignments within each calendar square, and make a clearer distinction between the date and list of assignments in the side panel
 
 On the calendar side, I expanded the space for the calendar, included the day of the week at the top of the calendar, and introduced cards that would squish to fill the space in each square. This way, users would know what day the assignment was due and see all the assignments without scrolling.
 
@@ -137,6 +166,10 @@ The side panel saw the most change. I alternated the background colors for each 
 #### Weekly Overview
 ##### Initial Design
 ![](/projects/gradescope-cal/images/GCalWeeklyV1.png){.lightbox}
+
+:::{.screenshot-caption}
+A screenshot of the initial Weekly Overview I designed in Canva.
+:::
 
 I designed the weekly overview to display more information about the assignments shown in the side panel and allow for more interactivity with the assignments.
 
@@ -151,7 +184,7 @@ The key motivation behind Gradescope Calendar was to get key information about a
 ![](/projects/gradescope-cal/images/GCalWeeklyV1.png){.lightbox}
 
 :::{.screenshot-caption}
-First iteration of the Weekly Overview
+First iteration of the Weekly Overview.
 :::
 
 :::
@@ -160,7 +193,7 @@ First iteration of the Weekly Overview
 ![](/projects/gradescope-cal/images/GCalWeeklyV2.png){.lightbox}
 
 :::{.screenshot-caption}
-Second iteration of the Weekly Overview
+Second iteration of the Weekly Overview.
 :::
 :::
 
@@ -177,7 +210,7 @@ I also wanted to distinguish quizzes and exams from general homework to highligh
 ![](/projects/gradescope-cal/images/GCalWeeklyV2.png){.lightbox}
 
 :::{.screenshot-caption}
-Second iteration of the Weekly Overview
+Second iteration of the Weekly Overview.
 :::
 :::
 
@@ -185,7 +218,7 @@ Second iteration of the Weekly Overview
 ![](/projects/gradescope-cal/images/GCalFinalFinalUI.png){.lightbox}
 
 :::{.screenshot-caption}
-Third iteration of the Weekly Overview
+Third iteration of the Weekly Overview.
 :::
 :::
 
@@ -197,61 +230,31 @@ I included an “all courses” widget with a button for each of the user’s co
 
 With these additions, Gradescope Calendar could be more than a calendar - it could be a tool to track completed assignments and help draw attention to specific assignments to focus on.
 
-:::{.left-border}
+
 ### End Product
 ![](/projects/gradescope-cal/images/GCalCalendarRegUI.png){.lightbox}
 
+:::{.screenshot-caption}
+The final UI I designed for the Monthly Overview page.
+:::
+
 ![](/projects/gradescope-cal/images/GCalFinalFinalUI.png){.lightbox}
 
+:::{.screenshot-caption}
+Screenshot of the final UI I programmed into the Weekly Overview page.
+:::
 
 My final design is the most effective as it leans more into placing key information towards the top of the page: the current day/week/month and upcoming assignments. The visual design is clean - the bright white boxes focus the user on the main content, while the large margins between content help to split up all the information presented to the user. This allows them to feel less overwhelmed with the amount of information. Furthermore, interactions with the list items can be clearly distinguished.
 
 I included more information about the current time period, buttons to navigate to past and future weeks. I included the month and year at the top with the specific week range so users would know the exact week they were looking at when navigating to past and future weeks. To complement this functionality, I placed a “today’s date” widget at the top right. Thus, users could keep track of the current date as they flipped between weeks. Since Gradescope Calendar has a foundation as a calendar, I wanted to ensure information about the displayed date of assignments was clearly shown.
 
 Overall, this design achieved Gradescope Calendar’s goal of delivering Gradescope assignment deadlines to users faster as it displayed the assignments for all courses at once. The vibrant visuals, separation of information, and design choices to prevent assignments from blending together ensured users could visually conceptualize their Gradescope assignments and thus better prepare for their academic work schedules.
-:::
+
 
 ### What I Learned
 This project was the first time I seriously learned how to do UI design. I only had about 2 years of design experience at this point, and many of my designs focused on being aesthetically pleasing. This project taught me to ask “why” when including elements in my designs. I needed to be intentional about the colors I used, the information I showed versus hid, and how I could guide the user through the interface. As such, I needed to do a lot of iteration. Nevertheless, I am proud of how I was able to produce a clean UI that balanced both aesthetics and effectively communicating information.
 
 
-
-
-
-<!-- ### Product Features
-
-:::::{.screenshots-container}
-
-:::{.screenshot}
-#### Krill Attack
-
-:::{.screenshot-image}
-
-![](assets/SkyGameKrill.png){.lightbox}
-
-:::
-
-:::{.screenshot-caption}
-Player entered the Krill's circle.
-:::
-
-:::
-
-:::{.screenshot}
-#### Game Play
-
-:::{.screenshot-image}
-![](assets/SkyGameLose.png){.lightbox}
-:::
-
-:::{.screenshot-caption}
-Player lost their light and lost the game.
-:::
-
-:::
-
-
-::::: -->
 
 :::::
 

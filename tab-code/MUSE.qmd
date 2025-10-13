@@ -81,30 +81,31 @@ My team applied the human-centered design process to create MUSE. For the empath
 
 We interviewed one person each. We found that people had a need to understand sound instead of color. By understanding sound, people could create their own music. So, we shifted MUSE to focus on using color to understand sound. 
 
+#### Task Analysis
+My team and I created the below user goal diagram to see what a user would need to do, in order, to achieve their goal of using sound to understand color.
+
+![](assets/MUSEDocs/MUSEUserGoal.png){.lightbox}
 
 #### Low-Fidelity Prototype
-I worked with my team to create the low-fidelity prototype of MUSE in Canva below. One teammate selected a pre-made DJ board graphic and printed it. Then, I helped cut out colored pieces of paper to represent the color disks we would play on each side of the board. We also cut out smaller pieces to represent these colors mixing, and sliders to change the shade, tint, and saturation of the colors.
+Then, I worked with my team to create the low-fidelity prototype of MUSE in Canva below. One teammate selected a pre-made DJ board graphic and printed it. I helped cut out colored pieces of paper to represent the color disks we would play on each side of the board. We also cut out smaller pieces to represent these colors mixing, and sliders to change the shade, tint, and saturation of the colors.
 
 We used this prototype to create a video showing the rough functionality of MUSE. After, we brought this prototype to class to test with our classmates. I aided in taking notes while two of my teammates simulated the sounds using their voices.
 
 ![](assets/MUSEDocs/MUSELowFidelityPrototype.png){.lightbox}
 
-#### Figma Wireframe
-I created the Figma wireframe below of our "Saved Colors" page. Mixed and saved colors would collect here. I envisioned that users could select colors from here to bring back out to the DJ board.
+#### Wizard of Oz Prototype - Figma Wireframe
+We created a Figma wireframe to serve as a "Wizard of Oz" by simulating interactions in MUSE without writing code. I created the Figma wireframe below of our "Saved Colors" page. Mixed and saved colors would collect here. I envisioned that users could select colors from here to bring back out to the DJ board.
 
 ![](assets/MUSEDocs/MUSEFigmaSavedColors.png){.lightbox}
 
 #### State Diagram
-We created a state diagram to visualize how the user would navigate MUSE. Each square represents a state of MUSE, such as being on a certain page or selecting one of the music disks. The arrows show how users can get from one state to another.
+We also created a state diagram to visualize how the user would navigate MUSE. Each square represents a state of MUSE, such as being on a certain page or selecting one of the music disks. The arrows show how users can get from one state to another.
 
 With this, we could understand the interactions we were programming into MUSE.
 
 ![](assets/MUSEDocs/MUSEStateDiagram.png){.lightbox}
 
-#### User Goal Diagram
-My team and I also created the below user goal diagram to see what a user would need to do, in order, to achieve their goal of using sound to understand color.
 
-![](assets/MUSEDocs/MUSEUserGoal.png){.lightbox}
 
 #### User Interface (UI) Iteration
 I polished the UI of MUSE. Deniz led the programming of the base components, allowing me to go in and make UI updates as needed. Below are the before and after of my UI updates. 
