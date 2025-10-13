@@ -186,10 +186,28 @@ The code flow for our project.
 ### Cloth Patterns
 I designed these cloth patterns in Canva to use on our cloth. The first is called "Sunset" and the second is "Space," which reminds me of the aliens found in the movie *Toy Story.*
 
-:::::{.home-proj-area}
+I wanted to create a sharp distinction between both sides so it was clear to see when the cloth flipped over. I achieved this by using contrasting color palettes for each side. However, I tie both together by having a bottom border that aligns in both designs.
+
+:::::{.screenshots-container}
+
+:::{.screenshot}
 ![](assets/ClothSimSunset.png){.lightbox}
 
+:::{.screenshot-caption}
+The Sunset cloth picturing a deep red sky fading into yellow and purple clouds.
+:::
+
+:::
+
+:::{.screenshot}
 ![](assets/ClothSimSpace.png){.lightbox}
+
+:::{.screenshot-caption}
+The Space cloth picturing a deep blue background overlaid with disks layered in blue, white, and lime green.
+:::
+
+:::
+
 :::::
 
 

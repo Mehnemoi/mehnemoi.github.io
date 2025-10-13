@@ -32,9 +32,9 @@ APIP
 :::
 
 :::{.code-proj-links}
-[Jump to Final UI](/tab-design/APIP.qmd#final-figma-ui)
-
 [Clinic Project Page](https://www.hmc.edu/clinic/2025/apip-ai-powered-style-extractor-and-variable-creator-for-webflow/)
+
+[Jump to Final UI](/tab-design/APIP.qmd#final-figma-ui)
 :::
 
 
@@ -256,9 +256,16 @@ In the first image, the single blue button would guide users to import or upload
 ### Final Figma UI 
 After about 4 months of iteration from the first Figma mockups, I created the following Figma mockups of our final UI design. 
 
+#### Chrome Extension Final UI
 For the Chrome Extension, I made sure to replicate small details like the loading wheel in the "Generating export .JSON" mockup, though I simplified our delete icon to one that was easier to create.
 
 ![](assets-projects/Webflow/APIPCEFinalUI.png){.lightbox}
+
+:::{.screenshot-caption}
+Final Figma mockup of the Chrome Extension displaying key UI states.
+:::
+
+#### Webflow Extension Final UI
 
 For the Webflow Extension, I replicated the three different states a user could encounter when processing their .JSON:
 
@@ -270,6 +277,10 @@ We did not end up using the greyed-out buttons, though we continued using the nu
 
 ![](assets-projects/Webflow/APIPWEFinalUI.png){.lightbox}
 
+:::{.screenshot-caption}
+Final Figma mockup of the Webflow Extension displaying key UI states.
+:::
+
 ### Screenshots of Live APIP
 Below are screenshots of the actual APIP Chrome and Webflow Extensions. I collaborated with my team members to program the UI using Tailwind CSS, CSS3, and TypeScript. Special thanks to Erin for polishing the UI code!
 
@@ -277,17 +288,43 @@ Below are screenshots of the actual APIP Chrome and Webflow Extensions. I collab
 
 :::{.columns3}
 ###### Opening Extension
+
+:::{.screenshot-container}
 ![](assets-projects/Webflow/ScreenshotCECollapsed.png){.lightbox}
 
+:::{.screenshot-caption}
+Displaying the "Style grabber" tab with grabbed website elements in the collapsed view.
+:::
+
+:::
+
+
 ###### Selecting Elements
+
+:::{.screenshot-container}
 ![](assets-projects/Webflow/ScreenshotCEFull.png){.lightbox}
 
+:::{.screenshot-caption}
+Expanding one of the collapsed elements in the "Style grabber" tab to view all CSS variable information collected.
+:::
+
+:::
+
 ###### Displaying .JSON
+
+:::{.screenshot-container}
 ![](assets-projects/Webflow/ScreenshotCEJSON.png){.lightbox}
+
+:::{.screenshot-caption}
+Displaying the "Export .JSON tab" where users can download the information collected.
+:::
+
+:::
+
 :::
 
 ###### See it in use!
-Below, I have opened the APIP Chrome Extension while browsing my portfolio website. The extension appears on the right and elements I have clicked on are displayed in the center of the extension. 
+Below, I have opened the APIP Chrome Extension while browsing my portfolio website. The extension appears on the right, and elements I have clicked on are displayed in the center of the extension. 
 
 :::{.faded-border}
 ![](assets-projects/Webflow/ScreenshotCEActual.png){.lightbox}
@@ -300,16 +337,50 @@ A screenshot of using the APIP Chrome Extension with my website.
 #### Webflow Extension
 :::{.screenshots-container}
 ###### Opening Extension
+
+:::{.screenshot-container}
 ![](assets-projects/Webflow/ScreenshotWEEmpty.png){.lightbox}
 
+:::{.screenshot-caption}
+Displaying the Webflow Extension with empty fields.
+:::
+
+:::
+
 ###### Importing .JSON
+
+:::{.screenshot-container}
 ![](assets-projects/Webflow/ScreenshotWEFilled.png){.lightbox}
 
+:::{.screenshot-caption}
+Pasting in a .JSON file into the "Import .JSON" side.
+:::
+
+:::
+
+
 ###### Processing .JSON
+
+:::{.screenshot-container}
 ![](assets-projects/Webflow/ScreenshotWEEditVar.png){.lightbox}
 
+:::{.screenshot-caption}
+Addressing errors found when parsing the .JSON on the "Edit variables" side. Users can deselect variables that result in errors (shown as red text with a strikethrough).
+:::
+
+:::
+
+
 ###### Successful Upload
+
+:::{.screenshot-container}
 ![](assets-projects/Webflow/ScreenshotWESuccess.png){.lightbox}
+
+:::{.screenshot-caption}
+Variables successfully imported into Webflow. Note: this screenshot uses different .JSON information than the previous three.
+:::
+
+:::
 
 :::
 

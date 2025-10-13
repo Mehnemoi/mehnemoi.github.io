@@ -35,6 +35,8 @@ Eshanya Agrawal, Deniz Bajin, Zariah Folkes, Kaitlynn Gray
 
 [GitHub Repository](https://github.com/DenizBajin/MUSE)
 
+[Jump to Final Product](#final-product)
+
 <!-- [Paper](assets/MUSEPaper.pdf) -->
 :::
 
@@ -82,9 +84,13 @@ My team applied the human-centered design process to create MUSE. For the empath
 We interviewed one person each. We found that people had a need to understand sound instead of color. By understanding sound, people could create their own music. So, we shifted MUSE to focus on using color to understand sound. 
 
 #### Task Analysis
-My team and I created the below user goal diagram to see what a user would need to do, in order, to achieve their goal of using sound to understand color.
+My team and I created the below task analysis to see what a user would need to do, in order, to achieve their goal of using sound to understand color.
 
 ![](assets/MUSEDocs/MUSEUserGoal.png){.lightbox}
+
+:::{.screenshot-caption}
+Our task analysis created in Canva outlining the steps a user would need to take to achieve a goal of using color to understand sound.
+:::
 
 #### Low-Fidelity Prototype
 Then, I worked with my team to create the low-fidelity prototype of MUSE in Canva below. One teammate selected a pre-made DJ board graphic and printed it. I helped cut out colored pieces of paper to represent the color disks we would play on each side of the board. We also cut out smaller pieces to represent these colors mixing, and sliders to change the shade, tint, and saturation of the colors.
@@ -93,10 +99,19 @@ We used this prototype to create a video showing the rough functionality of MUSE
 
 ![](assets/MUSEDocs/MUSELowFidelityPrototype.png){.lightbox}
 
+:::{.screenshot-caption}
+The Welcome page and Main page constructed as pieces of paper. We would layer and move the paper based on simulated user interactions.
+:::
+
+
 #### Wizard of Oz Prototype - Figma Wireframe
 We created a Figma wireframe to serve as a "Wizard of Oz" by simulating interactions in MUSE without writing code. I created the Figma wireframe below of our "Saved Colors" page. Mixed and saved colors would collect here. I envisioned that users could select colors from here to bring back out to the DJ board.
 
 ![](assets/MUSEDocs/MUSEFigmaSavedColors.png){.lightbox}
+
+:::{.screenshot-caption}
+The Figma wireframe I designed to reflect interactions on the Saved Colors page.
+:::
 
 #### State Diagram
 We also created a state diagram to visualize how the user would navigate MUSE. Each square represents a state of MUSE, such as being on a certain page or selecting one of the music disks. The arrows show how users can get from one state to another.
@@ -104,6 +119,10 @@ We also created a state diagram to visualize how the user would navigate MUSE. E
 With this, we could understand the interactions we were programming into MUSE.
 
 ![](assets/MUSEDocs/MUSEStateDiagram.png){.lightbox}
+
+:::{.screenshot-caption}
+A team-created state diagram designed in Canva. Visualizes how users would navigate MUSE.
+:::
 
 
 
@@ -169,7 +188,7 @@ So, I took initiative and used a combination of internet resources, ChatGPT, and
 ![](assets/MUSEMainUI.png){.lightbox}
 
 :::{.screenshot-caption}
-Yellow and purple mixing successfully.
+Yellow and purple mixing successfully on the Main page.
 :::
 
 ##### Curious about the color-mixing bug?
@@ -182,7 +201,7 @@ Hue ranges from 0 to 360, like the degrees of a circle. This circle is mapped on
 :::
 
 :::{.screenshot-caption}
-[*Image Source.*](https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl/)
+A color wheel annotated with the degrees of a circle from the MDN website. [*Image Source.*](https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl/)
 :::
 
 So, pure red would have a hue value of 0, and yellow would have a hue value around 60. If we wanted to mix these colors by averaging their hue values, we would get 30. This would correctly map onto orange!
@@ -259,7 +278,7 @@ Teaches users how to use MUSE.
 
 :::::
 
-### Reflection
+### Learnings
 I learned how to apply the human-centered design process to software development. I gained experience applying insights gained from interviews and user prototyping sessions to improve our product. It was a privilege to have a group of students enjoy an idea I thought of enough to dedicate time to refining it and building a working product that brought it to life.   
 
 :::::
