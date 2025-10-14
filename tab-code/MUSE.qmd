@@ -78,18 +78,103 @@ The MUSE DJ board. Two colors are playing, and both have been edited using the s
 ### The Process
 I came up with the initial idea of MUSE. At the beginning, I proposed we create a web application that connected music to color. When a color changed, the music would shift to express how it changed. With this, users would not have to rely on seeing a color itself, such as if they were colorblind, to understand one color's relationship to another.
 
-#### Using Human Centered Design
-My team applied the human-centered design process to create MUSE. For the empathizing stage, I worked with my team to generate questions to understand how people associated color and sound. We also asked about their desire to produce music. 
+**Note:** The following sections use information sourced from the team's shared [design documentation](assets/MUSEDesignDoc.pdf) that outlines our full process in depth. 
 
-We interviewed one person each. We found that people had a need to understand sound instead of color. By understanding sound, people could create their own music. So, we shifted MUSE to focus on using color to understand sound. 
+#### Using Human Centered Design
+My team applied the human-centered design process to create MUSE. For the needfinding stage, I worked with my team to generate interview questions to understand how people associated color and sound. We also asked about their desire to produce music. Our interview questions can be found on pages 5 and 6 of our [design documentation](assets/MUSEDesignDoc.pdf).
+
+We looked to interview:
+
+* **Music majors** -> to ask about elements of sound
+* **Art majors** -> to ask about elements of color
+* **Those with synesthesia** -> to understand experiences of associating other elements with sound
+* **Those with chromesthesia** -> to understand how sound can be interpreted as color
+
+##### Interview Process
+We considered the following guiding questions when creating our interview questions:
+
+* **How do those with differing levels of vision currently distinguish color?**
+* **How do we conceptualize color through sounds, and sound through color?**
+
+We included a listening section that had interviewees listen to portions of 5 songs from a Spotify playlist we created. We asked them about the colors they associated with each sound to see if there were commonalities between interviews.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1XdB7RNvmhFWBIgNkpjeVm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+
+:::{.screenshot-caption}
+The Spotify playlist we used in our interviews.
+:::
+
+The team and I also wanted to use the interview to solidify whether we would use color to understand sound, or sound to understand color. So, we introduced the following two hypothetical products towards the end to gain feedback:
+
+* **A tool for color conception:** a soundboard where you mix different sounds you like to create a tune that embodies a color (sound to understand color)
+* **A tool for composition:** Choose, adjust, and mix colors to produce sound (color to understand sound)
+
+
+
+
+
+##### Interview Takeaways
+We interviewed one person each. Key takeaways were:
+
+* Our product should be straightforward and easy to use
+* Those with synesthesia may disagree with the sounds associated with each color
+    * Could resolve by collecting input on generally accepted sound-color connections
+    * We could have people assign their own sounds
+* MUSE should focus on helping users understand elements of sound, such as pitch
+* Colors to sounds are more intuitive
+
+Overall, we found that people preferred to use color as a tool for music composition. So, we shifted MUSE to focus on using color to understand sound. 
+
+#### Identifying Design Goals
+With these takeaways in mind, we identified that MUSE should:
+
+1. Support  amateur composers by limiting the number of components that go into the music
+2. Make interactions with the tool more intuitive 
+    - by using skeuomorphism - using a design that referenced well-known tools, like a DJ board
+    - by supporting intuitive relationships between sound and colors, such as brighter colors = higher pitch
+
+3. Support reflection-in-action by providing real-time auditory and visual feedback
+
+
+#### Creating Personas
+The team created two personas to understand the instances where our tool would be used the most effectively. 
+
+:::{.screenshots-containter}
+
+:::{.faded-border .sides-container}
+##### Persona 1:
+**Background:** Maya is a 35-year-old mother. She often listens to music on their way to work, and she has a general interest in music. In her free time, she often attempts to create music using GarageBand, but she finds it too complex. Though she is interested in music production enough to make it her hobby, juggling life as a mother and her full-time job makes it challenging to sit down and learn music notes and composition.
+
+**Goals:**  She simply wants to create fun music as a hobby. She wants there to be a way where she
+can easily let her creativity flow in a very low-stakes environment. She found this app after
+another mom in a Facebook group raved about how an app helped her children pick up colors
+faster, using music. She thinks it would be a good way for her to create music, using color.
+
+
+:::
+
+:::{.faded-border .sides-container}
+##### Persona 2:
+**Background:** Isla is a 7-year-old just learning how to read and write in India. She is a student at a local elementary school and took a Punjabi music class for the first time. She was amazed at the cool sounds they made in class— how the bass of the dhol and the rhythm of the lyrics complemented each other. She wants to be able to create music, however, she has trouble understanding how to read the titles of each note, or how to write them down so she could play them.
+
+
+**Goals:** She wants to be a professional DJ when she grows up, but is frustrated that making pretty sounds and remembering how to make them isn’t as easy as she thought. Her teacher taught her what different colors mean and she finds combining them and playing around with them fascinating. Her teacher sees her struggling with music and introduces her to our app.
+
+
+:::
+
+:::
+
 
 #### Task Analysis
-My team and I created the below task analysis to see what a user would need to do, in order, to achieve their goal of using sound to understand color.
+We used the above personas as a guide to create a task analysis. This visualized what a user would need to do, in order, to achieve their goal of using color to understand sound.
 
 ![](assets/MUSEDocs/MUSEUserGoal.png){.lightbox}
 
 :::{.screenshot-caption}
-Our task analysis created in Canva outlining the steps a user would need to take to achieve a goal of using color to understand sound.
+Our task analysis, created in Canva, outlining the steps a user would need to take to achieve the goal of using color to understand sound.
 :::
 
 #### Low-Fidelity Prototype
@@ -279,7 +364,7 @@ Teaches users how to use MUSE.
 :::::
 
 ### Learnings
-I learned how to apply the human-centered design process to software development. I gained experience applying insights gained from interviews and user prototyping sessions to improve our product. It was a privilege to have a group of students enjoy an idea I thought of enough to dedicate time to refining it and building a working product that brought it to life.   
+I learned how to apply the human-centered design process to software development. I gained experience applying insights gained from interviews and user prototyping sessions to improve our product. Additionally, I gained experience organizing our final documentation in a clear and visually appealing format. It was a privilege to have a group of students enjoy an idea I thought of enough to dedicate time to refining it and building a working product that brought it to life.   
 
 :::::
 

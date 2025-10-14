@@ -60,7 +60,7 @@ I collaborated with 2 students to add colors and effects to an online cloth simu
 
 
 ### Description
-We built off of a programmer's [cloth simulator](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py) created using PyGame, a Python library to create games. Our project focused on styling the cloth by adding colors, a double sided feature, background effects, and fun particle effects.
+We built off of a programmer's [cloth simulator](https://replit.com/@IcemasterEric/Cloth-Simulation-pygame#main.py) created using PyGame, a Python library to create games. Our project focused on styling the cloth by adding colors, a double-sided feature, background effects, and fun particle effects.
 
 
 ::::{.screenshots-container}
@@ -87,7 +87,7 @@ Our bedazzled cloth, filled with color!
 ### My Code Contributions:
 I worked on calculating how to create a double-sided effect on the cloth, designed the [final patterns](#cloth-patterns) for the cloth, and programmed the background color to change based on which side of the cloth was showing.
 
-In my own time I implemented 2D “spheres” that replace the cloth patches with a ball that can change orientation.
+In my own time, I implemented 2D “spheres” that replace the cloth patches with a ball that can change orientation.
 
 
 ### Videos
@@ -117,7 +117,7 @@ My 2D sphere effect that makes the cloth look puffy.
 :::
 
 :::{.screenshot-caption}
-A pink puffy jacket effect to the cloth.
+A pink puffy jacket effect on the cloth.
 :::
 
 :::
@@ -132,7 +132,7 @@ A pink puffy jacket effect to the cloth.
 :::
 
 :::{.screenshot-caption}
-A purple puffy jacket effect to the cloth.
+A purple puffy jacket effect on the cloth.
 :::
 
 :::
@@ -184,7 +184,7 @@ The code flow for our project.
 :::
 
 ### Cloth Patterns
-I designed these cloth patterns in Canva to use on our cloth. The first is called "Sunset" and the second is "Space," which reminds me of the aliens found in the movie *Toy Story.*
+I designed these cloth patterns in Canva to use on our cloth. The first is called "Sunset," and the second is "Space," which reminds me of the aliens found in the movie *Toy Story.*
 
 I wanted to create a sharp distinction between both sides so it was clear to see when the cloth flipped over. I achieved this by using contrasting color palettes for each side. However, I tie both together by having a bottom border that aligns in both designs.
 
@@ -194,7 +194,7 @@ I wanted to create a sharp distinction between both sides so it was clear to see
 ![](assets/ClothSimSunset.png){.lightbox}
 
 :::{.screenshot-caption}
-The Sunset cloth picturing a deep red sky fading into yellow and purple clouds.
+The Sunset cloth, picturing a deep red sky fading into yellow and purple clouds.
 :::
 
 :::
@@ -203,7 +203,7 @@ The Sunset cloth picturing a deep red sky fading into yellow and purple clouds.
 ![](assets/ClothSimSpace.png){.lightbox}
 
 :::{.screenshot-caption}
-The Space cloth picturing a deep blue background overlaid with disks layered in blue, white, and lime green.
+The Space cloth, picturing a deep blue background overlaid with disks layered in blue, white, and lime green.
 :::
 
 :::
