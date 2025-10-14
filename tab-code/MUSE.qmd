@@ -78,7 +78,7 @@ The MUSE DJ board. Two colors are playing, and both have been edited using the s
 ### The Process
 I came up with the initial idea of MUSE. At the beginning, I proposed we create a web application that connected music to color. When a color changed, the music would shift to express how it changed. With this, users would not have to rely on seeing a color itself, such as if they were colorblind, to understand one color's relationship to another.
 
-**Note:** The following sections use information sourced from the team's shared [design documentation](assets/MUSEDesignDoc.pdf) that outlines our full process in depth. 
+**Note:** The following sections use information sourced from the team's shared [design documentation](assets/MUSEDesignDoc.pdf) that outlines our full process in depth! 
 
 #### Using Human Centered Design
 My team applied the human-centered design process to create MUSE. For the needfinding stage, I worked with my team to generate interview questions to understand how people associated color and sound. We also asked about their desire to produce music. Our interview questions can be found on pages 5 and 6 of our [design documentation](assets/MUSEDesignDoc.pdf).
@@ -96,7 +96,7 @@ We considered the following guiding questions when creating our interview questi
 * **How do those with differing levels of vision currently distinguish color?**
 * **How do we conceptualize color through sounds, and sound through color?**
 
-We included a listening section that had interviewees listen to portions of 5 songs from a Spotify playlist we created. We asked them about the colors they associated with each sound to see if there were commonalities between interviews.
+We included a listening section that had interviewees listen to portions of 5 songs from a Spotify playlist we created. They were asked about the colors they associated with each sound to see if there were commonalities between interviews.
 
 ```{=html}
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1XdB7RNvmhFWBIgNkpjeVm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -112,29 +112,17 @@ The team and I also wanted to use the interview to solidify whether we would use
 * **A tool for composition:** Choose, adjust, and mix colors to produce sound (color to understand sound)
 
 
+##### Interview Takeaways and Design Goals
+We interviewed one person each. The most significant takeaways were that MUSE should be easy to use, it should focus on understanding elements of sound (ex: pitch), and the colors to sounds were more intuitive. Furthermore, we found that those with synesthesia may disagree with the sounds associated with each color. To resolve this, we considered allowing users to assign their own sounds.
 
+Overall, people preferred to use color as a tool for music composition. So, we shifted MUSE to focus on using color to understand sound. 
 
-
-##### Interview Takeaways
-We interviewed one person each. Key takeaways were:
-
-* Our product should be straightforward and easy to use
-* Those with synesthesia may disagree with the sounds associated with each color
-    * Could resolve by collecting input on generally accepted sound-color connections
-    * We could have people assign their own sounds
-* MUSE should focus on helping users understand elements of sound, such as pitch
-* Colors to sounds are more intuitive
-
-Overall, we found that people preferred to use color as a tool for music composition. So, we shifted MUSE to focus on using color to understand sound. 
-
-#### Identifying Design Goals
 With these takeaways in mind, we identified that MUSE should:
 
 1. Support  amateur composers by limiting the number of components that go into the music
 2. Make interactions with the tool more intuitive 
     - by using skeuomorphism - using a design that referenced well-known tools, like a DJ board
     - by supporting intuitive relationships between sound and colors, such as brighter colors = higher pitch
-
 3. Support reflection-in-action by providing real-time auditory and visual feedback
 
 
