@@ -37,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-24a49aafac3ca34c743ecda1b4cfc2fa.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-8890cda22a31d4da3f0eb5aba2d38a12.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
 <link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
@@ -167,6 +167,7 @@ ul.task-list li input[type="checkbox"] {
 <p><strong>Tools:</strong> Webflow, React, TypeScript, CSS, Figma</p>
 </div>
 <div class="code-proj-links">
+<p><a href="https://www.hmc.edu/clinic/2025/apip-ai-powered-style-extractor-and-variable-creator-for-webflow/">Clinic Project Page</a></p>
 <p><a href="../tab-design/APIP.html#final-figma-ui">Jump to Final UI</a></p>
 </div>
 </div>
@@ -180,13 +181,14 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="background">Background</h3>
 <p>This project was a part of the Harvey Mudd Computer Science Clinic Program, a senior capstone project program with the same weight as a thesis. Students are placed in teams and given a company partner to design a product for, with support from company liaisons.</p>
 <p>For my Clinic project, <strong>I teamed with 5 Computer Science majors and the company Webflow to design a product for Webflow users.</strong> Webflow is a website-focused company where users can build, host, and optimize their websites.</p>
+<p><strong>Important Note:</strong> Our final product is not hosted on the Webflow website. This project does not include making the Webflow website, making the Webflow Designer, or directly contributing to the base code of the Webflow website. Our work prototypes a potential product that <em>could</em> be used in the Webflow Designer, but is currently not.</p>
 </section>
 <section id="problem" class="level3">
 <h3 class="anchored" data-anchor-id="problem">Problem</h3>
 <p>Webflow has many tools to use to build the perfect website. However, this large array of tools, combined with a blank website canvas to work on, may lead users to feel overwhelmed and unsure where to start. Our Webflow liaisons called this the “blank slate” problem.</p>
 <p><a href="assets-projects/Webflow/BlankWebflowSite.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="assets-projects/Webflow/BlankWebflowSite.png" class="img-fluid"></a></p>
 <div class="screenshot-caption">
-<p>A screenshot of a blank website page in the Webflow Designer.</p>
+<p>Screenshot of a blank website page in the Webflow Designer.</p>
 </div>
 <p>Our team addressed the blank slate problem by creating a way for users to bring in colors, fonts, and padding styles from websites they are inspired by to provide support for their Webflow website designs. To do so, <strong>we created a Chrome extension and a Webflow extension to help users upload CSS variables to the Webflow website building area: the Webflow Designer.</strong> We called our project APIP: The AI-Powered Inspiration Palette Tool (APIP).</p>
 </section>
@@ -213,13 +215,26 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="initial-figma-ui-design">Initial Figma UI Design</h3>
 <p>My team member Rachel and I created a Figma wireframe that built out the team’s ideas on key features APIP would have, and how the information would be organized. In the image below, the Chrome Extension wireframe is left of the arrow, and the Webflow Extension wireframe is on the right.</p>
 <p><a href="assets-projects/Webflow/APIPFullWireframe.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="assets-projects/Webflow/APIPFullWireframe.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>The initial Figma wireframe created by Rachel and I.</p>
+</div>
 <section id="using-webflow-ui-style" class="level4">
 <h4 class="anchored" data-anchor-id="using-webflow-ui-style">Using Webflow UI Style</h4>
 <p>I wanted to create a visual tie between APIP and the Webflow website by using design styles from Webflow. This way, Webflow users would know that APIP and Webflow are connected. So, I used these screenshots from the Webflow Designer as inspiration to convert our wireframe designs to match the Webflow user interface (UI).</p>
 <p><strong>Note:</strong> The screenshot on the left with the variables will appear once more in the first iteration of the Webflow extension <a href="../tab-design/APIP.html#st-iteration-1">below</a>. I use this to visualize how Webflow displays its variables to better align our UI with theirs.</p>
 <div class="asym-grid">
+<div class="screenshot-container">
 <p><a href="assets-projects/Webflow/APIPUIInspoDark2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="assets-projects/Webflow/APIPUIInspoDark2.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Screenshot inside the variables panel in the Webflow Designer.</p>
+</div>
+</div>
+<div class="screenshot-container">
 <p><a href="assets-projects/Webflow/APIPUIInspoDark3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="assets-projects/Webflow/APIPUIInspoDark3.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Screenshot of the main design panel in the Webflow Designer.</p>
+</div>
+</div>
 </div>
 </section>
 <section id="ui-redesign" class="level4">
@@ -228,10 +243,16 @@ ul.task-list li input[type="checkbox"] {
 <section id="chrome-extension" class="level5">
 <h5 class="anchored" data-anchor-id="chrome-extension">Chrome Extension</h5>
 <p><a href="assets-projects/Webflow/APIPCEWebflow.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="assets-projects/Webflow/APIPCEWebflow.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Figma mockup of Chrome Extension updated to align with the Webflow UI style.</p>
+</div>
 </section>
 <section id="webflow-extension" class="level5">
 <h5 class="anchored" data-anchor-id="webflow-extension">Webflow Extension</h5>
 <p><a href="assets-projects/Webflow/APIPWEWebflow.png" class="lightbox" data-gallery="quarto-lightbox-gallery-6"><img src="assets-projects/Webflow/APIPWEWebflow.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Figma mockup of Webflow Extension updated to align with the Webflow UI style.</p>
+</div>
 <!-- 
 ##### Light Mode
 I also created a light mode for the Chrome and Webflow Extensions. While we did not end up using this, I wanted to provide an option if we allowed users to switch between a dark and light mode. I used the Figma Designer UI in light mode as inspiration.
@@ -265,6 +286,9 @@ I also created a light mode for the Chrome and Webflow Extensions. While we did 
 <p>All buttons were placed at the top, allowing users to find them in one place (first image). We also opted for a default styling for the checkboxes (second image) and added a copy icon on the Export JSON page (third image). Each element received a “remove” button so users could remove specific elements (second image).</p>
 <p><strong>Highlighting Feedback:</strong> Our liaisons advised that we reduce the text we use in our UI. Here, we removed the text surrounding the “convert to JSON” button by renaming it to “Convert Variables” and removing the “ready to transfer your variables?” question above it.</p>
 <p><a href="assets-projects/Webflow/APIPWebUI1.png" class="lightbox" data-gallery="quarto-lightbox-gallery-7"><img src="assets-projects/Webflow/APIPWebUI1.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>1st iteration of Chrome Extension Figma design.</p>
+</div>
 </section>
 <section id="nd-iteration" class="level4">
 <h4 class="anchored" data-anchor-id="nd-iteration">2nd Iteration</h4>
@@ -272,6 +296,9 @@ I also created a light mode for the Chrome and Webflow Extensions. While we did 
 <p>Continuing our efforts to reduce text, we changed the “remove” button on each element to a trashcan icon. With icons, users could learn key information about button uses without needing to read each button. Here, I represent it with a red, rounded rectangle.</p>
 <p><strong>Highlighting Feedback:</strong> Our liaisons also pointed out that Webflow uses sentence-case for their text. Thus, I changed the tab names, “activate element grabber” switch, and buttons to sentence case. Ex: “Style Selection” became “Style selection” instead.</p>
 <p><a href="assets-projects/Webflow/APIPWebUI3.png" class="lightbox" data-gallery="quarto-lightbox-gallery-8"><img src="assets-projects/Webflow/APIPWebUI3.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>2nd iteration of Chrome Extension Figma design.</p>
+</div>
 </section>
 <section id="rd-and-4th-iterations" class="level4">
 <h4 class="anchored" data-anchor-id="rd-and-4th-iterations">3rd and 4th Iterations</h4>
@@ -279,6 +306,9 @@ I also created a light mode for the Chrome and Webflow Extensions. While we did 
 <p>We changed “remove all” to “delete all”. (first image and second image). Additionally, we made the collapse/expand button easier to understand by simplifying it to one carrot pointing up or down (compare the first and second images).</p>
 <p>We also added a trash can icon to the delete button. This icon served as a delete button for each clicked element, so adding the icon to the new delete button created a visual tie between their uses (third image).</p>
 <p><a href="assets-projects/Webflow/APIPWebUI4.png" class="lightbox" data-gallery="quarto-lightbox-gallery-9"><img src="assets-projects/Webflow/APIPWebUI4.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>3rd (left) and 4th (right) iterations of Chrome Extension Figma design.</p>
+</div>
 </section>
 </section>
 <section id="webflow-extension-iteration" class="level3">
@@ -288,25 +318,42 @@ I also created a light mode for the Chrome and Webflow Extensions. While we did 
 <p>Completed after I converted the initial wireframe to the Webflow UI style, we experimented with combining the import and create variables pages on the same screen.</p>
 <p><strong>Note:</strong> The bottom half area, starting with “Component 1” and ending with “+ New variable,” is not my own. Instead, it is a screenshot from the Webflow Designer that I used to visualize how Webflow displays their variables! You may recognize this screenshot from the <a href="../tab-design/APIP.html#using-webflow-ui-style">“Using Webflow Style”</a> section above.</p>
 <p><a href="assets-projects/Webflow/APIPWEWebflowFull.png" class="lightbox" data-gallery="quarto-lightbox-gallery-10"><img src="assets-projects/Webflow/APIPWEWebflowFull.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>1st iteration of Webflow Extension Figma design.</p>
+</div>
 </section>
 <section id="nd-iteration-1" class="level4">
 <h4 class="anchored" data-anchor-id="nd-iteration-1">2nd Iteration</h4>
 <p>We decided to move forward with having both pages visible. However, we placed them side-by-side to better fit in the Webflow Designer window area. We brought in the style of the darker box to display the generated variables to match the rest of our UI.</p>
 <p><a href="assets-projects/Webflow/APIPWebUI2.png" class="lightbox" data-gallery="quarto-lightbox-gallery-11"><img src="assets-projects/Webflow/APIPWebUI2.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>2nd iteration of Webflow Extension Figma design.</p>
+</div>
 </section>
-<section id="final-iteration" class="level4">
-<h4 class="anchored" data-anchor-id="final-iteration">Final Iteration</h4>
+<section id="rd-iteration" class="level4">
+<h4 class="anchored" data-anchor-id="rd-iteration">3rd Iteration</h4>
 <p>This is the final Figma iteration before our final UI design! Here, we focused on using UI elements to guide users through the steps they needed to take. We added numbers to each side to establish an order of use.</p>
 <p>I also experimented with using button colors to guide users through the order of actions they should take. Blue buttons could be pressed, while grey buttons would be locked.</p>
 <p>In the first image, the single blue button would guide users to import or upload their .JSON file (first image). Next, the “Process .JSON” button would light up, encouraging users to press it (second image). Finally, with the .JSON processed, the “Create variables” button would unlock, successfully guiding users through uploading their selected variables (third image).</p>
 <p><a href="assets-projects/Webflow/APIPWebUI5.png" class="lightbox" data-gallery="quarto-lightbox-gallery-12"><img src="assets-projects/Webflow/APIPWebUI5.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>3rd iteration of Webflow Extension Figma design.</p>
+</div>
 </section>
 </section>
 <section id="final-figma-ui" class="level3">
 <h3 class="anchored" data-anchor-id="final-figma-ui">Final Figma UI</h3>
-<p>After months of iteration from the first Figma mockups, I created the following Figma mockups of our final UI design.</p>
+<p>After about 4 months of iteration from the first Figma mockups, I created the following Figma mockups of our final UI design.</p>
+<section id="chrome-extension-final-ui" class="level4">
+<h4 class="anchored" data-anchor-id="chrome-extension-final-ui">Chrome Extension Final UI</h4>
 <p>For the Chrome Extension, I made sure to replicate small details like the loading wheel in the “Generating export .JSON” mockup, though I simplified our delete icon to one that was easier to create.</p>
 <p><a href="assets-projects/Webflow/APIPCEFinalUI.png" class="lightbox" data-gallery="quarto-lightbox-gallery-13"><img src="assets-projects/Webflow/APIPCEFinalUI.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Final Figma mockup of the Chrome Extension displaying key UI states.</p>
+</div>
+</section>
+<section id="webflow-extension-final-ui" class="level4">
+<h4 class="anchored" data-anchor-id="webflow-extension-final-ui">Webflow Extension Final UI</h4>
 <p>For the Webflow Extension, I replicated the three different states a user could encounter when processing their .JSON:</p>
 <ol type="1">
 <li>A successful process</li>
@@ -315,6 +362,10 @@ I also created a light mode for the Chrome and Webflow Extensions. While we did 
 </ol>
 <p>We did not end up using the greyed-out buttons, though we continued using the numbered sections to guide the user.</p>
 <p><a href="assets-projects/Webflow/APIPWEFinalUI.png" class="lightbox" data-gallery="quarto-lightbox-gallery-14"><img src="assets-projects/Webflow/APIPWEFinalUI.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Final Figma mockup of the Webflow Extension displaying key UI states.</p>
+</div>
+</section>
 </section>
 <section id="screenshots-of-live-apip" class="level3">
 <h3 class="anchored" data-anchor-id="screenshots-of-live-apip">Screenshots of Live APIP</h3>
@@ -324,21 +375,40 @@ I also created a light mode for the Chrome and Webflow Extensions. While we did 
 <div class="columns3">
 <section id="opening-extension" class="level6">
 <h6 class="anchored" data-anchor-id="opening-extension">Opening Extension</h6>
+<div class="screenshot-container">
 <p><a href="assets-projects/Webflow/ScreenshotCECollapsed.png" class="lightbox" data-gallery="quarto-lightbox-gallery-15"><img src="assets-projects/Webflow/ScreenshotCECollapsed.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Displaying the “Style grabber” tab with grabbed website elements in the collapsed view.</p>
+</div>
+</div>
 </section>
 <section id="selecting-elements" class="level6">
 <h6 class="anchored" data-anchor-id="selecting-elements">Selecting Elements</h6>
+<div class="screenshot-container">
 <p><a href="assets-projects/Webflow/ScreenshotCEFull.png" class="lightbox" data-gallery="quarto-lightbox-gallery-16"><img src="assets-projects/Webflow/ScreenshotCEFull.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Expanding one of the collapsed elements in the “Style grabber” tab to view all CSS variable information collected.</p>
+</div>
+</div>
 </section>
 <section id="displaying-.json" class="level6">
 <h6 class="anchored" data-anchor-id="displaying-.json">Displaying .JSON</h6>
+<div class="screenshot-container">
 <p><a href="assets-projects/Webflow/ScreenshotCEJSON.png" class="lightbox" data-gallery="quarto-lightbox-gallery-17"><img src="assets-projects/Webflow/ScreenshotCEJSON.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Displaying the “Export .JSON tab” where users can download the information collected.</p>
+</div>
+</div>
 </section>
 </div>
 <section id="see-it-in-use" class="level6">
 <h6 class="anchored" data-anchor-id="see-it-in-use">See it in use!</h6>
+<p>Below, I have opened the APIP Chrome Extension while browsing my portfolio website. The extension appears on the right, and elements I have clicked on are displayed in the center of the extension.</p>
 <div class="faded-border">
 <p><a href="assets-projects/Webflow/ScreenshotCEActual.png" class="lightbox" data-gallery="quarto-lightbox-gallery-18"><img src="assets-projects/Webflow/ScreenshotCEActual.png" class="img-fluid"></a></p>
+</div>
+<div class="screenshot-caption">
+<p>A screenshot of using the APIP Chrome Extension with my website.</p>
 </div>
 </section>
 </section>
@@ -347,23 +417,43 @@ I also created a light mode for the Chrome and Webflow Extensions. While we did 
 <div class="screenshots-container">
 <section id="opening-extension-1" class="level6">
 <h6 class="anchored" data-anchor-id="opening-extension-1">Opening Extension</h6>
+<div class="screenshot-container">
 <p><a href="assets-projects/Webflow/ScreenshotWEEmpty.png" class="lightbox" data-gallery="quarto-lightbox-gallery-19"><img src="assets-projects/Webflow/ScreenshotWEEmpty.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Displaying the Webflow Extension with empty fields.</p>
+</div>
+</div>
 </section>
 <section id="importing-.json" class="level6">
 <h6 class="anchored" data-anchor-id="importing-.json">Importing .JSON</h6>
+<div class="screenshot-container">
 <p><a href="assets-projects/Webflow/ScreenshotWEFilled.png" class="lightbox" data-gallery="quarto-lightbox-gallery-20"><img src="assets-projects/Webflow/ScreenshotWEFilled.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Pasting in a .JSON file into the “Import .JSON” side.</p>
+</div>
+</div>
 </section>
 <section id="processing-.json" class="level6">
 <h6 class="anchored" data-anchor-id="processing-.json">Processing .JSON</h6>
+<div class="screenshot-container">
 <p><a href="assets-projects/Webflow/ScreenshotWEEditVar.png" class="lightbox" data-gallery="quarto-lightbox-gallery-21"><img src="assets-projects/Webflow/ScreenshotWEEditVar.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Addressing errors found when parsing the .JSON on the “Edit variables” side. Users can deselect variables that result in errors (shown as red text with a strikethrough).</p>
+</div>
+</div>
 </section>
 <section id="successful-upload" class="level6">
 <h6 class="anchored" data-anchor-id="successful-upload">Successful Upload</h6>
+<div class="screenshot-container">
 <p><a href="assets-projects/Webflow/ScreenshotWESuccess.png" class="lightbox" data-gallery="quarto-lightbox-gallery-22"><img src="assets-projects/Webflow/ScreenshotWESuccess.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Variables successfully imported into Webflow. Note: this screenshot uses different .JSON information than the previous three.</p>
+</div>
+</div>
 </section>
 </div>
 <div class="code-proj-class">
-<p><em>Wondering where the gradient-style blue buttons came from? They are from Webflow! Throughout the design process of converting APIP to the Webflow style, I wanted to use the button styling found on the Webflow main site. After some digging using the inspect tool (and a little help from APIP), I was able to locate the button styling and use it here!</em></p>
+<p><strong>Psst!</strong> <em>Wondering where the gradient-style blue buttons came from?</em> They are from Webflow! Throughout the design process of converting APIP to the Webflow style, I wanted to use the button styling found on the Webflow main site. After some digging using the inspect tool (and a little help from APIP), I was able to locate the button styling and use it here!</p>
 </div>
 </section>
 </section>

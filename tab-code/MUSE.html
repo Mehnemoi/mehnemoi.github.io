@@ -37,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-24a49aafac3ca34c743ecda1b4cfc2fa.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-8890cda22a31d4da3f0eb5aba2d38a12.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="../site_libs/quarto-contrib/videojs/video.min.js"></script>
 <link href="../site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
@@ -171,6 +171,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="code-proj-links">
 <p><a href="assets/MUSEDesignDoc.pdf">Design Documentation</a></p>
 <p><a href="https://github.com/DenizBajin/MUSE">GitHub Repository</a></p>
+<p><a href="#final-product">Jump to Final Product</a></p>
 <!-- [Paper](assets/MUSEPaper.pdf) -->
 </div>
 </div>
@@ -193,32 +194,100 @@ ul.task-list li input[type="checkbox"] {
 <section id="the-process" class="level3">
 <h3 class="anchored" data-anchor-id="the-process">The Process</h3>
 <p>I came up with the initial idea of MUSE. At the beginning, I proposed we create a web application that connected music to color. When a color changed, the music would shift to express how it changed. With this, users would not have to rely on seeing a color itself, such as if they were colorblind, to understand one color’s relationship to another.</p>
+<p><strong>Note:</strong> The following sections use information sourced from the team’s shared <a href="assets/MUSEDesignDoc.pdf">design documentation</a> that outlines our full process in depth!</p>
 <section id="using-human-centered-design" class="level4">
 <h4 class="anchored" data-anchor-id="using-human-centered-design">Using Human Centered Design</h4>
-<p>My team applied the human-centered design process to create MUSE. For the empathizing stage, I worked with my team to generate questions to understand how people associated color and sound. We also asked about their desire to produce music.</p>
-<p>We interviewed one person each. We found that people had a need to understand sound instead of color. By understanding sound, people could create their own music. So, we shifted MUSE to focus on using color to understand sound.</p>
+<p>My team applied the human-centered design process to create MUSE. For the needfinding stage, I worked with my team to generate interview questions to understand how people associated color and sound. We also asked about their desire to produce music. Our interview questions can be found on pages 5 and 6 of our <a href="assets/MUSEDesignDoc.pdf">design documentation</a>.</p>
+<p>We looked to interview:</p>
+<ul>
+<li><strong>Music majors</strong> -&gt; to ask about elements of sound</li>
+<li><strong>Art majors</strong> -&gt; to ask about elements of color</li>
+<li><strong>Those with synesthesia</strong> -&gt; to understand experiences of associating other elements with sound</li>
+<li><strong>Those with chromesthesia</strong> -&gt; to understand how sound can be interpreted as color</li>
+</ul>
+<section id="interview-process" class="level5">
+<h5 class="anchored" data-anchor-id="interview-process">Interview Process</h5>
+<p>We considered the following guiding questions when creating our interview questions:</p>
+<ul>
+<li><strong>How do those with differing levels of vision currently distinguish color?</strong></li>
+<li><strong>How do we conceptualize color through sounds, and sound through color?</strong></li>
+</ul>
+<p>We included a listening section that had interviewees listen to portions of 5 songs from a Spotify playlist we created. They were asked about the colors they associated with each sound to see if there were commonalities between interviews.</p>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1XdB7RNvmhFWBIgNkpjeVm?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="screenshot-caption">
+<p>The Spotify playlist we used in our interviews.</p>
+</div>
+<p>The team and I also wanted to use the interview to solidify whether we would use color to understand sound, or sound to understand color. So, we introduced the following two hypothetical products towards the end to gain feedback:</p>
+<ul>
+<li><strong>A tool for color conception:</strong> a soundboard where you mix different sounds you like to create a tune that embodies a color (sound to understand color)</li>
+<li><strong>A tool for composition:</strong> Choose, adjust, and mix colors to produce sound (color to understand sound)</li>
+</ul>
+</section>
+<section id="interview-takeaways-and-design-goals" class="level5">
+<h5 class="anchored" data-anchor-id="interview-takeaways-and-design-goals">Interview Takeaways and Design Goals</h5>
+<p>We interviewed one person each. The most significant takeaways were that MUSE should be easy to use, it should focus on understanding elements of sound (ex: pitch), and the colors to sounds were more intuitive. Furthermore, we found that those with synesthesia may disagree with the sounds associated with each color. To resolve this, we considered allowing users to assign their own sounds.</p>
+<p>Overall, people preferred to use color as a tool for music composition. So, we shifted MUSE to focus on using color to understand sound.</p>
+<p>With these takeaways in mind, we identified that MUSE should:</p>
+<ol type="1">
+<li>Support amateur composers by limiting the number of components that go into the music</li>
+<li>Make interactions with the tool more intuitive
+<ul>
+<li>by using skeuomorphism - using a design that referenced well-known tools, like a DJ board</li>
+<li>by supporting intuitive relationships between sound and colors, such as brighter colors = higher pitch</li>
+</ul></li>
+<li>Support reflection-in-action by providing real-time auditory and visual feedback</li>
+</ol>
+</section>
+</section>
+<section id="creating-personas" class="level4">
+<h4 class="anchored" data-anchor-id="creating-personas">Creating Personas</h4>
+<p>The team created two personas to understand the instances where our tool would be used the most effectively.</p>
+<div class="screenshots-containter">
+<section id="persona-1" class="level5 faded-border sides-container">
+<h5 class="anchored" data-anchor-id="persona-1">Persona 1:</h5>
+<p><strong>Background:</strong> Maya is a 35-year-old mother. She often listens to music on their way to work, and she has a general interest in music. In her free time, she often attempts to create music using GarageBand, but she finds it too complex. Though she is interested in music production enough to make it her hobby, juggling life as a mother and her full-time job makes it challenging to sit down and learn music notes and composition.</p>
+<p><strong>Goals:</strong> She simply wants to create fun music as a hobby. She wants there to be a way where she can easily let her creativity flow in a very low-stakes environment. She found this app after another mom in a Facebook group raved about how an app helped her children pick up colors faster, using music. She thinks it would be a good way for her to create music, using color.</p>
+</section>
+<section id="persona-2" class="level5 faded-border sides-container">
+<h5 class="anchored" data-anchor-id="persona-2">Persona 2:</h5>
+<p><strong>Background:</strong> Isla is a 7-year-old just learning how to read and write in India. She is a student at a local elementary school and took a Punjabi music class for the first time. She was amazed at the cool sounds they made in class— how the bass of the dhol and the rhythm of the lyrics complemented each other. She wants to be able to create music, however, she has trouble understanding how to read the titles of each note, or how to write them down so she could play them.</p>
+<p><strong>Goals:</strong> She wants to be a professional DJ when she grows up, but is frustrated that making pretty sounds and remembering how to make them isn’t as easy as she thought. Her teacher taught her what different colors mean and she finds combining them and playing around with them fascinating. Her teacher sees her struggling with music and introduces her to our app.</p>
+</section>
+</div>
+</section>
+<section id="task-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="task-analysis">Task Analysis</h4>
+<p>We used the above personas as a guide to create a task analysis. This visualized what a user would need to do, in order, to achieve their goal of using color to understand sound.</p>
+<p><a href="assets/MUSEDocs/MUSEUserGoal.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="assets/MUSEDocs/MUSEUserGoal.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>Our task analysis, created in Canva, outlining the steps a user would need to take to achieve the goal of using color to understand sound.</p>
+</div>
 </section>
 <section id="low-fidelity-prototype" class="level4">
 <h4 class="anchored" data-anchor-id="low-fidelity-prototype">Low-Fidelity Prototype</h4>
-<p>I worked with my team to create the low-fidelity prototype of MUSE in Canva below. One teammate selected a pre-made DJ board graphic and printed it. Then, I helped cut out colored pieces of paper to represent the color disks we would play on each side of the board. We also cut out smaller pieces to represent these colors mixing, and sliders to change the shade, tint, and saturation of the colors.</p>
+<p>Then, I worked with my team to create the low-fidelity prototype of MUSE in Canva below. One teammate selected a pre-made DJ board graphic and printed it. I helped cut out colored pieces of paper to represent the color disks we would play on each side of the board. We also cut out smaller pieces to represent these colors mixing, and sliders to change the shade, tint, and saturation of the colors.</p>
 <p>We used this prototype to create a video showing the rough functionality of MUSE. After, we brought this prototype to class to test with our classmates. I aided in taking notes while two of my teammates simulated the sounds using their voices.</p>
-<p><a href="assets/MUSEDocs/MUSELowFidelityPrototype.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="assets/MUSEDocs/MUSELowFidelityPrototype.png" class="img-fluid"></a></p>
+<p><a href="assets/MUSEDocs/MUSELowFidelityPrototype.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="assets/MUSEDocs/MUSELowFidelityPrototype.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>The Welcome page and Main page constructed as pieces of paper. We would layer and move the paper based on simulated user interactions.</p>
+</div>
 </section>
-<section id="figma-wireframe" class="level4">
-<h4 class="anchored" data-anchor-id="figma-wireframe">Figma Wireframe</h4>
-<p>I created the Figma wireframe below of our “Saved Colors” page. Mixed and saved colors would collect here. I envisioned that users could select colors from here to bring back out to the DJ board.</p>
-<p><a href="assets/MUSEDocs/MUSEFigmaSavedColors.png" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="assets/MUSEDocs/MUSEFigmaSavedColors.png" class="img-fluid"></a></p>
+<section id="wizard-of-oz-prototype---figma-wireframe" class="level4">
+<h4 class="anchored" data-anchor-id="wizard-of-oz-prototype---figma-wireframe">Wizard of Oz Prototype - Figma Wireframe</h4>
+<p>We created a Figma wireframe to serve as a “Wizard of Oz” by simulating interactions in MUSE without writing code. I created the Figma wireframe below of our “Saved Colors” page. Mixed and saved colors would collect here. I envisioned that users could select colors from here to bring back out to the DJ board.</p>
+<p><a href="assets/MUSEDocs/MUSEFigmaSavedColors.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="assets/MUSEDocs/MUSEFigmaSavedColors.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>The Figma wireframe I designed to reflect interactions on the Saved Colors page.</p>
+</div>
 </section>
 <section id="state-diagram" class="level4">
 <h4 class="anchored" data-anchor-id="state-diagram">State Diagram</h4>
-<p>We created a state diagram to visualize how the user would navigate MUSE. Each square represents a state of MUSE, such as being on a certain page or selecting one of the music disks. The arrows show how users can get from one state to another.</p>
+<p>We also created a state diagram to visualize how the user would navigate MUSE. Each square represents a state of MUSE, such as being on a certain page or selecting one of the music disks. The arrows show how users can get from one state to another.</p>
 <p>With this, we could understand the interactions we were programming into MUSE.</p>
-<p><a href="assets/MUSEDocs/MUSEStateDiagram.png" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="assets/MUSEDocs/MUSEStateDiagram.png" class="img-fluid"></a></p>
-</section>
-<section id="user-goal-diagram" class="level4">
-<h4 class="anchored" data-anchor-id="user-goal-diagram">User Goal Diagram</h4>
-<p>My team and I also created the below user goal diagram to see what a user would need to do, in order, to achieve their goal of using sound to understand color.</p>
-<p><a href="assets/MUSEDocs/MUSEUserGoal.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="assets/MUSEDocs/MUSEUserGoal.png" class="img-fluid"></a></p>
+<p><a href="assets/MUSEDocs/MUSEStateDiagram.png" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="assets/MUSEDocs/MUSEStateDiagram.png" class="img-fluid"></a></p>
+<div class="screenshot-caption">
+<p>A team-created state diagram designed in Canva. Visualizes how users would navigate MUSE.</p>
+</div>
 </section>
 <section id="user-interface-ui-iteration" class="level4">
 <h4 class="anchored" data-anchor-id="user-interface-ui-iteration">User Interface (UI) Iteration</h4>
@@ -269,7 +338,7 @@ ul.task-list li input[type="checkbox"] {
 <p>So, I took initiative and used a combination of internet resources, ChatGPT, and help from my professor during their office hours to successfully correct our code to mix colors naturally. It was ultimately an internet resource my professor found that solved our color troubles! You can view the resource <a href="https://stackoverflow.com/questions/14819058/mixing-two-colors-naturally-in-javascript">here</a>.</p>
 <p><a href="assets/MUSEMainUI.png" class="lightbox" data-gallery="quarto-lightbox-gallery-10"><img src="assets/MUSEMainUI.png" class="img-fluid"></a></p>
 <div class="screenshot-caption">
-<p>Yellow and purple mixing successfully.</p>
+<p>Yellow and purple mixing successfully on the Main page.</p>
 </div>
 <section id="curious-about-the-color-mixing-bug" class="level5">
 <h5 class="anchored" data-anchor-id="curious-about-the-color-mixing-bug">Curious about the color-mixing bug?</h5>
@@ -279,7 +348,7 @@ ul.task-list li input[type="checkbox"] {
 <p><a href="assets/MDNColorWheel.png" class="lightbox" data-gallery="quarto-lightbox-gallery-11"><img src="assets/MDNColorWheel.png" class="img-fluid"></a></p>
 </div>
 <div class="screenshot-caption">
-<p><a href="https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl/"><em>Image Source.</em></a></p>
+<p>A color wheel annotated with the degrees of a circle from the MDN website. <a href="https://developer.mozilla.org/en-US/blog/learn-css-hues-colors-hsl/"><em>Image Source.</em></a></p>
 </div>
 <p>So, pure red would have a hue value of 0, and yellow would have a hue value around 60. If we wanted to mix these colors by averaging their hue values, we would get 30. This would correctly map onto orange!</p>
 <p>However, if we did this same process using red (hue = 0) and blue (hue = 240), we would get 120… which maps onto green! So, we needed to convert our colors to another value representation to mix them successfully. Following the <a href="https://stackoverflow.com/questions/14819058/mixing-two-colors-naturally-in-javascript">source</a> I received from my professor, I converted our colors to RGB before mixing them.</p>
@@ -330,9 +399,9 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </div>
 </section>
-<section id="reflection" class="level3">
-<h3 class="anchored" data-anchor-id="reflection">Reflection</h3>
-<p>I learned how to apply the human-centered design process to software development. I gained experience applying insights gained from interviews and user prototyping sessions to improve our product. It was a privilege to have a group of students enjoy an idea I thought of enough to dedicate time to refining it and building a working product that brought it to life.</p>
+<section id="learnings" class="level3">
+<h3 class="anchored" data-anchor-id="learnings">Learnings</h3>
+<p>I learned how to apply the human-centered design process to software development. I gained experience applying insights gained from interviews and user prototyping sessions to improve our product. Additionally, I gained experience organizing our final documentation in a clear and visually appealing format. It was a privilege to have a group of students enjoy an idea I thought of enough to dedicate time to refining it and building a working product that brought it to life.</p>
 </section>
 </div>
 </div>
