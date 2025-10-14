@@ -53,15 +53,15 @@ Kaitlynn Gray
 :::::{.code-proj-desc}
 
 ### Description
-An interactive game I built based off of thatgamecompany’s Sky: Children of the Light. In my game, players are a ball of light. Using the WASD or IJKL arrow keys, they must try to get to the yellow ball in the distance. However, they must beware of the enemies that stand in their way: a sneaky krill and mischievous crabs who want to steal their light. 
+An interactive game I built based on thatgamecompany’s game *Sky: Children of the Light*. In my game, players are a ball of light. Using the WASD or IJKL arrow keys, they must try to get to the yellow ball in the distance. However, they must beware of the enemies that stand in their way: a sneaky krill and mischievous crabs who want to steal their light. 
 
 My favorite parts were programming the glow effect under the player, building the characters, and creating the space theme in the game.
 
-**To win:** Reach the yellow light in the distance before a crab touches it
-**To lose:** Crab reaches the light first or player gets thrown of the map by a krill
+**To win:** Reach the yellow light in the distance before a crab touches it.
+**To lose:** Crab reaches the light first, or player gets thrown off the map by a krill.
 
 #### Obstacles
-**Crab nest:** If the crab enters the crab cave, it will call for back up. A horde of crabs will surround the player. If the player touches then, they will be teleported to a random spot on the map. Be careful not to get trapped in the nest!
+**Crab nest:** If the crab enters the crab cave, it will call for backup. A horde of crabs will surround the player. If the player touches a crab, they will be teleported to a random spot on the map. Be careful not to get trapped in the nest!
 
 **Krill:** An enemy that will follow the player if they enter its blue circle. If the player is hit, they will be thrown off the map.
 

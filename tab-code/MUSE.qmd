@@ -111,13 +111,10 @@ The team and I also wanted to use the interview to solidify whether we would use
 * **A tool for color conception:** a soundboard where you mix different sounds you like to create a tune that embodies a color (sound to understand color)
 * **A tool for composition:** Choose, adjust, and mix colors to produce sound (color to understand sound)
 
+We interviewed one person each. Our results conveyed that MUSE should be easy to use and focus on understanding elements of sound (ex: pitch). Interviewees found it more intuitive to use color to understand sound, aiding in solidifying the direction of MUSE. Furthermore, we found that those with synesthesia may disagree with the sounds associated with each color. To resolve this, we considered allowing users to assign their own sounds.
 
-##### Interview Takeaways and Design Goals
-We interviewed one person each. The most significant takeaways were that MUSE should be easy to use, it should focus on understanding elements of sound (ex: pitch), and the colors to sounds were more intuitive. Furthermore, we found that those with synesthesia may disagree with the sounds associated with each color. To resolve this, we considered allowing users to assign their own sounds.
-
-Overall, people preferred to use color as a tool for music composition. So, we shifted MUSE to focus on using color to understand sound. 
-
-With these takeaways in mind, we identified that MUSE should:
+##### Design Goals
+Overall, people preferred to use color as a tool for music composition. So, **we shifted MUSE to focus on using color to understand sound.** With our interview results in mind, we identified that MUSE should:
 
 1. Support  amateur composers by limiting the number of components that go into the music
 2. Make interactions with the tool more intuitive 

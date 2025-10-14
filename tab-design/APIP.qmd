@@ -97,7 +97,7 @@ With these, users could:
  
 
 ### Initial Figma UI Design
-My team member Rachel and I created a Figma wireframe that built out the team’s ideas on key features APIP would have, and how the information would be organized. In the image below, the Chrome Extension wireframe is left of the arrow, and the Webflow Extension wireframe is on the right.
+My team member Rachel and I created a Figma wireframe that built out the team’s ideas on key features APIP would have, and how the information would be organized. In the image below, the Chrome Extension wireframe is to the left of the arrow, and the Webflow Extension wireframe is to the right.
 
 
 ![](assets-projects/Webflow/APIPFullWireframe.png){.lightbox}
@@ -192,7 +192,7 @@ All buttons were placed at the top, allowing users to find them in one place (fi
 #### 2nd Iteration
 We made it easier for users to see and locate their clicked elements by adding a collapse/expand feature. With a new set of buttons, we created a tie between the buttons and their uses by aligning the buttons influencing the clicked elements area (select / remove / collapse and expand) above the area and placing the “convert variables” on a different line (first and second image).
 
-Continuing our efforts to reduce text, we changed the "remove" button on each element to a trashcan icon. With icons, users could learn key information about button uses without needing to read each button. Here, I represent it with a red, rounded rectangle.
+Continuing our efforts to reduce text, we changed the "remove" button on each element to a trash can icon. With icons, users could learn key information about button uses without needing to read each button. Here, I represent it with a red, rounded rectangle.
 
 **Highlighting Feedback:** Our liaisons also pointed out that Webflow uses sentence-case for their text. Thus, I changed the tab names, "activate element grabber" switch, and buttons to sentence case. Ex: "Style Selection" became "Style selection" instead.
 

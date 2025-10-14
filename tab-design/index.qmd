@@ -202,6 +202,7 @@ A logo I designed in Canva for my summer research group.
 
 :::{.project-links}
 
+[View Logo PDF](assets-visual/CACTILogo.pdf)
 
 
 :::

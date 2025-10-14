@@ -224,7 +224,7 @@ Third iteration of the Weekly Overview.
 
 :::::
 
-I incorporated alternating list highlighting in the same light teal shown on the monthly overview page. So, I updated the color of selected assignments to a light green as, it helped distinguish alternating lines from selected lines and was not associated with a course.
+I incorporated alternating list highlighting in the same light teal shown on the monthly overview page. So, I updated the color of selected assignments to a light green, as it helped distinguish alternating lines from selected lines and was not associated with a course.
 
 I included an “all courses” widget with a button for each of the user’s courses. Each included large rectangular backgrounds to convey to the user that they were clickable buttons. The background colors matched the colors each course was associated with on the monthly overview page. When clicked, the button would become the concentrated color displayed on its left border to communicate to the user that assignments from these courses would be highlighted (see the “Introduction to Biology” button under the “all courses” widget). The respective courses in the weekly overview list would also be highlighted in this concentrated color to create a visual tie between the action (clicking the button) and result (highlighting the respective courses).
 

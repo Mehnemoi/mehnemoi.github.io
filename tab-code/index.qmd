@@ -158,7 +158,7 @@ Raytracing
 
 ::: {.proj-description}
 
-*Kaitlynn Gray (with much help from Ryan Nguyen, Marwan Bit and Professor Carter Slocum)*
+*Kaitlynn Gray (with much help from Ryan Nguyen, Marwan Bit, and Professor Carter Slocum)*
 
  Programmed a raytracer in C++ to display colors, shapes, and overlapping/intersecting objects. [Course: Computer Graphics]
 
