@@ -1251,6 +1251,27 @@ embed {
     }
 }
 
+//STICKER EFFECT
+// prototyped in w3schools
+.sticker {
+  border-radius: 8px;
+  width: 50%;
+  height: 100px;
+  border: 8px solid;
+  padding: 4px;
+  box-shadow: 
+  	0px 0px 0px 4px white,
+    2px 2px 8px 6px #F78899; //change to match BG shadow
+  transition: 0.3s;
+}
+
+.sticker:hover {
+	rotate: 1deg;
+    box-shadow: 
+  	0px 0px 0px 4px white,
+    8px 8px 12px 6px #F78899; //change to match BG shadow
+}
+
 .links {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -1258,6 +1279,7 @@ embed {
     row-gap: 0px;
     height: fit-content;
     width: 100%;
+    overflow: hidden;
 
    
 
@@ -1272,10 +1294,28 @@ embed {
         font-size: 12.8px;
         padding: 10px 5%;
         margin-bottom: -8px; //TODO: find why margin here
+        transition: 0.2s;
     }
 
     a:hover {
-        background-color: $gray;
+        font-family: 'Courier New', Courier, monospace;
+       //background-color: $gray;
+        font-size: 14px;
+        border-radius: 0px;
+
+        animation: change .2s;
+        
+        @keyframes shake {
+            0%
+        }
+    }
+
+    a::before {
+        position: absolute;
+        background: red;
+        width: 100%;
+        height: 10px;
+        bottom: -5px;
     }
 }
 
@@ -1344,8 +1384,8 @@ embed {
 
 .home-img {
     overflow: hidden;
-    width: 200px;
-    max-height: 220px;
+    width: 220px;
+    max-height: 240px;
     border-radius: 24px;
     margin: 8px;
 
@@ -1353,7 +1393,7 @@ embed {
         object-fit: cover;
         top: 0px;
         left: 0px;
-        height: 220px;
+        height: 240px;
         padding-bottom: 0px;
         margin-bottom: 0px;
     }
@@ -1518,18 +1558,18 @@ embed {
     position: relative;
 }
 
-.p-c-code:hover{
-    background-color: $code-blue;
-}
+// .p-c-code:hover{
+//     background-color: $code-blue;
+// }
 
-.p-c-design:hover{
-    background-color: $design-green;
-}
+// .p-c-design:hover{
+//     background-color: $design-green;
+// }
 
-.p-c-research:hover{
-    background-color: $research-red;
-    //width: 300px;
-}
+// .p-c-research:hover{
+//     background-color: $research-red;
+//     //width: 300px;
+// }
 
 .title {
     font-size: 20px;
@@ -1690,6 +1730,10 @@ embed {
     margin-bottom: 15px;
 }
 
+
+
+
+
 .project-container {
     border-radius: 4px;
     padding-bottom: 25px;
@@ -1704,13 +1748,17 @@ embed {
     margin-bottom: 15px;
     // from: https://www.w3schools.com/css/css3_images.asp
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
+    //transition: 0.3s;
 }
 
-.project-container:hover {
-    // box-shadow: 0px 0px 0 16px $white-t;
-    background-color: $white-t;
-}
+// .project-container:hover {
+//     // box-shadow: 0px 0px 0 16px $white-t;
+//     border: 8px solid;
+//     rotate: 1deg;
+//     box-shadow: 
+//         0px 0px 0px 4px rgb(255, 255, 255),
+//         8px 8px 12px 6px #838383; //change to match BG shadow
+// }
 
 .proj-image {
     height: 100%;
@@ -2072,7 +2120,6 @@ $callout-color-warning: $white;
 
     .home-img {
         width: 100%;
-        background-color: pink;
         margin: 0px;
 
         img {
@@ -2134,7 +2181,7 @@ $callout-color-warning: $white;
 
     .tab-desc {
         height: fit-content;
-        margin-o
+        //margin-bottom: 16px;
     }
 
     .home-proj-area {
