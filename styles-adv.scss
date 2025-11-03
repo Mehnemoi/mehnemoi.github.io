@@ -691,6 +691,38 @@ embed {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+.publications-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+}
+
+.publication {
+    padding: 8px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: $black;
+    transition: 0.2;
+
+    .project-links{
+        a {
+            background-color: $black;
+            color: $white;
+        }
+
+        a:hover {
+            background-color: $gray;
+        }
+    }
+
+    
+    
+}
+
+.publication:hover{
+    background-color: $research-red-t;
+}    
+
 .sides-container {
     display:flex;
     flex-direction: column;
@@ -1106,6 +1138,12 @@ $callout-color-warning: $white;
         grid-template-columns: repeat(1, minmax(0, 1fr));
         grid-template-rows: repeat(6, 1fr);
         min-width: 100%;
+    }
+
+    .publications-container{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 12px;
     }
 
     .project-container {

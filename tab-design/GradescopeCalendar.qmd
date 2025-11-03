@@ -33,7 +33,7 @@ Kaitlynn Gray, Caleb Wheeler, Arisa Cowe
 
 
 :::{.code-proj-links}
-[Jump to Final UI](#end-product)
+[Jump to Final UI](#final-product)
 :::
 
 :::::

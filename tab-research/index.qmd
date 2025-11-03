@@ -13,10 +13,221 @@ Research
 ::: {.descriptor-text}
  A collection of **research projects** and **publications**.
 
- I enjoy spending long amounts of time understanding how people are impacted by things made by people or systems people live under. There is a publication or two in there...
+ <!-- I enjoy spending long amounts of time understanding how people are impacted by things made by people or systems people live under. -->
 :::
 
 :::
+
+### Publications
+
+::::::: {.publications-container}
+
+<!-- start of publication -->
+::::: {.publication}
+::: {.proj-title}
+A survey poster 
+:::
+
+**The State of Climate Change and Disability: A Survey** [ASSETS 2025]
+
+::: {.skills}
+*Ethan Sandoval, Lily Anfang, Maya Flynn, **Kaitlynn Gray**, Gregory Wickham, Lynn Kirabo*
+
+Conducted a survey of 253 sources to map the intersection of disability and climate change. 
+:::
+
+:::{.project-links}
+[Poster (PDF)](https://dl.acm.org/doi/pdf/10.1145/3663547.3759741)
+[ACM Info](https://dl.acm.org/doi/10.1145/3663547.3759741)
+:::
+:::::
+
+<!-- end of publication -->
+
+<!-- start of publication -->
+::::: {.publication}
+::: {.proj-title}
+A blog
+:::
+
+**Being a First-Year Undergrad in Human-Centered Research** [IX Interactions 2024]
+
+::: {.skills}
+*Lily Anfang, Maya Flynn, **Kaitlynn Gray**, Ethan Sandoval, Lynn Kirabo*
+
+A blog post discussing our experience with overcoming imposter syndrome during our summer research project. 
+:::
+
+:::{.project-links}
+[iX Interactions Blog Post](https://interactions.acm.org/blog/view/being-a-first-year-undergrad-in-human-centered-research)
+[ACM Info](https://dl.acm.org/doi/10.1145/3706625)
+
+:::
+:::::
+
+<!-- end of publication -->
+
+<!-- start of publication -->
+::::: {.publication}
+::: {.proj-title}
+A research article
+:::
+
+**The Diversity-Hire Narrative in CS: Sources, Impacts, and Responses** [SIGCSE 2024]
+
+::: {.skills}
+*Christopher Perdriau, Vidushi Ojha, **Kaitlynn T. Gray**, Brent Lagesse, Colleen M Lewis*
+
+Researched the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and how people responded to hearing it.
+:::
+
+:::{.project-links}
+[Article (PDF)](https://dl.acm.org/doi/pdf/10.1145/3626252.3630945)
+[ACM Info](https://dl.acm.org/doi/10.1145/3626252.3630945)
+
+:::
+:::::
+
+<!-- end of publication -->
+
+<!-- start of publication -->
+::::: {.publication}
+::: {.proj-title}
+An abstract
+:::
+
+**The Diversity-Hire Narrative in CS: Sources, Impacts, and Mitigation Strategies** [ICER 2023]
+
+::: {.skills}
+*Christopher Perdriau, Vidushi Ojha, **Kaitlynn T. Gray**, Brent Lagesse, Colleen M Lewis*
+
+Researched the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and ways to prevent harmful effects from hearing this narrative. 
+:::
+
+:::{.project-links}
+[Abstract (PDF)](https://dl.acm.org/doi/pdf/10.1145/3568812.3603479)
+[ACM Info](https://dl.acm.org/doi/10.1145/3568812.3603479)
+
+:::
+:::::
+
+<!-- end of publication -->
+
+:::::::
+
+### Projects
+::::::: {.publications-container}
+<!-- start of project container -->
+
+::: {.publication .p-c-code}
+
+::: {.proj-image .code}
+
+![](/images/CACTILogo.png)
+
+:::
+
+
+::: {.proj-title}
+Research Assistant - CACTI Lab [Fall 2025]
+:::
+
+::: {.proj-description}
+
+***Kaitlynn Gray***
+
+ Leading the creation of a design experience report. Additionally, designing graphics to support the lab advisor.
+
+:::
+
+:::
+<!-- end of project container -->
+
+
+<!-- start of project container -->
+
+::: {.publication .p-c-code}
+
+::: {.proj-image .code}
+
+![](/images/CACTILogo.png)
+
+:::
+
+
+::: {.proj-title}
+Human-Computer Interaction Researcher - CACTI Lab [Summer 2024]
+:::
+
+::: {.proj-description}
+
+*Lily Anfang, Maya Flynn, **Kaitlynn Gray**, Ethan Sandoval*
+
+ Read/listened to A LOT of academic articles, research papers, online blogs, and podcasts about climate change and disability (about 70). Summarized their findings and methods. Grouped readings by theme and identified trends. Also designed the cute logo you see!
+
+:::
+
+:::
+<!-- end of project container -->
+
+
+<!-- start of project container -->
+
+::: {.publication .p-c-code}
+
+::: {.proj-image .code}
+
+
+
+:::
+
+
+::: {.proj-title}
+Computer Science Education Researcher [Summer 2023]
+:::
+
+::: {.proj-description}
+
+*Caleb Wheeler, Arisa Cowe,* ***Kaitlynn Gray***
+
+ Programmed a website, Gradescope Calendar, where students can see the assignments due for all of their courses on an online assignment tracking tool. Analyzed the financial potential of Gradescope Calendar.
+
+:::
+
+:::
+<!-- end of project container -->
+
+
+<!-- start of project container -->
+
+::: {.project-container .p-c-code}
+
+::: {.proj-image .code}
+
+
+
+:::
+
+
+::: {.proj-title}
+Computer Science Entrepreneurship Researcher - Summer Start-Up [Summer 2022]
+:::
+
+::: {.proj-description}
+
+*Caleb Wheeler, Arisa Cowe,* ***Kaitlynn Gray***
+
+ Programmed a website, Gradescope Calendar, where students can see the assignments due for all of their courses on an online assignment tracking tool. Analyzed the financial potential of Gradescope Calendar.
+
+:::
+
+:::
+<!-- end of project container -->
+:::::::
+
+
+
+
 
 ::: {.tab-body-research}
 <!-- start of project container -->
