@@ -1,10 +1,26 @@
 
+:::{.doodle2}
+![](images/DoodlesCropped.png)
+:::
+
+
 ::::: {.about-me-text}
 
-::::{.tldr}
+
+::::{.about-me-imgs}
+
 :::{.home-img}
 ![](images/WebflowHeadshot.JPG)
 :::
+
+:::{.doodle}
+![](images/DoodlesCropped.png)
+:::
+
+::::
+
+::::{.tldr}
+
 
 :::{.tldr-text}
 

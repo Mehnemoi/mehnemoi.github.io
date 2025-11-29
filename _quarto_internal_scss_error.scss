@@ -1371,12 +1371,35 @@ embed {
 
 }
 
+.doodle {
+    height: 200px;
+    width: 325px;
+    overflow: visible;
 
+    img {
+        width: 400px;
+    }
+}
+
+.doodle2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    overflow: visible;
+    background-color: red;
+    height: 5px;
+    z
+}
+
+.about-me-imgs {
+    display:grid;
+    grid-template-columns: auto 1fr;
+}
 
 .tldr {
     min-height: 210px;
     display: grid;
-    grid-template-columns: 1fr 4fr;
+    grid-template-columns: 4fr 1fr;
     gap: 16px;
     border-radius: 8px;
     margin-bottom: 8px;
@@ -1746,12 +1769,16 @@ embed {
 
     .project-links{
         a {
-        background-color: $black;
-        color: $white;
-    }
+            background-color: $black;
+            color: $white;
+        }
+
+        a:hover {
+            background-color: $gray;
+        }
     }
 
-    .pro
+    
     
 }
 
@@ -2174,6 +2201,12 @@ $callout-color-warning: $white;
         grid-template-columns: repeat(1, minmax(0, 1fr));
         grid-template-rows: repeat(6, 1fr);
         min-width: 100%;
+    }
+
+    .publications-container{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 12px;
     }
 
     .project-container {

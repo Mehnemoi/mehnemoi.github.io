@@ -331,12 +331,33 @@ embed {
 
 }
 
+.doodle {
+    height: 200px;
+    width: 325px;
+    overflow: visible;
 
+    img {
+        width: 400px;
+    }
+}
+
+.doodle2 {
+    position: absolute;
+    top: 0;
+    right: 0;
+    overflow: visible;
+    z-index: 2;
+}
+
+.about-me-imgs {
+    display:grid;
+    grid-template-columns: auto 1fr;
+}
 
 .tldr {
     min-height: 210px;
     display: grid;
-    grid-template-columns: 1fr 4fr;
+    grid-template-columns: 4fr 1fr;
     gap: 16px;
     border-radius: 8px;
     margin-bottom: 8px;
@@ -693,15 +714,17 @@ embed {
 
 .publications-container{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 12px;
 }
 
 .publication {
     padding: 8px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: $black;
+    // border-style: solid;
+    // border-width: 1px;
+    // border-color: $black;
+    border-radius: 8px;
+    background-color: $research-red-t;
     transition: 0.2;
 
     .project-links{
