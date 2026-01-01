@@ -28,7 +28,9 @@ Research
 A survey poster 
 :::
 
+:::{.publication-title}
 **The State of Climate Change and Disability: A Survey** [ASSETS 2025]
+:::
 
 ::: {.skills}
 *Ethan Sandoval, Lily Anfang, Maya Flynn, **Kaitlynn Gray**, Gregory Wickham, Lynn Kirabo*
@@ -50,7 +52,7 @@ Conducted a survey of 253 sources to map the intersection of disability and clim
 A blog
 :::
 
-**Being a First-Year Undergrad in Human-Centered Research** [IX Interactions 2024]
+**Being a First-Year Undergrad in Human-Centered Research** [IX Interactions 2025]
 
 ::: {.skills}
 *Lily Anfang, Maya Flynn, **Kaitlynn Gray**, Ethan Sandoval, Lynn Kirabo*
@@ -128,15 +130,18 @@ Researched the diversity-hire narrative - the belief that someone received a job
 :::
 
 
+
 ::: {.proj-title}
-Research Assistant - CACTI Lab [Fall 2025]
+**Research Assistant** - Harvey Mudd College CACTI Lab [Fall 2025]
 :::
 
 ::: {.proj-description}
 
 ***Kaitlynn Gray***
 
- Leading the creation of a design experience report. Additionally, designing graphics to support the lab advisor.
+Lead authoring an HCI pictorial. Additionally, designing graphics to support the lab advisor.
+
+**What I am doing:** Reading a variety of HCI papers and pictorials to create a pictorial analyzing qualitative works. Designing and iterating on pictorial assets in InDesign, Figma, and Canva. Providing feedback to external CACTI Lab projects and designing resources for the combined Climate majors at Harvey Mudd.
 
 :::
 
@@ -148,22 +153,33 @@ Research Assistant - CACTI Lab [Fall 2025]
 
 ::: {.publication .p-c-code}
 
-::: {.proj-image .code}
+::: {.proj-image}
 
 ![](/images/CACTILogo.png)
 
 :::
 
 
+
 ::: {.proj-title}
-Human-Computer Interaction Researcher - CACTI Lab [Summer 2024]
+**Human-Computer Interaction Researcher** - Harvey Mudd College CACTI Lab [Undergrad Summer 2024]
 :::
 
 ::: {.proj-description}
 
 *Lily Anfang, Maya Flynn, **Kaitlynn Gray**, Ethan Sandoval*
 
- Read/listened to A LOT of academic articles, research papers, online blogs, and podcasts about climate change and disability (about 70). Summarized their findings and methods. Grouped readings by theme and identified trends. Also designed the cute logo you see!
+Published in ASSETS '25. Project exploring how disability and climate change overlap, such as how climate disasters impact disabled people.
+
+**What I did:** Read/listened to around 70 academic articles, research papers, online blogs, and podcasts about climate change and disability. Summarized their findings and methods. Grouped readings by theme and identified trends. Wrote a portion of an iX Interactions blog exploring imposter syndrome experienced as HCI researchers. Also designed the cute logo you see!
+
+
+:::{.project-links}
+[Website](https://cacti-lab.github.io/) 
+[ASSETS '25](https://dl.acm.org/doi/10.1145/3663547.3759741)
+[iX Interactions '25](https://dl.acm.org/doi/10.1145/3706625)
+
+:::
 
 :::
 
@@ -175,79 +191,16 @@ Human-Computer Interaction Researcher - CACTI Lab [Summer 2024]
 
 ::: {.publication .p-c-code}
 
-::: {.proj-image .code}
+::: {.proj-image}
 
-
-
-:::
-
-
-::: {.proj-title}
-Computer Science Education Researcher [Summer 2023]
-:::
-
-::: {.proj-description}
-
-*Caleb Wheeler, Arisa Cowe,* ***Kaitlynn Gray***
-
- Programmed a website, Gradescope Calendar, where students can see the assignments due for all of their courses on an online assignment tracking tool. Analyzed the financial potential of Gradescope Calendar.
-
-:::
-
-:::
-<!-- end of project container -->
-
-
-<!-- start of project container -->
-
-::: {.project-container .p-c-code}
-
-::: {.proj-image .code}
-
-
+![](/images/UIUCLogo.png)
 
 :::
 
 
 ::: {.proj-title}
-Computer Science Entrepreneurship Researcher - Summer Start-Up [Summer 2022]
+**Computer Science Education Researcher** - UIUC remote collaboration with Harvey Mudd College [Undergrad Summer 2023]
 :::
-
-::: {.proj-description}
-
-*Caleb Wheeler, Arisa Cowe,* ***Kaitlynn Gray***
-
- Programmed a website, Gradescope Calendar, where students can see the assignments due for all of their courses on an online assignment tracking tool. Analyzed the financial potential of Gradescope Calendar.
-
-:::
-
-:::
-<!-- end of project container -->
-:::::::
-
-
-
-
-
-::: {.tab-body-research}
-<!-- start of project container -->
-
-::: {.project-container  .p-c-research}
-
-::: {.proj-image .research}
-
-![](/images/acmlogo_black.png)
-
-:::
-
-<!-- ::: {.proj-title}
-
-Diversity-Hire Narrative: Impacts and Mitigation Strategies
-
-::: -->
-
-::: {.callout-warning collapse="false" icon="false"}
-## Diversity-Hire Narrative: Impacts and Mitigation Strategies [Published - ICER '23] 
 
 ::: {.proj-description}
 
@@ -257,95 +210,37 @@ Diversity-Hire Narrative: Impacts and Mitigation Strategies
 
 ::: {.proj-description}
 
-Published in ICER '23. Researched the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and ways to prevent harmful effects from hearing this narrative. [Image source](https://icon-icons.com/icon/acm-logo/145528)
+Published in SIGCSE '24. Researched the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and ways to prevent harmful effects from hearing this narrative. [Image source](https://blogs.illinois.edu/view/6758/663343). 
 
-**What I did:** Qualitatively analyzed 23 interviews for themes and main ideas using SaturateApp. Proofread and edited our published paper. Presented our findings at my school's summer research symposium. Designed the layout for the research poster under "Poster PDF".
-
+**What I did:** Qualitatively analyzed 23 interviews for themes and main ideas using SaturateApp. Proofread and edited our published paper. Presented our findings at the Harvey Mudd 2023 Summer Research Symposium. Designed the layout for the research poster under "Poster PDF".
 :::
 
 :::{.project-links}
-[Publication](https://dl.acm.org/doi/10.1145/3568812.3603479) 
+[Publication](https://dl.acm.org/doi/10.1145/3626252.3630945) 
 [Poster PDF](resources/DiversityHireNarrative.pdf) 
 :::
 
 :::
-
-:::
-<!-- end of project container -->
-
-<!-- start of project container -->
-
-::: {.project-container .p-c-research}
-
-::: {.proj-image .research}
-
-![](/images/iXLogoPNG.png)
-
-:::
-
-<!-- ::: {.proj-title}
-
-Being a First Year Undergrad in Human-Centered Research
-
-::: -->
-
-::: {.callout-warning collapse="true" icon="false"}
-## Being a First Year Undergrad in Human-Centered Research [Published - ACM iX Interactions 2025] 
-
-::: {.proj-description}
-
-*Lily Anfang, Maya Flynn,* ***Kaitlynn Gray,*** *Ethan Sandoval*
-
-:::
-
-::: {.proj-description}
-
-Published in ACM's IX Interactions. A blog post discussing our experience with overcoming imposter syndrome during our summer research project. [Image Source](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fpages%2Finteractions-magazine%2F22329129970&psig=AOvVaw1ku9VajBs7_bDvW78ujJB6&ust=1744280821343000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJDg7MjeyowDFQAAAAAdAAAAABAE)
-
-**What I did:** I helped write a portion of the blog!
-
-:::
-
-:::{.project-links}
-[Blog Post](https://interactions.acm.org/archive/view/january-february-2025/being-a-first-year-undergrad-in-human-centered-research) 
-[ACM Publication](https://dl.acm.org/doi/10.1145/3706625) 
-:::
-
-:::
-
-:::
 <!-- end of project container -->
 
 
 <!-- start of project container -->
 
-::: {.project-container .p-c-research}
+::: {.publication .p-c-code}
 
-::: {.proj-image .research}
+::: {.proj-image}
 
 ![](/images/GCalFinalWeeklyUI.png)
 
 :::
 
-<!-- ::: {.proj-title}
 
-Gradescope Calendar
-
-
-::: -->
-
-::: {.callout-warning collapse="true" icon="false"}
-## Gradescope Calendar
-
-
-
-::: {.proj-description}
-
-*Caleb Wheeler, Arisa Cowe,* ***Kaitlynn Gray***
-
+::: {.proj-title}
+**Computer Science Entrepreneurship Researcher** - Harvey Mudd College Summer Start-Up [Undergrad Summer 2022]
 :::
 
 ::: {.proj-description}
+*Arisa Cowe, **Kaitlynn Gray**, Caleb Wheeler*
 
 A website where students can see the assignments due for all of their courses on an online assignment tracking tool. Part of an entrepreneurship summer research project.
 
@@ -359,55 +254,8 @@ A website where students can see the assignments due for all of their courses on
 :::
 
 :::
-
-:::
 <!-- end of project container -->
+:::::::
 
 
-
-<!-- start of project container -->
-
-::: {.project-container .p-c-research}
-
-::: {.proj-image .research}
-
-![](/images/CACTILogo.png)
-
-:::
-<!-- 
-::: {.proj-title}
-
-CACTI Lab
-
-::: -->
-
-::: {.callout-warning collapse="true" icon="false"}
-## CACTI Lab Research Group
-
-
-::: {.proj-description}
-
-*Lily Anfang, Maya Flynn,* ***Kaitlynn Gray,*** *Ethan Sandoval*
-
-:::
-
-::: {.proj-description}
-
-A project exploring how disability and climate change overlap, such as how climate disasters impact disabled people.
-
-**What I did:** Read/listened to A LOT of academic articles, research papers, online blogs, and podcasts about climate change and disability (about 70). Summarized their findings and methods. Grouped readings by theme and identified trends. Also designed the cute logo you see!
-
-:::
-
-:::{.project-links}
-[Website](https://cacti-lab.github.io/) 
-:::
-
-:::
-
-:::
-<!-- end of project container -->
-
-
-:::
 

@@ -1,13 +1,13 @@
 
-:::{.doodle2}
+<!-- :::{.doodle2}
 ![](images/DoodlesCropped.png)
-:::
+::: -->
 
 
 ::::: {.about-me-text}
 
 
-::::{.about-me-imgs}
+<!-- ::::{.about-me-imgs}
 
 :::{.home-img}
 ![](images/WebflowHeadshot.JPG)
@@ -17,10 +17,13 @@
 ![](images/DoodlesCropped.png)
 :::
 
-::::
+:::: -->
 
 ::::{.tldr}
 
+:::{.home-img}
+![](images/WebflowHeadshot.JPG)
+:::
 
 :::{.tldr-text}
 
