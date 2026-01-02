@@ -85,6 +85,7 @@ $body-color: $black;
     background-color: $research-red;
     border-radius: 4px;
     color:$black;
+    transition: 0.2s;
 
     .menu-text{
         color: black;
@@ -723,6 +724,7 @@ embed {
             bottom: 0px;
             background-color: $yellow;
             color: $black;
+            transition: 0.2s;
         }
 
         a:hover {
@@ -878,6 +880,7 @@ $callout-color-warning: $white;
         padding: 8px 10px;
         margin-right: 4px;
         border-radius: 4px;
+        transition: 0.2s;
      
     }
 
@@ -921,6 +924,7 @@ $callout-color-warning: $white;
         padding: 10px 15px;
         width: 30%;
         border-radius: 4px;
+        transition: 0.2s;
     }
 
     a:hover {

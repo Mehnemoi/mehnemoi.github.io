@@ -141,7 +141,12 @@ Researched the diversity-hire narrative - the belief that someone received a job
 
 Lead authoring an HCI pictorial. Additionally, designing graphics to support the lab advisor.
 
-**What I am doing:** Reading a variety of HCI papers and pictorials to create a pictorial analyzing qualitative works. Designing and iterating on pictorial assets in InDesign, Figma, and Canva. Providing feedback to external CACTI Lab projects and designing resources for the combined Climate majors at Harvey Mudd.
+**What I did:** Read a variety of HCI papers and pictorials to create a pictorial analyzing qualitative works. Designed and iterated on pictorial assets in InDesign, Figma, and Canva. Provided feedback to external CACTI Lab projects and designed resources for the combined Climate majors at Harvey Mudd.
+
+:::
+
+:::{.project-links}
+[Website](https://cacti-lab.github.io/) 
 
 :::
 
@@ -167,11 +172,11 @@ Lead authoring an HCI pictorial. Additionally, designing graphics to support the
 
 ::: {.proj-description}
 
-*Lily Anfang, Maya Flynn, **Kaitlynn Gray**, Ethan Sandoval*
+*Lily Anfang, Maya Flynn, **Kaitlynn Gray**, Ethan Sandoval, Lynn Kirabo*
 
-Published in ASSETS '25. Project exploring how disability and climate change overlap, such as how climate disasters impact disabled people.
+Published a survey poster in ASSETS '25 and a blog post in ACM's iX Interactions. Explored the intersection of disability and climate change.
 
-**What I did:** Read/listened to around 70 academic articles, research papers, online blogs, and podcasts about climate change and disability. Summarized their findings and methods. Grouped readings by theme and identified trends. Wrote a portion of an iX Interactions blog exploring imposter syndrome experienced as HCI researchers. Also designed the cute logo you see!
+**What I did:** Read/listened to over 70 academic articles, research papers, online blogs, and podcasts about climate change and disability. Summarized their findings and methods. Grouped readings by theme and identified trends. Wrote a portion of our team's iX Interactions blog post exploring imposter syndrome experienced as HCI researchers. Also designed the cute logo you see!
 
 
 :::{.project-links}
@@ -210,13 +215,14 @@ Published in ASSETS '25. Project exploring how disability and climate change ove
 
 ::: {.proj-description}
 
-Published in SIGCSE '24. Researched the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and ways to prevent harmful effects from hearing this narrative. [Image source](https://blogs.illinois.edu/view/6758/663343). 
+Published a research article in SIGCSE '24 and an abstract in ICER '23. Researched the diversity-hire narrative - the belief that someone received a job due to a part of their identity and not their skill. Explored who said this narrative, how it impacted those who heard it, and ways to prevent harmful effects from hearing this narrative. [Image source](https://blogs.illinois.edu/view/6758/663343). 
 
 **What I did:** Qualitatively analyzed 23 interviews for themes and main ideas using SaturateApp. Proofread and edited our published paper. Presented our findings at the Harvey Mudd 2023 Summer Research Symposium. Designed the layout for the research poster under "Poster PDF".
 :::
 
 :::{.project-links}
-[Publication](https://dl.acm.org/doi/10.1145/3626252.3630945) 
+[SIGCSE '24](https://dl.acm.org/doi/10.1145/3626252.3630945)
+[ICER '23](https://dl.acm.org/doi/pdf/10.1145/3568812.3603479) 
 [Poster PDF](resources/DiversityHireNarrative.pdf) 
 :::
 

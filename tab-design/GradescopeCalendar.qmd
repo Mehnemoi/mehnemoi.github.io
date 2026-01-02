@@ -20,7 +20,7 @@ Gradescope Calendar UI Design
 :::
 
 :::{.code-proj-names}
-Kaitlynn Gray, Caleb Wheeler, Arisa Cowe
+Arisa Cowe, Kaitlynn Gray, Caleb Wheeler
 
 :::
 
